@@ -922,12 +922,7 @@ async function renderDeferredColumn() {
   try {
     const { active, archived } = await getSavedTabs();
 
-    // Hide the entire column if there's nothing to show
-    if (active.length === 0 && archived.length === 0) {
-      column.style.display = 'none';
-      return;
-    }
-
+    // The column stays visible because it now also contains the Builders Feed
     column.style.display = 'block';
 
     // Render active checklist items
@@ -1019,6 +1014,72 @@ function renderArchiveItem(item) {
  * 5. Updates footer stats
  * 6. Renders the "Saved for Later" checklist
  */
+
+/* ----------------------------------------------------------------
+   BUILDERS FEED — Integration with follow-builders
+   ---------------------------------------------------------------- */
+
+async function fetchBuildersFeed() {
+  const feedListEl = document.getElementById('buildersFeedList');
+  if (!feedListEl) return;
+
+  const BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
+  const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
+
+  try {
+    const [blogsRes, xRes] = await Promise.all([
+      fetch(BLOGS_URL).then(r => r.json()),
+      fetch(X_URL).then(r => r.json())
+    ]);
+
+    const blogs = blogsRes.blogs || [];
+    const builders = xRes.x || [];
+
+    let combined = [
+      ...blogs.map(b => ({ ...b, type: 'blog', date: b.publishedAt || blogsRes.generatedAt })),
+    ];
+
+    builders.forEach(builder => {
+      (builder.tweets || []).forEach(tweet => {
+        combined.push({
+          type: 'x',
+          name: builder.name,
+          title: tweet.text,
+          url: tweet.url,
+          date: tweet.createdAt
+        });
+      });
+    });
+
+    combined.sort((a, b) => new Date(b.date) - new Date(a.date));
+    const top10 = combined.slice(0, 10);
+
+    if (top10.length === 0) {
+      feedListEl.innerHTML = '<div class="deferred-empty">No updates today.</div>';
+      return;
+    }
+
+    feedListEl.innerHTML = top10.map(item => {
+      const displayTitle = item.type === 'x' 
+        ? item.title.substring(0, 100) + (item.title.length > 100 ? '...' : '') 
+        : item.title;
+      return `
+        <div class="feed-item">
+          <div class="feed-source">${item.type === 'x' ? '𝕏 ' + item.name : 'Blog: ' + item.name}</div>
+          <a href="${item.url}" target="_blank" class="feed-title">${displayTitle}</a>
+          <div class="feed-meta">
+            <span>${new Date(item.date).toLocaleDateString()}</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+  } catch (err) {
+    console.warn('[tab-out] Failed to fetch builders feed:', err);
+    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load feed.</div>';
+  }
+}
+
 async function renderStaticDashboard() {
   // --- Header ---
   const greetingEl = document.getElementById('greeting');
@@ -1166,6 +1227,9 @@ async function renderStaticDashboard() {
 
   // --- Render "Saved for Later" column ---
   await renderDeferredColumn();
+
+  // --- Builders Feed ---
+  fetchBuildersFeed();
 }
 
 async function renderDashboard() {

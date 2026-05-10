@@ -1156,3 +1156,43 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   opacity: 0.6;
   flex-shrink: 0;
 }
+
+/* ---- Builders Feed Styles ---- */
+.feed-item {
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(154, 145, 138, 0.12);
+  animation: fadeUp 0.3s ease both;
+}
+
+.feed-item:last-child {
+  border-bottom: none;
+}
+
+.feed-source {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent-amber);
+  margin-bottom: 4px;
+}
+
+.feed-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink);
+  text-decoration: none;
+  display: block;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.feed-title:hover {
+  text-decoration: underline;
+}
+
+.feed-meta {
+  font-size: 11px;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+}
