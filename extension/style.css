@@ -1157,42 +1157,79 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   flex-shrink: 0;
 }
 
-/* ---- Builders Feed Styles ---- */
-.feed-item {
-  padding: 12px 0;
-  border-bottom: 1px solid rgba(154, 145, 138, 0.12);
-  animation: fadeUp 0.3s ease both;
+/* ---- Builders Feed Card Styles ---- */
+.builders-feed-section {
+  animation: fadeUp 0.5s ease 0.4s both;
 }
 
-.feed-item:last-child {
-  border-bottom: none;
+.feed-grid {
+  columns: 320px;
+  column-gap: 16px;
+  margin-bottom: 40px;
 }
 
-.feed-source {
+.feed-card {
+  background: var(--card-bg);
+  border: 1px solid var(--warm-gray);
+  border-radius: 8px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  break-inside: avoid;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+
+.feed-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--accent-slate);
+}
+
+.feed-card.type-blog::before { background: var(--accent-sage); }
+.feed-card.type-x::before { background: var(--accent-amber); }
+
+.feed-card:hover {
+  box-shadow: 0 4px 20px var(--shadow);
+  transform: translateY(-2px);
+}
+
+.feed-card-source {
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: var(--accent-amber);
-  margin-bottom: 4px;
-}
-
-.feed-title {
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--ink);
-  text-decoration: none;
-  display: block;
-  line-height: 1.4;
-  margin-bottom: 4px;
-}
-
-.feed-title:hover {
-  text-decoration: underline;
-}
-
-.feed-meta {
-  font-size: 11px;
+  font-weight: 600;
   color: var(--muted);
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  gap: 6px;
+}
+
+.feed-card-title {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.feed-card-meta {
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid rgba(154, 145, 138, 0.08);
+  font-size: 11px;
+  color: var(--muted);
 }

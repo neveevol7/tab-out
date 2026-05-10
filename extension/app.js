@@ -1021,6 +1021,7 @@ function renderArchiveItem(item) {
 
 async function fetchBuildersFeed() {
   const feedListEl = document.getElementById('buildersFeedList');
+  const countEl    = document.getElementById('buildersFeedCount');
   if (!feedListEl) return;
 
   const BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
@@ -1052,25 +1053,29 @@ async function fetchBuildersFeed() {
     });
 
     combined.sort((a, b) => new Date(b.date) - new Date(a.date));
-    const top10 = combined.slice(0, 10);
+    const top12 = combined.slice(0, 12); // Show 12 cards for a nice grid
 
-    if (top10.length === 0) {
+    if (top12.length === 0) {
       feedListEl.innerHTML = '<div class="deferred-empty">No updates today.</div>';
+      if (countEl) countEl.textContent = '';
       return;
     }
 
-    feedListEl.innerHTML = top10.map(item => {
-      const displayTitle = item.type === 'x' 
-        ? item.title.substring(0, 100) + (item.title.length > 100 ? '...' : '') 
-        : item.title;
+    if (countEl) countEl.textContent = `${top12.length} insights`;
+
+    feedListEl.innerHTML = top12.map(item => {
+      const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
+      const dateStr = new Date(item.date).toLocaleDateString(undefined, { 
+        month: 'short', 
+        day: 'numeric' 
+      });
+
       return `
-        <div class="feed-item">
-          <div class="feed-source">${item.type === 'x' ? '𝕏 ' + item.name : 'Blog: ' + item.name}</div>
-          <a href="${item.url}" target="_blank" class="feed-title">${displayTitle}</a>
-          <div class="feed-meta">
-            <span>${new Date(item.date).toLocaleDateString()}</span>
-          </div>
-        </div>
+        <a href="${item.url}" target="_blank" class="feed-card type-${item.type}">
+          <div class="feed-card-source">${displaySource}</div>
+          <div class="feed-card-title">${item.title}</div>
+          <div class="feed-card-meta">${dateStr}</div>
+        </a>
       `;
     }).join('');
 

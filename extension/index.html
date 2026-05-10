@@ -93,20 +93,21 @@
         </div>
       </div>
 
-      <!-- DAILY BUILDERS FEED — New section for follow-builders content -->
-      <div class="builders-feed" id="buildersFeed">
-        <div class="section-header" style="margin-top: 32px;">
-          <h2>Daily Feed</h2>
-          <div class="section-line"></div>
-        </div>
-        <div id="buildersFeedList">
-          <div class="deferred-empty">Loading AI insights...</div>
-        </div>
-      </div>
-
-    </div>
+    </div><!-- end .deferred-column -->
 
   </div><!-- end .dashboard-columns -->
+
+  <!-- DAILY BUILDERS FEED — Full-width section below the dashboard -->
+  <div class="builders-feed-section" id="buildersFeed">
+    <div class="section-header" style="margin-top: 48px;">
+      <h2>Daily Feed</h2>
+      <div class="section-line"></div>
+      <div class="section-count" id="buildersFeedCount"></div>
+    </div>
+    <div class="feed-grid" id="buildersFeedList">
+      <div class="deferred-empty">Loading AI insights...</div>
+    </div>
+  </div>
 
   <!-- ================================================================
        FOOTER — global stats + refresh control
