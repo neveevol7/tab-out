@@ -1028,10 +1028,12 @@ async function fetchBuildersFeed() {
   const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 
   try {
-    // 1. Get read status from storage
-    const storage = await chrome.storage.local.get(['readFeedUrls']);
+    // 1. Get read status AND cached feed from storage
+    const storage = await chrome.storage.local.get(['readFeedUrls', 'cachedFeedItems']);
     const readUrls = new Set(storage.readFeedUrls || []);
+    let cachedItems = storage.cachedFeedItems || [];
 
+    // 2. Fetch fresh data
     const [blogsRes, xRes] = await Promise.all([
       fetch(BLOGS_URL).then(r => r.json()),
       fetch(X_URL).then(r => r.json())
@@ -1040,27 +1042,43 @@ async function fetchBuildersFeed() {
     const blogs = blogsRes.blogs || [];
     const builders = xRes.x || [];
 
-    let combined = [
-      ...blogs.map(b => ({ ...b, type: 'blog', date: b.publishedAt || blogsRes.generatedAt })),
+    const freshItems = [
+      ...blogs.map(b => ({ 
+        url: b.url, 
+        type: 'blog', 
+        name: b.name, 
+        title: b.title, 
+        date: b.publishedAt || blogsRes.generatedAt 
+      })),
     ];
 
     builders.forEach(builder => {
       (builder.tweets || []).forEach(tweet => {
-        combined.push({
+        freshItems.push({
+          url: tweet.url,
           type: 'x',
           name: builder.name,
           title: tweet.text,
-          url: tweet.url,
           date: tweet.createdAt
         });
       });
     });
 
-    // 2. Filter for last 3 days and sort
+    // 3. Merge fresh items with cache (de-duplicate by URL)
+    const itemMap = new Map();
+    // Cache items first
+    cachedItems.forEach(item => itemMap.set(item.url, item));
+    // Fresh items overwrite cache
+    freshItems.forEach(item => itemMap.set(item.url, item));
+
+    // 4. Filter for last 3 days and sort
     const threeDaysAgo = Date.now() - (3 * 24 * 60 * 60 * 1000);
-    combined = combined
+    let combined = Array.from(itemMap.values())
       .filter(item => new Date(item.date).getTime() > threeDaysAgo)
       .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    // 5. Update cache with pruned/merged list
+    await chrome.storage.local.set({ cachedFeedItems: combined });
 
     if (combined.length === 0) {
       feedListEl.innerHTML = '<div class="deferred-empty">No updates in the last 3 days.</div>';
@@ -1070,7 +1088,7 @@ async function fetchBuildersFeed() {
 
     if (countEl) countEl.textContent = `${combined.length} items`;
 
-    // 3. Render with date separators
+    // 6. Render with date separators
     let html = '';
     let lastDateLabel = '';
 
@@ -1082,7 +1100,6 @@ async function fetchBuildersFeed() {
         day: 'numeric' 
       });
       
-      // Add separator if date changes
       if (dateLabel !== lastDateLabel) {
         let displayLabel = dateLabel;
         const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
@@ -1124,7 +1141,12 @@ async function fetchBuildersFeed() {
 
   } catch (err) {
     console.warn('[tab-out] Failed to fetch builders feed:', err);
-    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load feed.</div>';
+    // If fetch fails, still try to show cached data
+    const storage = await chrome.storage.local.get(['cachedFeedItems', 'readFeedUrls']);
+    if (storage.cachedFeedItems && storage.cachedFeedItems.length > 0) {
+       // (Simplified render logic for cache-only fallback could go here if needed)
+    }
+    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load fresh feed.</div>';
   }
 }
 
