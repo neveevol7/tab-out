@@ -1028,6 +1028,10 @@ async function fetchBuildersFeed() {
   const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 
   try {
+    // 1. Get read status from storage
+    const storage = await chrome.storage.local.get(['readFeedUrls']);
+    const readUrls = new Set(storage.readFeedUrls || []);
+
     const [blogsRes, xRes] = await Promise.all([
       fetch(BLOGS_URL).then(r => r.json()),
       fetch(X_URL).then(r => r.json())
@@ -1052,36 +1056,93 @@ async function fetchBuildersFeed() {
       });
     });
 
-    combined.sort((a, b) => new Date(b.date) - new Date(a.date));
-    const top12 = combined.slice(0, 12); // Show 12 cards for a nice grid
+    // 2. Filter for last 3 days and sort
+    const threeDaysAgo = Date.now() - (3 * 24 * 60 * 60 * 1000);
+    combined = combined
+      .filter(item => new Date(item.date).getTime() > threeDaysAgo)
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    if (top12.length === 0) {
-      feedListEl.innerHTML = '<div class="deferred-empty">No updates today.</div>';
+    if (combined.length === 0) {
+      feedListEl.innerHTML = '<div class="deferred-empty">No updates in the last 3 days.</div>';
       if (countEl) countEl.textContent = '';
       return;
     }
 
-    if (countEl) countEl.textContent = `${top12.length} insights`;
+    if (countEl) countEl.textContent = `${combined.length} items`;
 
-    feedListEl.innerHTML = top12.map(item => {
-      const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
-      const dateStr = new Date(item.date).toLocaleDateString(undefined, { 
-        month: 'short', 
+    // 3. Render with date separators
+    let html = '';
+    let lastDateLabel = '';
+
+    combined.forEach(item => {
+      const itemDate = new Date(item.date);
+      const dateLabel = itemDate.toLocaleDateString(undefined, { 
+        weekday: 'long', 
+        month: 'long', 
         day: 'numeric' 
       });
+      
+      // Add separator if date changes
+      if (dateLabel !== lastDateLabel) {
+        let displayLabel = dateLabel;
+        const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+        if (dateLabel === today) displayLabel = 'Today';
+        
+        html += `
+          <div class="feed-date-separator">
+            <span>${displayLabel}</span>
+            <div class="feed-date-line"></div>
+          </div>
+        `;
+        lastDateLabel = dateLabel;
+      }
 
-      return `
-        <a href="${item.url}" target="_blank" class="feed-card type-${item.type}">
+      const isRead = readUrls.has(item.url);
+      const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
+      const timeStr = itemDate.toLocaleTimeString(undefined, { 
+        hour: '2-digit', 
+        minute: '2-digit',
+        hour12: false
+      });
+
+      html += `
+        <a href="${item.url}" target="_blank" 
+           class="feed-card type-${item.type} ${isRead ? 'is-read' : ''}" 
+           data-action="mark-feed-read" 
+           data-url="${item.url}">
           <div class="feed-card-source">${displaySource}</div>
           <div class="feed-card-title">${item.title}</div>
-          <div class="feed-card-meta">${dateStr}</div>
+          <div class="feed-card-meta">
+            <span>${timeStr}</span>
+            <div class="feed-status-dot" title="${isRead ? 'Read' : 'Unread'}"></div>
+          </div>
         </a>
       `;
-    }).join('');
+    });
+
+    feedListEl.innerHTML = html;
 
   } catch (err) {
     console.warn('[tab-out] Failed to fetch builders feed:', err);
     feedListEl.innerHTML = '<div class="deferred-empty">Unable to load feed.</div>';
+  }
+}
+
+/**
+ * markFeedItemAsRead(url)
+ */
+async function markFeedItemAsRead(url) {
+  if (!url) return;
+  const storage = await chrome.storage.local.get(['readFeedUrls']);
+  const readUrls = new Set(storage.readFeedUrls || []);
+  
+  if (!readUrls.has(url)) {
+    readUrls.add(url);
+    await chrome.storage.local.set({ readFeedUrls: Array.from(readUrls) });
+    
+    // Visually update without full re-render
+    const card = document.querySelector(`.feed-card[data-url="${CSS.escape(url)}"]`);
+    if (card) card.classList.add('is-read');
   }
 }
 
@@ -1256,6 +1317,12 @@ document.addEventListener('click', async (e) => {
   if (!actionEl) return;
 
   const action = actionEl.dataset.action;
+
+  // ---- Mark feed item as read ----
+  if (action === 'mark-feed-read') {
+    markFeedItemAsRead(actionEl.dataset.url);
+    // Don't return, let it open the link naturally
+  }
 
   // ---- Close duplicate Tab Out tabs ----
   if (action === 'close-tabout-dupes') {
