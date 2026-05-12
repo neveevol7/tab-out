@@ -1127,11 +1127,11 @@ async function fetchBuildersFeed() {
            class="feed-card type-${item.type} ${isRead ? 'is-read' : ''}" 
            data-action="mark-feed-read" 
            data-url="${item.url}">
+          <div class="unread-badge"></div>
           <div class="feed-card-source">${displaySource}</div>
           <div class="feed-card-title">${item.title}</div>
           <div class="feed-card-meta">
             <span>${timeStr}</span>
-            <div class="feed-status-dot" title="${isRead ? 'Read' : 'Unread'}"></div>
           </div>
         </a>
       `;
@@ -1164,7 +1164,9 @@ async function markFeedItemAsRead(url) {
     
     // Visually update without full re-render
     const card = document.querySelector(`.feed-card[data-url="${CSS.escape(url)}"]`);
-    if (card) card.classList.add('is-read');
+    if (card) {
+      card.classList.add('is-read');
+    }
   }
 }
 

@@ -1237,21 +1237,35 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   align-items: center;
 }
 
-/* Read/Unread Indicator */
-.feed-status-dot {
-  width: 6px;
-  height: 6px;
+/* Read/Unread Indicator - Modern Badge Style */
+.feed-card .unread-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 8px;
+  height: 8px;
+  background: #ff4d4f; /* Distinct bright red */
   border-radius: 50%;
-  background: var(--status-abandoned); /* Red for unread */
-  transition: background 0.3s;
+  box-shadow: 0 0 0 2px var(--card-bg), 0 0 8px rgba(255, 77, 79, 0.4);
+  z-index: 2;
+  transition: all 0.3s ease;
 }
 
 .feed-card.is-read {
-  opacity: 0.7;
+  opacity: 0.6;
+  filter: grayscale(0.2);
 }
 
-.feed-card.is-read .feed-status-dot {
-  background: var(--status-active); /* Green for read */
+.feed-card.is-read .unread-badge {
+  background: transparent;
+  box-shadow: none;
+  border: 1.5px solid var(--muted);
+  opacity: 0.5;
+}
+
+/* Optional: change border color for read items to make them feel "receded" */
+.feed-card.is-read::before {
+  opacity: 0.3;
 }
 
 /* Date Separators */
