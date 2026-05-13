@@ -1277,12 +1277,37 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   gap: 12px;
 }
 
+.feed-date-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  color: var(--muted);
+  transition: color 0.15s;
+}
+
+.feed-date-toggle:hover {
+  color: var(--ink);
+}
+
 .feed-date-separator span {
   font-family: 'Newsreader', serif;
   font-weight: 500;
   font-size: 14px;
-  color: var(--muted);
   text-transform: capitalize;
+}
+
+.feed-date-chevron {
+  width: 14px;
+  height: 14px;
+  transition: transform 0.2s ease;
+}
+
+.feed-date-toggle.collapsed .feed-date-chevron {
+  transform: rotate(-90deg);
 }
 
 .feed-date-line {
@@ -1290,4 +1315,9 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   height: 1px;
   background: var(--warm-gray);
   opacity: 0.5;
+}
+
+/* Hide feed items when the preceding separator is collapsed */
+.feed-card.is-hidden {
+  display: none !important;
 }

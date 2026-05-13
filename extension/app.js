@@ -1028,12 +1028,13 @@ async function fetchBuildersFeed() {
   const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 
   try {
-    // 1. Get read status AND cached feed from storage
-    const storage = await chrome.storage.local.get(['readFeedUrls', 'cachedFeedItems']);
+    // 1. Get read status, cached feed, and collapsed states from storage
+    const storage = await chrome.storage.local.get(['readFeedUrls', 'cachedFeedItems', 'collapsedFeedDates']);
     const readUrls = new Set(storage.readFeedUrls || []);
+    const collapsedDates = new Set(storage.collapsedFeedDates || []);
     let cachedItems = storage.cachedFeedItems || [];
 
-    // 2. Fetch fresh data
+    // 2. Fetch fresh data... (rest of fetch logic)
     const [blogsRes, xRes] = await Promise.all([
       fetch(BLOGS_URL).then(r => r.json()),
       fetch(X_URL).then(r => r.json())
@@ -1105,9 +1106,18 @@ async function fetchBuildersFeed() {
         const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
         if (dateLabel === today) displayLabel = 'Today';
         
+        const isCollapsed = collapsedDates.has(dateLabel);
+        
         html += `
           <div class="feed-date-separator">
-            <span>${displayLabel}</span>
+            <button class="feed-date-toggle ${isCollapsed ? 'collapsed' : ''}" 
+                    data-action="toggle-feed-date" 
+                    data-date="${dateLabel}">
+              <svg class="feed-date-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+              </svg>
+              <span>${displayLabel}</span>
+            </button>
             <div class="feed-date-line"></div>
           </div>
         `;
@@ -1115,6 +1125,7 @@ async function fetchBuildersFeed() {
       }
 
       const isRead = readUrls.has(item.url);
+      const isHidden = collapsedDates.has(dateLabel);
       const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
       const timeStr = itemDate.toLocaleTimeString(undefined, { 
         hour: '2-digit', 
@@ -1124,8 +1135,9 @@ async function fetchBuildersFeed() {
 
       html += `
         <a href="${item.url}" target="_blank" 
-           class="feed-card type-${item.type} ${isRead ? 'is-read' : ''}" 
+           class="feed-card type-${item.type} ${isRead ? 'is-read' : ''} ${isHidden ? 'is-hidden' : ''}" 
            data-action="mark-feed-read" 
+           data-date-group="${dateLabel}"
            data-url="${item.url}">
           <div class="unread-badge"></div>
           <div class="feed-card-source">${displaySource}</div>
@@ -1169,6 +1181,31 @@ async function markFeedItemAsRead(url) {
     }
   }
 }
+
+/**
+ * toggleFeedDate(dateLabel)
+ */
+async function toggleFeedDate(dateLabel) {
+  if (!dateLabel) return;
+  const storage = await chrome.storage.local.get(['collapsedFeedDates']);
+  const collapsedDates = new Set(storage.collapsedFeedDates || []);
+  
+  if (collapsedDates.has(dateLabel)) {
+    collapsedDates.delete(dateLabel);
+  } else {
+    collapsedDates.add(dateLabel);
+  }
+  
+  await chrome.storage.local.set({ collapsedFeedDates: Array.from(collapsedDates) });
+  
+  // Update UI immediately
+  const toggleBtn = document.querySelector(`.feed-date-toggle[data-date="${dateLabel}"]`);
+  if (toggleBtn) toggleBtn.classList.toggle('collapsed');
+  
+  const cards = document.querySelectorAll(`.feed-card[data-date-group="${dateLabel}"]`);
+  cards.forEach(card => card.classList.toggle('is-hidden'));
+}
+
 
 async function renderStaticDashboard() {
   // --- Header ---
@@ -1346,6 +1383,12 @@ document.addEventListener('click', async (e) => {
   if (action === 'mark-feed-read') {
     markFeedItemAsRead(actionEl.dataset.url);
     // Don't return, let it open the link naturally
+  }
+
+  // ---- Toggle feed date collapse ----
+  if (action === 'toggle-feed-date') {
+    toggleFeedDate(actionEl.dataset.date);
+    return;
   }
 
   // ---- Close duplicate Tab Out tabs ----
