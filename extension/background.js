@@ -1,31 +1,17 @@
 /**
- * background.js — Service Worker for Badge Updates
+ * background.js — Service Worker for Badge Updates & Background Fetch
  *
  * Chrome's "always-on" background script for Tab Out.
- * Its only job: keep the toolbar badge showing the current open tab count.
- *
- * Since we no longer have a server, we query chrome.tabs directly.
- * The badge counts real web tabs (skipping chrome:// and extension pages).
- *
- * Color coding gives a quick at-a-glance health signal:
- *   Green  (#3d7a4a) → 1–10 tabs  (focused, manageable)
- *   Amber  (#b8892e) → 11–20 tabs (getting busy)
- *   Red    (#b35a5a) → 21+ tabs   (time to cull!)
+ * Tasks:
+ * 1. Keep the toolbar badge showing the current open tab count.
+ * 2. Periodically fetch builders feed in the background.
  */
 
 // ─── Badge updater ────────────────────────────────────────────────────────────
 
-/**
- * updateBadge()
- *
- * Counts open real-web tabs and updates the extension's toolbar badge.
- * "Real" tabs = not chrome://, not extension pages, not about:blank.
- */
 async function updateBadge() {
   try {
     const tabs = await chrome.tabs.query({});
-
-    // Only count actual web pages — skip browser internals and extension pages
     const count = tabs.filter(t => {
       const url = t.url || '';
       return (
@@ -37,57 +23,108 @@ async function updateBadge() {
       );
     }).length;
 
-    // Don't show "0" — an empty badge is cleaner
     await chrome.action.setBadgeText({ text: count > 0 ? String(count) : '' });
 
     if (count === 0) return;
 
-    // Pick badge color based on workload level
     let color;
     if (count <= 10) {
-      color = '#3d7a4a'; // Green — you're in control
+      color = '#3d7a4a'; 
     } else if (count <= 20) {
-      color = '#b8892e'; // Amber — things are piling up
+      color = '#b8892e'; 
     } else {
-      color = '#b35a5a'; // Red — time to focus and close some tabs
+      color = '#b35a5a'; 
     }
 
     await chrome.action.setBadgeBackgroundColor({ color });
 
   } catch {
-    // If something goes wrong, clear the badge rather than show stale data
     chrome.action.setBadgeText({ text: '' });
+  }
+}
+
+// ─── Background Fetch ─────────────────────────────────────────────────────────
+
+const BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
+const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
+
+/**
+ * fetchAndCacheFeed()
+ *
+ * Fetches the latest data from GitHub and merges it into the local cache.
+ */
+async function fetchAndCacheFeed() {
+  console.log('[tab-out] Background fetching builders feed...');
+  try {
+    const [blogsRes, xRes] = await Promise.all([
+      fetch(BLOGS_URL).then(r => r.json()),
+      fetch(X_URL).then(r => r.json())
+    ]);
+
+    const blogs = blogsRes.blogs || [];
+    const builders = xRes.x || [];
+
+    const freshItems = [
+      ...blogs.map(b => ({ 
+        url: b.url, 
+        type: 'blog', 
+        name: b.name, 
+        title: b.title, 
+        date: b.publishedAt || blogsRes.generatedAt 
+      })),
+    ];
+
+    builders.forEach(builder => {
+      (builder.tweets || []).forEach(tweet => {
+        freshItems.push({
+          url: tweet.url,
+          type: 'x',
+          name: builder.name,
+          title: tweet.text,
+          date: tweet.createdAt
+        });
+      });
+    });
+
+    const { cachedFeedItems = [] } = await chrome.storage.local.get('cachedFeedItems');
+    const itemMap = new Map();
+    
+    cachedFeedItems.forEach(item => itemMap.set(item.url, item));
+    freshItems.forEach(item => itemMap.set(item.url, item));
+
+    const combined = Array.from(itemMap.values())
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    await chrome.storage.local.set({ cachedFeedItems: combined });
+    console.log(`[tab-out] Background fetch complete. Cache size: ${combined.length}`);
+
+  } catch (err) {
+    console.warn('[tab-out] Background fetch failed:', err);
   }
 }
 
 // ─── Event listeners ──────────────────────────────────────────────────────────
 
-// Update badge when the extension is first installed
 chrome.runtime.onInstalled.addListener(() => {
   updateBadge();
+  chrome.alarms.create('fetchFeedAlarm', { periodInMinutes: 30 });
+  fetchAndCacheFeed();
 });
 
-// Update badge when Chrome starts up
 chrome.runtime.onStartup.addListener(() => {
   updateBadge();
+  fetchAndCacheFeed();
 });
 
-// Update badge whenever a tab is opened
-chrome.tabs.onCreated.addListener(() => {
-  updateBadge();
+chrome.alarms.onAlarm.addListener((alarm) => {
+  if (alarm.name === 'fetchFeedAlarm') {
+    fetchAndCacheFeed();
+  }
 });
 
-// Update badge whenever a tab is closed
-chrome.tabs.onRemoved.addListener(() => {
-  updateBadge();
-});
+chrome.tabs.onCreated.addListener(() => updateBadge());
+chrome.tabs.onRemoved.addListener(() => updateBadge());
+chrome.tabs.onUpdated.addListener(() => updateBadge());
 
-// Update badge when a tab's URL changes (e.g. navigating to/from chrome://)
-chrome.tabs.onUpdated.addListener(() => {
-  updateBadge();
-});
-
-// ─── Initial run ─────────────────────────────────────────────────────────────
-
-// Run once immediately when the service worker first loads
+// Initial run
 updateBadge();

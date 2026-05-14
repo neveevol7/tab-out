@@ -25,6 +25,7 @@
 
 // All open tabs — populated by fetchOpenTabs()
 let openTabs = [];
+let feedDaysToShow = 3;
 
 /**
  * fetchOpenTabs()
@@ -1028,78 +1029,75 @@ async function fetchBuildersFeed() {
   const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 
   try {
-    // 1. Get read status, cached feed, and collapsed states from storage
     const storage = await chrome.storage.local.get(['readFeedUrls', 'cachedFeedItems', 'collapsedFeedDates']);
     const readUrls = new Set(storage.readFeedUrls || []);
     const collapsedDates = new Set(storage.collapsedFeedDates || []);
     let cachedItems = storage.cachedFeedItems || [];
 
-    // 2. Fetch fresh data... (rest of fetch logic)
+    // Fetch fresh data
     const [blogsRes, xRes] = await Promise.all([
       fetch(BLOGS_URL).then(r => r.json()),
       fetch(X_URL).then(r => r.json())
-    ]);
-
-    const blogs = blogsRes.blogs || [];
-    const builders = xRes.x || [];
-
-    const freshItems = [
-      ...blogs.map(b => ({ 
-        url: b.url, 
-        type: 'blog', 
-        name: b.name, 
-        title: b.title, 
-        date: b.publishedAt || blogsRes.generatedAt 
-      })),
-    ];
-
-    builders.forEach(builder => {
-      (builder.tweets || []).forEach(tweet => {
-        freshItems.push({
-          url: tweet.url,
-          type: 'x',
-          name: builder.name,
-          title: tweet.text,
-          date: tweet.createdAt
-        });
-      });
+    ]).catch(err => {
+      console.warn('[tab-out] Online fetch failed, using cache:', err);
+      return [null, null];
     });
 
-    // 3. Merge fresh items with cache (de-duplicate by URL)
+    let freshItems = [];
+    if (blogsRes && xRes) {
+      const blogs = blogsRes.blogs || [];
+      const builders = xRes.x || [];
+      freshItems = [
+        ...blogs.map(b => ({ 
+          url: b.url, 
+          type: 'blog', 
+          name: b.name, 
+          title: b.title, 
+          date: b.publishedAt || blogsRes.generatedAt 
+        })),
+      ];
+      builders.forEach(builder => {
+        (builder.tweets || []).forEach(tweet => {
+          freshItems.push({
+            url: tweet.url,
+            type: 'x',
+            name: builder.name,
+            title: tweet.text,
+            date: tweet.createdAt
+          });
+        });
+      });
+    }
+
+    // Merge and save to cache (NO PRUNING HERE)
     const itemMap = new Map();
-    // Cache items first
     cachedItems.forEach(item => itemMap.set(item.url, item));
-    // Fresh items overwrite cache
     freshItems.forEach(item => itemMap.set(item.url, item));
+    const allItems = Array.from(itemMap.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
+    await chrome.storage.local.set({ cachedFeedItems: allItems });
 
-    // 4. Filter for last 3 days and sort
-    const threeDaysAgo = Date.now() - (3 * 24 * 60 * 60 * 1000);
-    let combined = Array.from(itemMap.values())
-      .filter(item => new Date(item.date).getTime() > threeDaysAgo)
-      .sort((a, b) => new Date(b.date) - new Date(a.date));
+    // Filter for display based on feedDaysToShow
+    const now = new Date();
+    const cutoffDate = new Date(now.getTime() - (feedDaysToShow * 24 * 60 * 60 * 1000));
+    cutoffDate.setHours(0, 0, 0, 0); // Start of the Nth day ago
 
-    // 5. Update cache with pruned/merged list
-    await chrome.storage.local.set({ cachedFeedItems: combined });
+    const displayedItems = allItems.filter(item => new Date(item.date) >= cutoffDate);
+    const hasMore = allItems.length > displayedItems.length;
 
-    if (combined.length === 0) {
-      feedListEl.innerHTML = '<div class="deferred-empty">No updates in the last 3 days.</div>';
+    if (displayedItems.length === 0) {
+      feedListEl.innerHTML = `<div class="deferred-empty">No updates in the last ${feedDaysToShow} days.</div>`;
       if (countEl) countEl.textContent = '';
       return;
     }
 
-    if (countEl) countEl.textContent = `${combined.length} items`;
+    if (countEl) countEl.textContent = `${displayedItems.length} items`;
 
-    // 6. Render with date separators
     let html = '';
     let lastDateLabel = '';
 
-    combined.forEach(item => {
+    displayedItems.forEach(item => {
       const itemDate = new Date(item.date);
-      const dateLabel = itemDate.toLocaleDateString(undefined, { 
-        weekday: 'long', 
-        month: 'long', 
-        day: 'numeric' 
-      });
+      const dateLabel = itemDate.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
       
       if (dateLabel !== lastDateLabel) {
         let displayLabel = dateLabel;
@@ -1107,12 +1105,9 @@ async function fetchBuildersFeed() {
         if (dateLabel === today) displayLabel = 'Today';
         
         const isCollapsed = collapsedDates.has(dateLabel);
-        
         html += `
           <div class="feed-date-separator">
-            <button class="feed-date-toggle ${isCollapsed ? 'collapsed' : ''}" 
-                    data-action="toggle-feed-date" 
-                    data-date="${dateLabel}">
+            <button class="feed-date-toggle ${isCollapsed ? 'collapsed' : ''}" data-action="toggle-feed-date" data-date="${dateLabel}">
               <svg class="feed-date-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
               </svg>
@@ -1127,40 +1122,38 @@ async function fetchBuildersFeed() {
       const isRead = readUrls.has(item.url);
       const isHidden = collapsedDates.has(dateLabel);
       const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
-      const timeStr = itemDate.toLocaleTimeString(undefined, { 
-        hour: '2-digit', 
-        minute: '2-digit',
-        hour12: false
-      });
+      const timeStr = itemDate.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit', hour12: false });
 
       html += `
         <a href="${item.url}" target="_blank" 
            class="feed-card type-${item.type} ${isRead ? 'is-read' : ''} ${isHidden ? 'is-hidden' : ''}" 
-           data-action="mark-feed-read" 
-           data-date-group="${dateLabel}"
-           data-url="${item.url}">
+           data-action="mark-feed-read" data-date-group="${dateLabel}" data-url="${item.url}">
           <div class="unread-badge"></div>
           <div class="feed-card-source">${displaySource}</div>
           <div class="feed-card-title">${item.title}</div>
-          <div class="feed-card-meta">
-            <span>${timeStr}</span>
-          </div>
+          <div class="feed-card-meta"><span>${timeStr}</span></div>
         </a>
       `;
     });
 
+    if (hasMore) {
+      html += `
+        <div class="feed-load-more">
+          <button class="action-btn" data-action="load-more-feed">
+            Load previous 3 days
+          </button>
+        </div>
+      `;
+    }
+
     feedListEl.innerHTML = html;
 
   } catch (err) {
-    console.warn('[tab-out] Failed to fetch builders feed:', err);
-    // If fetch fails, still try to show cached data
-    const storage = await chrome.storage.local.get(['cachedFeedItems', 'readFeedUrls']);
-    if (storage.cachedFeedItems && storage.cachedFeedItems.length > 0) {
-       // (Simplified render logic for cache-only fallback could go here if needed)
-    }
-    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load fresh feed.</div>';
+    console.warn('[tab-out] Feed render failed:', err);
+    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load feed.</div>';
   }
 }
+
 
 /**
  * markFeedItemAsRead(url)
@@ -1380,6 +1373,13 @@ document.addEventListener('click', async (e) => {
   const action = actionEl.dataset.action;
 
   // ---- Mark feed item as read ----
+  // ---- Load more feed items ----
+  if (action === 'load-more-feed') {
+    feedDaysToShow += 3;
+    fetchBuildersFeed();
+    return;
+  }
+
   if (action === 'mark-feed-read') {
     markFeedItemAsRead(actionEl.dataset.url);
     // Don't return, let it open the link naturally

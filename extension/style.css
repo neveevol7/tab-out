@@ -1321,3 +1321,12 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
 .feed-card.is-hidden {
   display: none !important;
 }
+
+/* Load More Feed Button */
+.feed-load-more {
+  column-span: all;
+  display: flex;
+  justify-content: center;
+  padding: 24px 0 48px;
+  width: 100%;
+}
