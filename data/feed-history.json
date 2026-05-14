@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "url": "https://claude.com/blog/new-in-claude-managed-agents",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+    "date": "May 06, 2026"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2054778575988093249",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
+    "date": "2026-05-14T04:19:23.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2054599845214650442",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
+    "date": "2026-05-13T16:29:10.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2054569893060809151",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
+    "date": "2026-05-13T14:30:09.000Z"
+  }
+]
