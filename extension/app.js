@@ -1025,136 +1025,117 @@ async function fetchBuildersFeed() {
   const countEl    = document.getElementById('buildersFeedCount');
   if (!feedListEl) return;
 
-  const BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
-  const X_URL     = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
+  const HISTORY_URL = 'https://raw.githubusercontent.com/neveevol7/tab-out/main/data/feed-history.json';
 
   try {
-    const storage = await chrome.storage.local.get(['readFeedUrls', 'cachedFeedItems', 'collapsedFeedDates']);
+    const storage = await chrome.storage.local.get(['readFeedUrls', 'collapsedFeedDates']);
     const readUrls = new Set(storage.readFeedUrls || []);
     const collapsedDates = new Set(storage.collapsedFeedDates || []);
-    let cachedItems = storage.cachedFeedItems || [];
 
-    // Fetch fresh data
-    const [blogsRes, xRes] = await Promise.all([
-      fetch(BLOGS_URL).then(r => r.json()),
-      fetch(X_URL).then(r => r.json())
-    ]).catch(err => {
-      console.warn('[tab-out] Online fetch failed, using cache:', err);
-      return [null, null];
+    const allItems = await fetch(HISTORY_URL).then(r => r.json()).catch(err => {
+      console.warn('[tab-out] Failed to fetch cloud history:', err);
+      return null;
     });
 
-    let freshItems = [];
-    if (blogsRes && xRes) {
-      const blogs = blogsRes.blogs || [];
-      const builders = xRes.x || [];
-      freshItems = [
-        ...blogs.map(b => ({ 
-          url: b.url, 
-          type: 'blog', 
-          name: b.name, 
-          title: b.title, 
-          date: b.publishedAt || blogsRes.generatedAt 
-        })),
-      ];
-      builders.forEach(builder => {
-        (builder.tweets || []).forEach(tweet => {
-          freshItems.push({
-            url: tweet.url,
-            type: 'x',
-            name: builder.name,
-            title: tweet.text,
-            date: tweet.createdAt
-          });
-        });
-      });
+    let finalItems = [];
+    if (allItems) {
+      finalItems = allItems;
+      await chrome.storage.local.set({ cachedFeedItems: allItems });
+    } else {
+      const local = await chrome.storage.local.get('cachedFeedItems');
+      finalItems = local.cachedFeedItems || [];
     }
 
-    // Merge and save to cache (NO PRUNING HERE)
-    const itemMap = new Map();
-    cachedItems.forEach(item => itemMap.set(item.url, item));
-    freshItems.forEach(item => itemMap.set(item.url, item));
-    const allItems = Array.from(itemMap.values()).sort((a, b) => new Date(b.date) - new Date(a.date));
-    await chrome.storage.local.set({ cachedFeedItems: allItems });
-
-    // Filter for display based on feedDaysToShow
     const now = new Date();
     const cutoffDate = new Date(now.getTime() - (feedDaysToShow * 24 * 60 * 60 * 1000));
-    cutoffDate.setHours(0, 0, 0, 0); // Start of the Nth day ago
+    cutoffDate.setHours(0, 0, 0, 0);
 
-    const displayedItems = allItems.filter(item => new Date(item.date) >= cutoffDate);
-    const hasMore = allItems.length > displayedItems.length;
+    const displayedItems = finalItems.filter(item => new Date(item.date) >= cutoffDate);
+    const hasMore = finalItems.length > displayedItems.length;
 
     if (displayedItems.length === 0) {
-      feedListEl.innerHTML = `<div class="deferred-empty">No updates in the last ${feedDaysToShow} days.</div>`;
-      if (countEl) countEl.textContent = '';
+      feedListEl.innerHTML = "<div class="deferred-empty">No updates in the last " + feedDaysToShow + " days.</div>";
+      if (countEl) countEl.textContent = "";
       return;
     }
 
-    if (countEl) countEl.textContent = `${displayedItems.length} items`;
-
-    let html = '';
-    let lastDateLabel = '';
+    if (countEl) countEl.textContent = displayedItems.length + " items";
+    let html = "";
+    let lastDateLabel = "";
 
     displayedItems.forEach(item => {
       const itemDate = new Date(item.date);
-      const dateLabel = itemDate.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
-      
+      const dateLabel = itemDate.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
       if (dateLabel !== lastDateLabel) {
         let displayLabel = dateLabel;
-        const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
-        if (dateLabel === today) displayLabel = 'Today';
-        
+        const today = new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+        if (dateLabel === today) displayLabel = "Today";
         const isCollapsed = collapsedDates.has(dateLabel);
-        html += `
-          <div class="feed-date-separator">
-            <button class="feed-date-toggle ${isCollapsed ? 'collapsed' : ''}" data-action="toggle-feed-date" data-date="${dateLabel}">
-              <svg class="feed-date-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
-              </svg>
-              <span>${displayLabel}</span>
-            </button>
-            <div class="feed-date-line"></div>
-          </div>
-        `;
+        html += "
+" + 
+          "          <div class="feed-date-separator">
+" + 
+          "            <button class="feed-date-toggle " + (isCollapsed ? "collapsed" : "") + "" data-action="toggle-feed-date" data-date="" + dateLabel + "">
+" + 
+          "              <svg class="feed-date-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+" + 
+          "                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+" + 
+          "              </svg>
+" + 
+          "              <span>" + displayLabel + "</span>
+" + 
+          "            </button>
+" + 
+          "            <div class="feed-date-line"></div>
+" + 
+          "          </div>
+";
         lastDateLabel = dateLabel;
       }
-
       const isRead = readUrls.has(item.url);
       const isHidden = collapsedDates.has(dateLabel);
-      const displaySource = item.type === 'x' ? `𝕏 ${item.name}` : `✎ ${item.name}`;
-      const timeStr = itemDate.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit', hour12: false });
-
-      html += `
-        <a href="${item.url}" target="_blank" 
-           class="feed-card type-${item.type} ${isRead ? 'is-read' : ''} ${isHidden ? 'is-hidden' : ''}" 
-           data-action="mark-feed-read" data-date-group="${dateLabel}" data-url="${item.url}">
-          <div class="unread-badge"></div>
-          <div class="feed-card-source">${displaySource}</div>
-          <div class="feed-card-title">${item.title}</div>
-          <div class="feed-card-meta"><span>${timeStr}</span></div>
-        </a>
-      `;
+      const displaySource = item.type === "x" ? "𝕏 " + item.name : "✎ " + item.name;
+      const timeStr = itemDate.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit", hour12: false });
+      html += "
+" + 
+        "        <a href="" + item.url + "" target="_blank" 
+" + 
+        "           class="feed-card type-" + item.type + (isRead ? " is-read" : "") + (isHidden ? " is-hidden" : "") + "" 
+" + 
+        "           data-action="mark-feed-read" data-date-group="" + dateLabel + "" data-url="" + item.url + "">
+" + 
+        "          <div class="unread-badge"></div>
+" + 
+        "          <div class="feed-card-source">" + displaySource + "</div>
+" + 
+        "          <div class="feed-card-title">" + item.title + "</div>
+" + 
+        "          <div class="feed-card-meta"><span>" + timeStr + "</span></div>
+" + 
+        "        </a>
+";
     });
-
     if (hasMore) {
-      html += `
-        <div class="feed-load-more">
-          <button class="action-btn" data-action="load-more-feed">
-            Load previous 3 days
-          </button>
-        </div>
-      `;
+      html += "
+" + 
+        "        <div class="feed-load-more">
+" + 
+        "          <button class="action-btn" data-action="load-more-feed">
+" + 
+        "            Load previous 3 days
+" + 
+        "          </button>
+" + 
+        "        </div>
+";
     }
-
     feedListEl.innerHTML = html;
-
   } catch (err) {
-    console.warn('[tab-out] Feed render failed:', err);
-    feedListEl.innerHTML = '<div class="deferred-empty">Unable to load feed.</div>';
+    console.warn("[tab-out] Feed render failed:", err);
+    feedListEl.innerHTML = "<div class="deferred-empty">Unable to load feed.</div>";
   }
 }
-
-
 /**
  * markFeedItemAsRead(url)
  */
