@@ -26,6 +26,7 @@
 // All open tabs — populated by fetchOpenTabs()
 let openTabs = [];
 let feedDaysToShow = 3;
+let isFeedLoading = false;
 
 /**
  * fetchOpenTabs()
@@ -1338,14 +1339,20 @@ document.addEventListener('click', async (e) => {
 
   const action = actionEl.dataset.action;
 
-  // ---- Mark feed item as read ----
   // ---- Load more feed items ----
   if (action === 'load-more-feed') {
-    actionEl.textContent = '加载中...';
-    actionEl.style.opacity = '0.5';
-    actionEl.style.pointerEvents = 'none';
+    if (isFeedLoading) return;
+    isFeedLoading = true;
+    
+    // UI feedback
+    actionEl.textContent = '正在加载历史记录...';
+    actionEl.classList.add('loading');
+    actionEl.style.opacity = '0.6';
+    
     feedDaysToShow += 3;
-    fetchBuildersFeed();
+    // We use await here to ensure isFeedLoading is set back to false only after finish
+    await fetchBuildersFeed();
+    isFeedLoading = false;
     return;
   }
 
