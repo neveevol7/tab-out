@@ -1103,15 +1103,17 @@ async function fetchBuildersFeed() {
       `;
     });
 
+    html += `<div class="feed-load-more">`;
     if (hasMore) {
       html += `
-        <div class="feed-load-more">
-          <button class="action-btn" data-action="load-more-feed">
-            Load previous 3 days
-          </button>
-        </div>
+        <button class="action-btn" data-action="load-more-feed">
+          加载更早的 3 天
+        </button>
       `;
+    } else if (finalItems.length > 0) {
+      html += `<span class="feed-no-more">已加载全部数据</span>`;
     }
+    html += `</div>`;
     feedListEl.innerHTML = html;
   } catch (err) {
     console.warn('[tab-out] Feed render failed:', err);
@@ -1339,6 +1341,9 @@ document.addEventListener('click', async (e) => {
   // ---- Mark feed item as read ----
   // ---- Load more feed items ----
   if (action === 'load-more-feed') {
+    actionEl.textContent = '加载中...';
+    actionEl.style.opacity = '0.5';
+    actionEl.style.pointerEvents = 'none';
     feedDaysToShow += 3;
     fetchBuildersFeed();
     return;
