@@ -1339,20 +1339,48 @@ document.addEventListener('click', async (e) => {
 
   const action = actionEl.dataset.action;
 
-  // ---- Load more feed items ----
+  // ---- Load more feed items (Smart Search) ----
   if (action === 'load-more-feed') {
     if (isFeedLoading) return;
     isFeedLoading = true;
     
-    // UI feedback
-    actionEl.textContent = '正在加载历史记录...';
-    actionEl.classList.add('loading');
+    const originalText = actionEl.textContent;
+    const originalCount = document.querySelectorAll('.feed-card').length;
+    
+    actionEl.textContent = '正在往回追溯历史...';
     actionEl.style.opacity = '0.6';
     
-    feedDaysToShow += 3;
-    // We use await here to ensure isFeedLoading is set back to false only after finish
-    await fetchBuildersFeed();
-    isFeedLoading = false;
+    const startTime = Date.now();
+
+    // Small helper to add a minimum delay
+    const delay = (ms) => new Promise(res => setTimeout(ms > 0 ? res : res, ms));
+
+    const findMoreItems = async () => {
+      let currentCount = originalCount;
+      // Keep increasing feedDaysToShow until we see more items or hit the end
+      while (currentCount === originalCount) {
+        feedDaysToShow += 3;
+        await fetchBuildersFeed();
+        
+        const newCount = document.querySelectorAll('.feed-card').length;
+        const noMoreData = !document.querySelector('[data-action="load-more-feed"]');
+        
+        if (newCount > originalCount || noMoreData) {
+          break;
+        }
+        
+        // Safety break to prevent infinite loops if something is wrong
+        if (feedDaysToShow > 365) break; 
+      }
+      
+      // Ensure the "loading" text stays visible for at least 500ms so it doesn't flash
+      const elapsed = Date.now() - startTime;
+      if (elapsed < 500) await delay(500 - elapsed);
+      
+      isFeedLoading = false;
+    };
+
+    findMoreItems();
     return;
   }
 
