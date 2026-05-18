@@ -7,6 +7,153 @@
     "date": "May 06, 2026"
   },
   {
+    "url": "https://x.com/levie/status/2056219645796090197",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.\n\nFor instance, if you studied CS, for years the general direction of travel was often to join a tech company and build customer-facing software in some form. A significant portion of the CS pipeline from college to hire was built for this.\n\nWhen you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands.\n\nI was talking to a Fortune 500 pharma CEO a week ago that commented on how much more technical talent they need right now. The job may be different from what it was 5 years ago when thinking about tech, but the demand for the skills are still there. And this is what I’m hearing from every CIO and CEO across nearly every industry right now.\n\nWe definitely need colleges to wake up to this; but we equally need companies think about how they craft pipelines into these jobs.",
+    "date": "2026-05-18T03:45:40.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056210471917912140",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Big week for all my Google friends, I can assure you all they’ve been cooking",
+    "date": "2026-05-18T03:09:13.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056201387172843800",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@gabrielchua the agentic excel thing is basically what u get when u expand the side panel to be the main thing\n\nhttps://t.co/mYvd97PpNq",
+    "date": "2026-05-18T02:33:07.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056201218540904667",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The ideal 🪩 doesn't exi… https://t.co/9hlNrJj7pI",
+    "date": "2026-05-18T02:32:27.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056190797096403162",
+    "type": "x",
+    "name": "Swyx",
+    "title": "some of us doing kaya toast breakfast here at 11am if u are still around\n\nhttps://t.co/zYY3XR5XIm",
+    "date": "2026-05-18T01:51:02.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056184774256112084",
+    "type": "x",
+    "name": "Swyx",
+    "title": "🇸🇬 https://t.co/QdFTkvxrox https://t.co/MkMRCjJcei",
+    "date": "2026-05-18T01:27:06.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056178065836007853",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Watch the full talk here:\nhttps://t.co/FiUycdqCWD\n\nCheck out my interview with Alex: https://t.co/3t2gRrgrlC\n\nGet the written takeaways: https://t.co/8pk9o3xg17",
+    "date": "2026-05-18T01:00:27.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056178053848703019",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "5. Build evals based on real traces + feedback\n\nRead actual customer conversations with your model to build product sense, and use Claude to synthesize feedback into top themes.\n\nDon't run \"eval theater\" on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.",
+    "date": "2026-05-18T01:00:24.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2056165722804654196",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "ChatGPT Images 2.0 💚 India.\n\nAlready more than 1 billion images created there; awesome to see.",
+    "date": "2026-05-18T00:11:24.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056145415867937182",
+    "type": "x",
+    "name": "Thariq",
+    "title": "tired: I brought my work laptop and my personal laptop \n\nwired: I am dual wielding",
+    "date": "2026-05-17T22:50:43.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056132881630826952",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
+    "date": "2026-05-17T22:00:54.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2056129724565373406",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "When a multi-billion dollar venture fund has a $1B exit in its portfolio https://t.co/NIOVPfBSVT",
+    "date": "2026-05-17T21:48:22.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056125669466333672",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Employees joining some recently minted unicorn* companies are facing a triple whammy..\n\n1) tranched valuations are very common now means their entry strike price at that valuation is often >2x of the lead preferred price.\n\n2) this means your strike price will be quite high and so will be your 409a. you’ll paying a pretty penny if you try to early exercise and if not then you’ll have to wait a while till they grow into that valuation.  \n\n3) stock packages seem great “on paper” but are massively inflated because of this tranched valuation. so you can say total comp is very high but the real comp is not that high (at least today). this is another reason companies chase a higher valuation so they can give lower equity raises. \n\nMake sure you go with wide eyes and use Claude/ChatGPT to do some exit math on your equity. Joining a unicorn company can offer far more than just comp (learning, experience, strong mission, great team) and that should be the core reason for joining. But do your own due diligence on the company you’re joining just like an investor would. \n\n* Not all unicorn companies are the same - some are fundamentally better and have meaningfully grown into the valuation than others. Some are growing way faster than the ones with fundamentals. Point is to do your homework vs treating every company that’s valued similarly and putting them in the same bucket.",
+    "date": "2026-05-17T21:32:15.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056123737544757733",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost\n\nBoil the ocean don’t cut your costs https://t.co/gxgx3IzLEa",
+    "date": "2026-05-17T21:24:34.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056122513743327634",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "https://t.co/IVlEaxRbsL",
+    "date": "2026-05-17T21:19:42.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056122508550738223",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "For personal AI scenarios against my 120k markdown brain ZeroEntropy has earned the top slot https://t.co/57CLV1XBSM",
+    "date": "2026-05-17T21:19:41.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2056083305468944820",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "What SMBs are building https://t.co/MmPNmWvPLx",
+    "date": "2026-05-17T18:43:54.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2056051851439857933",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any given domain. AI will trick you into thinking you don’t need to go deep in a particular area, but that’s wrong.\n\nThe expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.\n\nThe experienced software developer that’s built and scaled complex systems using agents outrun someone just vibe coding. The designer that uses AI will build far better products and campaigns than anyone else. The banker or analyst that understands financial models will be able to pull off far more with agents. \n\nDespite some of the rhetoric in the valley that this is less implement now, that couldn’t be further from the case. Don’t give up on going deep in your craft.",
+    "date": "2026-05-17T16:38:55.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056039276308308217",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Flowermaxxing (fresh haul from our garden) https://t.co/6LJ7GxBKUf",
+    "date": "2026-05-17T15:48:57.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2056015684145127612",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "On Friday I used AI to write a lot of code.\n\nAnd then on Saturday I watched humans play sports (FA Cup Final) and dance (my kid's dance recital).\n\nI am not worried that we won't have meaning and purpose.",
+    "date": "2026-05-17T14:15:12.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056014576215601431",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "&gt; claude --dangerously-skip-permissions\n&gt; /goal improve the codebase for performance and add a bit of aura https://t.co/41pKeTT5MA",
+    "date": "2026-05-17T14:10:48.000Z"
+  },
+  {
     "url": "https://x.com/swyx/status/2055906613316432247",
     "type": "x",
     "name": "Swyx",
