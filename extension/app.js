@@ -27,6 +27,95 @@
 let openTabs = [];
 let feedDaysToShow = 3;
 let isFeedLoading = false;
+let currentRankType = 'daily'; // 'daily' or 'weekly'
+
+/**
+ * fetchGitHubRankings(type)
+ * 
+ * Fetches and parses GitHub trending data from OpenGithubs.
+ */
+async function fetchGitHubRankings(type = 'daily') {
+  currentRankType = type;
+  const listEl = document.getElementById('githubRankingsList');
+  const countEl = document.getElementById('githubRankingsCount');
+  if (!listEl) return;
+
+  const url = type === 'daily' 
+    ? 'https://raw.githubusercontent.com/OpenGithubs/github-daily-rank/main/README.md'
+    : 'https://raw.githubusercontent.com/OpenGithubs/github-weekly-rank/main/README.md';
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      console.error(`[tab-out] GitHub rankings fetch failed with status: ${response.status}`);
+      listEl.innerHTML = `<div class="deferred-empty">Fetch failed (Status ${response.status}).</div>`;
+      return;
+    }
+    const markdown = await response.text();
+    
+    // 1. Extract the Ranking Table
+    const tableRegex = /\|\s*(\d+)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*([^|]+)\|\s*([^|]+)\|/g;
+    const projects = [];
+    let match;
+    while ((match = tableRegex.exec(markdown)) !== null) {
+      projects.push({
+        rank: match[1],
+        name: match[2],
+        url: match[3],
+        stars: match[4].trim(),
+        growth: match[5].trim()
+      });
+    }
+    console.log(`[tab-out] Parsed ${projects.length} projects from ${type} rank`);
+
+    // 2. Extract Descriptions (safer way: split by sections)
+    const descMap = {};
+    const detailSections = markdown.split(/<h3/);
+    detailSections.forEach(sec => {
+      const urlMatch = sec.match(/https:\/\/github\.com\/([a-zA-Z0-9-._]+\/[a-zA-Z0-9-._]+)/);
+      const descMatch = sec.match(/📝\s*项目描述[:：]\s*([^\n<]+)/);
+      if (urlMatch && descMatch) {
+        descMap[urlMatch[1]] = descMatch[1].trim();
+      }
+    });
+
+    if (projects.length === 0) {
+      listEl.innerHTML = '<div class="deferred-empty">No projects found.</div>';
+      return;
+    }
+
+    if (countEl) countEl.textContent = `${projects.length} projects`;
+
+    let html = projects.map(p => {
+      const desc = descMap[p.name] || 'No description available.';
+      return `
+        <a href="${p.url}" target="_blank" class="rank-item">
+          <div class="rank-number">${p.rank}</div>
+          <div class="rank-main">
+            <div class="rank-title-row">
+              <div class="rank-item-title">${p.name}</div>
+              <div class="rank-item-desc">${desc}</div>
+            </div>
+          </div>
+          <div class="rank-stats">
+            <div class="rank-stat-item">⭐ ${p.stars}</div>
+            <div class="rank-stat-item rank-stat-growth">${p.growth}</div>
+          </div>
+        </a>
+      `;
+    }).join('');
+
+    listEl.innerHTML = html;
+
+  } catch (err) {
+    console.warn('[tab-out] GitHub rankings fetch failed:', err);
+    listEl.innerHTML = `
+      <div class="deferred-empty">
+        Unable to load rankings.<br>
+        <span style="font-size:10px;opacity:0.6;font-style:normal;">Error: ${err.message || 'Unknown network error'}</span>
+      </div>`;
+  }
+}
 
 /**
  * fetchOpenTabs()
@@ -1047,9 +1136,14 @@ async function fetchBuildersFeed() {
       finalItems = local.cachedFeedItems || [];
     }
 
-    const now = new Date();
-    const cutoffDate = new Date(now.getTime() - (feedDaysToShow * 24 * 60 * 60 * 1000));
+    // Sort items by date descending to ensure the most recent updates are at the top
+    finalItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    const cutoffDate = new Date();
     cutoffDate.setHours(0, 0, 0, 0);
+    // If feedDaysToShow is 3, we want Today, Yesterday, and the Day Before.
+    // So we subtract (3 - 1) = 2 days from today's midnight.
+    cutoffDate.setDate(cutoffDate.getDate() - (feedDaysToShow - 1));
 
     const displayedItems = finalItems.filter(item => new Date(item.date) >= cutoffDate);
     const hasMore = finalItems.length > displayedItems.length;
@@ -1064,6 +1158,34 @@ async function fetchBuildersFeed() {
     let html = '';
     let lastDateLabel = '';
 
+    // Pre-calculate unread counts per date group
+    const dateStats = {};
+    displayedItems.forEach(item => {
+      const dLabel = new Date(item.date).toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+      if (!dateStats[dLabel]) dateStats[dLabel] = { unread: 0, total: 0 };
+      dateStats[dLabel].total++;
+      if (!readUrls.has(item.url)) dateStats[dLabel].unread++;
+    });
+
+    const uniqueDates = [...new Set(displayedItems.map(item => 
+      new Date(item.date).toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })
+    ))];
+
+    // If no collapsed state preference exists yet, default to collapsing everything except the first date
+    const storageObj = await chrome.storage.local.get(['collapsedFeedDates', 'hasSetFeedCollapseDefault']);
+    let currentCollapsed = new Set(storageObj.collapsedFeedDates || []);
+    
+    if (!storageObj.hasSetFeedCollapseDefault && uniqueDates.length > 1) {
+      // Collapse everything except the newest date (index 0)
+      for (let i = 1; i < uniqueDates.length; i++) {
+        currentCollapsed.add(uniqueDates[i]);
+      }
+      await chrome.storage.local.set({ 
+        collapsedFeedDates: Array.from(currentCollapsed),
+        hasSetFeedCollapseDefault: true 
+      });
+    }
+
     displayedItems.forEach(item => {
       const itemDate = new Date(item.date);
       const dateLabel = itemDate.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
@@ -1072,7 +1194,11 @@ async function fetchBuildersFeed() {
         let displayLabel = dateLabel;
         const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
         if (dateLabel === today) displayLabel = 'Today';
-        const isCollapsed = collapsedDates.has(dateLabel);
+        
+        const isCollapsed = currentCollapsed.has(dateLabel);
+        const stats = dateStats[dateLabel];
+        const unreadText = stats.unread > 0 ? `<span class="feed-unread-stat">(${stats.unread}/${stats.total})</span>` : `<span class="feed-unread-stat" style="opacity:0.4">(${stats.total})</span>`;
+
         html += `
           <div class="feed-date-separator">
             <button class="feed-date-toggle ${isCollapsed ? 'collapsed' : ''}" data-action="toggle-feed-date" data-date="${dateLabel}">
@@ -1080,6 +1206,7 @@ async function fetchBuildersFeed() {
                 <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
               </svg>
               <span>${displayLabel}</span>
+              ${unreadText}
             </button>
             <div class="feed-date-line"></div>
           </div>
@@ -1088,7 +1215,7 @@ async function fetchBuildersFeed() {
       }
 
       const isRead = readUrls.has(item.url);
-      const isHidden = collapsedDates.has(dateLabel);
+      const isHidden = currentCollapsed.has(dateLabel);
       const displaySource = item.type === 'x' ? "𝕏 " + item.name : "✎ " + item.name;
       const timeStr = itemDate.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit', hour12: false });
       
@@ -1312,6 +1439,9 @@ async function renderStaticDashboard() {
   // --- Check for duplicate Tab Out tabs ---
   checkTabOutDupes();
 
+  // --- GitHub Rankings ---
+  fetchGitHubRankings(currentRankType);
+
   // --- Render "Saved for Later" column ---
   await renderDeferredColumn();
 
@@ -1356,20 +1486,19 @@ document.addEventListener('click', async (e) => {
     const delay = (ms) => new Promise(res => setTimeout(ms > 0 ? res : res, ms));
 
     const findMoreItems = async () => {
-      let currentCount = originalCount;
-      // Keep increasing feedDaysToShow until we see more items or hit the end
-      while (currentCount === originalCount) {
+      const getVisibleDaysCount = () => document.querySelectorAll('.feed-date-separator').length;
+      const originalDaysCount = getVisibleDaysCount();
+      const targetDaysCount = originalDaysCount + 3;
+      
+      // Keep increasing feedDaysToShow until we see 3 more days of content or hit the end
+      while (getVisibleDaysCount() < targetDaysCount) {
         feedDaysToShow += 3;
         await fetchBuildersFeed();
         
-        const newCount = document.querySelectorAll('.feed-card').length;
         const noMoreData = !document.querySelector('[data-action="load-more-feed"]');
+        if (noMoreData) break;
         
-        if (newCount > originalCount || noMoreData) {
-          break;
-        }
-        
-        // Safety break to prevent infinite loops if something is wrong
+        // Safety break to prevent infinite loops (e.g., if we've reached the beginning of history)
         if (feedDaysToShow > 365) break; 
       }
       
@@ -1392,6 +1521,20 @@ document.addEventListener('click', async (e) => {
   // ---- Toggle feed date collapse ----
   if (action === 'toggle-feed-date') {
     toggleFeedDate(actionEl.dataset.date);
+    return;
+  }
+
+  // ---- Switch GitHub Rankings type ----
+  if (action === 'switch-rank') {
+    const type = actionEl.dataset.rank;
+    if (type === currentRankType) return;
+    
+    // Update active tab UI
+    document.querySelectorAll('[data-action="switch-rank"]').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.rank === type);
+    });
+    
+    fetchGitHubRankings(type);
     return;
   }
 

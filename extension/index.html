@@ -97,6 +97,24 @@
 
   </div><!-- end .dashboard-columns -->
 
+  <!-- GITHUB RANKINGS SECTION -->
+  <div class="github-rankings-section" id="githubRankings">
+    <div class="section-header" style="margin-top: 48px;">
+      <div class="header-with-tabs">
+        <h2>GitHub Trending</h2>
+        <div class="ranking-tabs">
+          <button class="ranking-tab active" data-action="switch-rank" data-rank="daily">Daily</button>
+          <button class="ranking-tab" data-action="switch-rank" data-rank="weekly">Weekly</button>
+        </div>
+      </div>
+      <div class="section-line"></div>
+      <div class="section-count" id="githubRankingsCount"></div>
+    </div>
+    <div class="rankings-grid" id="githubRankingsList">
+      <div class="deferred-empty">Loading trending projects...</div>
+    </div>
+  </div>
+
   <!-- DAILY BUILDERS FEED — Full-width section below the dashboard -->
   <div class="builders-feed-section" id="buildersFeed">
     <div class="section-header" style="margin-top: 48px;">

@@ -1330,3 +1330,146 @@ footer { animation: fadeUp 0.5s ease 0.65s both; }
   padding: 24px 0 48px;
   width: 100%;
 }
+
+/* ---- GitHub Rankings Section ---- */
+.github-rankings-section {
+  animation: fadeUp 0.5s ease 0.3s both;
+}
+
+.header-with-tabs {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.ranking-tabs {
+  display: flex;
+  gap: 8px;
+  background: var(--warm-gray);
+  padding: 3px;
+  border-radius: 6px;
+  opacity: 0.8;
+}
+
+.ranking-tab {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 4px;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.ranking-tab:hover {
+  color: var(--ink);
+}
+
+.ranking-tab.active {
+  background: var(--card-bg);
+  color: var(--ink);
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+.rankings-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 40px;
+  background: var(--warm-gray);
+  border: 1px solid var(--warm-gray);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.rank-item {
+  background: var(--card-bg);
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  gap: 20px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.rank-item:hover {
+  background: rgba(200, 113, 58, 0.03);
+}
+
+.rank-number {
+  font-family: 'Newsreader', serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--accent-amber);
+  width: 24px;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.rank-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.rank-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.rank-item-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.rank-item-desc {
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 600px;
+}
+
+.rank-stats {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+.rank-stat-item {
+  font-size: 12px;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-stat-growth {
+  color: var(--accent-rose);
+  font-weight: 500;
+  min-width: 70px;
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.feed-unread-stat {
+  font-size: 11px;
+  color: var(--muted);
+  font-weight: 400;
+  margin-left: 8px;
+  opacity: 0.8;
+  background: var(--warm-gray);
+  padding: 1px 6px;
+  border-radius: 10px;
+}
