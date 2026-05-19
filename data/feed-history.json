@@ -7,6 +7,230 @@
     "date": "May 06, 2026"
   },
   {
+    "url": "https://claude.com/blog/connectors-for-everyday-life",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "New connectors in Claude for everyday life",
+    "date": "Apr 23, 2026"
+  },
+  {
+    "url": "https://claude.com/blog/claude-managed-agents-memory",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "Built-in memory for Claude Managed Agents",
+    "date": "Apr 23, 2026"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "type": "blog",
+    "name": "Anthropic Engineering",
+    "title": "An update on recent Claude Code quality reports",
+    "date": "2026-05-19T07:32:47.589Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056626964090466469",
+    "type": "x",
+    "name": "Swyx",
+    "title": "taking bets for vercel and supabase rn https://t.co/uLAaY5VGw3",
+    "date": "2026-05-19T06:44:13.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056588601216168168",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "OK I guess we're going pretty fast improving GBrain day to day right now https://t.co/gD7aT2DyLN",
+    "date": "2026-05-19T04:11:46.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056584641654751308",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Also 28 bug fixes landing in a single bug fix wave that rolls up 22 community PRs and 14 issues https://t.co/Y9k2EHpkjx",
+    "date": "2026-05-19T03:56:02.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2056574979236409521",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "This is true of all agents, not just coding agents. Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. \n\nToo much information or conflicting sources, and the agent can easily draw from the data and produce the wrong result. Conflicting sources of truth for documents, data sources that haven’t been kept up to date, knowledge management systems that rely on tribal knowledge to navigate, and so on. \n\nOn the other end, of course, too little information and the upside is highly limited of agents in the first place. Thus, a lot of challenges with AI strategies are actually data strategy challenges in disguise. \n\nThis is why there’s such a significant premium on getting structured and unstructured data environments setup properly so agents can work with information effectively. Critical for any large enterprise adopting agents, and also a clear benefit in some cases to startups that can be designed this way from scratch.",
+    "date": "2026-05-19T03:17:39.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056571771965538501",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Full eval report and fixtures published and open source here https://t.co/uuaaeAYzGI\n\nAny memory system is welcome to run theirs against these evals and I'll publish them alongside. https://t.co/rlIyzIEwZS",
+    "date": "2026-05-19T03:04:54.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056566561922826634",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Incredible read. My new favorite thing to send everyone trying to find a new gig! https://t.co/6UzFYMDP7M",
+    "date": "2026-05-19T02:44:12.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056549825018310707",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "All Firewall mitigations are now fully free on @vercel. Not just DDoS and system-level mitigations, but also any rule you configure.\n\nVercel now absorbs the computational and network costs of any size of attack or traffic mitigation for your peace of mind. (And more to come!) https://t.co/6HFqqMvSLW",
+    "date": "2026-05-19T01:37:41.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2056533534614159577",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We 🫶 our Labsters 🦞\n\n“Explain what your product does in 5 words or less.” https://t.co/MNvAOKgR3U",
+    "date": "2026-05-19T00:32:57.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056529233036693722",
+    "type": "x",
+    "name": "Swyx",
+    "title": "volunteer here https://t.co/AXtvjtt8gC !",
+    "date": "2026-05-19T00:15:52.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056527354772722127",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Keep getting this error in Claude Code recently; is it just me or are others getting this too? How to resolve this?\n\nAPI Error: The socket connection was closed unexpectedly. For more information, pass verbose: true in the second argument to fetch()",
+    "date": "2026-05-19T00:08:24.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056478391008977404",
+    "type": "x",
+    "name": "Swyx",
+    "title": "this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise? https://t.co/VTfzaB4NpK https://t.co/3btEcrdV4w",
+    "date": "2026-05-18T20:53:50.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056464721549926414",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "If you have had success with Gbrain/LLM Wiki/other context management techniques for agents, and you're in the Bay Area, would love to invite you to demo at this event!\n\nRSVP: https://t.co/l5tvzeD4V9\n\nCohosted with @NotionHQ @radicalvcfund @juleszqiu https://t.co/AoX69ggU4d",
+    "date": "2026-05-18T19:59:31.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056460045756309820",
+    "type": "x",
+    "name": "Claude",
+    "title": "You can now create more with Claude Design.\n\nWe've doubled token limits across every plan. https://t.co/d2AemkZUxW",
+    "date": "2026-05-18T19:40:56.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056439906390725080",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "…and more to come https://t.co/u3NhbGjBiD",
+    "date": "2026-05-18T18:20:55.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2056435834333934051",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "chatgpt has gotten soooo much better with the latest update.\n\nreally proud of the team for this one.",
+    "date": "2026-05-18T18:04:44.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056432663125545082",
+    "type": "x",
+    "name": "Thariq",
+    "title": "continuing my HTML era, I had so much fun talking with Claire at Code w/ Claude about staying in the loop with long running agents https://t.co/hRJ8m4hvMn",
+    "date": "2026-05-18T17:52:08.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056431972138815842",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "we'll be publishing a complete guide to codex soon on @every \n\nget notified when it's out: https://t.co/9wRhOCUCAk",
+    "date": "2026-05-18T17:49:23.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056431542323257440",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Amazing!! \n\nSo proud of @RattrayAlex and honored to be a tiny investor https://t.co/WzqnBQr8Mf",
+    "date": "2026-05-18T17:47:40.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056424176253276558",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "We had an unbelievable tech team and talent overall. Many of them went onto awesome careers.\n\nFounders of Coderpad, Modern Treasury, Maude, amongst others\n\nEPD at Airbnb, Stripe, Apple, Oscar, Google, I’m sure I am missing some. \n\nMany were fist-time PMs and engineers and I’m very grateful to have helped them get started.",
+    "date": "2026-05-18T17:18:24.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056423973123183028",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "A 𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕 your agents will love.\n\nOne of the coolest things about Vercel’s Firewall is how hard the team worked on instant global propagation (~300ms).\n\nImagine if 𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜 took *minutes* to propagate? That’s the average industry CDN/WAF experience!",
+    "date": "2026-05-18T17:17:36.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056418217925456170",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "people should write better books! \n\nthe vast majority of books that get published in this category are slop https://t.co/wSM2ydiTip",
+    "date": "2026-05-18T16:54:44.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056418157305454805",
+    "type": "x",
+    "name": "Thariq",
+    "title": "okay this is going kinda viral and tbh my original text was kind of messy, so here's a second pass with the help of Claude:\n\n--\nImplement <SPEC>. As you work maintain a running implementation-notes.html file that captures anything I should know about how the implementation diverges from or interprets the spec, including:\n\n- Design decisions: choices you made where the spec was ambiguous\n- Deviations: places where you intentionally departed from the spec, and why\n- Tradeoffs:  alternatives you considered and why you picked what you did\n- Open questions: anything you'd want me to confirm or revise",
+    "date": "2026-05-18T16:54:29.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056417715448156276",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "frontier smart\nextremely efficient\nComposer 2.5 is here https://t.co/XUNqfFnSw7",
+    "date": "2026-05-18T16:52:44.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056416726783566223",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Something else that's fairly underrated is that the entire middle category got obliterated during covid\n\nYou're either wearing basics bordering on pajamas to bum around at home or flashy high-end stuff to flex on Instagram. No one was really looking for a nice button-down shirt and chinos.",
+    "date": "2026-05-18T16:48:48.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056415974568710421",
+    "type": "x",
+    "name": "Thariq",
+    "title": "as much as you spec there are always still ambiguities and unknown unknowns that come up and this gives the model a good out to make decisions but keep you in the loop",
+    "date": "2026-05-18T16:45:49.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056407656898896214",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "I haven’t worked at Everlane in almost 10 years but it’s a pretty sad day for the people that built it. \n\nUltimately, the thing that did it in was the pandemic — Everlane was mainly wear-to-work and that market basically disappeared overnight. \n\nIt took some pretty egregious financing terms to get through it all and this is the ultimate outcome. \n\nBrands have a funny way of sticking around though. At one point, Ray-Ban was dead. J.Crew was dead. Madewell was dead. Abercrombie and Fitch was dead. \n\nThey all come roaring back decades later after exchanging ownership half a dozen times. \n\nI look forward to the day that my children and grandchildren think this new brand “Everlane” is the coolest thing.\n\nI will say to them, did you know that this started it out as a Pinterest competitor and pivoted to be a fashion brand? And they will say to me “that’s boring Dad”.",
+    "date": "2026-05-18T16:12:46.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056381822733595090",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My top 5 takeaways from @alexalbert__ on how Anthropic is building the next Claude model:\n\n1. Think about the model and harness together\n\nThe model and the harness are coupled. Each surface wraps the model in a different prompt and tool setup, so the same model can give different responses depending on where it runs. As a research PM, Alex has to think through how the model will perform across Claude, Cowork, Claude Code, and more.\n\n2. Claude is starting to dream\n\nWhen an agent isn't running a task, it reviews its own memories, finds contradictions, and prunes them. This “dreaming” process was inspired by how sleep helps humans process memory.\n\n3. Focus evals on real user problems\n\nThe research team uses Claude to cluster the firehose of user feedback into top themes, then generates synthetic versions of each user problem to turn into an eval. It's not just about volume either - even a few dozen well-written test cases can produce an eval for the model.\n\n4. There are full-time researchers thinking about Claude's consciousness\n\nAnthropic has people whose whole job is to think about what it means for Claude to be a conscious actor. There's no official position on whether it is or isn't, but the question is taken seriously as agents take on more autonomous work.\n\n5. Anthropic's writing culture helps Claude build context\n\nEvery written word at Anthropic becomes context Claude can pull later. From Alex: \"Get things written down, make them accessible to Claude, because that's just more context that it has.\"\n\n📌 Watch now: https://t.co/CJAakWq9Nd",
+    "date": "2026-05-18T14:30:06.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056363681798410592",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "“Writes bangers on X, but terrible board member”.. when I recently asked a founder about his board. \n\nToo many investors are trading dopamine for service nowadays. At least do both. \n\nWork hard for your founders. That’s the only “moat” that’ll compound in the long term.",
+    "date": "2026-05-18T13:18:01.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056328149940543808",
+    "type": "x",
+    "name": "Claude",
+    "title": "Next stop: London.\n\nRegister to tune in tomorrow for deep dives, demos, and conversations with the teams behind Claude: https://t.co/6le4bIXvJt https://t.co/sbGHgDaEW5",
+    "date": "2026-05-18T10:56:50.000Z"
+  },
+  {
     "url": "https://x.com/levie/status/2056219645796090197",
     "type": "x",
     "name": "Aaron Levie",
