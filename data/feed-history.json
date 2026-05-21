@@ -28,6 +28,195 @@
     "date": "Apr 23, 2026"
   },
   {
+    "url": "https://x.com/zarazhangrui/status/2057324988009685208",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I think that in an AI-native team,\n- ICs should start thinking like managers: how to delegate tasks to agents, how to set standards &amp; verify output\n- Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management",
+    "date": "2026-05-21T04:57:55.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2057315272156135501",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. \n\nPeople often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. \n\nBecause something like cloud adoption affected a fairly concentrated set of users (developers and IT), and generally didn’t require a fundamental change to the workflows of employees to get the benefits of the new service being delivered on the cloud. At best you went to one training session and you were done. \n\nWith agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there’s a ton of technical work and change management that comes with it.\n\nFurther, the pace of change of cloud wasn’t nearly as quick, so there was a lot more time for best practices to propagate. Now, every model change means either something new can be done that wasn’t possible before, or some piece of scaffolding is now redundant or holding you back. \n\nThis is why it’s commonly easier for a vendor or partner that’s seen the implementation hundreds or thousands of times help do the work, even with internal support from the customer.\n\nSo, this job isn’t going away any time soon, and will be a great path for a lot of technical talent, especially early career.",
+    "date": "2026-05-21T04:19:18.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2057297559643922609",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "You found it! :) https://t.co/PuszTtkEHs",
+    "date": "2026-05-21T03:08:55.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2057281238722072912",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health. https://t.co/VI36q5DjzB",
+    "date": "2026-05-21T02:04:04.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2057280348158063071",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Glad you're liking it! https://t.co/frWPevQkQa",
+    "date": "2026-05-21T02:00:32.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2057267931025957348",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Great slide from the “How to thrive as an AI-era developer” session at Google I/O today\n\nI think this T-shape will apply to not just developers but every job function\n\nWe need to \n- go deeper with our domain expertise \n- go wider with adjacent skills and fields\n- learn to use AI well on top",
+    "date": "2026-05-21T01:11:11.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2057242868293816569",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "If you don't have time to read 308 pages of the @SpaceX S-1, here's a summary that Claude helped me put together based on the most interesting findings 🚀 https://t.co/ByhTPsspBk",
+    "date": "2026-05-20T23:31:36.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057238298805129383",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Idea fusion is fun, and idea fusion with LSD (lateral synaptic drift) is even more fun https://t.co/QHw0OXD7WB",
+    "date": "2026-05-20T23:13:26.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2057218997503086888",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are offering to invest $2M in openai credits into every YC company.\n\nnow we need to increase our efforts on the third!",
+    "date": "2026-05-20T21:56:44.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2057218835074437573",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒\n\nSee Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch",
+    "date": "2026-05-20T21:56:06.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2057212335811620987",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio). https://t.co/0w3UOLwAQO",
+    "date": "2026-05-20T21:30:16.000Z"
+  },
+  {
+    "url": "https://x.com/kevinweil/status/2057206749552066805",
+    "type": "x",
+    "name": "Kevin Weil",
+    "title": "The next in a series of firsts for AI and mathematics! https://t.co/rnI21thKxa",
+    "date": "2026-05-20T21:08:04.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2057203171198636251",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "a general-purpose model solved a major open problem in mathematics.\n\nwe'll be saying this a lot over the coming years, but this is a kinda big milestone.\n\ni'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today. https://t.co/IpmClBfPKQ",
+    "date": "2026-05-20T20:53:51.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057202833251000503",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete. \n\nWhen your agents need to search the web, accept no substitutes. https://t.co/3LtJucCenk",
+    "date": "2026-05-20T20:52:31.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057187787242426555",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "This is a really big deal. https://t.co/cJGoZ7bi6S",
+    "date": "2026-05-20T19:52:43.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057180464524456201",
+    "type": "x",
+    "name": "Swyx",
+    "title": "pod link and more ctx\n\nhttps://t.co/SLrKEkYwgU",
+    "date": "2026-05-20T19:23:37.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057180080078791036",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol. \n\nso proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear",
+    "date": "2026-05-20T19:22:06.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2057179491693470166",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We love seeing all of the worlds you’ve been creating with Genie.\n\nSO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+). https://t.co/C4ThmmmRNg",
+    "date": "2026-05-20T19:19:46.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057168328226230520",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The benefits of AI are real now, but we will never get there in the United States (and America will cede its leadership) if we can't solve the bigger media issue of a mass smokescreen by forces that want to destroy America https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN",
+    "date": "2026-05-20T18:35:24.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057141903334990327",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.\n\nVery proud of the progress the company has made.\n\nLots to build! https://t.co/FOsPpGvexn",
+    "date": "2026-05-20T16:50:24.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2057134939875991973",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves \"is it really worth it\". \n\nStarting a company is so glorified - but building, scaling and maintaining one is a different story. This is why it's so important to do this for the right reasons - solve problems you are deeply passionate about and one you'll do even if the world is against you. At least there will be light at the end of the tunnel that's constantly drawing you in on those days when you are questioning your motivation. \n\nI have never had the courage to personally start a company for this reason. Just wanted to say to the ones going through this - I see you, I salute you and I admire you 🫡",
+    "date": "2026-05-20T16:22:44.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057125943773180348",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Apply to @southpkcommons if you'd like to join us https://t.co/xWaXyqC7Rj",
+    "date": "2026-05-20T15:46:59.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2057123430776902031",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "@StainlessAPI @RattrayAlex YouTube: https://t.co/h2mvQD7dTD\nSpotify: https://t.co/0a45rQz3Ox",
+    "date": "2026-05-20T15:37:00.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2057122805657821240",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.\n\nBack in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI & I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure: I’m a small investor in the company.) After Monday's news, the conversation lands differently—in it, Alex essentially walks me through the design thinking for building APIs, SDKs, and MCP servers that Anthropic paid a reported $300 million for.\n\nOn @every's AI & I, we get into MCP and the future of the AI-native internet.\n\nHighlights include:\n- Design MCP servers to be lean and precise. Alex's best practices for building reliable MCP servers start with keeping the toolset small, giving each tool a precise name and description, and minimizing the inputs and outputs the model has to handle. At Stainless, they also often add a JSON filter on top to strip out unnecessary data.\n- Make complex APIs manageable with dynamic mode. To solve the problem of how an AI figures out which tool to use in larger APIs, Stainless switches to \"dynamic mode,\" where the model gets only three tools: List the endpoints, pick one and learn about it, and then execute it.\n- MCP servers as business copilots. At Stainless, Alex uses MCP servers to connect tools like @NotionHQ and @HubSpot, so he can ask questions like, \"Which customers signed up last week?\" The system queries multiple databases and returns a summary that would've otherwise taken multiple logins and searches.\n- Create a \"brain\" for your company with Claude Code. Alex built a shared company brain at Stainless by keeping Claude Code running on his system and asking it to save useful inputs—like customer feedback and SQL queries—into GitHub. Over time, this creates a curated archive his team can query easily.\n- The future of MCP is code execution. Instead of giving models hundreds of tools, Alex believes the most powerful setup will be a simple code execution tool and a doc search tool. The AI writes code against an API's SDK, runs it on a server, and checks the docs when it gets stuck.\n\nThis is a must-watch for anyone who wants to understand MCP—and learn how to use them as a competitive edge.\n\nWatch below!\n\nTimestamps\nIntroduction: 00:01:15\nAPIs and MCP, the connectors of the new internet: 00:05:09\nWhy MCP exists: 00:11:00\nWhy MCP servers are hard to get right: 00:17:15\nDesign principles for reliable MCP servers: 00:20:24\nUsing MCP for business ops at Stainless: 00:25:06\nAlex’s take on the security model for MCP: 00:40:57\nHow one-off AI actions become permanent production software: 00:44:42",
+    "date": "2026-05-20T15:34:31.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057119153337545096",
+    "type": "x",
+    "name": "Swyx",
+    "title": "very belated but in retrospect i think @sama's mythical \"build a business that gets better when models get better\" is basically what I called Agent Labs here.\n\nseeing a very direct correlation with model performance and agent lab revenue, discontinuity in Q4 2025\n\n(clip from @patrickc's stripe sessions)",
+    "date": "2026-05-20T15:20:00.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2057090887268643187",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "When Kendall buys Vaulter https://t.co/94oGqm6uQD",
+    "date": "2026-05-20T13:27:41.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2057040636449116222",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.",
+    "date": "2026-05-20T10:08:00.000Z"
+  },
+  {
     "url": "https://www.anthropic.com/engineering/managed-agents",
     "type": "blog",
     "name": "Anthropic Engineering",
