@@ -10,7 +10,10 @@ This project integrates data from [follow-builders](https://github.com/zarazhang
 
 ## Enhanced Features
 
-- **GitHub Trending Rankings**: Integrated daily and weekly top 10/20 projects from OpenGithubs. High-density list layout for quick scanning of stars and growth.
+- **🚀 GitHub Trending Rankings (New!)**:
+  - **Multi-dimension Switching**: Seamlessly toggle between **Daily** and **Weekly** rankings to track both breakout projects and consistent trends.
+  - **High-Density Insight**: A custom-engineered list layout optimized for quick scanning of project descriptions, star growth, and tech stacks.
+  - **Real-time Sync**: Automatically updated every 2 hours via GitHub Actions, ensuring you're always seeing the pulse of the global developer community.
 - **Daily AI Feed**: A dedicated bottom section showing the latest insights from AI builders and engineering blogs.
   - **Smart Date Grouping**: Automatically collapses older days to keep your dashboard clean.
   - **Unread Statistics**: Real-time (unread/total) counts for each date group.
