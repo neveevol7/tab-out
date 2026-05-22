@@ -140,15 +140,70 @@ async function fetchGitHubRankings(type = 'daily') {
       return;
     }
     const markdown = await response.text();
-    // ... (rest of the parsing logic stays the same as fallback)
+    
+    // 1. Extract the Ranking Table
+    const tableRegex = /\|\s*(\d+)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*([^|]+)\|\s*([^|]+)\|/g;
+    const projects = [];
+    let match;
+    while ((match = tableRegex.exec(markdown)) !== null) {
+      projects.push({
+        rank: match[1],
+        name: match[2],
+        url: match[3],
+        stars: match[4].trim(),
+        growth: match[5].trim()
+      });
+    }
 
+    // 2. Extract Descriptions (safer way: split by sections)
+    const descMap = {};
+    const detailSections = markdown.split(/<h3/);
+    detailSections.forEach(sec => {
+      const urlMatch = sec.match(/https:\/\/github\.com\/([a-zA-Z0-9-._]+\/[a-zA-Z0-9-._]+)/);
+      const descMatch = sec.match(/📝\s*项目描述[:：]\s*([^\n<]+)/);
+      if (urlMatch && descMatch) {
+        descMap[urlMatch[1]] = descMatch[1].trim();
+      }
+    });
 
-/**
- * fetchOpenTabs()
- *
- * Reads all currently open browser tabs directly from Chrome.
- * Sets the extensionId flag so we can identify Tab Out's own pages.
- */
+    if (projects.length === 0) {
+      listEl.innerHTML = `<div class="deferred-empty">${labels.noProjects[currentLang]}</div>`;
+      return;
+    }
+
+    if (countEl) countEl.textContent = `${projects.length} ${labels.projects[currentLang]}`;
+
+    let html = projects.map(p => {
+      const desc = descMap[p.name] || labels.noDesc[currentLang];
+      return `
+        <a href="${p.url}" target="_blank" class="rank-item">
+          <div class="rank-number">${p.rank}</div>
+          <div class="rank-main">
+            <div class="rank-title-row">
+              <div class="rank-item-title">${p.name}</div>
+              <div class="rank-item-desc">${desc}</div>
+            </div>
+          </div>
+          <div class="rank-stats">
+            <div class="rank-stat-item">⭐ ${p.stars}</div>
+            <div class="rank-stat-item rank-stat-growth">${p.growth}</div>
+          </div>
+        </a>
+      `;
+    }).join('');
+
+    listEl.innerHTML = html;
+
+  } catch (err) {
+    console.warn('[tab-out] GitHub rankings fetch failed:', err);
+    listEl.innerHTML = `
+      <div class="deferred-empty">
+        ${labels.failed[currentLang]}<br>
+        <span style="font-size:10px;opacity:0.6;font-style:normal;">Error: ${err.message || 'Unknown network error'}</span>
+      </div>`;
+  }
+}
+
 async function fetchOpenTabs() {
   try {
     const extensionId = chrome.runtime.id;
