@@ -302,5 +302,1581 @@
     "title": "ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others). \n\nif you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event! https://t.co/frSUq0rgf2",
     "title_cn": "前创始人是帮助扩大一些最具标志性公司规模的驱动力（@tryramp、@mercor_ai、@figma、@AnthropicAI、@cognition 等）。 \n\n如果您是一位前创始人，想要与杰出的同行团体一起出去玩，请报名参加我们的下一次活动！ https://t.co/frSUq0rgf2",
     "date": "2026-05-21T14:03:33.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2057324988009685208",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I think that in an AI-native team,\n- ICs should start thinking like managers: how to delegate tasks to agents, how to set standards &amp; verify output\n- Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management",
+    "date": "2026-05-21T04:57:55.000Z",
+    "title_cn": "我认为在一个人工智能原生团队中，\n- IC 应该开始像管理者一样思考：如何将任务委派给代理、如何制定标准和规则验证输出\n- 管理者应该开始像 IC 一样思考：如何成为更亲力亲为的建设者，而不仅仅是进行人员管理"
+  },
+  {
+    "url": "https://x.com/levie/status/2057315272156135501",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. \n\nPeople often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. \n\nBecause something like cloud adoption affected a fairly concentrated set of users (developers and IT), and generally didn’t require a fundamental change to the workflows of employees to get the benefits of the new service being delivered on the cloud. At best you went to one training session and you were done. \n\nWith agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there’s a ton of technical work and change management that comes with it.\n\nFurther, the pace of change of cloud wasn’t nearly as quick, so there was a lot more time for best practices to propagate. Now, every model change means either something new can be done that wasn’t possible before, or some piece of scaffolding is now redundant or holding you back. \n\nThis is why it’s commonly easier for a vendor or partner that’s seen the implementation hundreds or thousands of times help do the work, even with internal support from the customer.\n\nSo, this job isn’t going away any time soon, and will be a great path for a lot of technical talent, especially early career.",
+    "date": "2026-05-21T04:19:18.000Z",
+    "title_cn": "关于 FDE 的精彩帖子。如果您对此工作类别感兴趣，每个人都应该阅读它。只要人工智能不断快速变化，这项工作就会存在，而且这是不可避免的。 \n\n人们常常想知道为什么这不像过去部署其他形式的技术，比如云。 \n\n因为像云采用这样的事情影响了相当集中的用户（开发人员和 IT），并且通常不需要对员工的工作流程进行根本性的改变即可获得在云上提供的新服务的好处。最好的情况是，你参加了一次培训课程就完成了。 \n\n对于代理来说，实现它们的工作不仅技术性很强，而且直接影响人们参与的底层工作流程。这意味着随之而来的是大量的技术工作和变更管理。\n\n此外，云的变化速度并没有那么快，因此有更多的时间来传播最佳实践。现在，每次模型更改都意味着要么可以完成以前不可能完成的新任务，要么某些脚手架现在变得多余或阻碍您。 \n\n这就是为什么对于已经看到数百次或数千次实施帮助完成工作的供应商或合作伙伴来说，即使有客户的内部支持，通常也会更容易。\n\n因此，这项工作不会很快消失，对于很多技术人才来说，尤其是职业生涯早期，这将是一条很好的道路。"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2057297559643922609",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "You found it! :) https://t.co/PuszTtkEHs",
+    "date": "2026-05-21T03:08:55.000Z",
+    "title_cn": "你找到了！ :) https://t.co/PuszTtkEHs"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2057281238722072912",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health. https://t.co/VI36q5DjzB",
+    "date": "2026-05-21T02:04:04.000Z",
+    "title_cn": "也许不在一家每隔几个月就会进行裁员和 PSC 的公司工作更有利于心理健康。 https://t.co/VI36q5DjzB"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2057280348158063071",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Glad you're liking it! https://t.co/frWPevQkQa",
+    "date": "2026-05-21T02:00:32.000Z",
+    "title_cn": "很高兴你喜欢它！ https://t.co/frWPevQkQa"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2057267931025957348",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Great slide from the “How to thrive as an AI-era developer” session at Google I/O today\n\nI think this T-shape will apply to not just developers but every job function\n\nWe need to \n- go deeper with our domain expertise \n- go wider with adjacent skills and fields\n- learn to use AI well on top",
+    "date": "2026-05-21T01:11:11.000Z",
+    "title_cn": "今天 Google I/O 大会上“如何成为人工智能时代的开发者”会议上的精彩幻灯片\n\n我认为这种 T 形不仅适用于开发人员，而且适用于所有工作职能\n\n我们需要 \n- 深入了解我们的领域专业知识 \n- 扩大相邻技能和领域的范围\n- 学会如何很好地使用人工智能"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2057242868293816569",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "If you don't have time to read 308 pages of the @SpaceX S-1, here's a summary that Claude helped me put together based on the most interesting findings 🚀 https://t.co/ByhTPsspBk",
+    "date": "2026-05-20T23:31:36.000Z",
+    "title_cn": "如果您没有时间阅读 @SpaceX S-1 的 308 页，这里有克劳德根据最有趣的发现帮助我整理的摘要 🚀 https://t.co/ByhTPsspBk"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057238298805129383",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Idea fusion is fun, and idea fusion with LSD (lateral synaptic drift) is even more fun https://t.co/QHw0OXD7WB",
+    "date": "2026-05-20T23:13:26.000Z",
+    "title_cn": "想法融合很有趣，与 LSD（横向突触漂移）的想法融合更有趣 https://t.co/QHw0OXD7WB"
+  },
+  {
+    "url": "https://x.com/sama/status/2057218997503086888",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are offering to invest $2M in openai credits into every YC company.\n\nnow we need to increase our efforts on the third!",
+    "date": "2026-05-20T21:56:44.000Z",
+    "title_cn": "我们最兴奋的三件事：\n\n1. AGI加速研究\n2.AGI加速企业\n3.个人AGI加速每个人实现他们的目标\n\n今天很高兴宣布单位距离结果。\n\n昨天，我们很高兴地宣布，我们将向每家 YC 公司投资 200 万美元的 openai 积分。\n\n现在我们需要在第三项上加大努力！"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2057218835074437573",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒\n\nSee Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch",
+    "date": "2026-05-20T21:56:06.000Z",
+    "title_cn": "从玩游戏到设计游戏只需几分钟。只需选择您的角色，设置场景，然后让 Project Genie 完成剩下的工作。转变太疯狂了🦒\n\n查看 Genie 在今年的 Google I/O 沙盒中的实际应用：https://t.co/wUPRSplEch"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2057212335811620987",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio). https://t.co/0w3UOLwAQO",
+    "date": "2026-05-20T21:30:16.000Z",
+    "title_cn": "这将使人工智能占据网络的 42%。每个模型、每个提供商、每个模式（文本、图像、视频、音频）。 https://t.co/0w3UOLwAQO"
+  },
+  {
+    "url": "https://x.com/kevinweil/status/2057206749552066805",
+    "type": "x",
+    "name": "Kevin Weil",
+    "title": "The next in a series of firsts for AI and mathematics! https://t.co/rnI21thKxa",
+    "date": "2026-05-20T21:08:04.000Z",
+    "title_cn": "人工智能和数学的一系列第一中的下一个！ https://t.co/rnI21thKxa"
+  },
+  {
+    "url": "https://x.com/sama/status/2057203171198636251",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "a general-purpose model solved a major open problem in mathematics.\n\nwe'll be saying this a lot over the coming years, but this is a kinda big milestone.\n\ni'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today. https://t.co/IpmClBfPKQ",
+    "date": "2026-05-20T20:53:51.000Z",
+    "title_cn": "通用模型解决了数学中的一个重大开放问题。\n\n在接下来的几年里我们会经常这样说，但这是一个很大的里程碑。\n\n我很高兴人工智能能够极大地扩展我们对世界的理解，但今天我的心情仍然很复杂。 https://t.co/IpmClBfPKQ"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057202833251000503",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete. \n\nWhen your agents need to search the web, accept no substitutes. https://t.co/3LtJucCenk",
+    "date": "2026-05-20T20:52:31.000Z",
+    "title_cn": "Exa 是我对所有代理商的信任。我们在 YC 使用它。我们在所有 OpenClaw 和 Hermes Agent 中都使用它。没有其他选项可以如此快速、如此可靠和如此完整。 \n\n当您的代理需要搜索网络时，不要接受替代品。 https://t.co/3LtJucCenk"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057187787242426555",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "This is a really big deal. https://t.co/cJGoZ7bi6S",
+    "date": "2026-05-20T19:52:43.000Z",
+    "title_cn": "这确实是一件大事。 https://t.co/cJGoZ7bi6S"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057180464524456201",
+    "type": "x",
+    "name": "Swyx",
+    "title": "pod link and more ctx\n\nhttps://t.co/SLrKEkYwgU",
+    "date": "2026-05-20T19:23:37.000Z",
+    "title_cn": "pod 链接和更多 ctx\n\nhttps://t.co/SLrKEkywgU"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057180080078791036",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol. \n\nso proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear",
+    "date": "2026-05-20T19:22:06.000Z",
+    "title_cn": "顺便说一句，我们对 Exa 与竞争对手进行了比较，团队花了 1.5 小时才一致同意 exa lol。 \n\n很自豪地看到我的前房东粉碎了它 - 时间旅行回到去年并听听 pre pmf @WilliamBryk 以了解如何在代际撕裂中发现公司"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2057179491693470166",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We love seeing all of the worlds you’ve been creating with Genie.\n\nSO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+). https://t.co/C4ThmmmRNg",
+    "date": "2026-05-20T19:19:46.000Z",
+    "title_cn": "我们很高兴看到您与 Genie 一起创造的所有世界。\n\n正因如此，我们很高兴地宣布 Project Genie 现已全面向全球所有 Google AI Ultra 订阅者（18 岁以上）开放。 https://t.co/C4ThmmmRNg"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2057168328226230520",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The benefits of AI are real now, but we will never get there in the United States (and America will cede its leadership) if we can't solve the bigger media issue of a mass smokescreen by forces that want to destroy America https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN",
+    "date": "2026-05-20T18:35:24.000Z",
+    "title_cn": "人工智能的好处现在是真实的，但如果我们不能解决想要摧毁美国的势力大规模烟幕弹这一更大的媒体问题，我们将永远无法在美国实现这一目标（美国将放弃其领导地位） https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057141903334990327",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.\n\nVery proud of the progress the company has made.\n\nLots to build! https://t.co/FOsPpGvexn",
+    "date": "2026-05-20T16:50:24.000Z",
+    "title_cn": "让 Feross 完成他的 -1 旅程@southpkcommons 并成为早期合作伙伴真是太棒了。\n\n对公司所取得的进步感到非常自豪。\n\n很多需要建造！ https://t.co/FOsPpGvexn"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2057134939875991973",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves \"is it really worth it\". \n\nStarting a company is so glorified - but building, scaling and maintaining one is a different story. This is why it's so important to do this for the right reasons - solve problems you are deeply passionate about and one you'll do even if the world is against you. At least there will be light at the end of the tunnel that's constantly drawing you in on those days when you are questioning your motivation. \n\nI have never had the courage to personally start a company for this reason. Just wanted to say to the ones going through this - I see you, I salute you and I admire you 🫡",
+    "date": "2026-05-20T16:22:44.000Z",
+    "title_cn": "作为一名创始人真是太辛苦了……每天都嚼玻璃。如果你失败了，没有人在乎。如果你成功了，你就会遇到更多的问题。有时候我真的想知道有多少创始人早上醒来会问自己“这真的值得吗”。 \n\n创办一家公司固然光荣，但建立、扩展和维护一家公司却是另一回事了。这就是为什么出于正确的原因去做这件事如此重要——解决你非常热衷的问题，即使全世界都反对你，你也会这样做。至少在你质疑自己动机的那些日子里，隧道尽头会有光明不断地吸引你。 \n\n为此我一直没有勇气亲自创办一家公司。只是想对那些正在经历这一切的人说 - 我看到你，我向你致敬，我钦佩你🫡"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2057125943773180348",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Apply to @southpkcommons if you'd like to join us https://t.co/xWaXyqC7Rj",
+    "date": "2026-05-20T15:46:59.000Z",
+    "title_cn": "如果您想加入我们，请向@southpkcommons 申请 https://t.co/xWaXyqC7Rj"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2057123430776902031",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "@StainlessAPI @RattrayAlex YouTube: https://t.co/h2mvQD7dTD\nSpotify: https://t.co/0a45rQz3Ox",
+    "date": "2026-05-20T15:37:00.000Z",
+    "title_cn": "@StainlessAPI @RattrayAlex YouTube：https://t.co/h2mvQD7dTD\nSpotify：https://t.co/0a45rQz3Ox"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2057122805657821240",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.\n\nBack in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI & I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure: I’m a small investor in the company.) After Monday's news, the conversation lands differently—in it, Alex essentially walks me through the design thinking for building APIs, SDKs, and MCP servers that Anthropic paid a reported $300 million for.\n\nOn @every's AI & I, we get into MCP and the future of the AI-native internet.\n\nHighlights include:\n- Design MCP servers to be lean and precise. Alex's best practices for building reliable MCP servers start with keeping the toolset small, giving each tool a precise name and description, and minimizing the inputs and outputs the model has to handle. At Stainless, they also often add a JSON filter on top to strip out unnecessary data.\n- Make complex APIs manageable with dynamic mode. To solve the problem of how an AI figures out which tool to use in larger APIs, Stainless switches to \"dynamic mode,\" where the model gets only three tools: List the endpoints, pick one and learn about it, and then execute it.\n- MCP servers as business copilots. At Stainless, Alex uses MCP servers to connect tools like @NotionHQ and @HubSpot, so he can ask questions like, \"Which customers signed up last week?\" The system queries multiple databases and returns a summary that would've otherwise taken multiple logins and searches.\n- Create a \"brain\" for your company with Claude Code. Alex built a shared company brain at Stainless by keeping Claude Code running on his system and asking it to save useful inputs—like customer feedback and SQL queries—into GitHub. Over time, this creates a curated archive his team can query easily.\n- The future of MCP is code execution. Instead of giving models hundreds of tools, Alex believes the most powerful setup will be a simple code execution tool and a doc search tool. The AI writes code against an API's SDK, runs it on a server, and checks the docs when it gets stuck.\n\nThis is a must-watch for anyone who wants to understand MCP—and learn how to use them as a competitive edge.\n\nWatch below!\n\nTimestamps\nIntroduction: 00:01:15\nAPIs and MCP, the connectors of the new internet: 00:05:09\nWhy MCP exists: 00:11:00\nWhy MCP servers are hard to get right: 00:17:15\nDesign principles for reliable MCP servers: 00:20:24\nUsing MCP for business ops at Stainless: 00:25:06\nAlex’s take on the security model for MCP: 00:40:57\nHow one-off AI actions become permanent production software: 00:44:42",
+    "date": "2026-05-20T15:34:31.000Z",
+    "title_cn": "Anthropic 刚刚收购了开发者工具初创公司 @StainlessAPI，其最大的客户是 OpenAI 和 Google。\n\n早在 10 月份，Stainless 首席执行官兼创始人 Alex Rattray (@RattrayAlex) 在 AI & I 上谈论了 MCP 服务器以及使 AI 代理实际工作的单调管道。 （披露：我是该公司的小投资者。）周一的新闻发布后，谈话的内容有所不同——其中，Alex 基本上向我介绍了构建 API、SDK 和 MCP 服务器的设计思维，据报道 Anthropic 为此支付了 3 亿美元。\n\n在 @every 的 AI & I 中，我们探讨了 MCP 和 AI 原生互联网的未来。\n\n亮点包括：\n- 将 MCP 服务器设计得精简且精确。 Alex 构建可靠的 MCP 服务器的最佳实践首先是保持工具集较小，为每个工具提供精确的名称和描述，并最大限度地减少模型必须处理的输入和输出。在不锈钢，他们还经常在顶部添加一个 JSON 过滤器来删除不必要的数据。\n- 通过动态模式使复杂的 API 变得易于管理。为了解决人工智能如何确定在较大的 API 中使用哪个工具的问题，Stainless 切换到“动态模式”，其中模型仅获得三种工具：列出端点，选择一个并了解它，然后执行它。\n- MCP 服务器作为业务副驾驶。在Stainless，Alex 使用 MCP 服务器连接 @NotionHQ 和 @HubSpot 等工具，这样他就可以提出诸如“哪些客户上周注册了？”之类的问题。系统查询多个数据库并返回一个摘要，否则需要多次登录和搜索。\n- 使用 Claude Code 为您的公司打造“大脑”。 Alex 通过让 Claude Code 在他的系统上运行并要求其将有用的输入（例如客户反馈和 SQL 查询）保存到 GitHub 中，在不锈钢中建立了一个共享的公司大脑。随着时间的推移，这将创建一个他的团队可以轻松查询的精选档案。\n- MCP 的未来是代码执行。 Alex 认为，最强大的设置将是一个简单的代码执行工具和一个文档搜索工具，而不是为模型提供数百种工具。 AI 根据 API 的 SDK 编写代码，在服务器上运行它，并在遇到问题时检查文档。\n\n对于想要了解 MCP 并学习如何利用它们作为竞争优势的人来说，这是必看的内容。\n\n往下看！\n\n时间戳\n简介：00:01:15\nAPI 和 MCP，新互联网的连接器：00:05:09\n为什么 MCP 存在：00:11:00\n为什么 MCP 服务器很难正确使用：00:17:15\n可靠的 MCP 服务器的设计原则：00:20:24\n在不锈钢中使用 MCP 进行业务运营：00:25:06\nAlex 对 MCP 安全模型的看法：00:40:57\n一次性人工智能操作如何成为永久性的生产软件：00:44:42"
+  },
+  {
+    "url": "https://x.com/swyx/status/2057119153337545096",
+    "type": "x",
+    "name": "Swyx",
+    "title": "very belated but in retrospect i think @sama's mythical \"build a business that gets better when models get better\" is basically what I called Agent Labs here.\n\nseeing a very direct correlation with model performance and agent lab revenue, discontinuity in Q4 2025\n\n(clip from @patrickc's stripe sessions)",
+    "date": "2026-05-20T15:20:00.000Z",
+    "title_cn": "很晚了，但回想起来，我认为 @sama 神话般的“当模型变得更好时，建立一个变得更好的企业”基本上就是我在这里所说的代理实验室。\n\n发现与模型性能和代理实验室收入有非常直接的相关性，2025 年第四季度出现不连续性\n\n（来自 @patrickc 的条纹会议的剪辑）"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2057090887268643187",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "When Kendall buys Vaulter https://t.co/94oGqm6uQD",
+    "date": "2026-05-20T13:27:41.000Z",
+    "title_cn": "当肯德尔购买 Vaulter 时 https://t.co/94oGqm6uQD"
+  },
+  {
+    "url": "https://x.com/steipete/status/2057040636449116222",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.",
+    "date": "2026-05-20T10:08:00.000Z",
+    "title_cn": "无法推荐@cotypist https://t.co/QUKTyTo1bh 足够。自动完成无处不在。"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "type": "blog",
+    "name": "Anthropic Engineering",
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+    "date": "2026-05-20T07:32:33.374Z",
+    "title_cn": "扩展托管代理：将大脑与双手分离"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056999228405346812",
+    "type": "x",
+    "name": "Swyx",
+    "title": "oh no contextual got windsurfed https://t.co/Q4dM8h71bE",
+    "date": "2026-05-20T07:23:27.000Z",
+    "title_cn": "哦，没有上下文得到风帆冲浪 https://t.co/Q4dM8h71bE"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056976600294650266",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Still absolutely amazed I got to be on a pod with Rick Rubin right after Clown from Slipknot\n\nCode can be art too https://t.co/vaBCYQeDCh",
+    "date": "2026-05-20T05:53:32.000Z",
+    "title_cn": "仍然非常惊讶我在《活结》的《小丑》之后就能够和里克·鲁宾一起在一个豆荚里\n\n代码也可以是艺术 https://t.co/vaBCYQeDCh"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056967665001082919",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Weird quirk of history: I worked at Microsoft in 2003-2005 when they were trying to make WinFS work\n\nI guess with LLMs, WinFS can happen now, and it's called GBrain https://t.co/lTlngDwOFL",
+    "date": "2026-05-20T05:18:02.000Z",
+    "title_cn": "历史上的怪事：我在 2003-2005 年在微软工作，当时他们试图让 WinFS 工作\n\n我想有了法学硕士，WinFS 现在就可以实现，它被称为 GBrain https://t.co/lTlngDwOFL"
+  },
+  {
+    "url": "https://x.com/levie/status/2056965292753146019",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Token costs will become a dominant topic in enterprises going forward with AI. Just got out of a dinner with many Fortune 500 enterprise CIOs and this was the most heated topic. \n\nA mix of strategies are being employed, but basically no one feels like they have the right solution. A mix of: figuring out how to prioritize workloads to different models, giving out access to better or worse agents by user type, setting different spend caps by team, having teams justify AI by their use-case, and some just having unfettered access.\n\nEveryone is trying to figure out a semi/predictable model right now in a world where the underlying tech and cost models are constantly evolving.",
+    "date": "2026-05-20T05:08:37.000Z",
+    "title_cn": "代币成本将成为企业推进人工智能的主要话题。刚和众多世界500强企业的CIO吃完饭，这是最热门的话题。 \n\n人们正在采用多种策略，但基本上没有人觉得自己拥有正确的解决方案。包括：弄清楚如何对不同模型的工作负载进行优先级排序，根据用户类型授予更好或更差代理的访问权限，按团队设置不同的支出上限，让团队根据其用例证明人工智能的合理性，以及一些团队拥有不受限制的访问权限。\n\n现在，在底层技术和成本模型不断发展的世界中，每个人都在试图找出一个半/可预测的模型。"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056953057066598805",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Met a lot of great folks at Google IO @gregisenberg @alliekmiller @AlexFinn \n\nOne thing I think about often living both the PM and creator life is I don’t want to be just an “influencer” wielding a selfie cam.\n\nI want to be a builder and share my learnings (and mistakes) with you all.\n\nCannot let the builder muscle atrophy.",
+    "date": "2026-05-20T04:19:59.000Z",
+    "title_cn": "在 Google IO @gregisenberg @alliekmiller @AlexFinn 遇到了很多很棒的人 \n\n我经常想到的一件事是，我不想只是一个拿着自拍相机的“影响者”。\n\n我想成为一名建设者并与大家分享我的经验（和错误）。\n\n不能让建设者肌肉萎缩。"
+  },
+  {
+    "url": "https://x.com/sama/status/2056933166875857290",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "i am excited to see what will happen with tokenmaxxing startups, both for how they work internally and the products they can build.\n\nopenai offered to invest $2M in tokens into every startup in the current yc batch.\n\nhappy building! https://t.co/YSHYJoutuf",
+    "date": "2026-05-20T03:00:57.000Z",
+    "title_cn": "我很高兴看到 tokenmaxxing 初创公司会发生什么，无论是他们的内部工作方式还是他们可以构建的产品。\n\nopenai 提出向当前 yc 批次中的每家初创公司投资 200 万美元的代币。\n\n快乐建设！ https://t.co/YSHYJoutuf"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056931642967798226",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Tokenmaxxing confirmed https://t.co/aBUlc7asSg",
+    "date": "2026-05-20T02:54:54.000Z",
+    "title_cn": "Tokenmaxxing 已确认 https://t.co/aBUlc7asSg"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056927645657641378",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "The man just speaks to me with everything he says:\n\n“Just try a lot and build to learn”\n\n“You need to do 3-4 iterations to find what takes off and what doesn’t.”\n\n“We only have a 90 day roadmap and maybe if we are lucky it’s 120 days.”\n\n“I don’t know if we’ll ever go back to 1 year roadmaps. I haven’t been working on one of those in 5 years.”",
+    "date": "2026-05-20T02:39:01.000Z",
+    "title_cn": "那个人只是用他所说的一切来跟我说话：\n\n“只要多尝试，不断学习”\n\n“你需要进行 3-4 次迭代才能找到哪些成功，哪些失败。”\n\n“我们只有 90 天的路线图，如果幸运的话可能是 120 天。”\n\n“我不知道我们是否会回到 1 年路线图。我已经 5 年没有从事过其中任何一个路线图了。”"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056910185650856446",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Talking to the Head of Gemini app in 5 min at Google, what should I ask him?",
+    "date": "2026-05-20T01:29:38.000Z",
+    "title_cn": "与 Google 的 Gemini 应用程序负责人进行 5 分钟交谈，我应该问他什么？"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056892527626817935",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "i now use:\nComposer 2.5 for planning\nComposer 2.5 for building &amp; iterations\nComposer 2.5 for debugging\n\na great all-rounder, especially for UI work – gets you in flow with Design Mode in Cursor https://t.co/Svnmx4PjFC",
+    "date": "2026-05-20T00:19:28.000Z",
+    "title_cn": "我现在使用：\nComposer 2.5 用于规划\nComposer 2.5 用于构建和构建迭代\n用于调试的 Composer 2.5\n\n一个伟大的多面手，特别是对于 UI 工作 – 让您在光标中使用设计模式 https://t.co/Svnmx4PjFC"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056878599333102053",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "turn the backlog into reality\njust @cursor_ai in jira ☑️ https://t.co/NQ1nUclPkG",
+    "date": "2026-05-19T23:24:07.000Z",
+    "title_cn": "将积压变为现实\n只是 jira 中的 @cursor_ai ☑️ https://t.co/NQ1nUclPkG"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056877529991205072",
+    "type": "x",
+    "name": "Swyx",
+    "title": "there's 4 parts to this AI SDLC\n\n1. have ~50 tests in place, with instructions to add more, including \"make a memory that whenever you do browser e2e tests, use computer vision to visually spot check design and ux issues as well on mobile/desktop/ipad/ultrawide resolutions\"\n\n2. \"/plan break up & edit hot paths so you isolate files for easier editing and reading. add proper logging and error boundaries/handling while you do it.  what else should we refactor for maintainability/performance/ai editing?\"\n\n3. (with plan) \"you can break backward compatibility.  first map out all the remaining work, then proceed on this next slice, do not stop until all work is done, periodically stop to commit, deploy and test but do not stop until all work is done\"\n\n4. [periodically spot check deployed functionality and /steer bugs as it goes along]",
+    "date": "2026-05-19T23:19:52.000Z",
+    "title_cn": "此 AI SDLC 有 4 个部分\n\n1. 进行了大约 50 项测试，并附有添加更多测试的说明，包括“记住，每当您进行浏览器 e2e 测试时，请使用计算机视觉来直观地检查设计和用户体验问题以及移动/桌面/ipad/超宽分辨率”\n\n2.“/plan 分解和编辑热路径，以便隔离文件以便于编辑和阅读。在执行此操作时添加适当的日志记录和错误边界/处理。我们还应该重构哪些内容以实现可维护性/性能/人工智能编辑？”\n\n3.（有计划）“你可以破坏向后兼容性。首先规划出所有剩余的工作，然后继续进行下一个切片，直到完成所有工作才停止，定期停止提交、部署和测试，但直到完成所有工作才停止”\n\n4. [定期抽查已部署的功能并/引导错误]"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2056873495116845485",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Introducing Gemini Spark!\n\nOur 24/7 personal AI agent designed to proactively manage tasks and help you navigate your digital life, all under your direction.\n\nComing to trusted testers this week, and as a Beta for US Google AI Ultra subscribers next week! https://t.co/EUjmR4HYdl",
+    "date": "2026-05-19T23:03:50.000Z",
+    "title_cn": "介绍双子座火花！\n\n我们的 24/7 个人人工智能代理旨在主动管理任务并帮助您驾驭数字生活，一切都在您的指导下。\n\n本周将向值得信赖的测试人员开放，下周将作为美国 Google AI Ultra 用户的测试版！ https://t.co/EUjmR4HYdl"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2056872996988756228",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "Have you explored Project Genie yet? 🌎 We just launched a huge set of updates! You can now simulate worlds grounded in @GoogleMaps Street View, manage your creations in a new library, and share them externally. Let's dive in:\n\n1️⃣ Street View Grounding: You can now generate worlds starting from real places! Just tap the Maps pin to choose a location in the US and you can pick a style like \"Desert Sands\" or \"Ocean World.\" Describe your character, and Genie ties your starting location to real-world imagery.\n\n2️⃣ Library: You can now store and organize your generated worlds. Easily explore past creations or remix your favorites to iterate on your ideas.\n\n3️⃣ External sharing: You can now share your generated worlds. Anyone can watch a video preview of your world, and Ultra subscribers can explore or remix them. Check out a shared world here: https://t.co/kmqi5t6yTW\n\n✨ And now, Project Genie is gradually rolling out to all eligible Google AI Ultra subscribers globally (18+). Jump in and start creating today!",
+    "date": "2026-05-19T23:01:51.000Z",
+    "title_cn": "您探索过 Project Genie 了吗？ 🌎 我们刚刚推出了大量更新！您现在可以模拟基于 @GoogleMaps Street View 的世界，在新库中管理您的创作，并在外部共享它们。让我们深入探讨：\n\n1️⃣ 街景基础：您现在可以从真实的地方开始生成世界！只需点击地图图钉即可选择美国的位置，然后您就可以选择“沙漠金沙”或“海洋世界”等样式。描述您的角色，Genie 会将您的起始位置与现实世界的图像联系起来。\n\n2️⃣ 图书馆：您现在可以存储和组织您生成的世界。轻松探索过去的创作或重新混合您最喜欢的作品以迭代您的想法。\n\n3️⃣ 外部共享：您现在可以共享您生成的世界。任何人都可以观看您的世界的视频预览，Ultra 订阅者可以探索或重新混合它们。在这里查看共享世界：https://t.co/kmqi5t6yTW\n\n✨ 现在，Project Genie 正在逐步向全球所有符合条件的 Google AI Ultra 订阅者（18 岁以上）推出。今天就加入并开始创作吧！"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056865808832397344",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Even in the AI pilled crowd of the Bay Area, I think VERY few people have priced in the fact that we have already gone from assistant -> coworker -> and soon entering autonomous workers.. \n\nYes, \"autonomy\" truly doesn't work yet, but the harnesses and the model capabilities are going to get us there within this area for a large faction of jobs.  \n\nThis is quite evident from a) labs desire to collect long horizon task data in RL environments b) these model harnesses allowing longer and longer tasks (see /goal or Droid Missions) and c) how good these models are able to recursively correct its mistakes. \n\nAI has officially entered the diffusion era (not diffusion models) where models just need to be diffused in everything they do. And that will take the next 10-20 years or as I call it the last mile of the last mile.",
+    "date": "2026-05-19T22:33:18.000Z",
+    "title_cn": "即使在湾区的人工智能人群中，我认为也很少有人考虑到我们已经从助理 -> 同事 -> 很快进入自主工作者这一事实。 \n\n是的，“自主性”确实还行不通，但线束和模型功能将使我们在这一领域完成大量工作。  \n\n这从 a) 实验室希望在 RL 环境中收集长期任务数据 b) 这些模型利用允许越来越长的任务（参见 /goal 或 Droid Missions）以及 c) 这些模型能够递归地纠正其错误的能力来看，这一点非常明显。 \n\n人工智能已经正式进入扩散时代（不是扩散模型），模型只需要在它们所做的一切中扩散。这将需要未来 10-20 年的时间，或者我称之为最后一英里的最后一英里。"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056843158965858380",
+    "type": "x",
+    "name": "Thariq",
+    "title": "Now also on the Claude Blog: https://t.co/EHu7smfCqX",
+    "date": "2026-05-19T21:03:18.000Z",
+    "title_cn": "现在也在克劳德博客上：https://t.co/EHu7smfCqX"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2056838729667649571",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Glad you like it! https://t.co/pg2WVWj44I",
+    "date": "2026-05-19T20:45:42.000Z",
+    "title_cn": "很高兴你喜欢它！ https://t.co/pg2WVWj44I"
+  },
+  {
+    "url": "https://x.com/sama/status/2056834734915977382",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "we will offer this until we sell out of our current allocation for this program. (we will make sure to leave enough capacity for ChatGPT, Codex, etc.)\n\nwe plan to offer it again in the future; our intention remains to build as much compute as fast as we can.",
+    "date": "2026-05-19T20:29:49.000Z",
+    "title_cn": "我们将提供此服务，直到我们售完该计划的当前分配为止。 （我们将确保为ChatGPT、Codex等留出足够的容量）\n\n我们计划将来再次提供；我们的目的仍然是尽可能快地构建尽可能多的计算。"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2056834038946775343",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Genuinely impressive release by Google today (remember when they were behind?)\n\nGemini 3.5 Flash perf:\n* Building on prior strengths (83.6% of MMMU-Pro for multimodal), \n* big jump on agentic coding (76.2% on Terminal-Bench for agentic coding and 56.5% on Toolathon for real world tasks)\n* progress and expert tasks (57.9% on Finance Agent 2... we are cooked)\n* leading scores across SWE-Bench, OSWorld etc. \n\n(also, elegant to bold the top scores in the chart below even if when it's not Google leading)\n\nOfc, just benchmarks, and also not cheap  (~$9/M output), but Google is cookin'... we are all so spoiled to have the 3 labs compete",
+    "date": "2026-05-19T20:27:03.000Z",
+    "title_cn": "谷歌今天发布了令人印象深刻的版本（还记得他们落后的时候吗？）\n\nGemini 3.5 闪存性能：\n* 建立在先前的优势之上（多式联运的 MMMU-Pro 为 83.6%）， \n* 代理编码的大幅跃升（代理编码的 Terminal-Bench 为 76.2%，现实世界任务的 Toolathon 为 56.5%）\n* 进度和专家任务（财务代理 2 上 57.9%...我们已经熟了）\n* 在 SWE-Bench、OSWorld 等方面的领先分数 \n\n（另外，即使不是谷歌领先，也可以优雅地将下表中的最高分加粗）\n\nOfc，只是基准测试，而且也不便宜（~$9/M 产出），但 Google 正在烹饪……我们都太喜欢让 3 个实验室竞争了"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2056830338110996909",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Glad you like it! We have more accents coming! :) https://t.co/6s7rZEezZO",
+    "date": "2026-05-19T20:12:21.000Z",
+    "title_cn": "很高兴你喜欢它！我们还会有更多口音！ :) https://t.co/6s7rZEezZO"
+  },
+  {
+    "url": "https://x.com/sama/status/2056827105401614656",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "customers are increasingly asking us for certainty on capacity. as models get better, we expect that the world will be capacity-constrained for some time.\n\nwe are offering discounted tokens for 1-3 year commits.\n\n(it also helps us plan, so hopefully a big win-win.) https://t.co/IEQQeumWnT",
+    "date": "2026-05-19T19:59:30.000Z",
+    "title_cn": "客户越来越多地要求我们确定容量。随着模型变得更好，我们预计世界将在一段时间内受到容量限制。\n\n我们为 1-3 年承诺提供折扣代币。\n\n（它也有助于我们进行计划，因此希望能实现双赢。）https://t.co/IEQQeumWnT"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2056813720257663354",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "Happy anniversary, @FlowbyGoogle! From text-to-video to Omni, agent, and Tools - what a ride it has been. 🚀\n\nKeep pushing the boundaries! On to year two. ⚡ https://t.co/3Hh0kRdLP6",
+    "date": "2026-05-19T19:06:19.000Z",
+    "title_cn": "周年纪念快乐，@FlowbyGoogle！从文本到视频到 Omni、代理和工具 - 这是一次多么美妙的旅程。 🚀\n\n不断突破界限！到了第二年。 ⚡ https://t.co/3Hh0kRdLP6"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2056812957775142985",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "Finally: Computational Discovery, powered by AlphaEvolve & our Empirical Research Agent (ERA).\n\nThis agentic research engine generates and evaluates thousands of code variations, unlocking invaluable data to help discover advanced models and algorithms in a fraction of the time. Explore these tools at: https://t.co/hOcUC2gmUL",
+    "date": "2026-05-19T19:03:17.000Z",
+    "title_cn": "最后：计算发现，由 AlphaEvolve 和我们的实证研究代理 (ERA) 提供支持。\n\n这个代理研究引擎生成并评估数千种代码变体，释放宝贵的数据，帮助在短时间内发现先进的模型和算法。探索这些工具：https://t.co/hOcUC2gmUL"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056805730359931007",
+    "type": "x",
+    "name": "Claude",
+    "title": "From The Problem Solvers, a new series featuring founders taking on hard problems with Claude: https://t.co/lXWwc2eHPe",
+    "date": "2026-05-19T18:34:34.000Z",
+    "title_cn": "来自“问题解决者”的新系列，其中创始人与 Claude 一起解决难题：https://t.co/lXWwc2eHPe"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056805728774402428",
+    "type": "x",
+    "name": "Claude",
+    "title": "Scott Wu (@ScottWu46) runs @cognition, the team behind Devin, an AI software engineer built on Claude. \n\nHe wants to make building software 10x faster for every engineering team: https://t.co/5AKOp2vXE6",
+    "date": "2026-05-19T18:34:33.000Z",
+    "title_cn": "Scott Wu (@ScottWu46) 运营着 @cognition，该团队是 Devin 背后的团队，Devin 是一位基于 Claude 的人工智能软件工程师。 \n\n他希望每个工程团队的软件构建速度提高 10 倍：https://t.co/5AKOp2vXE6"
+  },
+  {
+    "url": "https://x.com/levie/status/2056804573449474527",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Gemini 3.5 Flash is out, and it's a major jump over Gemini 3 Flash in model capability for knowledge work. We've been evaluating it on our Box AI Complex Work Eval in early release, and the model delivers a 12 percentage point jump on complex document tasks.\n\nFor testing this model, we give the Box AI Agent (using Gemini 3.5) complex problems to solve that represent common but difficult knowledge worker tasks in banking, consulting, public sector, healthcare, and other industries. These tasks can be things like drafting reports, doing due diligence, and more, given a set of relevant documents.\n\nIn our tests, Gemini 3.5 Flash delivered jumps across every industry, including:\n\n* Financial services: 81% vs 73% (+8pp) \n* Public sector: 76% vs 59%, (+17pp) \n* Healthcare: 73% vs 51%, (+22pp) \n* Life Sciences: 67% vs 47%, (+20pp)\n\nIncredible to see the continued performance gains. \n\nGemini 3.5 Flash will be available soon in Box AI Studio and through the Box API. The Box MCP Server will soon be available in the Gemini app with more details to come.",
+    "date": "2026-05-19T18:29:58.000Z",
+    "title_cn": "Gemini 3.5 Flash 已推出，在知识工作的模型能力方面比 Gemini 3 Flash 有了重大飞跃。我们一直在早期版本的 Box AI Complex Work Eval 上对其进行评估，该模型在复杂文档任务方面的性能提升了 12 个百分点。\n\n为了测试这个模型，我们给 Box AI Agent（使用 Gemini 3.5）提供了复杂的问题来解决这些问题，这些问题代表了银行、咨询、公共部门、医疗保健和其他行业中常见但困难的知识工作者任务。这些任务可以是起草报告、进行尽职调查等，并提供一组相关文件。\n\n在我们的测试中，Gemini 3.5 Flash 在各个行业中都实现了飞跃，包括：\n\n* 金融服务：81% vs 73% (+8pp) \n* 公共部门：76% vs 59%，（+17 个百分点） \n* 医疗保健：73% vs 51%，（+22 个百分点） \n* 生命科学：67% vs 47%，（+20pp）\n\n令人难以置信的是看到性能的持续提升。 \n\nGemini 3.5 Flash 即将在 Box AI Studio 中并通过 Box API 提供。 Box MCP 服务器很快将在 Gemini 应用程序中提供，并提供更多详细信息。"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056802789477740713",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We’re shipping a CDN pricing model that “smooths over” traffic spikes and viral events.\n\nThis allows us to remove stress and surprises, with uncompromising quality and network performance. \n\nPredictability without slow routes, degraded PoPs, or priority bandwidth tiers. https://t.co/WFV4kfd0b3",
+    "date": "2026-05-19T18:22:53.000Z",
+    "title_cn": "我们正在推出一种 CDN 定价模型，可以“平滑”流量峰值和病毒式事件。\n\n这使我们能够消除压力和意外，并提供不妥协的质量和网络性能。 \n\n可预测性，无需慢速路由、降级 PoP 或优先带宽层。 https://t.co/WFV4kfd0b3"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056790880120713432",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Alternate take\n\nhttps://t.co/zqIZn1oZ4j",
+    "date": "2026-05-19T17:35:33.000Z",
+    "title_cn": "替代拍摄\n\nhttps://t.co/zqIZn1oZ4j"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056790544731484358",
+    "type": "x",
+    "name": "Swyx",
+    "title": "rsi is here. jesus\n\nhttps://t.co/XYlFDZLFWL",
+    "date": "2026-05-19T17:34:13.000Z",
+    "title_cn": "rsi 在这里。耶稣\n\nhttps://t.co/XYlFDZLFWL"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056777922757730555",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Very excited to speak at this! https://t.co/phWSzC2r2K",
+    "date": "2026-05-19T16:44:04.000Z",
+    "title_cn": "很高兴能在此发言！ https://t.co/phWSzC2r2K"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056777186062032964",
+    "type": "x",
+    "name": "Thariq",
+    "title": "the future is bright, lets get to work https://t.co/5FAEtCQnKr",
+    "date": "2026-05-19T16:41:08.000Z",
+    "title_cn": "未来是光明的，让我们开始工作吧 https://t.co/5FAEtCQnKr"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056762096352649421",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "what did karpathy see",
+    "date": "2026-05-19T15:41:11.000Z",
+    "title_cn": "卡帕蒂看到了什么"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2056759042333147467",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Breaking: Anthropic attains sainthood, officially annointed by AI Jesus https://t.co/0Sx0Fwzl9V",
+    "date": "2026-05-19T15:29:03.000Z",
+    "title_cn": "突发：人类获得圣职，由人工智能耶稣正式任命 https://t.co/0Sx0Fwzl9V"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056757317907988900",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "WOW https://t.co/iEswCL7DE5",
+    "date": "2026-05-19T15:22:11.000Z",
+    "title_cn": "哇 https://t.co/iEswCL7DE5"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056755713830171023",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Earthquake.. well not literally, but wow 🔥 https://t.co/OUinVMNlox",
+    "date": "2026-05-19T15:15:49.000Z",
+    "title_cn": "地震.. 不是字面意思，但是哇 🔥 https://t.co/OUinVMNlox"
+  },
+  {
+    "url": "https://x.com/karpathy/status/2056753169888334312",
+    "type": "x",
+    "name": "Andrej Karpathy",
+    "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.",
+    "date": "2026-05-19T15:05:42.000Z",
+    "title_cn": "个人更新：我已加入 Anthropic。我认为法学硕士前沿的未来几年将尤其具有影响力。我很高兴能加入这里的团队并回到研发部门。我仍然对教育充满热情，并计划及时恢复我的工作。"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2056747510736249162",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "The future is bright. \n\nWe will have amazing things at the intersection of AI+Atoms. https://t.co/fPQyca3H0i",
+    "date": "2026-05-19T14:43:13.000Z",
+    "title_cn": "未来是光明的。 \n\n在人工智能+原子的交叉点上，我们将会创造出令人惊奇的事物。 https://t.co/fPQyca3H0i"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056735989830471977",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Claude Managed Agents 🤝 Vercel Sandbox\nhttps://t.co/pW6iGH63MG https://t.co/qa5xN4sMGN",
+    "date": "2026-05-19T13:57:26.000Z",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056734559048536070",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This is so cool: rerun​.io\nStack: @sveltejs / @threejs / @vercel  https://t.co/5HtPFnLmmG",
+    "date": "2026-05-19T13:51:45.000Z",
+    "title_cn": "这太酷了：rerun​.io\n堆栈：@sveltejs / @ Threejs / @vercel https://t.co/5HtPFnLmmG"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056645493493575681",
+    "type": "x",
+    "name": "Claude",
+    "title": "Try self-hosted sandboxes today on the Claude Platform, and request access to MCP tunnels: https://t.co/S9VJ8F64dq",
+    "date": "2026-05-19T07:57:50.000Z",
+    "title_cn": "立即在 Claude 平台上尝试自托管沙箱，并请求访问 MCP 隧道：https://t.co/S9VJ8F64dq"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "type": "blog",
+    "name": "Anthropic Engineering",
+    "title": "An update on recent Claude Code quality reports",
+    "date": "2026-05-19T07:32:47.589Z",
+    "title_cn": "最近克劳德代码质量报告的更新"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056626964090466469",
+    "type": "x",
+    "name": "Swyx",
+    "title": "taking bets for vercel and supabase rn https://t.co/uLAaY5VGw3",
+    "date": "2026-05-19T06:44:13.000Z",
+    "title_cn": "为 vercel 和 supabase rn 下注 https://t.co/uLAaY5VGw3"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056588601216168168",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "OK I guess we're going pretty fast improving GBrain day to day right now https://t.co/gD7aT2DyLN",
+    "date": "2026-05-19T04:11:46.000Z",
+    "title_cn": "好吧，我想我们现在每天都在快速改进 GBrain https://t.co/gD7aT2DyLN"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056584641654751308",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Also 28 bug fixes landing in a single bug fix wave that rolls up 22 community PRs and 14 issues https://t.co/Y9k2EHpkjx",
+    "date": "2026-05-19T03:56:02.000Z",
+    "title_cn": "此外，在一次错误修复浪潮中还修复了 28 个错误，该修复浪潮汇总了 22 个社区 PR 和 14 个问题 https://t.co/Y9k2EHpkjx"
+  },
+  {
+    "url": "https://x.com/levie/status/2056574979236409521",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "This is true of all agents, not just coding agents. Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. \n\nToo much information or conflicting sources, and the agent can easily draw from the data and produce the wrong result. Conflicting sources of truth for documents, data sources that haven’t been kept up to date, knowledge management systems that rely on tribal knowledge to navigate, and so on. \n\nOn the other end, of course, too little information and the upside is highly limited of agents in the first place. Thus, a lot of challenges with AI strategies are actually data strategy challenges in disguise. \n\nThis is why there’s such a significant premium on getting structured and unstructured data environments setup properly so agents can work with information effectively. Critical for any large enterprise adopting agents, and also a clear benefit in some cases to startups that can be designed this way from scratch.",
+    "date": "2026-05-19T03:17:39.000Z",
+    "title_cn": "所有代理都是如此，而不仅仅是编码代理。大多数公司在代理策略中遇到的最大挑战可能是为代理提供正确的受限环境来完成任务。 \n\n信息过多或来源相互冲突，代理很容易从数据中提取数据并产生错误的结果。文档的事实来源相互矛盾、数据源未及时更新、依赖部落知识进行导航的知识管理系统等等。 \n\n当然，另一方面，信息太少，代理商的优势首先就非常有限。因此，人工智能策略的许多挑战实际上是变相的数据策略挑战。 \n\n这就是为什么正确设置结构化和非结构化数据环境如此重要，以便代理可以有效地处理信息。对于任何采用代理的大型企业来说都是至关重要的，并且在某些情况下对于可以从头开始设计这种方式的初创公司来说也是一个明显的好处。"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056571771965538501",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Full eval report and fixtures published and open source here https://t.co/uuaaeAYzGI\n\nAny memory system is welcome to run theirs against these evals and I'll publish them alongside. https://t.co/rlIyzIEwZS",
+    "date": "2026-05-19T03:04:54.000Z",
+    "title_cn": "完整的评估报告和装置已在此处发布并开源 https://t.co/uuaaeAYzGI\n\n欢迎任何内存系统针对这些评估运行它们的内存系统，我将同时发布它们。 https://t.co/rlIyzIEwZS"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056566561922826634",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Incredible read. My new favorite thing to send everyone trying to find a new gig! https://t.co/6UzFYMDP7M",
+    "date": "2026-05-19T02:44:12.000Z",
+    "title_cn": "令人难以置信的阅读。我最喜欢的新事情是让每个人都试图寻找新的工作！ https://t.co/6UzFYMDP7M"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056549825018310707",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "All Firewall mitigations are now fully free on @vercel. Not just DDoS and system-level mitigations, but also any rule you configure.\n\nVercel now absorbs the computational and network costs of any size of attack or traffic mitigation for your peace of mind. (And more to come!) https://t.co/6HFqqMvSLW",
+    "date": "2026-05-19T01:37:41.000Z",
+    "title_cn": "所有防火墙缓解措施现在在 @vercel 上完全免费。不仅是 DDoS 和系统级缓解措施，还包括您配置的任何规则。\n\nVercel 现在可以吸收任何规模的攻击或流量缓解的计算和网络成本，让您高枕无忧。 (And more to come!) https://t.co/6HFqqMvSLW"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2056533534614159577",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We 🫶 our Labsters 🦞\n\n“Explain what your product does in 5 words or less.” https://t.co/MNvAOKgR3U",
+    "date": "2026-05-19T00:32:57.000Z",
+    "title_cn": "我们🫶我们的实验室🦞\n\n“用 5 个或更少的单词解释你的产品的用途。” https://t.co/MNvAOKgR3U"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056529233036693722",
+    "type": "x",
+    "name": "Swyx",
+    "title": "volunteer here https://t.co/AXtvjtt8gC !",
+    "date": "2026-05-19T00:15:52.000Z",
+    "title_cn": "在这里做志愿者 https://t.co/AXtvjtt8gC ！"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056527354772722127",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Keep getting this error in Claude Code recently; is it just me or are others getting this too? How to resolve this?\n\nAPI Error: The socket connection was closed unexpectedly. For more information, pass verbose: true in the second argument to fetch()",
+    "date": "2026-05-19T00:08:24.000Z",
+    "title_cn": "最近在 Claude 代码中不断出现此错误；是只有我一个人还是其他人也有这个问题？如何解决这个问题？\n\nAPI 错误：套接字连接意外关闭。有关更多信息，请在 fetch() 的第二个参数中传递 verbose: true"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056478391008977404",
+    "type": "x",
+    "name": "Swyx",
+    "title": "this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise? https://t.co/VTfzaB4NpK https://t.co/3btEcrdV4w",
+    "date": "2026-05-18T20:53:50.000Z",
+    "title_cn": "在一个 2-3 小时的研讨会中，这似乎是完全可行的——任何勇敢的人都想尝试为人们编写此代码作为学习练习吗？ https://t.co/VTfzaB4NpK https://t.co/3btEcrdV4w"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056464721549926414",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "If you have had success with Gbrain/LLM Wiki/other context management techniques for agents, and you're in the Bay Area, would love to invite you to demo at this event!\n\nRSVP: https://t.co/l5tvzeD4V9\n\nCohosted with @NotionHQ @radicalvcfund @juleszqiu https://t.co/AoX69ggU4d",
+    "date": "2026-05-18T19:59:31.000Z",
+    "title_cn": "如果您已成功使用 Gbrain/LLM Wiki/其他代理上下文管理技术，并且您位于湾区，我们很乐意邀请​​您在本次活动中进行演示！\n\n回复：https://t.co/l5tvzeD4V9\n\n与@NotionHQ @radicalvcfund @juleszqiu 共同主办 https://t.co/AoX69ggU4d"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056460045756309820",
+    "type": "x",
+    "name": "Claude",
+    "title": "You can now create more with Claude Design.\n\nWe've doubled token limits across every plan. https://t.co/d2AemkZUxW",
+    "date": "2026-05-18T19:40:56.000Z",
+    "title_cn": "您现在可以使用 Claude Design 创作更多作品。\n\n我们将每个计划的代币限制增加了一倍。 https://t.co/d2AemkZUxW"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056439906390725080",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "…and more to come https://t.co/u3NhbGjBiD",
+    "date": "2026-05-18T18:20:55.000Z",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "url": "https://x.com/sama/status/2056435834333934051",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "chatgpt has gotten soooo much better with the latest update.\n\nreally proud of the team for this one.",
+    "date": "2026-05-18T18:04:44.000Z",
+    "title_cn": "通过最新的更新，chatgpt 已经变得好多了。\n\n为这个团队感到非常自豪。"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056432663125545082",
+    "type": "x",
+    "name": "Thariq",
+    "title": "continuing my HTML era, I had so much fun talking with Claire at Code w/ Claude about staying in the loop with long running agents https://t.co/hRJ8m4hvMn",
+    "date": "2026-05-18T17:52:08.000Z",
+    "title_cn": "继续我的 HTML 时代，我在 Code 中与 Claire 和 Claude 谈论如何与长期运行的代理保持联系 https://t.co/hRJ8m4hvMn"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056431972138815842",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "we'll be publishing a complete guide to codex soon on @every \n\nget notified when it's out: https://t.co/9wRhOCUCAk",
+    "date": "2026-05-18T17:49:23.000Z",
+    "title_cn": "我们很快就会在 @every 上发布完整的法典指南 \n\n发布时收到通知：https://t.co/9wRhOCUCAk"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056431542323257440",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Amazing!! \n\nSo proud of @RattrayAlex and honored to be a tiny investor https://t.co/WzqnBQr8Mf",
+    "date": "2026-05-18T17:47:40.000Z",
+    "title_cn": "惊人的！！ \n\n为@RattrayAlex 感到自豪，并很荣幸成为一名小投资者 https://t.co/WzqnBQr8Mf"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056424176253276558",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "We had an unbelievable tech team and talent overall. Many of them went onto awesome careers.\n\nFounders of Coderpad, Modern Treasury, Maude, amongst others\n\nEPD at Airbnb, Stripe, Apple, Oscar, Google, I’m sure I am missing some. \n\nMany were fist-time PMs and engineers and I’m very grateful to have helped them get started.",
+    "date": "2026-05-18T17:18:24.000Z",
+    "title_cn": "我们拥有一支令人难以置信的技术团队和人才。他们中的许多人都走上了辉煌的职业生涯。\n\nCoderpad、Modern Treasury、Maude 等创始人\n\nAirbnb、Stripe、Apple、Oscar、Google 的 EPD，我确信我遗漏了一些。 \n\n他们中的许多人都是第一次担任产品经理和工程师，我非常感谢能够帮助他们入门。"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056423973123183028",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "A 𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕 your agents will love.\n\nOne of the coolest things about Vercel’s Firewall is how hard the team worked on instant global propagation (~300ms).\n\nImagine if 𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜 took *minutes* to propagate? That’s the average industry CDN/WAF experience!",
+    "date": "2026-05-18T17:17:36.000Z",
+    "title_cn": "您的代理商一定会喜欢的𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕。\n\nVercel 防火墙最酷的事情之一是团队在即时全球传播（约 300 毫秒）方面的努力。\n\n想象一下如果𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜花了*分钟*来传播？这就是行业 CDN/WAF 的平均体验！"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2056418217925456170",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "people should write better books! \n\nthe vast majority of books that get published in this category are slop https://t.co/wSM2ydiTip",
+    "date": "2026-05-18T16:54:44.000Z",
+    "title_cn": "人们应该写更好的书！ \n\n此类别中出版的绝大多数书籍都是草率的 https://t.co/wSM2ydiTip"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056418157305454805",
+    "type": "x",
+    "name": "Thariq",
+    "title": "okay this is going kinda viral and tbh my original text was kind of messy, so here's a second pass with the help of Claude:\n\n--\nImplement <SPEC>. As you work maintain a running implementation-notes.html file that captures anything I should know about how the implementation diverges from or interprets the spec, including:\n\n- Design decisions: choices you made where the spec was ambiguous\n- Deviations: places where you intentionally departed from the spec, and why\n- Tradeoffs:  alternatives you considered and why you picked what you did\n- Open questions: anything you'd want me to confirm or revise",
+    "date": "2026-05-18T16:54:29.000Z",
+    "title_cn": "好吧，这有点像病毒一样传播，而且我的原始文本有点混乱，所以这是在克劳德的帮助下的第二次传递：\n\n--\n实施<规范>。当您工作时，维护一个正在运行的implementation-notes.html 文件，该文件捕获我应该知道的有关实现如何偏离或解释规范的所有信息，包括：\n\n- 设计决策：您在规范不明确的情况下做出的选择\n- 偏差：您故意偏离规范的地方以及原因\n- 权衡：您考虑的替代方案以及您选择这样做的原因\n- 开放性问题：您希望我确认或修改的任何问题"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2056417715448156276",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "frontier smart\nextremely efficient\nComposer 2.5 is here https://t.co/XUNqfFnSw7",
+    "date": "2026-05-18T16:52:44.000Z",
+    "title_cn": "前沿智能\n极其高效\nComposer 2.5 在这里 https://t.co/XUNqfFnSw7"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056416726783566223",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Something else that's fairly underrated is that the entire middle category got obliterated during covid\n\nYou're either wearing basics bordering on pajamas to bum around at home or flashy high-end stuff to flex on Instagram. No one was really looking for a nice button-down shirt and chinos.",
+    "date": "2026-05-18T16:48:48.000Z",
+    "title_cn": "另一件被相当低估的事情是，整个中间类别在新冠疫情期间被消灭了\n\n你要么穿着基本款睡衣在家里闲逛，要么穿着华丽的高端衣服在 Instagram 上展示。没有人真正在寻找一件漂亮的系扣衬衫和斜纹棉布裤。"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056415974568710421",
+    "type": "x",
+    "name": "Thariq",
+    "title": "as much as you spec there are always still ambiguities and unknown unknowns that come up and this gives the model a good out to make decisions but keep you in the loop",
+    "date": "2026-05-18T16:45:49.000Z",
+    "title_cn": "正如您所指定的那样，总会出现歧义和未知的未知情况，这为模型提供了很好的决策空间，但让您随时了解情况"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2056407656898896214",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "I haven’t worked at Everlane in almost 10 years but it’s a pretty sad day for the people that built it. \n\nUltimately, the thing that did it in was the pandemic — Everlane was mainly wear-to-work and that market basically disappeared overnight. \n\nIt took some pretty egregious financing terms to get through it all and this is the ultimate outcome. \n\nBrands have a funny way of sticking around though. At one point, Ray-Ban was dead. J.Crew was dead. Madewell was dead. Abercrombie and Fitch was dead. \n\nThey all come roaring back decades later after exchanging ownership half a dozen times. \n\nI look forward to the day that my children and grandchildren think this new brand “Everlane” is the coolest thing.\n\nI will say to them, did you know that this started it out as a Pinterest competitor and pivoted to be a fashion brand? And they will say to me “that’s boring Dad”.",
+    "date": "2026-05-18T16:12:46.000Z",
+    "title_cn": "我已经快 10 年没有在 Everlane 工作了，但这对于建造它的人来说是非常悲伤的一天。 \n\n最终，造成这种情况的是大流行——Everlane 主要是工作服，而这个市场基本上在一夜之间消失了。 \n\n我们花了一些相当令人震惊的融资条款才完成这一切，这就是最终的结果。 \n\n不过，品牌有一种有趣的方式来坚持下去。雷朋一度死了。 J·克鲁死了。马德韦尔死了。阿伯克龙比和菲奇死了。 \n\n几十年后，在交换所有权六次后，它们都卷土重来。 \n\n我期待有一天我的子孙们会认为这个新品牌“Everlane”是最酷的东西。\n\n我会对他们说，你知道吗，这家公司最初是作为 Pinterest 的竞争对手，后来发展成为一个时尚品牌的？他们会对我说“这很无聊爸爸”。"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056381822733595090",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My top 5 takeaways from @alexalbert__ on how Anthropic is building the next Claude model:\n\n1. Think about the model and harness together\n\nThe model and the harness are coupled. Each surface wraps the model in a different prompt and tool setup, so the same model can give different responses depending on where it runs. As a research PM, Alex has to think through how the model will perform across Claude, Cowork, Claude Code, and more.\n\n2. Claude is starting to dream\n\nWhen an agent isn't running a task, it reviews its own memories, finds contradictions, and prunes them. This “dreaming” process was inspired by how sleep helps humans process memory.\n\n3. Focus evals on real user problems\n\nThe research team uses Claude to cluster the firehose of user feedback into top themes, then generates synthetic versions of each user problem to turn into an eval. It's not just about volume either - even a few dozen well-written test cases can produce an eval for the model.\n\n4. There are full-time researchers thinking about Claude's consciousness\n\nAnthropic has people whose whole job is to think about what it means for Claude to be a conscious actor. There's no official position on whether it is or isn't, but the question is taken seriously as agents take on more autonomous work.\n\n5. Anthropic's writing culture helps Claude build context\n\nEvery written word at Anthropic becomes context Claude can pull later. From Alex: \"Get things written down, make them accessible to Claude, because that's just more context that it has.\"\n\n📌 Watch now: https://t.co/CJAakWq9Nd",
+    "date": "2026-05-18T14:30:06.000Z",
+    "title_cn": "我从 @alexalbert__ 得到的关于 Anthropic 如何构建下一个 Claude 模型的 5 大要点：\n\n1. 一起考虑模型和线束\n\n模型和线束是耦合的。每个表面都将模型包装在不同的提示和工具设置中，因此同一模型可以根据其运行位置给出不同的响应。作为一名研究 PM，Alex 必须考虑模型如何在 Claude、Cowork、Claude Code 等中执行。\n\n2.克劳德开始做梦\n\n当代理不运行任务时，它会检查自己的记忆，发现矛盾并修剪它们。这种“做梦”过程的灵感来自于睡眠如何帮助人类处理记忆。\n\n3. 将评估重点放在实际用户问题上\n\n研究团队使用 Claude 将用户反馈的流水聚类为热门主题，然后生成每个用户问题的综合版本以进行评估。这也不仅仅是数量的问题——即使是几十个编写良好的测试用例也可以对模型进行评估。\n\n4.有专职研究人员思考克劳德的意识\n\n人性化的人的全部工作就是思考克劳德成为一个有意识的演员意味着什么。对于是否存在，目前还没有官方立场，但随着特工承担更多自主工作，这个问题得到了认真对待。\n\n5. Anthropic 的写作文化帮助 Claude 构建语境\n\nAnthropic 的每一个书面文字都成为克劳德可以稍后提取的上下文。来自亚历克斯：“把事情写下来，让克劳德可以理解，因为这只是它拥有的更多背景。”\n\n📌立即观看：https://t.co/CJAakWq9Nd"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056363681798410592",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "“Writes bangers on X, but terrible board member”.. when I recently asked a founder about his board. \n\nToo many investors are trading dopamine for service nowadays. At least do both. \n\nWork hard for your founders. That’s the only “moat” that’ll compound in the long term.",
+    "date": "2026-05-18T13:18:01.000Z",
+    "title_cn": "当我最近向一位创始人询问他的董事会时，“在 X 上写得很糟糕，但董事会成员很糟糕”。 \n\n现在有太多的投资者用多巴胺来换取服务。至少两者都做。 \n\n为你的创始人努力工作。从长远来看，这是唯一能复合的“护城河”。"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2056328149940543808",
+    "type": "x",
+    "name": "Claude",
+    "title": "Next stop: London.\n\nRegister to tune in tomorrow for deep dives, demos, and conversations with the teams behind Claude: https://t.co/6le4bIXvJt https://t.co/sbGHgDaEW5",
+    "date": "2026-05-18T10:56:50.000Z",
+    "title_cn": "下一站：伦敦。\n\n明天注册收听深入探讨、演示以及与 Claude 背后团队的对话：https://t.co/6le4bIXvJt https://t.co/sbGHgDaEW5"
+  },
+  {
+    "url": "https://x.com/levie/status/2056219645796090197",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.\n\nFor instance, if you studied CS, for years the general direction of travel was often to join a tech company and build customer-facing software in some form. A significant portion of the CS pipeline from college to hire was built for this.\n\nWhen you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands.\n\nI was talking to a Fortune 500 pharma CEO a week ago that commented on how much more technical talent they need right now. The job may be different from what it was 5 years ago when thinking about tech, but the demand for the skills are still there. And this is what I’m hearing from every CIO and CEO across nearly every industry right now.\n\nWe definitely need colleges to wake up to this; but we equally need companies think about how they craft pipelines into these jobs.",
+    "date": "2026-05-18T03:45:40.000Z",
+    "title_cn": "目前，某些领域过去受欢迎的工作与这些领域正在变得需求的新工作之间存在暂时的不匹配。\n\n例如，如果您学习计算机科学，多年来，您的总体方向通常是加入一家科技公司并以某种形式构建面向客户的软件。从大学到招聘的 CS 管道的很大一部分就是为此而构建的。\n\n当您意识到人工智能将使编码变得丰富时，您就会意识到每个人都需要技术人才来实施代理系统。这意味着工程师应该考虑的角色类型从根本上扩大了。\n\n一周前，我与一位财富 500 强制药公司首席执行官交谈，他评论说他们现在需要多少技术人才。从技术角度来看，这份工作可能与 5 年前有所不同，但对技能的需求仍然存在。这就是我现在从几乎每个行业的每位首席信息官和首席执行官那里听到的。\n\n我们确实需要大学认识到这一点；但我们同样需要公司考虑如何为这些工作打造管道。"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056210471917912140",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Big week for all my Google friends, I can assure you all they’ve been cooking",
+    "date": "2026-05-18T03:09:13.000Z",
+    "title_cn": "对于我所有的 Google 朋友来说这是重要的一周，我可以向你保证他们一直在做饭"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056201387172843800",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@gabrielchua the agentic excel thing is basically what u get when u expand the side panel to be the main thing\n\nhttps://t.co/mYvd97PpNq",
+    "date": "2026-05-18T02:33:07.000Z",
+    "title_cn": "@gabrielchua 代理 excel 的东西基本上就是当你将侧面板展开为主要的东西时你得到的东西\n\nhttps://t.co/mYvd97PpNq"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2056201218540904667",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The ideal 🪩 doesn't exi… https://t.co/9hlNrJj7pI",
+    "date": "2026-05-18T02:32:27.000Z",
+    "title_cn": "理想的🪩不会消失...... https://t.co/9hlNrJj7pI"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056190797096403162",
+    "type": "x",
+    "name": "Swyx",
+    "title": "some of us doing kaya toast breakfast here at 11am if u are still around\n\nhttps://t.co/zYY3XR5XIm",
+    "date": "2026-05-18T01:51:02.000Z",
+    "title_cn": "如果你还在的话，我们中的一些人上午 11 点在这里做咖椰吐司早餐\n\nhttps://t.co/zYY3XR5XIm"
+  },
+  {
+    "url": "https://x.com/swyx/status/2056184774256112084",
+    "type": "x",
+    "name": "Swyx",
+    "title": "🇸🇬 https://t.co/QdFTkvxrox https://t.co/MkMRCjJcei",
+    "date": "2026-05-18T01:27:06.000Z",
+    "title_cn": "🇸🇬 https://t.co/QdFTkvxrox https://t.co/MkMRCjJcei"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056178065836007853",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Watch the full talk here:\nhttps://t.co/FiUycdqCWD\n\nCheck out my interview with Alex: https://t.co/3t2gRrgrlC\n\nGet the written takeaways: https://t.co/8pk9o3xg17",
+    "date": "2026-05-18T01:00:27.000Z",
+    "title_cn": "在这里观看完整的演讲：\nhttps://t.co/FiUycdqCWD\n\n看看我对亚历克斯的采访：https://t.co/3t2gRrgrlC\n\n获取书面要点：https://t.co/8pk9o3xg17"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2056178053848703019",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "5. Build evals based on real traces + feedback\n\nRead actual customer conversations with your model to build product sense, and use Claude to synthesize feedback into top themes.\n\nDon't run \"eval theater\" on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.",
+    "date": "2026-05-18T01:00:24.000Z",
+    "title_cn": "5. 基于真实痕迹+反馈构建评估\n\n阅读与您的模型的实际客户对话，以构建产品感，并使用 Claude 将反馈综合为热门主题。\n\n不要在通用学术基准上运行“评估剧院”。随着模型变得更加智能，评估需要变得更加困难才能持续产生信号。"
+  },
+  {
+    "url": "https://x.com/sama/status/2056165722804654196",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "ChatGPT Images 2.0 💚 India.\n\nAlready more than 1 billion images created there; awesome to see.",
+    "date": "2026-05-18T00:11:24.000Z",
+    "title_cn": "ChatGPT 图像 2.0 💚 印度。\n\n那里已经创建了超过 10 亿张图像；太棒了。"
+  },
+  {
+    "url": "https://x.com/trq212/status/2056145415867937182",
+    "type": "x",
+    "name": "Thariq",
+    "title": "tired: I brought my work laptop and my personal laptop \n\nwired: I am dual wielding",
+    "date": "2026-05-17T22:50:43.000Z",
+    "title_cn": "累了：我带了工作笔记本电脑和个人笔记本电脑 \n\n有线：我是双持的"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2056132881630826952",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
+    "date": "2026-05-17T22:00:54.000Z",
+    "title_cn": "人们总是高估构建某样东西的难度，却低估了构建完成后赢得人们注意的难度"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2056129724565373406",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "When a multi-billion dollar venture fund has a $1B exit in its portfolio https://t.co/NIOVPfBSVT",
+    "date": "2026-05-17T21:48:22.000Z",
+    "title_cn": "当一家价值数十亿美元的风险基金在其投资组合中退出 10 亿美元时 https://t.co/NIOVPfBSVT"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056125669466333672",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Employees joining some recently minted unicorn* companies are facing a triple whammy..\n\n1) tranched valuations are very common now means their entry strike price at that valuation is often >2x of the lead preferred price.\n\n2) this means your strike price will be quite high and so will be your 409a. you’ll paying a pretty penny if you try to early exercise and if not then you’ll have to wait a while till they grow into that valuation.  \n\n3) stock packages seem great “on paper” but are massively inflated because of this tranched valuation. so you can say total comp is very high but the real comp is not that high (at least today). this is another reason companies chase a higher valuation so they can give lower equity raises. \n\nMake sure you go with wide eyes and use Claude/ChatGPT to do some exit math on your equity. Joining a unicorn company can offer far more than just comp (learning, experience, strong mission, great team) and that should be the core reason for joining. But do your own due diligence on the company you’re joining just like an investor would. \n\n* Not all unicorn companies are the same - some are fundamentally better and have meaningfully grown into the valuation than others. Some are growing way faster than the ones with fundamentals. Point is to do your homework vs treating every company that’s valued similarly and putting them in the same bucket.",
+    "date": "2026-05-17T21:32:15.000Z",
+    "title_cn": "加入一些最近诞生的独角兽*公司的员工面临着三重打击。\n\n1) 分段估值现在非常普遍，这意味着他们在该估值下的入场执行价格通常>领先优先价格的 2 倍。\n\n2) 这意味着您的执行价格将相当高，您的 409a 也将如此。如果你尝试尽早行使，你将付出相当大的代价，如果不这样做，那么你将不得不等待一段时间，直到他们成长到这个估值。  \n\n3）股票组合“表面上”看起来很棒，但由于这种分段估值而被大幅夸大。所以你可以说总薪酬非常高，但实际薪酬并没有那么高（至少在今天）。这是公司追求更高估值的另一个原因，以便他们可以进行较低的股权融资。 \n\n确保你睁大眼睛并使用 Claude/ChatGPT 对你的净值进行一些退出计算。加入独角兽公司所能提供的不仅仅是薪酬（学习、经验、强大的使命、伟大的团队），这应该是加入的核心原因。但要像投资者一样对您要加入的公司进行尽职调查。 \n\n* 并非所有独角兽公司都是一样的——有些公司从根本上来说比其他公司更好，并且在估值方面也取得了有意义的增长。有些的增长速度比那些有基本面的公司快得多。重点是做好功课，而不是对待每家估值相似的公司并将它们放在同一个桶中。"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056123737544757733",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost\n\nBoil the ocean don’t cut your costs https://t.co/gxgx3IzLEa",
+    "date": "2026-05-17T21:24:34.000Z",
+    "title_cn": "肯·格里芬不明白天花板刚刚被提高了。大约 20 多岁的人读到这篇文章可能会建立一个破裂的人工智能-人机共生团队，该团队将取代他的整个运作，因为他太专注于降低成本\n\n煮沸海洋不会降低成本 https://t.co/gxgx3IzLEa"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056122513743327634",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "https://t.co/IVlEaxRbsL",
+    "date": "2026-05-17T21:19:42.000Z",
+    "title_cn": "https://t.co/IVlEaxRbsL"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2056122508550738223",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "For personal AI scenarios against my 120k markdown brain ZeroEntropy has earned the top slot https://t.co/57CLV1XBSM",
+    "date": "2026-05-17T21:19:41.000Z",
+    "title_cn": "对于我的 120k markdown 大脑的个人 AI 场景，ZeroEntropy 赢得了第一名 https://t.co/57CLV1XBSM"
+  },
+  {
+    "url": "https://x.com/amasad/status/2056083305468944820",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "What SMBs are building https://t.co/MmPNmWvPLx",
+    "date": "2026-05-17T18:43:54.000Z",
+    "title_cn": "中小企业正在构建什么 https://t.co/MmPNmWvPLx"
+  },
+  {
+    "url": "https://x.com/levie/status/2056051851439857933",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any given domain. AI will trick you into thinking you don’t need to go deep in a particular area, but that’s wrong.\n\nThe expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.\n\nThe experienced software developer that’s built and scaled complex systems using agents outrun someone just vibe coding. The designer that uses AI will build far better products and campaigns than anyone else. The banker or analyst that understands financial models will be able to pull off far more with agents. \n\nDespite some of the rhetoric in the valley that this is less implement now, that couldn’t be further from the case. Don’t give up on going deep in your craft.",
+    "date": "2026-05-17T16:38:55.000Z",
+    "title_cn": "学生和大学可以做的最好的事情之一就是不要放弃学习和教授任何特定领域的基础知识。人工智能会欺骗你，让你认为你不需要深入某一特定领域，但这是错误的。\n\n人工智能专家总是比新手更有能力。那些能够正确引导人工智能代理、弄清楚如何评估他们的工作、纠正他们的错误并将他们的工作纳入工作流程的人将永远是这些工具最有力的用户。\n\n使用代理构建和扩展复杂系统的经验丰富的软件开发人员比仅使用振动编码的人跑得更快。使用人工智能的设计师将比其他人打造出更好的产品和活动。了解金融模型的银行家或分析师将能够通过代理取得更多成果。 \n\n尽管硅谷里有一些人说现在这种做法实施得较少，但事实却并非如此。不要放弃深入研究你的手艺。"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056039276308308217",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Flowermaxxing (fresh haul from our garden) https://t.co/6LJ7GxBKUf",
+    "date": "2026-05-17T15:48:57.000Z",
+    "title_cn": "Flowermaxxing（从我们花园新鲜采摘的）https://t.co/6LJ7GxBKUf"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2056015684145127612",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "On Friday I used AI to write a lot of code.\n\nAnd then on Saturday I watched humans play sports (FA Cup Final) and dance (my kid's dance recital).\n\nI am not worried that we won't have meaning and purpose.",
+    "date": "2026-05-17T14:15:12.000Z",
+    "title_cn": "周五我用AI写了很多代码。\n\n然后在周六，我观看了人类的体育运动（足总杯决赛）和舞蹈（我孩子的舞蹈表演）。\n\n我并不担心我们没有意义和目的。"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2056014576215601431",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "&gt; claude --dangerously-skip-permissions\n&gt; /goal improve the codebase for performance and add a bit of aura https://t.co/41pKeTT5MA",
+    "date": "2026-05-17T14:10:48.000Z",
+    "title_cn": ">克劳德——危险地跳过权限\n> /goal 改进代码库以提高性能并添加一点光环 https://t.co/41pKeTT5MA"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055906613316432247",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@sarahookr @calcsam",
+    "date": "2026-05-17T07:01:48.000Z",
+    "title_cn": "@sarahookr @calcsam"
+  },
+  {
+    "url": "https://x.com/trq212/status/2055903660476129723",
+    "type": "x",
+    "name": "Thariq",
+    "title": "HTML continues to be undefeated https://t.co/veyAAEWKrT",
+    "date": "2026-05-17T06:50:04.000Z",
+    "title_cn": "HTML 继续保持不败 https://t.co/veyAAEWKrT"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055889947136237595",
+    "type": "x",
+    "name": "Swyx",
+    "title": "AIE coming to India \n\nsoon! https://t.co/bAbATz4IFb",
+    "date": "2026-05-17T05:55:34.000Z",
+    "title_cn": "AIE 来到印度 \n\n很快！ https://t.co/bAbATz4IFb"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055841860279804005",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I ended up buying this looks promising https://t.co/xZ9CD9HMKf",
+    "date": "2026-05-17T02:44:29.000Z",
+    "title_cn": "我最终买了这个看起来很有前途的 https://t.co/xZ9CD9HMKf"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055814893216178248",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I feel like to eat healthy you need some really good hot sauce to add flavor to your chicken/fish/etc. \n\nAny suggestions?",
+    "date": "2026-05-17T00:57:20.000Z",
+    "title_cn": "我觉得要吃得健康，你需要一些非常好的辣酱来给你的鸡肉/鱼/等增添风味。 \n\n有什么建议吗？"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055775661755715974",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "my brain: don't read the hacker news comments, don't read the hacker news comments\n\nme: reads the hacker news comments",
+    "date": "2026-05-16T22:21:26.000Z",
+    "title_cn": "我的大脑：不要看黑客新闻评论，不要看黑客新闻评论\n\n我：阅读黑客新闻评论"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055747016727167035",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "deslop your Claude code if you haven’t yet switched to Codex. https://t.co/nJYkYASohj",
+    "date": "2026-05-16T20:27:37.000Z",
+    "title_cn": "如果您还没有切换到 Codex，请删除您的 Claude 代码。 https://t.co/nJYkYASohj"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2055728641913536762",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "AI psychosis: cycling between two mental states every single day\n↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've never felt this powerful in my life.\n↓ after scrolling twitter: holy shit I'm completely behind. everyone's ahead. the wave is moving and I'm going to get left.",
+    "date": "2026-05-16T19:14:36.000Z",
+    "title_cn": "AI精神病：每天在两种精神状态之间循环\n↑ 使用编码代理后：天哪我无所不能。我可以建造任何东西。我一生中从未感到如此强大。\n↓ 滚动推特后：天哪，我完全落后了。每个人都领先。海浪正在移动，我要离开了。"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055727669900141017",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "If you use a bicycle it weakens your walking abilities, too! https://t.co/MSkwuoHYzC",
+    "date": "2026-05-16T19:10:44.000Z",
+    "title_cn": "如果您使用自行车，也会削弱您的步行能力！ https://t.co/MSkwuoHYzC"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055715359244566552",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Successfully Codex-pilling the world one text at a time https://t.co/slutMhp63u https://t.co/wTSOEjtK3W",
+    "date": "2026-05-16T18:21:49.000Z",
+    "title_cn": "一次一篇文本成功地对世界进行 Codex 编辑 https://t.co/slutMhp63u https://t.co/wTSOEjtK3W"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2055708451670798839",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need to run anymore. \n\nI have friends who made far less and are just happy.\n\nWhether something is enough is up to you. Whether you’re happy is independent of your bank account.\n\nYou can want to be wealthy and still be content now. You don’t need to chase it from a place of lack and desperation.\n\nSilicon Valley treats ambition and happiness as mutually exclusive. As if wanting more means you can’t be satisfied now.\n\nThat’s the trap. You can be both",
+    "date": "2026-05-16T17:54:22.000Z",
+    "title_cn": "我有一些朋友赚了 1000 万美元以上，但他们很痛苦。我有一些朋友赚了那么多钱后感到平静——他们不需要再跑步了。 \n\n我有一些朋友的收入要少得多，但他们很快乐。\n\n某件事是否足够取决于你。您是否快乐与您的银行账户无关。\n\n你可能想要变得富有，但现在仍然感到满足。你不需要从缺乏和绝望的地方去追逐它。\n\n硅谷认为野心和幸福是相互排斥的。好像想要更多就意味着你现在无法满足。\n\n这就是陷阱。你可以两者兼而有之"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055685581758206139",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "BlackBar 0.2.0 is live for @useblacksmith \n\n📈 24h vCPU + workflow graphs\n🔔 opt-in status/job notifications\n🧰 richer Blacksmith job rows\n🟢 compact status badge\n\nTiny menu bar, less CI guesswork.\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
+    "date": "2026-05-16T16:23:30.000Z",
+    "title_cn": "BlackBar 0.2.0 已为 @useblacksmith 上线 \n\n📈 24 小时 vCPU + 工作流程图\n🔔 选择加入状态/工作通知\n🧰 更丰富的铁匠工作行\n🟢 紧凑的状态徽章\n\n菜单栏很小，CI 猜测更少。\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055674791873630650",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind virus by two philosophers: Foucault and Derrida \n\nFoucault: His framework tells you that every institution claiming to know something is really just exercising power. Medicine, engineering, law, science. Apply that at civilizational scale and you get exactly what Dan Wang warns about: a society that lost the will to build. Process knowledge — the tacit know-how that only exists in the hands of people who actually make things — dies when a culture decides that all knowledge claims are suspect. America went from building the Interstate Highway System and the Apollo rockets to being unable to build a train from LA to SF. That didn't happen because we forgot the engineering. It happened because we built an entire intellectual class whose job is to interrogate every system rather than improve one.\n\nDerrida: His move is that every commitment contains its own contradiction, so you can never land on firm meaning. Run that as societal firmware and you get the bureaucratic paralysis we now live in. Infrastructure projects stuck in 15 years of environmental review because every statement of purpose deconstructs under the next round of stakeholder input. Institutions that can't say what they're for because every draft mission statement gets wordsmithed into mush by people trained to find the hidden hierarchy in any clear sentence. Derrida is the OS behind a civilization that can write a 4,000 page environmental impact report but can't pour concrete.\n\nThe real damage is these ideas escaped the lab. Every institution that adopted this operating system stopped trying to discover truth and started managing narrative. DEI bureaucracies, academic hiring committees, media editorial standards. All running on Foucault and Derrida whether they know it or not.\n\nThe antidote is building. The physical bridge across a river holds or it doesn’t. The code compiles or it doesn't. Reality keeps score and it doesn't grade on a curve.\n\nFoucault and Derrida gave a generation a sophisticated excuse to never build anything. Their followers inherited the sophistication and the impotence.\n\nIt’s time to build again.",
+    "date": "2026-05-16T15:40:37.000Z",
+    "title_cn": "周六早上，是时候思考一下福柯和德里达这两位哲学家的思想病毒如何摧毁我们的功能系统了 \n\n福柯：他的框架告诉你，每个声称知道某事的机构实际上只是在行使权力。医学、工程、法律、科学。将这一点应用到文明层面，你就会得到王丹所警告的结果：一个失去建设意愿的社会。当一种文化认为所有知识主张都受到怀疑时，流程知识（仅存在于实际制造事物的人手中的隐性专有技术）就会消亡。美国从建造了州际公路系统和阿波罗火箭，到无法建造从洛杉矶到旧金山的火车。但那并没有发生，因为我们忘记了工程。之所以发生这种情况，是因为我们建立了一个完整的知识分子阶层，他们的工作是质疑每一个制度，而不是改进一个制度。\n\n德里达：他的做法是，每一个承诺都包含着它自己的矛盾，所以你永远无法找到坚定的意义。如果将其作为社会固件来运行，就会陷入我们现在生活的官僚主义瘫痪状态。基础设施项目陷入了 15 年的环境审查，因为每一项目的声明都会在下一轮利益相关者的意见下解构。这些机构无法说出自己的目的，因为每一份使命宣言草稿都被经过训练的人员弄得一团糟，可以在任何清晰的句子中找到隐藏的层次结构。德里达是文明背后的操作系统，可以写出4000页的环境影响报告，但不能浇筑混凝土。\n\n真正的损害是这些想法逃出了实验室。每一个采用这种操作系统的机构都不再试图发现真相，而是开始管理叙事。 DEI 官僚机构、学术招聘委员会、媒体编辑标准。无论福柯和德里达是否意识到，它们都在运行。\n\n解药正在研制中。横跨河流的实体桥梁要么成立，要么不成立。代码要么编译，要么不编译。现实会记分，但它不会按曲线评分。\n\n福柯和德里达给了一代人一个复杂的借口，让他们永远不要建造任何东西。他们的追随者继承了老练和无能。\n\n是时候重新构建了。"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055670797596012657",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "GBrain is free open source. It’s MIT license. \n\nYou can find it and install it in your agent with one command.\n\nhttps://t.co/yFpFU4pn5b",
+    "date": "2026-05-16T15:24:45.000Z",
+    "title_cn": "GBrain 是免费开源的。这是麻省理工学院的许可证。 \n\n您可以找到它并使用一个命令将其安装在代理中。\n\nhttps://t.co/yFpFU4pn5b"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055670533451366479",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "What is GBrain? My open source project is a knowledge system, not RAG in a box. \n\nIt gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Hermes Agent feel clairvoyant about who you are. \n\nPersonal AI becomes possible. https://t.co/XNVIw5ZfpO",
+    "date": "2026-05-16T15:23:42.000Z",
+    "title_cn": "什么是GBrain？我的开源项目是一个知识系统，而不是盒子里的RAG。 \n\n它为代理提供了 8 层，这些层协同工作以提高记忆力，使您已经很聪明的 OpenClaw 或 Hermes 代理能够洞察您是谁。 \n\n个人人工智能成为可能。 https://t.co/XNVIw5ZfpO"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055663937061007762",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places.\n\nGo to a small town in Europe or visit Asia - you'll see that life can be about much more than whether you're IC7 or IC8 or what company you work for.\n\nDon't be the person to put on your tombstone: \"He got divorced and neglected his kids but at least he made D2 at FAANG\"",
+    "date": "2026-05-16T14:57:29.000Z",
+    "title_cn": "如果您陷入湾区科技激烈的竞争/精神病中，请腾出时间去其他地方旅行。\n\n去欧洲的一个小镇或访问亚洲 - 您会发现生活不仅仅关乎您是 IC7 还是 IC8 或您为哪家公司工作。\n\n不要成为刻在你墓碑上的人：“他离婚了，忽视了孩子，但至少他在 FAANG 取得了 D2 的成绩”"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055648134819450907",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..\n\nIt’s hard to truly understand what “excellence” means unless you’re deeply embedded and working for founders who are truly excellent. Even if you are part of the cap table and the board and spending time with founders, you don’t get same learnings as working at a company day in and day out. \n\nI wouldn’t know anything about product excellence if it were not for @deepnishar @ericwu01 @acv and others. \n\nI wouldn’t know anything about design if it were not for @kurtvarner @MicahSivitz @xiakv and others. \n\nI wouldn’t know anything about operational excellence if it were not for @rabois @danubata and others. \n\nOnly because of these experiences and reading deeply, I was able to create some heuristics of what great founders and companies look like. And I have to keep updating it as I meet more and more founders and technology shifts beneath us. Those experiences also helped me earn the right to win the right to be a part of founders cap table.\n\nThe other main reason to not be a junior investor is for most firms you’re just sourcing founders that match the GPs taste vs. truly thinking from first principles on what makes great founders & companies. \n\nIf you really want to invest in  founders, work at a great company and start by being be an angel. It’s such a fun way to learn and be part of founders journey. \n\n* The one exception to this is you’re absolutely obsessed with the craft of investing and you really cannot fathom doing any other job. If that’s your true passion then you’ll figure out a way to be a great investor regardless of anything you have done in the past.",
+    "date": "2026-05-16T13:54:42.000Z",
+    "title_cn": "很多年轻人问我是否应该去创业，我的回答通常是否定的*，原因如下。\n\n除非你深深地融入并为真正优秀的创始人工作，否则很难真正理解“卓越”的含义。即使你是股权结构表和董事会的一员，并与创始人共度时光，你也无法获得与日复一日在公司工作相同的知识。 \n\n如果没有 @deepnishar @ericwu01 @acv 和其他人，我对产品卓越一无所知。 \n\n如果没有@kurtvarner @MicahSivitz @xiakv 和其他人，我对设计一无所知。 \n\n如果没有 @rabois @danubata 和其他人，我对卓越运营一无所知。 \n\n正是因为这些经历和深入的阅读，我才能够对伟大的创始人和公司的面貌产生一些启发。随着我遇到越来越多的创始人和我们下面的技术转变，我必须不断更新它。这些经历也帮助我赢得了成为创始人股权结构表一部分的权利。\n\n不成为初级投资者的另一个主要原因是，对于大多数公司来说，你只是寻找符合 GP 品味的创始人，而不是真正从基本原则出发思考什么造就了伟大的创始人和公司。 \n\n如果你真的想投资创始人，那就在一家伟大的公司工作，然后从成为一名天使开始。这是一种非常有趣的学习方式并成为创始人旅程的一部分。 \n\n* 唯一的例外是，你完全沉迷于投资技巧，而且你真的无法想象做任何其他工作。如果这是你真正的热情，那么无论你过去做过什么，你都会找到一种方法成为一名伟大的投资者。"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055612276208709731",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@Gavriel_Cohen i have to say his social media team is better than mine wtf. first pull on youtube. https://t.co/h2dXUgDLzL",
+    "date": "2026-05-16T11:32:12.000Z",
+    "title_cn": "@Gavriel_Cohen 我不得不说他的社交媒体团队比我的更好。首先拉上youtube。 https://t.co/h2dXUgDLzL"
+  },
+  {
+    "url": "https://x.com/levie/status/2055501840419328286",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification). \n\nIn AI, you’re delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.\n\nFor this reason it’s far more logical that one vendor can share best practices across thousands of companies more efficiently than every single company can learn and manage these best practices themselves. Further, the learnings from those customers should go right back into the core product as a result.\n\nAs we go from chat systems to anyone can relatively easily adopt to agentic systems that require more meaningful efforts to manage and update, the FDE model (or equivalent) essentially becomes a core competency for anyone deploying AI at scale.",
+    "date": "2026-05-16T04:13:22.000Z",
+    "title_cn": "我完全向前部署工程，特别是因为人工智能与软件不同。在软件中，您向客户提供一项稳定的技术，他们会采用它，就是这样（极端简化）。 \n\n在人工智能中，您正在交付不断发展的东西，这不仅是由于出现的新功能和最佳实践的性质，而且是因为底层模型变化太大，以至于它们可以通过升级而有意义地改变工作流程。\n\n因此，一个供应商可以更有效地在数千家公司之间共享最佳实践，这比每家公司自己学习和管理这些最佳实践更合乎逻辑。此外，从这些客户那里学到的知识应该直接回到核心产品中。\n\n随着我们从聊天系统发展到任何人都可以相对轻松地采用需要更多有意义的努力来管理和更新的代理系统，FDE 模型（或同等模型）本质上成为任何大规模部署人工智能的人的核心能力。"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055494400252481687",
+    "type": "x",
+    "name": "Swyx",
+    "title": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
+    "date": "2026-05-16T03:43:48.000Z",
+    "title_cn": "不得不说，从 3 个月前开始，Codex 已经完全无法识别了。伙计们在这件事上采取了极端的创始人模式\n\n@gabrielchua 正在演示这个，我就像“你们在 mac 上有代理 excel” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2055491454307582454",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.\n\nWatch this creative coding website be generated with Grok and hosted seamlessly on Vercel ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
+    "date": "2026-05-16T03:32:06.000Z",
+    "title_cn": "Grok CLI 对插件和技能有很好的支持。安装 Vercel 插件赋予 Grok 云部署超能力。\n\n观看这个使用 Grok 生成并在 Vercel 上无缝托管的创意编码网站 ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055470634331750588",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2 years and is building a national MCP gateway @dsp_ https://t.co/glAGn6jTmd",
+    "date": "2026-05-16T02:09:22.000Z",
+    "title_cn": "@Gavriel_Cohen @thsottiaux 新加坡 AI Govtech 负责人估计未来 2 年内该国将有 13 亿代理，并正在建设国家 MCP 网关 @dsp_ https://t.co/glAGn6jTmd"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055467498888118647",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@Gavriel_Cohen and @thsottiaux casually dropping some hints on the Codex roadmap in his keynote!\n\nhttps://t.co/sEkVYhq7KO https://t.co/OQ0g1JgXgJ",
+    "date": "2026-05-16T01:56:55.000Z",
+    "title_cn": "@Gavriel_Cohen 和 @thsottiaux 在他的主题演讲中随意地对 Codex 路线图提出了一些提示！\n\nhttps://t.co/sEkVYhq7KO https://t.co/OQ0g1JgXgJ"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055451869841965154",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Codex-native apps are the future. https://t.co/hBlkSfNn9Z",
+    "date": "2026-05-16T00:54:48.000Z",
+    "title_cn": "Codex 原生应用程序是未来。 https://t.co/hBlkSfNn9Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055450577094738018",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "This is a really great update.\n\nI just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off\n\nDoesn't appear there's a \"Use for ad targeting\" toggle  here so I'll assume the same toggle applies to both. https://t.co/B02JrJyT4M https://t.co/b32SthsYmC",
+    "date": "2026-05-16T00:49:40.000Z",
+    "title_cn": "这是一次非常棒的更新。\n\n我只是不想让我的财务数据被用来训练模型或获得有针对性的广告，所以我关闭了“为每个人改进模型”\n\n这里似乎没有“用于广告定位”切换，因此我假设相同的切换适用于两者。 https://t.co/B02JrJyT4M https://t.co/b32SthsYmC"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055446378596474891",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as the CA asset seizure tax by SEIU. \n\nBad anti-business policy that makes our cities and states poorer. https://t.co/HKDRT1Sf1P https://t.co/nmB3MXZHfT",
+    "date": "2026-05-16T00:32:59.000Z",
+    "title_cn": "薪酬过高的首席执行官税不会对薪酬过高的首席执行官征税，它所做的只是将更高的总收入税转嫁给消费者，这将导致该市的收入大幅下降，就像 SEIU 征收的加州资产扣押税一样。 \n\n糟糕的反商业政策使我们的城市和州变得更加贫穷。 https://t.co/HKDRT1Sf1P https://t.co/nmB3MXZHfT"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2055440326765244742",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet' of apps generated with @v0, Codex, Claude, etc.\n\nIt's all fun and games until your agent gets 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 from the deployment *it just made* though 😂\n\nThe solution: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚞𝚛𝚕. By just prefixing 𝚟𝚎𝚛𝚌𝚎𝚕 or 𝚟𝚌 you unblock your agent and yourself to easily 𝚌𝚞𝚛𝚕 any URL you have access to within the Vercel ecosystem.",
+    "date": "2026-05-16T00:08:56.000Z",
+    "title_cn": "Vercel 可以像 @Okta 一样保护您的代理在 SSO 后面的部署。即使是生产应用程序，也可以为您提供使用 @v0、Codex、Claude 等生成的应用程序的安全“内联网”。\n\n这一切都很有趣和游戏，直到您的代理从部署中获得 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 *它刚刚制作* 😂\n\n解决方案：𝚟𝚎𝚛𝚌𝚎𝚕𝚌𝚞𝚛𝚕。只需添加前缀 𝚟𝚎𝚛𝚌𝚎𝚕 或 𝚟𝚌，您就可以解锁您的代理和您自己，轻松𝚌𝚞𝚛𝚕 您在 Vercel 生态系统中有权访问的任何 URL。"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055436179643019395",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "lol this is why he’s the best https://t.co/G1K5lbHDUL",
+    "date": "2026-05-15T23:52:28.000Z",
+    "title_cn": "哈哈，这就是为什么他是最好的 https://t.co/G1K5lbHDUL"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055428193398780296",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "For folks who don't believe me, this is the second phase and it's still going.. parents are going to be excited for this side project. https://t.co/opYMmQgHXJ",
+    "date": "2026-05-15T23:20:43.000Z",
+    "title_cn": "对于那些不相信我的人来说，这是第二阶段，而且仍在进行中......父母会对这个副项目感到兴奋。 https://t.co/opYMmQgHXJ"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055426430654439485",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Man, /goal is just AGI if given the right tools.. \n\nLike what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs caused by different images, the descriptions, used browser harness to get real-time info from the web, used web search for fact checking, wrote scripts for all the work you did for the future.. and ran for 2 hours while I met founders for coffee. \n\nI'm just shook 😅",
+    "date": "2026-05-15T23:13:43.000Z",
+    "title_cn": "伙计，如果有合适的工具，/goal 就是 AGI。 \n\n就像你的意思是，你浏览了 2k+ 行项目的整个数据库，修复了所有产品图像、由不同图像引起的前端错误、描述，使用浏览器工具从网络获取实时信息，使用网络搜索进行事实检查，为你未来所做的所有工作编写脚本......并在我与创始人喝咖啡时运行了 2 个小时。 \n\n我只是震惊了😅"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2055414865146327088",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them.\n\nFor two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain.\n\nThat made a lot of PM work dry and mechanical. But for a long time, it was enough to build a career.\n\nIt’s also why so much software feels the same.\n\nPMs need to be inventors now, not framework executors. There are no stable playbooks to repurpose.\n\nYou can’t A/B test your way to a breakthrough AI product.\n\nDoable. But PMs need to unlearn.",
+    "date": "2026-05-15T22:27:46.000Z",
+    "title_cn": "一代产品经理正在努力适应人工智能，因为他们接受过执行剧本的培训。人工智能需要发明它们。\n\n二十年来，一些团队发明了产品模式。其他人都将它们重新调整到自己的领域。\n\n这使得很多项目经理的工作枯燥而机械。但在很长一段时间里，这足以成就一番事业。\n\n这也是为什么这么多软件给人的感觉都是一样的。\n\nPM 现在需要成为发明者，而不是框架执行者。没有稳定的剧本可以重新利用。\n\n你无法通过 A/B 测试来获得突破性的人工智能产品。\n\n可行的。但产品经理需要忘掉所学的东西。"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055412891910586516",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "This is the future https://t.co/ZiZ6aZDtBn",
+    "date": "2026-05-15T22:19:55.000Z",
+    "title_cn": "这就是未来 https://t.co/ZiZ6aZDtBn"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055405041843052792",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral https://t.co/Q1NRXLemEy machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build https://t.co/bmA1XnoB7P to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
+    "date": "2026-05-15T21:48:44.000Z",
+    "title_cn": "人们对我的人工智能支出感到恐惧。没有人看到的：在 OpenClaw 上工作让我如此兴奋的部分原因是我试图回答这个问题：\n\n如果代币不重要，我们将来如何构建软件？\n\n我们不断在云端运行约 100 个 Codex，审查每个 PR、每个问题。如果在主要土地上进行修复，@clawsweeper 最终会发现 6 个月前的问题并用准确的参考将其关闭。\n\n我们对每次提交都运行法典以审查安全问题（因为它太容易被错过）。\n\n我们运行 codex 来消除重复问题并查找集群并发送最紧迫问题的报告。\n\n我们的代理可以重新创建复杂的设置、启动临时的 https://t.co/Q1NRXLemEy 机器、登录到例如Telegram、在修复 PR 之前/之后制作视频并发布。\n\n有一个 Codex 可以观察新问题，如果它很符合我们记录的愿景，就会自动创建一个 PR。 （然后另一个法典评论）\n\n我们正在运行法典，可以扫描评论中的垃圾邮件并阻止人们。\n\n我们运行 Codex 实例来验证性能基准并向 Discord 报告回归情况。\n\n我们有代理听取我们的会议并主动开始工作，例如当我们在讨论新功能时创建 PR。\n\n我们构建 https://t.co/bmA1XnoB7P 将所有项目拆分为功能单元，以审查和查找错误和回归。\n\n我们对 Vercel 的 deepsec 和 Codex Security 进行同样的安全划分，以查找回归和漏洞。\n\n所有这些自动化使我们能够极其精简地运行这个项目。"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2055404881024848056",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Some personal news: He slid into my DMs, don't say prayers don't work y'all https://t.co/aOIpCELX3i",
+    "date": "2026-05-15T21:48:05.000Z",
+    "title_cn": "一些个人新闻：他溜进了我的私信，别说祈祷不起作用，你们大家 https://t.co/aOIpCELX3i"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055402519841411165",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Been using @sveltejs for a few projects lately, it's quite a nice alternative to React, fewer gotchas and complexity and Codex handles it really well. https://t.co/b2KdDvrpLD",
+    "date": "2026-05-15T21:38:42.000Z",
+    "title_cn": "最近在几个项目中使用了 @sveltejs，它是 React 的一个很好的替代品，更少的陷阱和复杂性，Codex 处理得很好。 https://t.co/b2KdDvrpLD"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055396161910194395",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "ChatGPT Finances is pretty awesome. AI still has trouble classifying transactions correctly though. https://t.co/sceyzaZouz",
+    "date": "2026-05-15T21:13:27.000Z",
+    "title_cn": "ChatGPT 财务非常棒。不过，人工智能在正确分类交易方面仍然存在困难。 https://t.co/sceyzaZouz"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055384351307858390",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "It's time to vote in California elections and here is my voter guide. \n\nThere are a lot of things to get right here. Please tell your friends this is one resource they can use and trust. https://t.co/6ptPnEKJoz",
+    "date": "2026-05-15T20:26:31.000Z",
+    "title_cn": "是时候在加州选举中投票了，这是我的选民指南。 \n\n这里有很多事情要做。请告诉您的朋友，这是他们可以使用和信任的一种资源。 https://t.co/6ptPnEKJoz"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055364630709448970",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "🩹 clawpatch 0.1.0 is live:\n\nClawpatch maps codebases into semantic feature slices, reviews them for bugs and quality issues, and records explicit fix attempts with validation.\n\nYou'll be surprised how much this will find.\nnpm install -g clawpatch\nhttps://t.co/8xIcXuojse",
+    "date": "2026-05-15T19:08:09.000Z",
+    "title_cn": "🩹clawpatch 0.1.0 已上线：\n\nClawpatch 将代码库映射到语义特征片中，检查它们是否存在错误和质量问题，并通过验证记录显式修复尝试。\n\n你会惊讶地发现这会发现多少东西。\nnpm install -g 爪补丁\nhttps://t.co/8xIcXuojse"
+  },
+  {
+    "url": "https://x.com/levie/status/2055357619888595271",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Headless software is the future https://t.co/c4w018JXro",
+    "date": "2026-05-15T18:40:17.000Z",
+    "title_cn": "无头软件是未来 https://t.co/c4w018JXro"
+  },
+  {
+    "url": "https://x.com/sama/status/2055356452286640630",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please') https://t.co/O6Ws2zQyGN",
+    "date": "2026-05-15T18:35:39.000Z",
+    "title_cn": "我很欣赏团队总是认真对待这些报告（即使答案是“我已经习惯了当前的魔法水平，现在我想要更多”）https://t.co/O6Ws2zQyGN"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055347527457886336",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "our full deep-dive on trying to launch an agent-as-a-service platform built on openclaw! my two bigs ones:\n\n1. OpenClaw is awesome but it's EXTREMELY hard to build on it as a platform. it moves super fast, there are tons of regressions, it's not great to be the layer in between OpenClaw and a user\n\n2. One super agent for a company beats 1-1 agents for everyone. I do think we're going to get there over time, but for now agents actually require a lot of work (often technical) to keep working well. And people with jobs don't want to be messing with the internals of the agent all day. \n\nHowever if you give everyone an agent that works really well and make it someone's job to make it good for the whole company...lots of good stuff ensues\n\nstay tuned we'll have more on this @every!",
+    "date": "2026-05-15T18:00:11.000Z",
+    "title_cn": "我们全面深入地尝试推出基于 openclaw 的代理即服务平台！我的两个大的：\n\n1. OpenClaw 非常棒，但在其上构建平台非常困难。它移动得非常快，有大量的回归，作为 OpenClaw 和用户之间的层并不好\n\n2.一家公司的一名超级代理人胜过每个人的1-1名代理人。我确实认为我们会随着时间的推移实现这一目标，但目前代理实际上需要大量工作（通常是技术性的）才能保持良好工作。有工作的人不想整天搞乱代理的内部结构。 \n\n然而，如果你给每个人一个工作非常好的代理人，并让某人有责任为整个公司带来好处......就会产生很多好东西\n\n请继续关注我们将有更多关于这个@every！"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055320066577891415",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Many such cases https://t.co/9ThA8cXvgl",
+    "date": "2026-05-15T16:11:04.000Z",
+    "title_cn": "很多这样的案例 https://t.co/9ThA8cXvgl"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055288369958289536",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "You are missing out on reading essays from the better writer in our family.. https://t.co/XeyIMhooSY https://t.co/uqQ6XzVnja",
+    "date": "2026-05-15T14:05:07.000Z",
+    "title_cn": "您错过了阅读我们家族中更好的作家的文章.. https://t.co/XeyIMhooSY https://t.co/uqQ6XzVnja"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2055278852931530784",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
+    "date": "2026-05-15T13:27:18.000Z",
+    "title_cn": "如果您在管理代理方面变得出色，而且对基本原理的理解也非常出色，那么您将势不可挡。\n\n我们都喜欢与他们的工艺大师一起工作。新动态：您不能错过放大剂对您输出的影响"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055209490887119098",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "https://t.co/XMaUrWMMZC is pretty sweet",
+    "date": "2026-05-15T08:51:41.000Z",
+    "title_cn": "https://t.co/XMaUrWMMZC 非常甜蜜"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055203470941061600",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill... https://t.co/0Z6iJnCqCX https://t.co/Jkr4yha1Un",
+    "date": "2026-05-15T08:27:45.000Z",
+    "title_cn": "在 discrawl（存储媒体）中内置了一个新功能，codex 说它已经完成，然后我使用了我的 codex 审查技能... https://t.co/0Z6iJnCqCX https://t.co/Jkr4yha1Un"
+  },
+  {
+    "url": "https://x.com/steipete/status/2055190998523777307",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "It keeps looping. https://t.co/ij1b8yFEDL",
+    "date": "2026-05-15T07:38:12.000Z",
+    "title_cn": "它不断循环。 https://t.co/ij1b8yFEDL"
+  },
+  {
+    "url": "https://x.com/amasad/status/2055185058282226146",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "We worked things out with Apple, and just published our app for the first time in 4 months.\n\nThanks to all our customers and creators who helped out.\n\nIt’s been a journey, but we never give up and stay winning!\n\nEnjoy the updates! Lots of new things coming. https://t.co/ClpA3SDlwd",
+    "date": "2026-05-15T07:14:36.000Z",
+    "title_cn": "我们与 Apple 合作解决了问题，并在 4 个月内首次发布了我们的应用程序。\n\n感谢所有提供帮助的客户和创作者。\n\n这是一段旅程，但我们永不放弃并保持胜利！\n\n享受更新吧！很多新事物即将到来。 https://t.co/ClpA3SD​​lwd"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055165509700927541",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "I wish I can join X for one day, solve this “off by one” bug and leave 🫡 \n\ncc @nikitabier &amp; @benjitaylor https://t.co/qc9tRYTs1i",
+    "date": "2026-05-15T05:56:55.000Z",
+    "title_cn": "我希望我能加入 X 一天，解决这个“差一”的错误然后离开🫡 \n\n抄送@nikitabier &amp; @benjitaylor https://t.co/qc9tRYTs1i"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055155189766865028",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The electricity NIMBYs strike again\n\nHave you guys heard of markets? https://t.co/4KIhnfxVzf",
+    "date": "2026-05-15T05:15:54.000Z",
+    "title_cn": "电力邻避再次来袭\n\n大家听说过市场吗？ https://t.co/4KIhnfxVzf"
+  },
+  {
+    "url": "https://x.com/levie/status/2055143231625818554",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.\n\nWe all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and certainly many will look different from what they did before. But there are some immutable laws that will eventually re-emerge over time and become clear again. \n\nAs an example, when you’re scaling, product managers should be spending an insane amount of time with customers and getting feedback on the product and thinking through what to do build next, how to design it so it’s usable, and so on. Engineers should be understanding the business objectives, and building systems that scale and are secure, even as feature velocity increases by 10X. Now both can do a bit more of the others role, and this can temporarily get conflated as doing the whole thing, but eventually the work adds up to be enough that it makes sense to specialize again.\n\nSimilarly, in GTM, the product marketer can certainly generate a working design and video for a launch, but the specialist is always going to (or should) have an eye for quality that delivers a better outcome.\n\nMy bet is that AI enhances specialization even further, even if a few roles collapse into each other, and the future toolchain and craft of the specialist will be much higher leverage and output far greater than anyone else as a hobbyist in that function.",
+    "date": "2026-05-15T04:28:23.000Z",
+    "title_cn": "我们正处于一个感觉一切都在角色之间变得混乱的时期，因为人工智能可以让你更轻松地探索其他功能的相邻性。\n\n我们所有人都必须共同找出这些工作在代理世界中的新定义形式，当然许多工作看起来与以前的工作有所不同。但有些永恒的法则最终会随着时间的推移重新出现并再次变得清晰。 \n\n举个例子，当你进行扩展时，产品经理应该花大量的时间与客户在一起，获取产品的反馈，并思考下一步要做什么，如何设计它以使其可用，等等。工程师应该了解业务目标，并构建可扩展且安全的系统，即使功能速度提高了 10 倍也是如此。现在，两者都可以承担更多的其他角色，这可能会暂时与完成整个事情混为一谈，但最终工作加起来就足够了，再次专业化是有意义的。\n\n同样，在 GTM 中，产品营销人员当然可以为发布生成工作设计和视频，但专家始终（或应该）关注能够提供更好结果的质量。\n\n我敢打赌，人工智能会进一步增强专业化，即使一些角色相互融合，并且专家未来的工具链和技术将比该功能的其他任何业余爱好者拥有更高的杠杆率和产出。"
+  },
+  {
+    "url": "https://x.com/levie/status/2055136119969529993",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH",
+    "date": "2026-05-15T04:00:08.000Z",
+    "title_cn": "他只花了一年的时间为他的特工安全带搭建脚手架。现在发布一个新的模型更新，使所有这些都过时。 https://t.co/lSoGB1j1rH"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2055128107674415354",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Meera: I have a welcome gift for you when you’re back from NYC. \n\nMe: What?\n\nMeera: 🚂🚂 https://t.co/Z3xoAYQaeg",
+    "date": "2026-05-15T03:28:17.000Z",
+    "title_cn": "Meera：当你从纽约回来时，我为你准备了一份欢迎礼物。 \n\n我：什么？\n\n米拉：🚂🚂 https://t.co/Z3xoAYQaeg"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055113979857703350",
+    "type": "x",
+    "name": "Swyx",
+    "title": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and invited him to SAP to advise on how to do AI transformation for 6800 employees \n\nTLDR he made fun of SAP, and SAP… concurred https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
+    "date": "2026-05-15T02:32:09.000Z",
+    "title_cn": "显然，在 @AIEMiami 上，geoff 抱怨 @SAPConcur 是个死软件，而观众中有一位 SAP 人员，并邀请他到 SAP 就如何为 6800 名员工进行人工智能转型提供建议 \n\nTLDR 他取笑 SAP，而 SAP... 同意 https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055103698251219167",
+    "type": "x",
+    "name": "Swyx",
+    "title": "oh no\n\nhttps://t.co/fr8TgAmZVy",
+    "date": "2026-05-15T01:51:18.000Z",
+    "title_cn": "哦不\n\nhttps://t.co/fr8TgAmZVy"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2055103533754818769",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This city is glorious. Nothing like it https://t.co/B2nF1b6gfu",
+    "date": "2026-05-15T01:50:39.000Z",
+    "title_cn": "这座城市是辉煌的。没有什么比这更好的了 https://t.co/B2nF1b6gfu"
+  },
+  {
+    "url": "https://x.com/amasad/status/2055097107758076254",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "You vibecoded a website somewhere other than Replit?\n\nThat’s not wise, but okay… we’re going to let you import it and get a free mobile app.\n\nYes, FREE MOBILE APP! https://t.co/8IG2o6vnWf",
+    "date": "2026-05-15T01:25:07.000Z",
+    "title_cn": "您在 Replit 以外的地方对网站进行了 Vivicode 编码吗？\n\n这并不明智，但是好吧......我们将让您导入它并获得免费的移动应用程序。\n\n是的，免费的移动应用程序！ https://t.co/8IG2o6vnWf"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055093283039412499",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Another source to read https://t.co/xSuYkaT1Ny",
+    "date": "2026-05-15T01:09:55.000Z",
+    "title_cn": "另一个阅读来源 https://t.co/xSuYkaT1Ny"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2055093087660286413",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say \"hur dur datacenters are bad for energy/water/jobs/loud\" https://t.co/6b79qXp1Op",
+    "date": "2026-05-15T01:09:08.000Z",
+    "title_cn": "我认为这篇文章被不知情的人蜂拥而至，所以真的，如果您在这里说“数据中心对能源/水/就业/大声不利”，请看一下这篇文章https://t.co/6b79qXp1Op"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055093015304396986",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "How do people even do AI hackathons these days you're just sitting around waiting for the agents half of the time?",
+    "date": "2026-05-15T01:08:51.000Z",
+    "title_cn": "现在人们如何进行人工智能黑客马拉松，而你一半的时间只是坐着等待代理？"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055091746036716026",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "TIL having AI just start making screens without a design system or components is a sure fire path to slop.\n\nMaybe those designers were onto something",
+    "date": "2026-05-15T01:03:48.000Z",
+    "title_cn": "直到人工智能刚刚开始在没有设计系统或组件的情况下制作屏幕，这肯定是一个失败的道路。\n\n也许那些设计师有什么想法"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2055081408683729281",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "🥲 https://t.co/ile5cmP5S4",
+    "date": "2026-05-15T00:22:44.000Z",
+    "title_cn": "🥲 https://t.co/ile5cmP5S4"
+  },
+  {
+    "url": "https://x.com/swyx/status/2055079344632926603",
+    "type": "x",
+    "name": "Swyx",
+    "title": "Blogs die when they come from \"the ____ team\" instead of named individuals\n\nWith great ownership comes great accountability",
+    "date": "2026-05-15T00:14:31.000Z",
+    "title_cn": "当博客来自“____团队”而不是指定个人时，它们就会消亡\n\n伟大的主人翁精神伴随着伟大的责任"
+  },
+  {
+    "url": "https://x.com/sama/status/2055034714231345475",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "also all this: https://t.co/UvO0GnmPzX",
+    "date": "2026-05-14T21:17:11.000Z",
+    "title_cn": "还有这一切：https://t.co/UvO0GnmPzX"
+  },
+  {
+    "url": "https://x.com/sama/status/2055034461591588916",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "Codex in the ChatGPT mobile app!",
+    "date": "2026-05-14T21:16:10.000Z",
+    "title_cn": "ChatGPT 移动应用程序中的 Codex！"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055030691180503152",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Gabbing with my barber about Codex and he’s telling me about how he’s using Claude to run a crypto trading strategy and Gemini + nano banana to learn jiu jitsu moves\n\nGuy in the chair next to me leans over and says his company just bought 1,300 Claude seats\n\n2026 is wild",
+    "date": "2026-05-14T21:01:12.000Z",
+    "title_cn": "和我的理发师闲聊 Codex，他告诉我他如何使用 Claude 来运行加密货币交易策略，以及如何使用 Gemini + 纳米香蕉来学习柔术动作\n\n我旁边椅子上的人靠过来说他的公司刚刚购买了 1,300 个克劳德座位\n\n2026 年是狂野的"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2055029560882663884",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Details from the @covaldev here\n\nhttps://t.co/YvERHaTNkh https://t.co/7EAb993wUp https://t.co/DgzWAPnOND",
+    "date": "2026-05-14T20:56:42.000Z",
+    "title_cn": "详细信息来自@covaldev 这里\n\nhttps://t.co/YvERHaTNkh https://t.co/7EAb993wUp https://t.co/DgzWAPnOND"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2055029555455222199",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Alright it’s now official - barely 9 months old and @GradiumAI is already trouncing the entire voice AI field on third party TTS benchmarks\n\nBetter than OpenAI\nBetter than Eleven Labs\nBetter than Cartesia\nBetter than Deepgram \n… https://t.co/qWkfp1Pj8k",
+    "date": "2026-05-14T20:56:41.000Z",
+    "title_cn": "好吧，现在已经正式发布了 - 仅仅 9 个月的时间，@GradiumAI 就已经在第三方 TTS 基准测试中击败了整个语音 AI 领域\n\n比 OpenAI 更好\n比十一个实验室更好\n比笛卡尔更好\n比 Deepgram 更好 \n… https://t.co/qWkfp1Pj8k"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2055015466054410400",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "when people ask me how to get their org agent-pilled i always say the same thing:\n\nthe #1 leading indicator is whether their leadership team personally uses Codex, Claude Code or Cowork day to day. \n\nthat’s why over the last few months we’ve been working privately with leadership teams of the top companies in tech, helping them get their hands deep into Claude Code, Cowork, Codex and more. \n\nif you want @every to come and get your exec team agent-pilled, we’re opening up a few slots:\n\nhttps://t.co/o8g3c1xKYr",
+    "date": "2026-05-14T20:00:42.000Z",
+    "title_cn": "当人们问我如何获得他们的组织代理时，我总是说同样的话：\n\n第一个领先指标是他们的领导团队是否亲自日常使用 Codex、Claude Code 或 Cowork。 \n\n这就是为什么在过去的几个月里，我们一直在与顶尖科技公司的领导团队私下合作，帮助他们深入了解 Claude Code、Cowork、Codex 等。 \n\n如果您希望@every 来为您的执行团队提供代理，我们将开放一些空位：\n\nhttps://t.co/o8g3c1xKYr"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2054989456189648918",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "You can just render images on the terminal btw:\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\nRun 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 and access every image, video &amp; text model from @vercel AI Gateway instantly https://t.co/IsATrdSNyF",
+    "date": "2026-05-14T18:17:20.000Z",
+    "title_cn": "顺便说一句，您可以在终端上渲染图像：\n▲ ~/npx ai-cli image 'a vercel ai sdk 图'\n\n运行 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 并访问每个图像、视频和内容。立即来自 @vercel AI Gateway 的文本模型 https://t.co/IsATrdSnyF"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2054981832408760782",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I will be co-hosting an event in SF next Sat (5/23)!\n\nI've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone who's thought a lot about this to demo your real workflows & show what's actually working.\n\nFormat: A series of rapid-fire 5-minute demos, followed by Q&A. Screen shares of real workflows only; no slides.\n\n​Not demoing? Come hang out as a participant. Either way, expect an afternoon of practical workflows, fresh ideas, and new friends.\n\nRSVP here: https://t.co/5t0q6cHDV6\n\nCohosted w @NotionHQ & @radicalvcfund (@juleszqiu)",
+    "date": "2026-05-14T17:47:03.000Z",
+    "title_cn": "下周六（5/23）我将在旧金山共同主持一个活动！\n\n我一直在思考如何为座席管理和策划 CONTEXT。我邀请所有对此有深入思考的人来演示您的真实工作流程并展示实际工作原理。\n\n形式：一系列 5 分钟的快速演示，然后是问答。仅真实工作流程的屏幕共享；没有幻灯片。\n\n​不演示？作为参与者来闲逛。无论哪种方式，都可以期待一个充满实用工作流程、新想法和新朋友的下午。\n\n请在此回复：https://t.co/5t0q6cHDV6\n\n与 @NotionHQ 和 @radicalvcfund (@juleszqiu) 共同主持"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2054976557702066520",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/AoyPtuI9jx",
+    "date": "2026-05-14T17:26:05.000Z",
+    "title_cn": "https://t.co/AoyPtuI9jx"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2054969965757800721",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "hanging with the GOAT today @lennysan https://t.co/GQimejBSE6",
+    "date": "2026-05-14T16:59:53.000Z",
+    "title_cn": "今天和山羊在一起 @lennysan https://t.co/GQimejBSE6"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2054940655554564473",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "This great conversation with @ivanburazin is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):\n\nhttps://t.co/HuLAm1ewLU",
+    "date": "2026-05-14T15:03:25.000Z",
+    "title_cn": "与 @ivanburazin 的精彩对话也可在 Spotify、Apple 播客和 YouTube 上观看（点赞并订阅！）：\n\nhttps://t.co/HuLAm1ewLU"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2054924517135540320",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Every single large company with data walls realizing it’s time to go headless (or essentially die)..\n\nIt’s the right call too since the market/usage for agents will be 100x larger than humans. \n\nIf you gatekeep your systems for humans, you’ll most likely be 100x less valuable!",
+    "date": "2026-05-14T13:59:18.000Z",
+    "title_cn": "每一个拥有数据墙的大公司都意识到是时候去无头（或者本质上消亡）了。\n\n这也是正确的选择，因为代理的市场/使用量将比人类大 100 倍。 \n\n如果你为人类把守你的系统，你的价值很可能会降低 100 倍！"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2054778575988093249",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
+    "date": "2026-05-14T04:19:23.000Z",
+    "title_cn": "当传统媒体引用那些从更多芬太尼旅游中受益的人时，它就给自己带来了污点 \n\n取消资助那些支持人们吸毒直至死亡的非营利组织。旧金山和西海岸各地的资金回收和治疗 https://t.co/qWRYjVYWHd"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2054599845214650442",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
+    "date": "2026-05-13T16:29:10.000Z",
+    "title_cn": "如果你需要一个信号来表明风险投资已经真正成为共识资本，那么这就是一个信号。 \n\n如果你为了成为创始人而成为创始人，那么这会引起共鸣，因为你需要资金来经营你的企业。\n\n如果你着迷并且不关心世界的想法，那么你会将每一次拒绝视为潜在的学习机会，而不是对为什么你不应该创办那家公司的判断。"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2054569893060809151",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
+    "date": "2026-05-13T14:30:09.000Z",
+    "title_cn": "告诉我你以前是否见过这个：\n\n“今天是艰难的一天。我们做出了裁员 1,000 多名员工的艰难决定。我们的业务从未如此强大，但人工智能改变了我们的工作方式......”\n\n每当我读到其中一篇文章时，我都会在心里将其转化为实际发生的事情：\n\n“今天是艰难的一天。我们在零利率时代过度招聘，需要削减成本。人工智能很容易受到指责，所以……”\n\n第一季度有超过 80,000 名科技员工被解雇，这是 2022-23 年以来的最高水平。\n\n以下是我的咆哮，为什么这些裁员不断发生，以及作为员工夺回控制权的 6 种方法。\n\n📌立即阅读：https://t.co/LGgVeVAE4t"
   }
 ]
