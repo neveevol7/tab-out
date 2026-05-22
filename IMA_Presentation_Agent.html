@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>IMA 高校教师实训营 - 腾讯AI工作台</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css">
+    <!-- 引入中文字体 -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --r-main-font: 'Noto Sans SC', sans-serif;
+            --r-heading-font: 'Noto Serif SC', serif;
+            --r-main-font-size: 28px;
+            --r-heading-color: #fff;
+            --accent: #c8713a; /* 琥珀色 - 温暖且专业 */
+            --sub-accent: #5a7a62; /* 鼠尾草绿 - 科研感 */
+        }
+        .reveal .slides section { text-align: left; }
+        .reveal h1, .reveal h2, .reveal h3 { font-weight: 700; text-transform: none; }
+        .reveal h1 { color: var(--accent); }
+        .reveal .accent-text { color: var(--accent); font-weight: bold; }
+        .reveal .green-text { color: var(--sub-accent); font-weight: bold; }
+        .reveal .dim-text { color: #888; }
+        
+        .box {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px 30px;
+            border-radius: 12px;
+            border-left: 5px solid var(--accent);
+            margin: 20px 0;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: center;
+        }
+        .fragment.blur { filter: blur(5px); transition: all 0.5s ease; }
+        .fragment.blur.visible { filter: blur(0); }
+        
+        .footer {
+            position: absolute;
+            bottom: 30px;
+            left: 50px;
+            font-size: 0.5em;
+            color: rgba(255,255,255,0.3);
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="footer">IMA 高校教师实训营 · 腾讯AI工作台 ima.copilot</div>
+        <div class="slides">
+
+            <!-- Title Slide -->
+            <section data-background-gradient="radial-gradient(circle, #222 0%, #000 100%)">
+                <div style="text-align: center;">
+                    <h1 style="font-size: 1.8em;">IMA 知识库</h1>
+                    <h3 style="font-style: italic; font-weight: 300; opacity: 0.8;">让高校教师的工作「<span class="accent-text">问就有</span>」</h3>
+                    <div style="margin-top: 60px; font-size: 0.7em; line-height: 1.6;">
+                        <p>腾讯 AI 工作台 ima.copilot 实战分享</p>
+                        <p class="dim-text">讲师：杜龙兵（阿杜） | 华东理工大学工会</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Scenario Intro -->
+            <section>
+                <h2>思考一个问题</h2>
+                <div class="box">
+                    从领导说「准备双代会材料」，到推文发布 —— 你需要多久？
+                </div>
+                <div class="grid">
+                    <div class="fragment">
+                        <p class="dim-text">传统方式</p>
+                        <p style="font-size: 1.5em; font-weight: bold;">3–5 <span style="font-size: 0.5em;">个工作日</span></p>
+                    </div>
+                    <div class="fragment">
+                        <p class="accent-text">IMA 方式</p>
+                        <p style="font-size: 1.5em; font-weight: bold; color: var(--accent);">1–2 <span style="font-size: 0.5em;">小时</span></p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Product Concept -->
+            <section>
+                <h2>ima.copilot 是什么？</h2>
+                <p>不仅仅是一个对话框，它是你的<span class="accent-text">第二大脑</span>。</p>
+                <div class="box fragment">
+                    <h4 style="margin: 0; color: var(--accent);">会思考的知识库</h4>
+                    <p style="font-size: 0.8em; margin: 10px 0 0 0;">整合“搜、读、写”全链路。支持混元、DeepSeek 等多模型一键切换。</p>
+                </div>
+                <ul style="font-size: 0.8em; margin-top: 20px;">
+                    <li class="fragment">🔍 <span class="accent-text">全网搜索</span>：2亿+专业文档直接调用</li>
+                    <li class="fragment">📖 <span class="accent-text">深度阅读</span>：多文档交叉理解，引用精准溯源</li>
+                    <li class="fragment">✍️ <span class="accent-text">高效创作</span>：从一句话到全套材料闭环</li>
+                </ul>
+            </section>
+
+            <!-- Module 1: Admin Scenario -->
+            <section>
+                <section>
+                    <h2>模块一：文字工作 × IMA</h2>
+                    <p class="dim-text">案例：双代会文字工作全闭环</p>
+                </section>
+                <section>
+                    <h3>第一步：知识入库</h3>
+                    <p>为什么 AI 懂你？因为你喂了它对的资料。</p>
+                    <div class="box">
+                        <p style="font-size: 0.7em;">📂 历年讲话稿、工作总结、会议精神、规章制度...</p>
+                    </div>
+                    <p class="fragment" style="font-size: 0.8em;"><span class="accent-text">心法：</span>AI 生成质量 = 入库资料质量</p>
+                </section>
+                <section>
+                    <h3>第二步：提示词 (Prompt) 模板</h3>
+                    <pre><code class="language-markdown" style="font-size: 0.6em; line-height: 1.4;">
+你是 [身份角色]。
+请根据知识库中的资料，为 [会议/活动名称] 撰写一篇讲话稿。
+
+要求：
+1) 风格 [正式/亲切/激励]
+2) 包含 [具体要点]
+3) 重点参考知识库中 [某文件] 的写法风格
+                    </code></pre>
+                </section>
+            </section>
+
+            <!-- Module 2: Research Scenario (Optimized) -->
+            <section data-background-color="#0f1410">
+                <section>
+                    <h2 class="green-text">彩蛋场景：科研工作 × IMA</h2>
+                    <p>让“收藏夹”里的文献变成流动的生产力</p>
+                </section>
+                <section>
+                    <h3>精读 100 篇论文需要多久？</h3>
+                    <div class="grid">
+                        <div>
+                            <p style="font-size: 0.8em;"><span class="green-text">1. 批量入库</span><br><span class="dim-text">将某一方向的 PDF 全部拖入</span></p>
+                            <p style="font-size: 0.8em;"><span class="green-text">2. 跨文档对比</span><br><span class="dim-text">“总结各篇论文对 X 实验的参数差异”</span></p>
+                        </div>
+                        <div class="box" style="border-left-color: var(--sub-accent);">
+                            <p style="font-size: 0.7em;">“根据 A 论文 (p.12) 和 B 论文 (p.5) 的对比显示...”</p>
+                            <p class="fragment accent-text" style="font-size: 0.6em;">★ 每一句话都可点击回溯到原文 PDF 所在位置</p>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <h3>实验室团队传承</h3>
+                    <p>PI（导师）的经验如何留存？</p>
+                    <div class="box" style="border-left-color: var(--sub-accent);">
+                        <p style="font-size: 0.8em;">将实验室操作手册、历年论文入库，创建 <span class="green-text">“实验室 Agent”</span>。</p>
+                        <p style="font-size: 0.7em; margin-top: 10px;">新人进组：“师兄，这个实验怎么做？”<br>Agent：“根据导师 2023 年的要求，步骤如下...”</p>
+                    </div>
+                </section>
+            </section>
+
+            <!-- Module 3: Agent Service -->
+            <section>
+                <h2>模块二：部门客服 Agent</h2>
+                <p>24 小时在线的“数字干事”</p>
+                <div class="grid">
+                    <ul style="font-size: 0.7em;">
+                        <li>入库制度与 FAQ</li>
+                        <li>设定 Agent 身份</li>
+                        <li>发布分享链接</li>
+                        <li><span class="accent-text">绑定微信公众号</span></li>
+                    </ul>
+                    <div class="box">
+                        <p style="font-size: 0.6em; color: #aaa;">真实案例：</p>
+                        <p style="font-size: 0.9em; font-weight: bold;">「青教赛 AI 客服」</p>
+                        <p style="font-size: 0.6em;">已上线服务华理青年教师</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Final Summary -->
+            <section data-background-gradient="linear-gradient(to top, #222 0%, #000 100%)">
+                <h2 style="text-align: center;">三句话带走</h2>
+                <div style="margin-top: 40px;">
+                    <div class="fragment box">
+                        <span class="accent-text">① 先入库</span>：资料越好，AI 越强
+                    </div>
+                    <div class="fragment box">
+                        <span class="accent-text">② 定角色</span>：好 Agent = 好资料 + 好身份
+                    </div>
+                    <div class="fragment box">
+                        <span class="accent-text">③ 跑闭环</span>：从一个痛点开始，解决真实问题
+                    </div>
+                </div>
+                <p class="fragment" style="text-align: center; margin-top: 50px; font-style: italic; opacity: 0.7;">
+                    让经验可检索 · 让决策有据依 · 让创造有起点
+                </p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            controls: true,
+            progress: true,
+            center: true,
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+            backgroundTransition: 'fade'
+        });
+    </script>
+</body>
+</html>

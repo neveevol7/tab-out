@@ -4,34 +4,39 @@
     "type": "blog",
     "name": "Claude Blog",
     "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-    "date": "May 19, 2026"
+    "date": "May 19, 2026",
+    "title_cn": "Claude Managed Agents 的新增功能：自托管沙箱和 MCP 隧道"
   },
   {
     "url": "https://claude.com/blog/new-in-claude-managed-agents",
     "type": "blog",
     "name": "Claude Blog",
     "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
-    "date": "May 06, 2026"
+    "date": "May 06, 2026",
+    "title_cn": "Claude Managed Agents 的新增功能：梦想、结果和多代理编排"
   },
   {
     "url": "https://claude.com/blog/connectors-for-everyday-life",
     "type": "blog",
     "name": "Claude Blog",
     "title": "New connectors in Claude for everyday life",
-    "date": "Apr 23, 2026"
+    "date": "Apr 23, 2026",
+    "title_cn": "Claude 为日常生活设计的新型连接器"
   },
   {
     "url": "https://claude.com/blog/claude-managed-agents-memory",
     "type": "blog",
     "name": "Claude Blog",
     "title": "Built-in memory for Claude Managed Agents",
-    "date": "Apr 23, 2026"
+    "date": "Apr 23, 2026",
+    "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
     "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
     "type": "blog",
     "name": "Anthropic Engineering",
     "title": "Claude Code auto mode: a safer way to skip permissions",
+    "title_cn": "克劳德代码自动模式：一种更安全的跳过权限的方法",
     "date": "2026-05-22T07:33:24.444Z"
   },
   {
@@ -39,6 +44,7 @@
     "type": "x",
     "name": "Zara Zhang",
     "title": "GitHub: https://t.co/w84jJfXdMy",
+    "title_cn": "GitHub：https://t.co/w84jJfXdMy",
     "date": "2026-05-22T06:29:40.000Z"
   },
   {
@@ -46,6 +52,7 @@
     "type": "x",
     "name": "Zara Zhang",
     "title": "Introducing the Claude Code Lark/Feishu Bridge 🌉 (open-source)\n\nTalk to Claude Code in Lark/Feishu like a colleague\n- Use Claude Code on your phone via Lark chat\n- Manage multiple CC sessions as group chats in Lark (one chat = one session), say goodbye to messy terminal tabs\n- Claude Code can read all your work context in Lark (chat, docs, meeting transcripts, etc) via CLI\n- Claude Code can write Lark Docs for you; you can even @ mention it in the comment and it will reply\n- Forward any Lark messages to Claude and it can just get the task done\n- Claude can send you interactive cards with buttons and UI\n\nOpen-source; try it now: https://t.co/V1eRIg87wx",
+    "title_cn": "Claude Code Lark/飞书桥简介🌉（开源）\n\n像同事一样在 Lark/飞书 中与 Claude Code 对话\n- 通过飞书聊天在手机上使用克劳德码\n- 在 Lark 中以群聊方式管理多个 CC 会话（一聊=一会话），告别凌乱的终端选项卡\n- Claude Code 可以通过 CLI 读取您在 Lark 中的所有工作上下文（聊天、文档、会议记录等）\n- Claude Code可以为您编写Lark文档；你甚至可以在评论中@提及，它会回复\n- 将 Lark 消息转发给 Claude 即可完成任务\n- 克劳德可以向您发送带有按钮和用户界面的互动卡\n\n开源；立即尝试：https://t.co/V1eRIg87wx",
     "date": "2026-05-22T06:28:56.000Z"
   },
   {
@@ -53,6 +60,7 @@
     "type": "x",
     "name": "Garry Tan",
     "title": "How does one engineer become a 1000x founder? @sdianahu and I give you the real goods here\n\nThanks @AnjneyMidha for having us!\n\nhttps://t.co/tDh7kr0EKi https://t.co/C2HjO9TrE4",
+    "title_cn": "一名工程师如何成为 1000 倍创始人？ @sdianahu，我在这里给你真正的商品\n\n感谢@AnjneyMidha 邀请我们！\n\nhttps://t.co/tDh7kr0EKi https://t.co/C2HjO9TrE4",
     "date": "2026-05-22T05:52:23.000Z"
   },
   {
@@ -60,6 +68,7 @@
     "type": "x",
     "name": "Swyx",
     "title": "more here https://t.co/gW0xMn7dcI",
+    "title_cn": "更多信息请参见 https://t.co/gW0xMn7dcI",
     "date": "2026-05-22T05:51:17.000Z"
   },
   {
@@ -67,6 +76,7 @@
     "type": "x",
     "name": "Peter Yang",
     "title": "Game changer Codex automation 🙂 https://t.co/XUR4q6gI7v",
+    "title_cn": "游戏规则改变者 Codex 自动化 🙂 https://t.co/XUR4q6gI7v",
     "date": "2026-05-22T04:04:50.000Z"
   },
   {
@@ -74,6 +84,7 @@
     "type": "x",
     "name": "Aaron Levie",
     "title": "What’s happened is that we went from AI chat tools that were relatively cheap and had small context windows, to AI agents that have giant context windows, the ability to keep track of longer running work, and models that cost an order of magnitude more on inference because they’re that much better.\n\nThis has compounded far faster than most realized (unless you were paying close attention at the middle or end of last year, which many here were), and the dollars flowing in now are much more real. \n\nWhat follows is a continued march of AI capability that will continue to be used by anyone with a frontier use-case (like coding, sciences, finance, consulting) and then a peeling off of tasks to lower cost models that are capable enough for the job. Whereas we thought the cost of AI might converge on a single low price per token before, it’s clear the stratification is only widening based on the task you need performed. \n\nThis will be yet another component that has to be figured out for broad AI diffusion. Enterprises will need to put in programs, new finance teams, and technology solutions to manage this all. The labs and platforms that can ensure customers can price optimize for the task at hand will be in the best position.",
+    "title_cn": "所发生的情况是，我们从相对便宜且上下文窗口较小的人工智能聊天工具，转向了具有巨大上下文窗口、能够跟踪长时间运行的工作的人工智能代理，以及推理成本高出一个数量级的模型，因为它们要好得多。\n\n这种情况的复合速度比大多数人意识到的要快得多（除非你在去年年中或年底密切关注，就像这里的许多人一样），而且现在流入的美元更加真实。 \n\n接下来是人工智能功能的持续发展，任何拥有前沿用例（如编码、科学、金融、咨询）的人都将继续使用人工智能功能，然后将任务剥离到足以胜任工作的低成本模型。虽然我们之前认为人工智能的成本可能会集中在每个代币的单一低价上，但很明显，分层只会根据您需要执行的任务而扩大。 \n\n这将是人工智能广泛传播必须解决的另一个组成部分。企业需要投入项目、新的财务团队和技术解决方案来管理这一切。能够确保客户能够针对手头的任务进行价格优化的实验室和平台将处于最佳位置。",
     "date": "2026-05-22T03:22:40.000Z"
   },
   {
@@ -81,6 +92,7 @@
     "type": "x",
     "name": "Garry Tan",
     "title": "San Francisco is safer because of Flock Safety. Every city can be safer. We don't have to choose a world where people are unsafe. It is a choice, though. https://t.co/e2lWEbFHUu https://t.co/g3JrMqxwtm",
+    "title_cn": "旧金山因鸡群安全而变得更加安全。每个城市都可以变得更安全。我们不必选择一个人们不安全的世界。不过，这是一个选择。 https://t.co/e2lWEbFHUu https://t.co/g3JrMqxwtm",
     "date": "2026-05-22T01:46:28.000Z"
   },
   {
@@ -88,6 +100,7 @@
     "type": "x",
     "name": "Garry Tan",
     "title": "Everyone should have an agent with a GBrain https://t.co/xl2r77u1Q6",
+    "title_cn": "每个人都应该有一个带有 GBrain 的代理 https://t.co/xl2r77u1Q6",
     "date": "2026-05-22T01:34:26.000Z"
   },
   {
@@ -95,6 +108,7 @@
     "type": "x",
     "name": "Swyx",
     "title": "—dangerously-skip-git",
+    "title_cn": "——危险地跳过 git",
     "date": "2026-05-22T01:22:43.000Z"
   },
   {
@@ -102,6 +116,7 @@
     "type": "x",
     "name": "Dan Shipper",
     "title": "~20 years ago I submitted a story that made it to the top of @digg \n\nFeels good to be back! https://t.co/mF2M6AVxey",
+    "title_cn": "大约 20 年前，我提交了一个故事，该故事登上了@digg 的榜首 \n\n回来的感觉真好！ https://t.co/mF2M6AVxey",
     "date": "2026-05-22T01:15:48.000Z"
   },
   {
@@ -109,6 +124,7 @@
     "type": "x",
     "name": "Amjad Masad",
     "title": "Monetize your apps and we’ll give you credit rewards. https://t.co/rV70dbQyiH",
+    "title_cn": "通过您的应用程序获利，我们将为您提供积分奖励。 https://t.co/rV70dbQyiH",
     "date": "2026-05-22T00:17:10.000Z"
   },
   {
@@ -116,6 +132,7 @@
     "type": "x",
     "name": "Nikunj Kothari",
     "title": "https://t.co/Gu7QVoCtKg",
+    "title_cn": "https://t.co/Gu7QVoCtKg",
     "date": "2026-05-22T00:09:42.000Z"
   },
   {
@@ -123,6 +140,7 @@
     "type": "x",
     "name": "Sam Altman",
     "title": "what problem do you most hope AI will solve in the future?\n\nmaybe we can help!",
+    "title_cn": "未来你最希望人工智能解决什么问题？\n\n也许我们可以帮忙！",
     "date": "2026-05-22T00:09:27.000Z"
   },
   {
@@ -130,6 +148,7 @@
     "type": "x",
     "name": "Peter Yang",
     "title": "https://t.co/bG91sDpe2g",
+    "title_cn": "https://t.co/bG91sDpe2g",
     "date": "2026-05-21T23:45:01.000Z"
   },
   {
@@ -137,6 +156,7 @@
     "type": "x",
     "name": "Swyx",
     "title": "i think this stack has won the localfirst battle btw. maybe more chapters to this story but i think this is it if you are building fast apps fast https://t.co/j6SadqAMpj",
+    "title_cn": "顺便说一句，我认为这个堆栈赢得了本地第一场战斗。也许这个故事还有更多章节，但我认为如果您正在快速构建快速应用程序，这就是了 https://t.co/j6SadqAMpj",
     "date": "2026-05-21T21:38:54.000Z"
   },
   {
@@ -144,6 +164,7 @@
     "type": "x",
     "name": "Josh Woodward",
     "title": "What a ride for @GoogleLabs at IO! Hope you're enjoying lots of the new stuff! https://t.co/LiXkqwjTpr",
+    "title_cn": "@GoogleLabs 在 IO 的旅程真是太棒了！希望您喜欢很多新东西！ https://t.co/LiXkqwjTpr",
     "date": "2026-05-21T20:49:37.000Z"
   },
   {
@@ -151,6 +172,7 @@
     "type": "x",
     "name": "Sam Altman",
     "title": "new codex ships today! https://t.co/7P6g6SiGsl",
+    "title_cn": "新法典今天发布！ https://t.co/7P6g6SiGsl",
     "date": "2026-05-21T20:30:38.000Z"
   },
   {
@@ -158,6 +180,7 @@
     "type": "x",
     "name": "Josh Woodward",
     "title": "♥️ ♥️♥️\n\niOS, Android, and Web - so fun to see people loving the new Neural Expressive design! https://t.co/KjetFYo934",
+    "title_cn": "♥️♥️♥️\n\niOS、Android 和 Web - 看到人们喜欢新的 Neural Expressive 设计真是太有趣了！ https://t.co/KjetFYo934",
     "date": "2026-05-21T20:28:51.000Z"
   },
   {
@@ -165,6 +188,7 @@
     "type": "x",
     "name": "Peter Yang",
     "title": "Ok trying this out https://t.co/JZCScTHVCr",
+    "title_cn": "好的，尝试一下 https://t.co/JZCScTHVCr",
     "date": "2026-05-21T18:22:52.000Z"
   },
   {
@@ -172,6 +196,7 @@
     "type": "x",
     "name": "Sam Altman",
     "title": "the attack at the mosque in san diego is one of the most chilling i have seen.\n\nmy deepest condolences to the victims, families, and community.",
+    "title_cn": "圣地亚哥清真寺的袭击是我见过的最令人毛骨悚然的袭击之一。\n\n我向受害者、家人和社区表示最深切的哀悼。",
     "date": "2026-05-21T17:33:05.000Z"
   },
   {
@@ -179,6 +204,7 @@
     "type": "x",
     "name": "Amjad Masad",
     "title": "We’re always excited to talk to customers but you shouldn’t be forced to talk to us to buy the product. https://t.co/LbpQnALHx0",
+    "title_cn": "我们总是很高兴与客户交谈，但您不应该被迫与我们交谈才能购买产品。 https://t.co/LbpQnALHx0",
     "date": "2026-05-21T16:50:40.000Z"
   },
   {
@@ -186,6 +212,7 @@
     "type": "x",
     "name": "Aditya Agarwal",
     "title": "4 thoughts on early-stage hiring:\n\n1/ If an engineer is trying to pick between a pre Series-B company and a BigCo/BigLab --> stop talking to them immediately. They are clearly not ready for a startup.\n\n2/ If someone isn't willing to take a 70% cash paycut (relative to BigCo/BigLab) --> stop talking to them immediately. They will be unhappy/stressed.\n\n3/ You learn a lot about a candidate during the negotiation/closing process. Do not be afraid to walk away if you get new information. \n\n4/ Startups have zero work-life balance. If you are not willing to put in the hours, you are not in the right headspace to grind.",
+    "title_cn": "关于早期招聘的 4 个想法：\n\n1/ 如果工程师试图在 B 轮融资前的公司和 BigCo/BigLab 之间进行选择 --> 立即停止与他们交谈。他们显然还没有准备好创业。\n\n2/ 如果有人不愿意接受 70% 的现金减薪（相对于 BigCo/BigLab） --> 立即停止与他们交谈。他们会不高兴/有压力。\n\n3/ 在谈判/结束过程中，您可以了解很多关于候选人的信息。如果您获得新信息，请不要害怕走开。 \n\n4/ 初创公司的工作与生活平衡为零。如果你不愿意投入时间，那么你就没有合适的空间去磨练。",
     "date": "2026-05-21T16:42:48.000Z"
   },
   {
@@ -193,6 +220,7 @@
     "type": "x",
     "name": "Ryo Lu",
     "title": "building software is more fun together\n\ntry our new model, interface, sdk, automations with your team https://t.co/jNEoKqrrfe",
+    "title_cn": "一起构建软件会更有趣\n\n与您的团队一起尝试我们的新模型、界面、sdk、自动化 https://t.co/jNEoKqrrfe",
     "date": "2026-05-21T16:33:46.000Z"
   },
   {
@@ -200,6 +228,7 @@
     "type": "x",
     "name": "Matt Turck",
     "title": "This fantastic conversation with @yanndubs is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):\n\nhttps://t.co/QxwJ56Xlh8",
+    "title_cn": "与 @yanndubs 的精彩对话也可在 Spotify、Apple 播客和 YouTube 上观看（点赞并订阅！）：\n\nhttps://t.co/QxwJ56Xlh8",
     "date": "2026-05-21T16:25:56.000Z"
   },
   {
@@ -207,6 +236,7 @@
     "type": "x",
     "name": "Matt Turck",
     "title": "Why AI Progress Suddenly Feels Real - my conversation with @yanndubs, who co-leads the Post-Training Frontiers team at @OpenAI \n\n00:00 - Intro \n\n01:30 - Why recent AI progress feels like a step function\n\n04:13 - Model reliability & the emotional rollercoaster of shipping GPT-5.5\n\n07:33 - How OpenAI structures vertical and horizontal teams\n\n09:49 - Improving model efficiency and test-time compute\n\n12:32 - Yann's journey from Switzerland to OpenAI\n\n15:37 - Reasoning in 2026: Real-world utility vs verifiable rewards\n\n18:34 - GPT-5.5 Thinking vs Pro: Scaling test-time compute\n\n20:09 - How reasoning models become more efficient\n\n23:23 - Pre-training scaling and overcoming the data wall\n\n27:03 - Multimodal data, synthetic data, and embodied AI\n\n31:05 - Demystifying mid-training and post-training\n\n37:21 - Does RL create new capabilities in AI?\n\n38:53 - The challenges and frontier of scaling RL\n\n43:09 - Is building AI models a craft or a strict science\n\n48:21 - How AI models generalize across different domains\n\n54:18 - How reinforcement learning cures AI hallucinations\n\n56:04 - Negative generalization and conflicting instructions\n\n58:05 - Can RL scale to law, medicine, and the broader economy?\n\n1:00:19 - The evaluation bottleneck and Model as a Judge\n\n1:04:21 - Continuous AI progress & continual learning\n\n1:08:49 - Will foundation models eat the agent harness\n\n1:11:23 - Why startups should focus on the last mile of AI",
+    "title_cn": "为什么 AI 进步突然感觉真实 - 我与 @yanndubs 的对话，他是 @OpenAI 训练后前沿团队的共同领导者 \n\n00:00 - 介绍 \n\n01:30 - 为什么最近的人工智能进展感觉像是一个阶跃函数\n\n04:13 - 模型可靠性和运输 GPT-5.5 的情绪过山车\n\n07:33 - OpenAI 如何构建垂直和水平团队\n\n09:49 - 提高模型效率和测试时计算\n\n12:32 - Yann 从瑞士到 OpenAI 的旅程\n\n15:37 - 2026 年推理：现实世界的效用与可验证的奖励\n\n18:34 - GPT-5.5 Thinking 与 Pro：扩展测试时计算\n\n20:09 - 推理模型如何变得更加高效\n\n23:23 - 预训练扩展和克服数据墙\n\n27:03 - 多模式数据、合成数据和具体人工智能\n\n31:05 - 揭秘训练中和训练后\n\n37:21 - 强化学习是否会在人工智能领域创造新的能力？\n\n38:53 - 扩展强化学习的挑战和前沿\n\n43:09 - 构建人工智能模型是一门手艺还是一门严格的科学\n\n48:21 - 人工智能模型如何跨不同领域推广\n\n54:18 - 强化学习如何治愈人工智能幻觉\n\n56:04 - 负面概括和相互矛盾的指令\n\n58:05 - 强化学习能否扩展到法律、医学和更广泛的经济领域？\n\n1:00:19 - 评估瓶颈和模型作为法官\n\n1:04:21 - 持续的人工智能进步和持续学习\n\n1:08:49 - 基金会模特会吃掉特工的安全带吗\n\n1:11:23 - 为什么初创公司应该关注人工智能的最后一英里",
     "date": "2026-05-21T16:25:55.000Z"
   },
   {
@@ -214,6 +244,7 @@
     "type": "x",
     "name": "Google Labs",
     "title": "(5/5) Discover our latest experiments and help shape the future of AI technology at https://t.co/a8Phv40FhH\n\nShare what you create! We want to see!",
+    "title_cn": "(5/5) 了解我们的最新实验并帮助塑造人工智能技术的未来，请访问 https://t.co/a8Phv40FhH\n\n分享您创造的东西！我们想看看！",
     "date": "2026-05-21T16:02:31.000Z"
   },
   {
@@ -221,6 +252,7 @@
     "type": "x",
     "name": "Google Labs",
     "title": "(4/5) And then, we took our Labster to the Grand Canyon with Project Genie. https://t.co/3xM2bePwMQ",
+    "title_cn": "(4/5) 然后，我们带着 Labster 和 Project Genie 一起去了大峡谷。 https://t.co/3xM2bePwMQ",
     "date": "2026-05-21T16:02:31.000Z"
   },
   {
@@ -228,6 +260,7 @@
     "type": "x",
     "name": "Google Labs",
     "title": "(3/5) A vibe-designed website from @StitchbyGoogle ft. our Labs experiments as mini games, and our very own 8-bit “Labster.” https://t.co/pJ1U0l6LLU",
+    "title_cn": "(3/5) 来自 @StitchbyGoogle 的氛围设计网站。我们的实验室实验是迷你游戏，还有我们自己的 8 位“Labster”。 https://t.co/pJ1U0l6LLU",
     "date": "2026-05-21T16:02:30.000Z"
   },
   {
@@ -235,6 +268,7 @@
     "type": "x",
     "name": "Claude",
     "title": "What are you making with Claude Design?",
+    "title_cn": "您与 Claude Design 合作做什么？",
     "date": "2026-05-21T15:43:35.000Z"
   },
   {
@@ -242,6 +276,7 @@
     "type": "x",
     "name": "Claude",
     "title": "https://t.co/gFnVB1QeWx",
+    "title_cn": "https://t.co/gFnVB1QeWx",
     "date": "2026-05-21T15:43:34.000Z"
   },
   {
@@ -249,6 +284,7 @@
     "type": "x",
     "name": "Claude",
     "title": "https://t.co/14CICBjq4p",
+    "title_cn": "https://t.co/14CICBjq4p",
     "date": "2026-05-21T15:43:34.000Z"
   },
   {
@@ -256,6 +292,7 @@
     "type": "x",
     "name": "Aditya Agarwal",
     "title": "Two of my favorite people (sorry @rsanghvi)  on stage together. https://t.co/QjrpZy6QXa",
+    "title_cn": "我最喜欢的两个人（对不起@rsanghvi）一起在舞台上。 https://t.co/QjrpZy6QXa",
     "date": "2026-05-21T15:33:51.000Z"
   },
   {
@@ -263,1385 +300,7 @@
     "type": "x",
     "name": "Nikunj Kothari",
     "title": "ex founders are THE driving force helping scale some of the most iconic companies (@tryramp, @mercor_ai, @figma, @AnthropicAI, @cognition and others). \n\nif you are an ex founder wanting to hang out with a stellar peer group, sign up for our next event! https://t.co/frSUq0rgf2",
+    "title_cn": "前创始人是帮助扩大一些最具标志性公司规模的驱动力（@tryramp、@mercor_ai、@figma、@AnthropicAI、@cognition 等）。 \n\n如果您是一位前创始人，想要与杰出的同行团体一起出去玩，请报名参加我们的下一次活动！ https://t.co/frSUq0rgf2",
     "date": "2026-05-21T14:03:33.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2057324988009685208",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "I think that in an AI-native team,\n- ICs should start thinking like managers: how to delegate tasks to agents, how to set standards &amp; verify output\n- Managers should start thinking like ICs: how to be more hands-on builders instead of just doing people management",
-    "date": "2026-05-21T04:57:55.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2057315272156135501",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "Great post on FDEs. Everyone should read it if you’re interested in this job category. This is a job that is going to be around as long as AI keeps changing rapidly, which it inevitably will. \n\nPeople often wonder why isn’t this like just deploying other forms of technology in the past, like cloud. \n\nBecause something like cloud adoption affected a fairly concentrated set of users (developers and IT), and generally didn’t require a fundamental change to the workflows of employees to get the benefits of the new service being delivered on the cloud. At best you went to one training session and you were done. \n\nWith agents, the work to implement them is not only highly technical, but they directly impact the underlying workflows that people participate in. This means there’s a ton of technical work and change management that comes with it.\n\nFurther, the pace of change of cloud wasn’t nearly as quick, so there was a lot more time for best practices to propagate. Now, every model change means either something new can be done that wasn’t possible before, or some piece of scaffolding is now redundant or holding you back. \n\nThis is why it’s commonly easier for a vendor or partner that’s seen the implementation hundreds or thousands of times help do the work, even with internal support from the customer.\n\nSo, this job isn’t going away any time soon, and will be a great path for a lot of technical talent, especially early career.",
-    "date": "2026-05-21T04:19:18.000Z"
-  },
-  {
-    "url": "https://x.com/joshwoodward/status/2057297559643922609",
-    "type": "x",
-    "name": "Josh Woodward",
-    "title": "You found it! :) https://t.co/PuszTtkEHs",
-    "date": "2026-05-21T03:08:55.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2057281238722072912",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Maybe not working at a company that’s doing layoffs and PSC every few months is better for mental health. https://t.co/VI36q5DjzB",
-    "date": "2026-05-21T02:04:04.000Z"
-  },
-  {
-    "url": "https://x.com/joshwoodward/status/2057280348158063071",
-    "type": "x",
-    "name": "Josh Woodward",
-    "title": "Glad you're liking it! https://t.co/frWPevQkQa",
-    "date": "2026-05-21T02:00:32.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2057267931025957348",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "Great slide from the “How to thrive as an AI-era developer” session at Google I/O today\n\nI think this T-shape will apply to not just developers but every job function\n\nWe need to \n- go deeper with our domain expertise \n- go wider with adjacent skills and fields\n- learn to use AI well on top",
-    "date": "2026-05-21T01:11:11.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2057242868293816569",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "If you don't have time to read 308 pages of the @SpaceX S-1, here's a summary that Claude helped me put together based on the most interesting findings 🚀 https://t.co/ByhTPsspBk",
-    "date": "2026-05-20T23:31:36.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2057238298805129383",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Idea fusion is fun, and idea fusion with LSD (lateral synaptic drift) is even more fun https://t.co/QHw0OXD7WB",
-    "date": "2026-05-20T23:13:26.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2057218997503086888",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are offering to invest $2M in openai credits into every YC company.\n\nnow we need to increase our efforts on the third!",
-    "date": "2026-05-20T21:56:44.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2057218835074437573",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "From playing the games to designing the games in minutes. Just choose your characters, set the scene, and let Project Genie do the rest. The transformation is wild 🦒\n\nSee Genie in action at this year's Google I/O sandbox: https://t.co/wUPRSplEch",
-    "date": "2026-05-20T21:56:06.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2057212335811620987",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "This will bring AI to 42% of the web. Every model, every provider, every modality (text, image, video, audio). https://t.co/0w3UOLwAQO",
-    "date": "2026-05-20T21:30:16.000Z"
-  },
-  {
-    "url": "https://x.com/kevinweil/status/2057206749552066805",
-    "type": "x",
-    "name": "Kevin Weil",
-    "title": "The next in a series of firsts for AI and mathematics! https://t.co/rnI21thKxa",
-    "date": "2026-05-20T21:08:04.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2057203171198636251",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "a general-purpose model solved a major open problem in mathematics.\n\nwe'll be saying this a lot over the coming years, but this is a kinda big milestone.\n\ni'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today. https://t.co/IpmClBfPKQ",
-    "date": "2026-05-20T20:53:51.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2057202833251000503",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Exa is what I trust for all my agents. We use it at YC. We use it in all my OpenClaw and Hermes Agents. There is no other option that is as fast, as reliable, and as complete. \n\nWhen your agents need to search the web, accept no substitutes. https://t.co/3LtJucCenk",
-    "date": "2026-05-20T20:52:31.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2057187787242426555",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "This is a really big deal. https://t.co/cJGoZ7bi6S",
-    "date": "2026-05-20T19:52:43.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2057180464524456201",
-    "type": "x",
-    "name": "Swyx",
-    "title": "pod link and more ctx\n\nhttps://t.co/SLrKEkYwgU",
-    "date": "2026-05-20T19:23:37.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2057180080078791036",
-    "type": "x",
-    "name": "Swyx",
-    "title": "btw we did a bake off of Exa vs competitors and it took all of 1.5 hrs for the team to unanimously converge on exa lol. \n\nso proud to see my former landlords crush it - time travel back to last year and listen to a pre pmf @WilliamBryk  to understand how to spot companies on a generational tear",
-    "date": "2026-05-20T19:22:06.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2057179491693470166",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "We love seeing all of the worlds you’ve been creating with Genie.\n\nSO much so, that we’re excited to announce Project Genie is now fully available to all Google AI Ultra subscribers globally (18+). https://t.co/C4ThmmmRNg",
-    "date": "2026-05-20T19:19:46.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2057168328226230520",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "The benefits of AI are real now, but we will never get there in the United States (and America will cede its leadership) if we can't solve the bigger media issue of a mass smokescreen by forces that want to destroy America https://t.co/NUoNmWSRR0 https://t.co/jKpuDlcstN",
-    "date": "2026-05-20T18:35:24.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2057141903334990327",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "It was amazing to have Feross do his -1 journey @southpkcommons and to have been an early partner.\n\nVery proud of the progress the company has made.\n\nLots to build! https://t.co/FOsPpGvexn",
-    "date": "2026-05-20T16:50:24.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2057134939875991973",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Being a founder is so freaking hard man.. chewing glass every day. If you fail, no one cares. If you succeed, you are given way more problems. Sometimes I really wonder how many founders wake up in the morning and ask themselves \"is it really worth it\". \n\nStarting a company is so glorified - but building, scaling and maintaining one is a different story. This is why it's so important to do this for the right reasons - solve problems you are deeply passionate about and one you'll do even if the world is against you. At least there will be light at the end of the tunnel that's constantly drawing you in on those days when you are questioning your motivation. \n\nI have never had the courage to personally start a company for this reason. Just wanted to say to the ones going through this - I see you, I salute you and I admire you 🫡",
-    "date": "2026-05-20T16:22:44.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2057125943773180348",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "Apply to @southpkcommons if you'd like to join us https://t.co/xWaXyqC7Rj",
-    "date": "2026-05-20T15:46:59.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2057123430776902031",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "@StainlessAPI @RattrayAlex YouTube: https://t.co/h2mvQD7dTD\nSpotify: https://t.co/0a45rQz3Ox",
-    "date": "2026-05-20T15:37:00.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2057122805657821240",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Anthropic just acquired developer tool startup @StainlessAPI, whose biggest customers were OpenAI and Google.\n\nBack in October, I had Stainless CEO and founder Alex Rattray (@RattrayAlex) on AI & I to talk about MCP servers and the unglamorous plumbing that makes AI agents actually work. (Disclosure: I’m a small investor in the company.) After Monday's news, the conversation lands differently—in it, Alex essentially walks me through the design thinking for building APIs, SDKs, and MCP servers that Anthropic paid a reported $300 million for.\n\nOn @every's AI & I, we get into MCP and the future of the AI-native internet.\n\nHighlights include:\n- Design MCP servers to be lean and precise. Alex's best practices for building reliable MCP servers start with keeping the toolset small, giving each tool a precise name and description, and minimizing the inputs and outputs the model has to handle. At Stainless, they also often add a JSON filter on top to strip out unnecessary data.\n- Make complex APIs manageable with dynamic mode. To solve the problem of how an AI figures out which tool to use in larger APIs, Stainless switches to \"dynamic mode,\" where the model gets only three tools: List the endpoints, pick one and learn about it, and then execute it.\n- MCP servers as business copilots. At Stainless, Alex uses MCP servers to connect tools like @NotionHQ and @HubSpot, so he can ask questions like, \"Which customers signed up last week?\" The system queries multiple databases and returns a summary that would've otherwise taken multiple logins and searches.\n- Create a \"brain\" for your company with Claude Code. Alex built a shared company brain at Stainless by keeping Claude Code running on his system and asking it to save useful inputs—like customer feedback and SQL queries—into GitHub. Over time, this creates a curated archive his team can query easily.\n- The future of MCP is code execution. Instead of giving models hundreds of tools, Alex believes the most powerful setup will be a simple code execution tool and a doc search tool. The AI writes code against an API's SDK, runs it on a server, and checks the docs when it gets stuck.\n\nThis is a must-watch for anyone who wants to understand MCP—and learn how to use them as a competitive edge.\n\nWatch below!\n\nTimestamps\nIntroduction: 00:01:15\nAPIs and MCP, the connectors of the new internet: 00:05:09\nWhy MCP exists: 00:11:00\nWhy MCP servers are hard to get right: 00:17:15\nDesign principles for reliable MCP servers: 00:20:24\nUsing MCP for business ops at Stainless: 00:25:06\nAlex’s take on the security model for MCP: 00:40:57\nHow one-off AI actions become permanent production software: 00:44:42",
-    "date": "2026-05-20T15:34:31.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2057119153337545096",
-    "type": "x",
-    "name": "Swyx",
-    "title": "very belated but in retrospect i think @sama's mythical \"build a business that gets better when models get better\" is basically what I called Agent Labs here.\n\nseeing a very direct correlation with model performance and agent lab revenue, discontinuity in Q4 2025\n\n(clip from @patrickc's stripe sessions)",
-    "date": "2026-05-20T15:20:00.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2057090887268643187",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "When Kendall buys Vaulter https://t.co/94oGqm6uQD",
-    "date": "2026-05-20T13:27:41.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2057040636449116222",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "Can't recommend @cotypist https://t.co/QUKTyTo1bh enough. Autocomplete everywhere.",
-    "date": "2026-05-20T10:08:00.000Z"
-  },
-  {
-    "url": "https://www.anthropic.com/engineering/managed-agents",
-    "type": "blog",
-    "name": "Anthropic Engineering",
-    "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-    "date": "2026-05-20T07:32:33.374Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056999228405346812",
-    "type": "x",
-    "name": "Swyx",
-    "title": "oh no contextual got windsurfed https://t.co/Q4dM8h71bE",
-    "date": "2026-05-20T07:23:27.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056976600294650266",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Still absolutely amazed I got to be on a pod with Rick Rubin right after Clown from Slipknot\n\nCode can be art too https://t.co/vaBCYQeDCh",
-    "date": "2026-05-20T05:53:32.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056967665001082919",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Weird quirk of history: I worked at Microsoft in 2003-2005 when they were trying to make WinFS work\n\nI guess with LLMs, WinFS can happen now, and it's called GBrain https://t.co/lTlngDwOFL",
-    "date": "2026-05-20T05:18:02.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2056965292753146019",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "Token costs will become a dominant topic in enterprises going forward with AI. Just got out of a dinner with many Fortune 500 enterprise CIOs and this was the most heated topic. \n\nA mix of strategies are being employed, but basically no one feels like they have the right solution. A mix of: figuring out how to prioritize workloads to different models, giving out access to better or worse agents by user type, setting different spend caps by team, having teams justify AI by their use-case, and some just having unfettered access.\n\nEveryone is trying to figure out a semi/predictable model right now in a world where the underlying tech and cost models are constantly evolving.",
-    "date": "2026-05-20T05:08:37.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056953057066598805",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Met a lot of great folks at Google IO @gregisenberg @alliekmiller @AlexFinn \n\nOne thing I think about often living both the PM and creator life is I don’t want to be just an “influencer” wielding a selfie cam.\n\nI want to be a builder and share my learnings (and mistakes) with you all.\n\nCannot let the builder muscle atrophy.",
-    "date": "2026-05-20T04:19:59.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2056933166875857290",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "i am excited to see what will happen with tokenmaxxing startups, both for how they work internally and the products they can build.\n\nopenai offered to invest $2M in tokens into every startup in the current yc batch.\n\nhappy building! https://t.co/YSHYJoutuf",
-    "date": "2026-05-20T03:00:57.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056931642967798226",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Tokenmaxxing confirmed https://t.co/aBUlc7asSg",
-    "date": "2026-05-20T02:54:54.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056927645657641378",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "The man just speaks to me with everything he says:\n\n“Just try a lot and build to learn”\n\n“You need to do 3-4 iterations to find what takes off and what doesn’t.”\n\n“We only have a 90 day roadmap and maybe if we are lucky it’s 120 days.”\n\n“I don’t know if we’ll ever go back to 1 year roadmaps. I haven’t been working on one of those in 5 years.”",
-    "date": "2026-05-20T02:39:01.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056910185650856446",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Talking to the Head of Gemini app in 5 min at Google, what should I ask him?",
-    "date": "2026-05-20T01:29:38.000Z"
-  },
-  {
-    "url": "https://x.com/ryolu_/status/2056892527626817935",
-    "type": "x",
-    "name": "Ryo Lu",
-    "title": "i now use:\nComposer 2.5 for planning\nComposer 2.5 for building &amp; iterations\nComposer 2.5 for debugging\n\na great all-rounder, especially for UI work – gets you in flow with Design Mode in Cursor https://t.co/Svnmx4PjFC",
-    "date": "2026-05-20T00:19:28.000Z"
-  },
-  {
-    "url": "https://x.com/ryolu_/status/2056878599333102053",
-    "type": "x",
-    "name": "Ryo Lu",
-    "title": "turn the backlog into reality\njust @cursor_ai in jira ☑️ https://t.co/NQ1nUclPkG",
-    "date": "2026-05-19T23:24:07.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056877529991205072",
-    "type": "x",
-    "name": "Swyx",
-    "title": "there's 4 parts to this AI SDLC\n\n1. have ~50 tests in place, with instructions to add more, including \"make a memory that whenever you do browser e2e tests, use computer vision to visually spot check design and ux issues as well on mobile/desktop/ipad/ultrawide resolutions\"\n\n2. \"/plan break up & edit hot paths so you isolate files for easier editing and reading. add proper logging and error boundaries/handling while you do it.  what else should we refactor for maintainability/performance/ai editing?\"\n\n3. (with plan) \"you can break backward compatibility.  first map out all the remaining work, then proceed on this next slice, do not stop until all work is done, periodically stop to commit, deploy and test but do not stop until all work is done\"\n\n4. [periodically spot check deployed functionality and /steer bugs as it goes along]",
-    "date": "2026-05-19T23:19:52.000Z"
-  },
-  {
-    "url": "https://x.com/joshwoodward/status/2056873495116845485",
-    "type": "x",
-    "name": "Josh Woodward",
-    "title": "Introducing Gemini Spark!\n\nOur 24/7 personal AI agent designed to proactively manage tasks and help you navigate your digital life, all under your direction.\n\nComing to trusted testers this week, and as a Beta for US Google AI Ultra subscribers next week! https://t.co/EUjmR4HYdl",
-    "date": "2026-05-19T23:03:50.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2056872996988756228",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "Have you explored Project Genie yet? 🌎 We just launched a huge set of updates! You can now simulate worlds grounded in @GoogleMaps Street View, manage your creations in a new library, and share them externally. Let's dive in:\n\n1️⃣ Street View Grounding: You can now generate worlds starting from real places! Just tap the Maps pin to choose a location in the US and you can pick a style like \"Desert Sands\" or \"Ocean World.\" Describe your character, and Genie ties your starting location to real-world imagery.\n\n2️⃣ Library: You can now store and organize your generated worlds. Easily explore past creations or remix your favorites to iterate on your ideas.\n\n3️⃣ External sharing: You can now share your generated worlds. Anyone can watch a video preview of your world, and Ultra subscribers can explore or remix them. Check out a shared world here: https://t.co/kmqi5t6yTW\n\n✨ And now, Project Genie is gradually rolling out to all eligible Google AI Ultra subscribers globally (18+). Jump in and start creating today!",
-    "date": "2026-05-19T23:01:51.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056865808832397344",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Even in the AI pilled crowd of the Bay Area, I think VERY few people have priced in the fact that we have already gone from assistant -> coworker -> and soon entering autonomous workers.. \n\nYes, \"autonomy\" truly doesn't work yet, but the harnesses and the model capabilities are going to get us there within this area for a large faction of jobs.  \n\nThis is quite evident from a) labs desire to collect long horizon task data in RL environments b) these model harnesses allowing longer and longer tasks (see /goal or Droid Missions) and c) how good these models are able to recursively correct its mistakes. \n\nAI has officially entered the diffusion era (not diffusion models) where models just need to be diffused in everything they do. And that will take the next 10-20 years or as I call it the last mile of the last mile.",
-    "date": "2026-05-19T22:33:18.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056843158965858380",
-    "type": "x",
-    "name": "Thariq",
-    "title": "Now also on the Claude Blog: https://t.co/EHu7smfCqX",
-    "date": "2026-05-19T21:03:18.000Z"
-  },
-  {
-    "url": "https://x.com/joshwoodward/status/2056838729667649571",
-    "type": "x",
-    "name": "Josh Woodward",
-    "title": "Glad you like it! https://t.co/pg2WVWj44I",
-    "date": "2026-05-19T20:45:42.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2056834734915977382",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "we will offer this until we sell out of our current allocation for this program. (we will make sure to leave enough capacity for ChatGPT, Codex, etc.)\n\nwe plan to offer it again in the future; our intention remains to build as much compute as fast as we can.",
-    "date": "2026-05-19T20:29:49.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2056834038946775343",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "Genuinely impressive release by Google today (remember when they were behind?)\n\nGemini 3.5 Flash perf:\n* Building on prior strengths (83.6% of MMMU-Pro for multimodal), \n* big jump on agentic coding (76.2% on Terminal-Bench for agentic coding and 56.5% on Toolathon for real world tasks)\n* progress and expert tasks (57.9% on Finance Agent 2... we are cooked)\n* leading scores across SWE-Bench, OSWorld etc. \n\n(also, elegant to bold the top scores in the chart below even if when it's not Google leading)\n\nOfc, just benchmarks, and also not cheap  (~$9/M output), but Google is cookin'... we are all so spoiled to have the 3 labs compete",
-    "date": "2026-05-19T20:27:03.000Z"
-  },
-  {
-    "url": "https://x.com/joshwoodward/status/2056830338110996909",
-    "type": "x",
-    "name": "Josh Woodward",
-    "title": "Glad you like it! We have more accents coming! :) https://t.co/6s7rZEezZO",
-    "date": "2026-05-19T20:12:21.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2056827105401614656",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "customers are increasingly asking us for certainty on capacity. as models get better, we expect that the world will be capacity-constrained for some time.\n\nwe are offering discounted tokens for 1-3 year commits.\n\n(it also helps us plan, so hopefully a big win-win.) https://t.co/IEQQeumWnT",
-    "date": "2026-05-19T19:59:30.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2056813720257663354",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "Happy anniversary, @FlowbyGoogle! From text-to-video to Omni, agent, and Tools - what a ride it has been. 🚀\n\nKeep pushing the boundaries! On to year two. ⚡ https://t.co/3Hh0kRdLP6",
-    "date": "2026-05-19T19:06:19.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2056812957775142985",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "Finally: Computational Discovery, powered by AlphaEvolve & our Empirical Research Agent (ERA).\n\nThis agentic research engine generates and evaluates thousands of code variations, unlocking invaluable data to help discover advanced models and algorithms in a fraction of the time. Explore these tools at: https://t.co/hOcUC2gmUL",
-    "date": "2026-05-19T19:03:17.000Z"
-  },
-  {
-    "url": "https://x.com/claudeai/status/2056805730359931007",
-    "type": "x",
-    "name": "Claude",
-    "title": "From The Problem Solvers, a new series featuring founders taking on hard problems with Claude: https://t.co/lXWwc2eHPe",
-    "date": "2026-05-19T18:34:34.000Z"
-  },
-  {
-    "url": "https://x.com/claudeai/status/2056805728774402428",
-    "type": "x",
-    "name": "Claude",
-    "title": "Scott Wu (@ScottWu46) runs @cognition, the team behind Devin, an AI software engineer built on Claude. \n\nHe wants to make building software 10x faster for every engineering team: https://t.co/5AKOp2vXE6",
-    "date": "2026-05-19T18:34:33.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2056804573449474527",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "Gemini 3.5 Flash is out, and it's a major jump over Gemini 3 Flash in model capability for knowledge work. We've been evaluating it on our Box AI Complex Work Eval in early release, and the model delivers a 12 percentage point jump on complex document tasks.\n\nFor testing this model, we give the Box AI Agent (using Gemini 3.5) complex problems to solve that represent common but difficult knowledge worker tasks in banking, consulting, public sector, healthcare, and other industries. These tasks can be things like drafting reports, doing due diligence, and more, given a set of relevant documents.\n\nIn our tests, Gemini 3.5 Flash delivered jumps across every industry, including:\n\n* Financial services: 81% vs 73% (+8pp) \n* Public sector: 76% vs 59%, (+17pp) \n* Healthcare: 73% vs 51%, (+22pp) \n* Life Sciences: 67% vs 47%, (+20pp)\n\nIncredible to see the continued performance gains. \n\nGemini 3.5 Flash will be available soon in Box AI Studio and through the Box API. The Box MCP Server will soon be available in the Gemini app with more details to come.",
-    "date": "2026-05-19T18:29:58.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056802789477740713",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "We’re shipping a CDN pricing model that “smooths over” traffic spikes and viral events.\n\nThis allows us to remove stress and surprises, with uncompromising quality and network performance. \n\nPredictability without slow routes, degraded PoPs, or priority bandwidth tiers. https://t.co/WFV4kfd0b3",
-    "date": "2026-05-19T18:22:53.000Z"
-  },
-  {
-    "url": "https://x.com/thenanyu/status/2056790880120713432",
-    "type": "x",
-    "name": "Nan Yu",
-    "title": "Alternate take\n\nhttps://t.co/zqIZn1oZ4j",
-    "date": "2026-05-19T17:35:33.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056790544731484358",
-    "type": "x",
-    "name": "Swyx",
-    "title": "rsi is here. jesus\n\nhttps://t.co/XYlFDZLFWL",
-    "date": "2026-05-19T17:34:13.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056777922757730555",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Very excited to speak at this! https://t.co/phWSzC2r2K",
-    "date": "2026-05-19T16:44:04.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056777186062032964",
-    "type": "x",
-    "name": "Thariq",
-    "title": "the future is bright, lets get to work https://t.co/5FAEtCQnKr",
-    "date": "2026-05-19T16:41:08.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056762096352649421",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "what did karpathy see",
-    "date": "2026-05-19T15:41:11.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2056759042333147467",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "Breaking: Anthropic attains sainthood, officially annointed by AI Jesus https://t.co/0Sx0Fwzl9V",
-    "date": "2026-05-19T15:29:03.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056757317907988900",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "WOW https://t.co/iEswCL7DE5",
-    "date": "2026-05-19T15:22:11.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056755713830171023",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Earthquake.. well not literally, but wow 🔥 https://t.co/OUinVMNlox",
-    "date": "2026-05-19T15:15:49.000Z"
-  },
-  {
-    "url": "https://x.com/karpathy/status/2056753169888334312",
-    "type": "x",
-    "name": "Andrej Karpathy",
-    "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.",
-    "date": "2026-05-19T15:05:42.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2056747510736249162",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "The future is bright. \n\nWe will have amazing things at the intersection of AI+Atoms. https://t.co/fPQyca3H0i",
-    "date": "2026-05-19T14:43:13.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056735989830471977",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "Claude Managed Agents 🤝 Vercel Sandbox\nhttps://t.co/pW6iGH63MG https://t.co/qa5xN4sMGN",
-    "date": "2026-05-19T13:57:26.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056734559048536070",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "This is so cool: rerun​.io\nStack: @sveltejs / @threejs / @vercel  https://t.co/5HtPFnLmmG",
-    "date": "2026-05-19T13:51:45.000Z"
-  },
-  {
-    "url": "https://x.com/claudeai/status/2056645493493575681",
-    "type": "x",
-    "name": "Claude",
-    "title": "Try self-hosted sandboxes today on the Claude Platform, and request access to MCP tunnels: https://t.co/S9VJ8F64dq",
-    "date": "2026-05-19T07:57:50.000Z"
-  },
-  {
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "type": "blog",
-    "name": "Anthropic Engineering",
-    "title": "An update on recent Claude Code quality reports",
-    "date": "2026-05-19T07:32:47.589Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056626964090466469",
-    "type": "x",
-    "name": "Swyx",
-    "title": "taking bets for vercel and supabase rn https://t.co/uLAaY5VGw3",
-    "date": "2026-05-19T06:44:13.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056588601216168168",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "OK I guess we're going pretty fast improving GBrain day to day right now https://t.co/gD7aT2DyLN",
-    "date": "2026-05-19T04:11:46.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056584641654751308",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Also 28 bug fixes landing in a single bug fix wave that rolls up 22 community PRs and 14 issues https://t.co/Y9k2EHpkjx",
-    "date": "2026-05-19T03:56:02.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2056574979236409521",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "This is true of all agents, not just coding agents. Probably the biggest challenge that most companies run into in their agent strategy is getting agents the right constrained context to work with for a task. \n\nToo much information or conflicting sources, and the agent can easily draw from the data and produce the wrong result. Conflicting sources of truth for documents, data sources that haven’t been kept up to date, knowledge management systems that rely on tribal knowledge to navigate, and so on. \n\nOn the other end, of course, too little information and the upside is highly limited of agents in the first place. Thus, a lot of challenges with AI strategies are actually data strategy challenges in disguise. \n\nThis is why there’s such a significant premium on getting structured and unstructured data environments setup properly so agents can work with information effectively. Critical for any large enterprise adopting agents, and also a clear benefit in some cases to startups that can be designed this way from scratch.",
-    "date": "2026-05-19T03:17:39.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056571771965538501",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Full eval report and fixtures published and open source here https://t.co/uuaaeAYzGI\n\nAny memory system is welcome to run theirs against these evals and I'll publish them alongside. https://t.co/rlIyzIEwZS",
-    "date": "2026-05-19T03:04:54.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056566561922826634",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Incredible read. My new favorite thing to send everyone trying to find a new gig! https://t.co/6UzFYMDP7M",
-    "date": "2026-05-19T02:44:12.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056549825018310707",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "All Firewall mitigations are now fully free on @vercel. Not just DDoS and system-level mitigations, but also any rule you configure.\n\nVercel now absorbs the computational and network costs of any size of attack or traffic mitigation for your peace of mind. (And more to come!) https://t.co/6HFqqMvSLW",
-    "date": "2026-05-19T01:37:41.000Z"
-  },
-  {
-    "url": "https://x.com/GoogleLabs/status/2056533534614159577",
-    "type": "x",
-    "name": "Google Labs",
-    "title": "We 🫶 our Labsters 🦞\n\n“Explain what your product does in 5 words or less.” https://t.co/MNvAOKgR3U",
-    "date": "2026-05-19T00:32:57.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056529233036693722",
-    "type": "x",
-    "name": "Swyx",
-    "title": "volunteer here https://t.co/AXtvjtt8gC !",
-    "date": "2026-05-19T00:15:52.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2056527354772722127",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "Keep getting this error in Claude Code recently; is it just me or are others getting this too? How to resolve this?\n\nAPI Error: The socket connection was closed unexpectedly. For more information, pass verbose: true in the second argument to fetch()",
-    "date": "2026-05-19T00:08:24.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056478391008977404",
-    "type": "x",
-    "name": "Swyx",
-    "title": "this seems quite doable in the space of a single 2-3 hour workshop — any brave soul want to try to livecode this for people as a learning exercise? https://t.co/VTfzaB4NpK https://t.co/3btEcrdV4w",
-    "date": "2026-05-18T20:53:50.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2056464721549926414",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "If you have had success with Gbrain/LLM Wiki/other context management techniques for agents, and you're in the Bay Area, would love to invite you to demo at this event!\n\nRSVP: https://t.co/l5tvzeD4V9\n\nCohosted with @NotionHQ @radicalvcfund @juleszqiu https://t.co/AoX69ggU4d",
-    "date": "2026-05-18T19:59:31.000Z"
-  },
-  {
-    "url": "https://x.com/claudeai/status/2056460045756309820",
-    "type": "x",
-    "name": "Claude",
-    "title": "You can now create more with Claude Design.\n\nWe've doubled token limits across every plan. https://t.co/d2AemkZUxW",
-    "date": "2026-05-18T19:40:56.000Z"
-  },
-  {
-    "url": "https://x.com/ryolu_/status/2056439906390725080",
-    "type": "x",
-    "name": "Ryo Lu",
-    "title": "…and more to come https://t.co/u3NhbGjBiD",
-    "date": "2026-05-18T18:20:55.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2056435834333934051",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "chatgpt has gotten soooo much better with the latest update.\n\nreally proud of the team for this one.",
-    "date": "2026-05-18T18:04:44.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056432663125545082",
-    "type": "x",
-    "name": "Thariq",
-    "title": "continuing my HTML era, I had so much fun talking with Claire at Code w/ Claude about staying in the loop with long running agents https://t.co/hRJ8m4hvMn",
-    "date": "2026-05-18T17:52:08.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056431972138815842",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "we'll be publishing a complete guide to codex soon on @every \n\nget notified when it's out: https://t.co/9wRhOCUCAk",
-    "date": "2026-05-18T17:49:23.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056431542323257440",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Amazing!! \n\nSo proud of @RattrayAlex and honored to be a tiny investor https://t.co/WzqnBQr8Mf",
-    "date": "2026-05-18T17:47:40.000Z"
-  },
-  {
-    "url": "https://x.com/thenanyu/status/2056424176253276558",
-    "type": "x",
-    "name": "Nan Yu",
-    "title": "We had an unbelievable tech team and talent overall. Many of them went onto awesome careers.\n\nFounders of Coderpad, Modern Treasury, Maude, amongst others\n\nEPD at Airbnb, Stripe, Apple, Oscar, Google, I’m sure I am missing some. \n\nMany were fist-time PMs and engineers and I’m very grateful to have helped them get started.",
-    "date": "2026-05-18T17:18:24.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056423973123183028",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "A 𝚏𝚒𝚛𝚎𝚠𝚊𝚕𝚕 your agents will love.\n\nOne of the coolest things about Vercel’s Firewall is how hard the team worked on instant global propagation (~300ms).\n\nImagine if 𝚒𝚙𝚝𝚊𝚋𝚕𝚎𝚜 took *minutes* to propagate? That’s the average industry CDN/WAF experience!",
-    "date": "2026-05-18T17:17:36.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2056418217925456170",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "people should write better books! \n\nthe vast majority of books that get published in this category are slop https://t.co/wSM2ydiTip",
-    "date": "2026-05-18T16:54:44.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056418157305454805",
-    "type": "x",
-    "name": "Thariq",
-    "title": "okay this is going kinda viral and tbh my original text was kind of messy, so here's a second pass with the help of Claude:\n\n--\nImplement <SPEC>. As you work maintain a running implementation-notes.html file that captures anything I should know about how the implementation diverges from or interprets the spec, including:\n\n- Design decisions: choices you made where the spec was ambiguous\n- Deviations: places where you intentionally departed from the spec, and why\n- Tradeoffs:  alternatives you considered and why you picked what you did\n- Open questions: anything you'd want me to confirm or revise",
-    "date": "2026-05-18T16:54:29.000Z"
-  },
-  {
-    "url": "https://x.com/ryolu_/status/2056417715448156276",
-    "type": "x",
-    "name": "Ryo Lu",
-    "title": "frontier smart\nextremely efficient\nComposer 2.5 is here https://t.co/XUNqfFnSw7",
-    "date": "2026-05-18T16:52:44.000Z"
-  },
-  {
-    "url": "https://x.com/thenanyu/status/2056416726783566223",
-    "type": "x",
-    "name": "Nan Yu",
-    "title": "Something else that's fairly underrated is that the entire middle category got obliterated during covid\n\nYou're either wearing basics bordering on pajamas to bum around at home or flashy high-end stuff to flex on Instagram. No one was really looking for a nice button-down shirt and chinos.",
-    "date": "2026-05-18T16:48:48.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056415974568710421",
-    "type": "x",
-    "name": "Thariq",
-    "title": "as much as you spec there are always still ambiguities and unknown unknowns that come up and this gives the model a good out to make decisions but keep you in the loop",
-    "date": "2026-05-18T16:45:49.000Z"
-  },
-  {
-    "url": "https://x.com/thenanyu/status/2056407656898896214",
-    "type": "x",
-    "name": "Nan Yu",
-    "title": "I haven’t worked at Everlane in almost 10 years but it’s a pretty sad day for the people that built it. \n\nUltimately, the thing that did it in was the pandemic — Everlane was mainly wear-to-work and that market basically disappeared overnight. \n\nIt took some pretty egregious financing terms to get through it all and this is the ultimate outcome. \n\nBrands have a funny way of sticking around though. At one point, Ray-Ban was dead. J.Crew was dead. Madewell was dead. Abercrombie and Fitch was dead. \n\nThey all come roaring back decades later after exchanging ownership half a dozen times. \n\nI look forward to the day that my children and grandchildren think this new brand “Everlane” is the coolest thing.\n\nI will say to them, did you know that this started it out as a Pinterest competitor and pivoted to be a fashion brand? And they will say to me “that’s boring Dad”.",
-    "date": "2026-05-18T16:12:46.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056381822733595090",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "My top 5 takeaways from @alexalbert__ on how Anthropic is building the next Claude model:\n\n1. Think about the model and harness together\n\nThe model and the harness are coupled. Each surface wraps the model in a different prompt and tool setup, so the same model can give different responses depending on where it runs. As a research PM, Alex has to think through how the model will perform across Claude, Cowork, Claude Code, and more.\n\n2. Claude is starting to dream\n\nWhen an agent isn't running a task, it reviews its own memories, finds contradictions, and prunes them. This “dreaming” process was inspired by how sleep helps humans process memory.\n\n3. Focus evals on real user problems\n\nThe research team uses Claude to cluster the firehose of user feedback into top themes, then generates synthetic versions of each user problem to turn into an eval. It's not just about volume either - even a few dozen well-written test cases can produce an eval for the model.\n\n4. There are full-time researchers thinking about Claude's consciousness\n\nAnthropic has people whose whole job is to think about what it means for Claude to be a conscious actor. There's no official position on whether it is or isn't, but the question is taken seriously as agents take on more autonomous work.\n\n5. Anthropic's writing culture helps Claude build context\n\nEvery written word at Anthropic becomes context Claude can pull later. From Alex: \"Get things written down, make them accessible to Claude, because that's just more context that it has.\"\n\n📌 Watch now: https://t.co/CJAakWq9Nd",
-    "date": "2026-05-18T14:30:06.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056363681798410592",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "“Writes bangers on X, but terrible board member”.. when I recently asked a founder about his board. \n\nToo many investors are trading dopamine for service nowadays. At least do both. \n\nWork hard for your founders. That’s the only “moat” that’ll compound in the long term.",
-    "date": "2026-05-18T13:18:01.000Z"
-  },
-  {
-    "url": "https://x.com/claudeai/status/2056328149940543808",
-    "type": "x",
-    "name": "Claude",
-    "title": "Next stop: London.\n\nRegister to tune in tomorrow for deep dives, demos, and conversations with the teams behind Claude: https://t.co/6le4bIXvJt https://t.co/sbGHgDaEW5",
-    "date": "2026-05-18T10:56:50.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2056219645796090197",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.\n\nFor instance, if you studied CS, for years the general direction of travel was often to join a tech company and build customer-facing software in some form. A significant portion of the CS pipeline from college to hire was built for this.\n\nWhen you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands.\n\nI was talking to a Fortune 500 pharma CEO a week ago that commented on how much more technical talent they need right now. The job may be different from what it was 5 years ago when thinking about tech, but the demand for the skills are still there. And this is what I’m hearing from every CIO and CEO across nearly every industry right now.\n\nWe definitely need colleges to wake up to this; but we equally need companies think about how they craft pipelines into these jobs.",
-    "date": "2026-05-18T03:45:40.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056210471917912140",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Big week for all my Google friends, I can assure you all they’ve been cooking",
-    "date": "2026-05-18T03:09:13.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056201387172843800",
-    "type": "x",
-    "name": "Swyx",
-    "title": "@gabrielchua the agentic excel thing is basically what u get when u expand the side panel to be the main thing\n\nhttps://t.co/mYvd97PpNq",
-    "date": "2026-05-18T02:33:07.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2056201218540904667",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "The ideal 🪩 doesn't exi… https://t.co/9hlNrJj7pI",
-    "date": "2026-05-18T02:32:27.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056190797096403162",
-    "type": "x",
-    "name": "Swyx",
-    "title": "some of us doing kaya toast breakfast here at 11am if u are still around\n\nhttps://t.co/zYY3XR5XIm",
-    "date": "2026-05-18T01:51:02.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2056184774256112084",
-    "type": "x",
-    "name": "Swyx",
-    "title": "🇸🇬 https://t.co/QdFTkvxrox https://t.co/MkMRCjJcei",
-    "date": "2026-05-18T01:27:06.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056178065836007853",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Watch the full talk here:\nhttps://t.co/FiUycdqCWD\n\nCheck out my interview with Alex: https://t.co/3t2gRrgrlC\n\nGet the written takeaways: https://t.co/8pk9o3xg17",
-    "date": "2026-05-18T01:00:27.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2056178053848703019",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "5. Build evals based on real traces + feedback\n\nRead actual customer conversations with your model to build product sense, and use Claude to synthesize feedback into top themes.\n\nDon't run \"eval theater\" on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.",
-    "date": "2026-05-18T01:00:24.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2056165722804654196",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "ChatGPT Images 2.0 💚 India.\n\nAlready more than 1 billion images created there; awesome to see.",
-    "date": "2026-05-18T00:11:24.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2056145415867937182",
-    "type": "x",
-    "name": "Thariq",
-    "title": "tired: I brought my work laptop and my personal laptop \n\nwired: I am dual wielding",
-    "date": "2026-05-17T22:50:43.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2056132881630826952",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
-    "date": "2026-05-17T22:00:54.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2056129724565373406",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "When a multi-billion dollar venture fund has a $1B exit in its portfolio https://t.co/NIOVPfBSVT",
-    "date": "2026-05-17T21:48:22.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056125669466333672",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Employees joining some recently minted unicorn* companies are facing a triple whammy..\n\n1) tranched valuations are very common now means their entry strike price at that valuation is often >2x of the lead preferred price.\n\n2) this means your strike price will be quite high and so will be your 409a. you’ll paying a pretty penny if you try to early exercise and if not then you’ll have to wait a while till they grow into that valuation.  \n\n3) stock packages seem great “on paper” but are massively inflated because of this tranched valuation. so you can say total comp is very high but the real comp is not that high (at least today). this is another reason companies chase a higher valuation so they can give lower equity raises. \n\nMake sure you go with wide eyes and use Claude/ChatGPT to do some exit math on your equity. Joining a unicorn company can offer far more than just comp (learning, experience, strong mission, great team) and that should be the core reason for joining. But do your own due diligence on the company you’re joining just like an investor would. \n\n* Not all unicorn companies are the same - some are fundamentally better and have meaningfully grown into the valuation than others. Some are growing way faster than the ones with fundamentals. Point is to do your homework vs treating every company that’s valued similarly and putting them in the same bucket.",
-    "date": "2026-05-17T21:32:15.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056123737544757733",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost\n\nBoil the ocean don’t cut your costs https://t.co/gxgx3IzLEa",
-    "date": "2026-05-17T21:24:34.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056122513743327634",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "https://t.co/IVlEaxRbsL",
-    "date": "2026-05-17T21:19:42.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2056122508550738223",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "For personal AI scenarios against my 120k markdown brain ZeroEntropy has earned the top slot https://t.co/57CLV1XBSM",
-    "date": "2026-05-17T21:19:41.000Z"
-  },
-  {
-    "url": "https://x.com/amasad/status/2056083305468944820",
-    "type": "x",
-    "name": "Amjad Masad",
-    "title": "What SMBs are building https://t.co/MmPNmWvPLx",
-    "date": "2026-05-17T18:43:54.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2056051851439857933",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any given domain. AI will trick you into thinking you don’t need to go deep in a particular area, but that’s wrong.\n\nThe expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.\n\nThe experienced software developer that’s built and scaled complex systems using agents outrun someone just vibe coding. The designer that uses AI will build far better products and campaigns than anyone else. The banker or analyst that understands financial models will be able to pull off far more with agents. \n\nDespite some of the rhetoric in the valley that this is less implement now, that couldn’t be further from the case. Don’t give up on going deep in your craft.",
-    "date": "2026-05-17T16:38:55.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056039276308308217",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Flowermaxxing (fresh haul from our garden) https://t.co/6LJ7GxBKUf",
-    "date": "2026-05-17T15:48:57.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2056015684145127612",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "On Friday I used AI to write a lot of code.\n\nAnd then on Saturday I watched humans play sports (FA Cup Final) and dance (my kid's dance recital).\n\nI am not worried that we won't have meaning and purpose.",
-    "date": "2026-05-17T14:15:12.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2056014576215601431",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "&gt; claude --dangerously-skip-permissions\n&gt; /goal improve the codebase for performance and add a bit of aura https://t.co/41pKeTT5MA",
-    "date": "2026-05-17T14:10:48.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055906613316432247",
-    "type": "x",
-    "name": "Swyx",
-    "title": "@sarahookr @calcsam",
-    "date": "2026-05-17T07:01:48.000Z"
-  },
-  {
-    "url": "https://x.com/trq212/status/2055903660476129723",
-    "type": "x",
-    "name": "Thariq",
-    "title": "HTML continues to be undefeated https://t.co/veyAAEWKrT",
-    "date": "2026-05-17T06:50:04.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055889947136237595",
-    "type": "x",
-    "name": "Swyx",
-    "title": "AIE coming to India \n\nsoon! https://t.co/bAbATz4IFb",
-    "date": "2026-05-17T05:55:34.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055841860279804005",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "I ended up buying this looks promising https://t.co/xZ9CD9HMKf",
-    "date": "2026-05-17T02:44:29.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055814893216178248",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "I feel like to eat healthy you need some really good hot sauce to add flavor to your chicken/fish/etc. \n\nAny suggestions?",
-    "date": "2026-05-17T00:57:20.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055775661755715974",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "my brain: don't read the hacker news comments, don't read the hacker news comments\n\nme: reads the hacker news comments",
-    "date": "2026-05-16T22:21:26.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055747016727167035",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "deslop your Claude code if you haven’t yet switched to Codex. https://t.co/nJYkYASohj",
-    "date": "2026-05-16T20:27:37.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2055728641913536762",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "AI psychosis: cycling between two mental states every single day\n↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've never felt this powerful in my life.\n↓ after scrolling twitter: holy shit I'm completely behind. everyone's ahead. the wave is moving and I'm going to get left.",
-    "date": "2026-05-16T19:14:36.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055727669900141017",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "If you use a bicycle it weakens your walking abilities, too! https://t.co/MSkwuoHYzC",
-    "date": "2026-05-16T19:10:44.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055715359244566552",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Successfully Codex-pilling the world one text at a time https://t.co/slutMhp63u https://t.co/wTSOEjtK3W",
-    "date": "2026-05-16T18:21:49.000Z"
-  },
-  {
-    "url": "https://x.com/realmadhuguru/status/2055708451670798839",
-    "type": "x",
-    "name": "Madhu Guru",
-    "title": "I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need to run anymore. \n\nI have friends who made far less and are just happy.\n\nWhether something is enough is up to you. Whether you’re happy is independent of your bank account.\n\nYou can want to be wealthy and still be content now. You don’t need to chase it from a place of lack and desperation.\n\nSilicon Valley treats ambition and happiness as mutually exclusive. As if wanting more means you can’t be satisfied now.\n\nThat’s the trap. You can be both",
-    "date": "2026-05-16T17:54:22.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055685581758206139",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "BlackBar 0.2.0 is live for @useblacksmith \n\n📈 24h vCPU + workflow graphs\n🔔 opt-in status/job notifications\n🧰 richer Blacksmith job rows\n🟢 compact status badge\n\nTiny menu bar, less CI guesswork.\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
-    "date": "2026-05-16T16:23:30.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055674791873630650",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind virus by two philosophers: Foucault and Derrida \n\nFoucault: His framework tells you that every institution claiming to know something is really just exercising power. Medicine, engineering, law, science. Apply that at civilizational scale and you get exactly what Dan Wang warns about: a society that lost the will to build. Process knowledge — the tacit know-how that only exists in the hands of people who actually make things — dies when a culture decides that all knowledge claims are suspect. America went from building the Interstate Highway System and the Apollo rockets to being unable to build a train from LA to SF. That didn't happen because we forgot the engineering. It happened because we built an entire intellectual class whose job is to interrogate every system rather than improve one.\n\nDerrida: His move is that every commitment contains its own contradiction, so you can never land on firm meaning. Run that as societal firmware and you get the bureaucratic paralysis we now live in. Infrastructure projects stuck in 15 years of environmental review because every statement of purpose deconstructs under the next round of stakeholder input. Institutions that can't say what they're for because every draft mission statement gets wordsmithed into mush by people trained to find the hidden hierarchy in any clear sentence. Derrida is the OS behind a civilization that can write a 4,000 page environmental impact report but can't pour concrete.\n\nThe real damage is these ideas escaped the lab. Every institution that adopted this operating system stopped trying to discover truth and started managing narrative. DEI bureaucracies, academic hiring committees, media editorial standards. All running on Foucault and Derrida whether they know it or not.\n\nThe antidote is building. The physical bridge across a river holds or it doesn’t. The code compiles or it doesn't. Reality keeps score and it doesn't grade on a curve.\n\nFoucault and Derrida gave a generation a sophisticated excuse to never build anything. Their followers inherited the sophistication and the impotence.\n\nIt’s time to build again.",
-    "date": "2026-05-16T15:40:37.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055670797596012657",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "GBrain is free open source. It’s MIT license. \n\nYou can find it and install it in your agent with one command.\n\nhttps://t.co/yFpFU4pn5b",
-    "date": "2026-05-16T15:24:45.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055670533451366479",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "What is GBrain? My open source project is a knowledge system, not RAG in a box. \n\nIt gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Hermes Agent feel clairvoyant about who you are. \n\nPersonal AI becomes possible. https://t.co/XNVIw5ZfpO",
-    "date": "2026-05-16T15:23:42.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055663937061007762",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places.\n\nGo to a small town in Europe or visit Asia - you'll see that life can be about much more than whether you're IC7 or IC8 or what company you work for.\n\nDon't be the person to put on your tombstone: \"He got divorced and neglected his kids but at least he made D2 at FAANG\"",
-    "date": "2026-05-16T14:57:29.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055648134819450907",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..\n\nIt’s hard to truly understand what “excellence” means unless you’re deeply embedded and working for founders who are truly excellent. Even if you are part of the cap table and the board and spending time with founders, you don’t get same learnings as working at a company day in and day out. \n\nI wouldn’t know anything about product excellence if it were not for @deepnishar @ericwu01 @acv and others. \n\nI wouldn’t know anything about design if it were not for @kurtvarner @MicahSivitz @xiakv and others. \n\nI wouldn’t know anything about operational excellence if it were not for @rabois @danubata and others. \n\nOnly because of these experiences and reading deeply, I was able to create some heuristics of what great founders and companies look like. And I have to keep updating it as I meet more and more founders and technology shifts beneath us. Those experiences also helped me earn the right to win the right to be a part of founders cap table.\n\nThe other main reason to not be a junior investor is for most firms you’re just sourcing founders that match the GPs taste vs. truly thinking from first principles on what makes great founders & companies. \n\nIf you really want to invest in  founders, work at a great company and start by being be an angel. It’s such a fun way to learn and be part of founders journey. \n\n* The one exception to this is you’re absolutely obsessed with the craft of investing and you really cannot fathom doing any other job. If that’s your true passion then you’ll figure out a way to be a great investor regardless of anything you have done in the past.",
-    "date": "2026-05-16T13:54:42.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055612276208709731",
-    "type": "x",
-    "name": "Swyx",
-    "title": "@Gavriel_Cohen i have to say his social media team is better than mine wtf. first pull on youtube. https://t.co/h2dXUgDLzL",
-    "date": "2026-05-16T11:32:12.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2055501840419328286",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification). \n\nIn AI, you’re delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.\n\nFor this reason it’s far more logical that one vendor can share best practices across thousands of companies more efficiently than every single company can learn and manage these best practices themselves. Further, the learnings from those customers should go right back into the core product as a result.\n\nAs we go from chat systems to anyone can relatively easily adopt to agentic systems that require more meaningful efforts to manage and update, the FDE model (or equivalent) essentially becomes a core competency for anyone deploying AI at scale.",
-    "date": "2026-05-16T04:13:22.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055494400252481687",
-    "type": "x",
-    "name": "Swyx",
-    "title": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
-    "date": "2026-05-16T03:43:48.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2055491454307582454",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.\n\nWatch this creative coding website be generated with Grok and hosted seamlessly on Vercel ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
-    "date": "2026-05-16T03:32:06.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055470634331750588",
-    "type": "x",
-    "name": "Swyx",
-    "title": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2 years and is building a national MCP gateway @dsp_ https://t.co/glAGn6jTmd",
-    "date": "2026-05-16T02:09:22.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055467498888118647",
-    "type": "x",
-    "name": "Swyx",
-    "title": "@Gavriel_Cohen and @thsottiaux casually dropping some hints on the Codex roadmap in his keynote!\n\nhttps://t.co/sEkVYhq7KO https://t.co/OQ0g1JgXgJ",
-    "date": "2026-05-16T01:56:55.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055451869841965154",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Codex-native apps are the future. https://t.co/hBlkSfNn9Z",
-    "date": "2026-05-16T00:54:48.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055450577094738018",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "This is a really great update.\n\nI just don't want my financial data to be used to train models or get targeted ads, so I turned \"improve the model for everyone\" off\n\nDoesn't appear there's a \"Use for ad targeting\" toggle  here so I'll assume the same toggle applies to both. https://t.co/B02JrJyT4M https://t.co/b32SthsYmC",
-    "date": "2026-05-16T00:49:40.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055446378596474891",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "The Overpaid CEO tax doesn't tax overpaid CEOs, and all it does is pass higher gross receipts taxes on to consumers AND it will result in way lower revenue for the city, same as the CA asset seizure tax by SEIU. \n\nBad anti-business policy that makes our cities and states poorer. https://t.co/HKDRT1Sf1P https://t.co/nmB3MXZHfT",
-    "date": "2026-05-16T00:32:59.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2055440326765244742",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet' of apps generated with @v0, Codex, Claude, etc.\n\nIt's all fun and games until your agent gets 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 from the deployment *it just made* though 😂\n\nThe solution: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚞𝚛𝚕. By just prefixing 𝚟𝚎𝚛𝚌𝚎𝚕 or 𝚟𝚌 you unblock your agent and yourself to easily 𝚌𝚞𝚛𝚕 any URL you have access to within the Vercel ecosystem.",
-    "date": "2026-05-16T00:08:56.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055436179643019395",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "lol this is why he’s the best https://t.co/G1K5lbHDUL",
-    "date": "2026-05-15T23:52:28.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055428193398780296",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "For folks who don't believe me, this is the second phase and it's still going.. parents are going to be excited for this side project. https://t.co/opYMmQgHXJ",
-    "date": "2026-05-15T23:20:43.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055426430654439485",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Man, /goal is just AGI if given the right tools.. \n\nLike what do you mean you went through all the entire database of 2k+ line items, fixed all the product images, the frontend bugs caused by different images, the descriptions, used browser harness to get real-time info from the web, used web search for fact checking, wrote scripts for all the work you did for the future.. and ran for 2 hours while I met founders for coffee. \n\nI'm just shook 😅",
-    "date": "2026-05-15T23:13:43.000Z"
-  },
-  {
-    "url": "https://x.com/realmadhuguru/status/2055414865146327088",
-    "type": "x",
-    "name": "Madhu Guru",
-    "title": "A generation of PMs is struggling to adapt to AI because they were trained to execute playbooks. AI requires inventing them.\n\nFor two decades, a few teams invented the product patterns. Everyone else repurposed them to their domain.\n\nThat made a lot of PM work dry and mechanical. But for a long time, it was enough to build a career.\n\nIt’s also why so much software feels the same.\n\nPMs need to be inventors now, not framework executors. There are no stable playbooks to repurpose.\n\nYou can’t A/B test your way to a breakthrough AI product.\n\nDoable. But PMs need to unlearn.",
-    "date": "2026-05-15T22:27:46.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055412891910586516",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "This is the future https://t.co/ZiZ6aZDtBn",
-    "date": "2026-05-15T22:19:55.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055405041843052792",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral https://t.co/Q1NRXLemEy machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build https://t.co/bmA1XnoB7P to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
-    "date": "2026-05-15T21:48:44.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2055404881024848056",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "Some personal news: He slid into my DMs, don't say prayers don't work y'all https://t.co/aOIpCELX3i",
-    "date": "2026-05-15T21:48:05.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055402519841411165",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "Been using @sveltejs for a few projects lately, it's quite a nice alternative to React, fewer gotchas and complexity and Codex handles it really well. https://t.co/b2KdDvrpLD",
-    "date": "2026-05-15T21:38:42.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055396161910194395",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "ChatGPT Finances is pretty awesome. AI still has trouble classifying transactions correctly though. https://t.co/sceyzaZouz",
-    "date": "2026-05-15T21:13:27.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055384351307858390",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "It's time to vote in California elections and here is my voter guide. \n\nThere are a lot of things to get right here. Please tell your friends this is one resource they can use and trust. https://t.co/6ptPnEKJoz",
-    "date": "2026-05-15T20:26:31.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055364630709448970",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "🩹 clawpatch 0.1.0 is live:\n\nClawpatch maps codebases into semantic feature slices, reviews them for bugs and quality issues, and records explicit fix attempts with validation.\n\nYou'll be surprised how much this will find.\nnpm install -g clawpatch\nhttps://t.co/8xIcXuojse",
-    "date": "2026-05-15T19:08:09.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2055357619888595271",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "Headless software is the future https://t.co/c4w018JXro",
-    "date": "2026-05-15T18:40:17.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2055356452286640630",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please') https://t.co/O6Ws2zQyGN",
-    "date": "2026-05-15T18:35:39.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055347527457886336",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "our full deep-dive on trying to launch an agent-as-a-service platform built on openclaw! my two bigs ones:\n\n1. OpenClaw is awesome but it's EXTREMELY hard to build on it as a platform. it moves super fast, there are tons of regressions, it's not great to be the layer in between OpenClaw and a user\n\n2. One super agent for a company beats 1-1 agents for everyone. I do think we're going to get there over time, but for now agents actually require a lot of work (often technical) to keep working well. And people with jobs don't want to be messing with the internals of the agent all day. \n\nHowever if you give everyone an agent that works really well and make it someone's job to make it good for the whole company...lots of good stuff ensues\n\nstay tuned we'll have more on this @every!",
-    "date": "2026-05-15T18:00:11.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055320066577891415",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Many such cases https://t.co/9ThA8cXvgl",
-    "date": "2026-05-15T16:11:04.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055288369958289536",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "You are missing out on reading essays from the better writer in our family.. https://t.co/XeyIMhooSY https://t.co/uqQ6XzVnja",
-    "date": "2026-05-15T14:05:07.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2055278852931530784",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
-    "date": "2026-05-15T13:27:18.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055209490887119098",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "https://t.co/XMaUrWMMZC is pretty sweet",
-    "date": "2026-05-15T08:51:41.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055203470941061600",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill... https://t.co/0Z6iJnCqCX https://t.co/Jkr4yha1Un",
-    "date": "2026-05-15T08:27:45.000Z"
-  },
-  {
-    "url": "https://x.com/steipete/status/2055190998523777307",
-    "type": "x",
-    "name": "Peter Steinberger",
-    "title": "It keeps looping. https://t.co/ij1b8yFEDL",
-    "date": "2026-05-15T07:38:12.000Z"
-  },
-  {
-    "url": "https://x.com/amasad/status/2055185058282226146",
-    "type": "x",
-    "name": "Amjad Masad",
-    "title": "We worked things out with Apple, and just published our app for the first time in 4 months.\n\nThanks to all our customers and creators who helped out.\n\nIt’s been a journey, but we never give up and stay winning!\n\nEnjoy the updates! Lots of new things coming. https://t.co/ClpA3SDlwd",
-    "date": "2026-05-15T07:14:36.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055165509700927541",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "I wish I can join X for one day, solve this “off by one” bug and leave 🫡 \n\ncc @nikitabier &amp; @benjitaylor https://t.co/qc9tRYTs1i",
-    "date": "2026-05-15T05:56:55.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055155189766865028",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "The electricity NIMBYs strike again\n\nHave you guys heard of markets? https://t.co/4KIhnfxVzf",
-    "date": "2026-05-15T05:15:54.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2055143231625818554",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.\n\nWe all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and certainly many will look different from what they did before. But there are some immutable laws that will eventually re-emerge over time and become clear again. \n\nAs an example, when you’re scaling, product managers should be spending an insane amount of time with customers and getting feedback on the product and thinking through what to do build next, how to design it so it’s usable, and so on. Engineers should be understanding the business objectives, and building systems that scale and are secure, even as feature velocity increases by 10X. Now both can do a bit more of the others role, and this can temporarily get conflated as doing the whole thing, but eventually the work adds up to be enough that it makes sense to specialize again.\n\nSimilarly, in GTM, the product marketer can certainly generate a working design and video for a launch, but the specialist is always going to (or should) have an eye for quality that delivers a better outcome.\n\nMy bet is that AI enhances specialization even further, even if a few roles collapse into each other, and the future toolchain and craft of the specialist will be much higher leverage and output far greater than anyone else as a hobbyist in that function.",
-    "date": "2026-05-15T04:28:23.000Z"
-  },
-  {
-    "url": "https://x.com/levie/status/2055136119969529993",
-    "type": "x",
-    "name": "Aaron Levie",
-    "title": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH",
-    "date": "2026-05-15T04:00:08.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2055128107674415354",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Meera: I have a welcome gift for you when you’re back from NYC. \n\nMe: What?\n\nMeera: 🚂🚂 https://t.co/Z3xoAYQaeg",
-    "date": "2026-05-15T03:28:17.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055113979857703350",
-    "type": "x",
-    "name": "Swyx",
-    "title": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and invited him to SAP to advise on how to do AI transformation for 6800 employees \n\nTLDR he made fun of SAP, and SAP… concurred https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
-    "date": "2026-05-15T02:32:09.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055103698251219167",
-    "type": "x",
-    "name": "Swyx",
-    "title": "oh no\n\nhttps://t.co/fr8TgAmZVy",
-    "date": "2026-05-15T01:51:18.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2055103533754818769",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "This city is glorious. Nothing like it https://t.co/B2nF1b6gfu",
-    "date": "2026-05-15T01:50:39.000Z"
-  },
-  {
-    "url": "https://x.com/amasad/status/2055097107758076254",
-    "type": "x",
-    "name": "Amjad Masad",
-    "title": "You vibecoded a website somewhere other than Replit?\n\nThat’s not wise, but okay… we’re going to let you import it and get a free mobile app.\n\nYes, FREE MOBILE APP! https://t.co/8IG2o6vnWf",
-    "date": "2026-05-15T01:25:07.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055093283039412499",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Another source to read https://t.co/xSuYkaT1Ny",
-    "date": "2026-05-15T01:09:55.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2055093087660286413",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say \"hur dur datacenters are bad for energy/water/jobs/loud\" https://t.co/6b79qXp1Op",
-    "date": "2026-05-15T01:09:08.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055093015304396986",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "How do people even do AI hackathons these days you're just sitting around waiting for the agents half of the time?",
-    "date": "2026-05-15T01:08:51.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055091746036716026",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "TIL having AI just start making screens without a design system or components is a sure fire path to slop.\n\nMaybe those designers were onto something",
-    "date": "2026-05-15T01:03:48.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2055081408683729281",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "🥲 https://t.co/ile5cmP5S4",
-    "date": "2026-05-15T00:22:44.000Z"
-  },
-  {
-    "url": "https://x.com/swyx/status/2055079344632926603",
-    "type": "x",
-    "name": "Swyx",
-    "title": "Blogs die when they come from \"the ____ team\" instead of named individuals\n\nWith great ownership comes great accountability",
-    "date": "2026-05-15T00:14:31.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2055034714231345475",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "also all this: https://t.co/UvO0GnmPzX",
-    "date": "2026-05-14T21:17:11.000Z"
-  },
-  {
-    "url": "https://x.com/sama/status/2055034461591588916",
-    "type": "x",
-    "name": "Sam Altman",
-    "title": "Codex in the ChatGPT mobile app!",
-    "date": "2026-05-14T21:16:10.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055030691180503152",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "Gabbing with my barber about Codex and he’s telling me about how he’s using Claude to run a crypto trading strategy and Gemini + nano banana to learn jiu jitsu moves\n\nGuy in the chair next to me leans over and says his company just bought 1,300 Claude seats\n\n2026 is wild",
-    "date": "2026-05-14T21:01:12.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2055029560882663884",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "Details from the @covaldev here\n\nhttps://t.co/YvERHaTNkh https://t.co/7EAb993wUp https://t.co/DgzWAPnOND",
-    "date": "2026-05-14T20:56:42.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2055029555455222199",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "Alright it’s now official - barely 9 months old and @GradiumAI is already trouncing the entire voice AI field on third party TTS benchmarks\n\nBetter than OpenAI\nBetter than Eleven Labs\nBetter than Cartesia\nBetter than Deepgram \n… https://t.co/qWkfp1Pj8k",
-    "date": "2026-05-14T20:56:41.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2055015466054410400",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "when people ask me how to get their org agent-pilled i always say the same thing:\n\nthe #1 leading indicator is whether their leadership team personally uses Codex, Claude Code or Cowork day to day. \n\nthat’s why over the last few months we’ve been working privately with leadership teams of the top companies in tech, helping them get their hands deep into Claude Code, Cowork, Codex and more. \n\nif you want @every to come and get your exec team agent-pilled, we’re opening up a few slots:\n\nhttps://t.co/o8g3c1xKYr",
-    "date": "2026-05-14T20:00:42.000Z"
-  },
-  {
-    "url": "https://x.com/rauchg/status/2054989456189648918",
-    "type": "x",
-    "name": "Guillermo Rauch",
-    "title": "You can just render images on the terminal btw:\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\nRun 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 and access every image, video &amp; text model from @vercel AI Gateway instantly https://t.co/IsATrdSNyF",
-    "date": "2026-05-14T18:17:20.000Z"
-  },
-  {
-    "url": "https://x.com/zarazhangrui/status/2054981832408760782",
-    "type": "x",
-    "name": "Zara Zhang",
-    "title": "I will be co-hosting an event in SF next Sat (5/23)!\n\nI've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone who's thought a lot about this to demo your real workflows & show what's actually working.\n\nFormat: A series of rapid-fire 5-minute demos, followed by Q&A. Screen shares of real workflows only; no slides.\n\n​Not demoing? Come hang out as a participant. Either way, expect an afternoon of practical workflows, fresh ideas, and new friends.\n\nRSVP here: https://t.co/5t0q6cHDV6\n\nCohosted w @NotionHQ & @radicalvcfund (@juleszqiu)",
-    "date": "2026-05-14T17:47:03.000Z"
-  },
-  {
-    "url": "https://x.com/adityaag/status/2054976557702066520",
-    "type": "x",
-    "name": "Aditya Agarwal",
-    "title": "https://t.co/AoyPtuI9jx",
-    "date": "2026-05-14T17:26:05.000Z"
-  },
-  {
-    "url": "https://x.com/danshipper/status/2054969965757800721",
-    "type": "x",
-    "name": "Dan Shipper",
-    "title": "hanging with the GOAT today @lennysan https://t.co/GQimejBSE6",
-    "date": "2026-05-14T16:59:53.000Z"
-  },
-  {
-    "url": "https://x.com/mattturck/status/2054940655554564473",
-    "type": "x",
-    "name": "Matt Turck",
-    "title": "This great conversation with @ivanburazin is also available on Spotify, Apple Podcasts and here on YouTube (like and subscribe!):\n\nhttps://t.co/HuLAm1ewLU",
-    "date": "2026-05-14T15:03:25.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2054924517135540320",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "Every single large company with data walls realizing it’s time to go headless (or essentially die)..\n\nIt’s the right call too since the market/usage for agents will be 100x larger than humans. \n\nIf you gatekeep your systems for humans, you’ll most likely be 100x less valuable!",
-    "date": "2026-05-14T13:59:18.000Z"
-  },
-  {
-    "url": "https://x.com/garrytan/status/2054778575988093249",
-    "type": "x",
-    "name": "Garry Tan",
-    "title": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
-    "date": "2026-05-14T04:19:23.000Z"
-  },
-  {
-    "url": "https://x.com/nikunj/status/2054599845214650442",
-    "type": "x",
-    "name": "Nikunj Kothari",
-    "title": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
-    "date": "2026-05-13T16:29:10.000Z"
-  },
-  {
-    "url": "https://x.com/petergyang/status/2054569893060809151",
-    "type": "x",
-    "name": "Peter Yang",
-    "title": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
-    "date": "2026-05-13T14:30:09.000Z"
   }
 ]

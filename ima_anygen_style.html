@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMA 高校教师实训营 - 腾讯AI工作台</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f7f9fb;
+            --card-bg: #ffffff;
+            --text-main: #1d2129;
+            --text-sub: #86909c;
+            --accent-color: #3366ff; /* 腾讯蓝 */
+            --border-color: #e5e6eb;
+            --shadow: 0 4px 10px rgba(0, 0, 0, 0.03);
+            --card-radius: 20px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .presentation-container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .slide {
+            background: var(--card-bg);
+            border-radius: var(--card-radius);
+            padding: 60px;
+            margin-bottom: 40px;
+            min-height: 600px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            position: relative;
+            page-break-after: always;
+        }
+
+        .slide-header {
+            position: absolute;
+            top: 40px;
+            left: 60px;
+            font-size: 14px;
+            color: var(--text-sub);
+            letter-spacing: 1px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            letter-spacing: -1px;
+        }
+
+        h2 {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 32px;
+            color: var(--accent-color);
+        }
+
+        p {
+            font-size: 18px;
+            color: var(--text-main);
+            margin-bottom: 16px;
+        }
+
+        .accent {
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+            margin-top: 40px;
+        }
+
+        .feature-card {
+            background: #f9fafb;
+            border: 1px solid var(--border-color);
+            padding: 32px;
+            border-radius: 16px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+        }
+
+        .feature-card h3 {
+            font-size: 20px;
+            margin-bottom: 12px;
+            color: var(--text-main);
+        }
+
+        .feature-card p {
+            font-size: 15px;
+            color: var(--text-sub);
+            margin: 0;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 4px 12px;
+            background: rgba(51, 102, 255, 0.1);
+            color: var(--accent-color);
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+
+        .stats-row {
+            display: flex;
+            gap: 48px;
+            margin-top: 32px;
+        }
+
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--accent-color);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-sub);
+        }
+
+        /* 封面样式 */
+        .cover-slide {
+            text-align: center;
+            align-items: center;
+            background: linear-gradient(135deg, #ffffff 0%, #f0f4ff 100%);
+        }
+
+        .cover-slide h1 {
+            font-size: 64px;
+            margin-bottom: 16px;
+        }
+
+        .cover-slide .subtitle {
+            font-size: 24px;
+            color: var(--text-sub);
+            margin-bottom: 60px;
+        }
+
+        .author-info {
+            margin-top: 40px;
+            font-size: 16px;
+            color: var(--text-main);
+        }
+
+        /* 列表样式 */
+        ul {
+            list-style: none;
+            margin-top: 24px;
+        }
+
+        li {
+            position: relative;
+            padding-left: 24px;
+            margin-bottom: 12px;
+            font-size: 17px;
+        }
+
+        li::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+
+        .code-block {
+            background: #1a1a1a;
+            color: #d1d1d1;
+            padding: 24px;
+            border-radius: 12px;
+            font-family: monospace;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-top: 20px;
+            text-align: left;
+        }
+
+        /* 响应式 */
+        @media (max-width: 768px) {
+            .slide { padding: 40px 20px; min-height: auto; }
+            h1 { font-size: 32px; }
+            h2 { font-size: 24px; }
+        }
+
+        .nav-dots {
+            position: fixed;
+            right: 30px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            z-index: 100;
+        }
+
+        .dot {
+            width: 8px;
+            height: 8px;
+            background: var(--text-sub);
+            border-radius: 50%;
+            opacity: 0.3;
+            transition: all 0.3s;
+        }
+
+        .dot.active {
+            opacity: 1;
+            background: var(--accent-color);
+            transform: scale(1.5);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="nav-dots">
+        <div class="dot active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+
+    <div class="presentation-container">
+
+        <!-- Slide 1: Cover -->
+        <section class="slide cover-slide">
+            <div class="tag">腾讯 AI 工作台</div>
+            <h1>IMA 知识库</h1>
+            <p class="subtitle">让高校教师的工作「问就有」</p>
+            <div class="author-info">
+                <p><strong>讲师：杜龙兵（阿杜）</strong></p>
+                <p>华东理工大学工会 | 2026.05</p>
+            </div>
+        </section>
+
+        <!-- Slide 2: Problem -->
+        <section class="slide">
+            <div class="slide-header">01 / PROBLEM</div>
+            <h2>痛点：同样的材料，你需要多久？</h2>
+            <p>从领导的一句话到推文发布，文字工作的闭环极其漫长。</p>
+            
+            <div class="grid">
+                <div class="feature-card">
+                    <div class="tag" style="background: rgba(234, 68, 53, 0.1); color: #ea4435;">传统方式</div>
+                    <h3>3 - 5 个工作日</h3>
+                    <p>边开会边记笔记，会后加班赶稿，重复摘录意见，素材东拼西凑。</p>
+                </div>
+                <div class="feature-card" style="border-color: var(--accent-color); background: rgba(51, 102, 255, 0.02);">
+                    <div class="tag">IMA 方式</div>
+                    <h3>1 - 2 小时</h3>
+                    <p>全自动撰写初稿，秒级归类意见。从“做不完”到“秒解决”的质变。</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 3: Solution 1 -->
+        <section class="slide">
+            <div class="slide-header">02 / WORKFLOW</div>
+            <h2>模块一：文字工作 × IMA</h2>
+            <p>打造“搜、读、写”三位一体的闭环</p>
+            
+            <div class="grid">
+                <div class="feature-card">
+                    <h3>1. 知识入库</h3>
+                    <p>上传历年讲话稿、制度、总结。AI 的生成质量 = 入库资料的深度。</p>
+                </div>
+                <div class="feature-card">
+                    <h3>2. 提示词工程</h3>
+                    <p>身份前置 + 会议背景 + 风格要求。先搭骨架，再填血肉。</p>
+                </div>
+                <div class="feature-card">
+                    <h3>3. 智能生成</h3>
+                    <p>从一句话到初稿，人工只需润色把关。实现“从零写”到“从有改”。</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 4: Research Scenario -->
+        <section class="slide">
+            <div class="slide-header">03 / ACADEMIC</div>
+            <h2>科研场景：精读文献与经验传承</h2>
+            <p>不仅仅是行政提效，更是学术助推器。</p>
+
+            <div class="grid">
+                <div class="feature-card">
+                    <h3>跨文档综述</h3>
+                    <p>批量入库 100 篇 PDF。AI 自动对比实验数据，生成带溯源引用的研究现状。</p>
+                </div>
+                <div class="feature-card">
+                    <h3>实验室 Agent</h3>
+                    <p>将实验室操作手册入库。新人进组直接问 AI：“这个实验的注意事项是什么？”</p>
+                </div>
+            </div>
+            
+            <div class="stats-row">
+                <div class="stat-item">
+                    <span class="stat-value">100+</span>
+                    <span class="stat-label">文献同步精读</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">24/7</span>
+                    <span class="stat-label">团队经验传承</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 5: Agent Service -->
+        <section class="slide">
+            <div class="slide-header">04 / SERVICE</div>
+            <h2>模块二：部门客服 Agent</h2>
+            <p>解决教职工反复咨询的“灵魂拷问”</p>
+            
+            <div class="grid">
+                <div class="feature-card">
+                    <h3>制度解答</h3>
+                    <p>福利有哪些？怎么预约体检？AI 24小时在线精准回复。</p>
+                </div>
+                <div class="feature-card">
+                    <h3>真实案例</h3>
+                    <p>「青教赛 AI 客服」：已上线的华理实战案例，提问即秒回。</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 6: Summary -->
+        <section class="slide">
+            <div class="slide-header">05 / SUMMARY</div>
+            <h2>总结：让经验可检索</h2>
+            <p>IMA 知识库的本质 —— 不是替代你思考，而是让你把思考的时间，花在值得的地方。</p>
+            
+            <div class="box">
+                <p><strong>🌱 最小行动建议：</strong></p>
+                <ul>
+                    <li>选一个你最痛的文字场景</li>
+                    <li>在 IMA 中创建知识库 (哪怕只有 3 个文件)</li>
+                    <li>试着运行一次闭环</li>
+                </ul>
+            </div>
+            <p style="text-align: center; margin-top: 40px; font-weight: bold; font-size: 24px;">感谢观看！</p>
+        </section>
+
+    </div>
+
+    <script>
+        // 简单的交互：滚动时更新右侧圆点
+        window.onscroll = function() {
+            const slides = document.querySelectorAll('.slide');
+            const dots = document.querySelectorAll('.dot');
+            
+            slides.forEach((slide, index) => {
+                const rect = slide.getBoundingClientRect();
+                if (rect.top < window.innerHeight / 2 && rect.bottom > window.innerHeight / 2) {
+                    dots.forEach(dot => dot.classList.remove('active'));
+                    dots[index].classList.add('active');
+                }
+            });
+        };
+    </script>
+</body>
+</html>

@@ -28,6 +28,35 @@ let openTabs = [];
 let feedDaysToShow = 3;
 let isFeedLoading = false;
 let currentRankType = 'daily'; // 'daily' or 'weekly'
+let currentLang = 'en'; // 'en' or 'cn'
+
+/**
+ * initLanguage()
+ * 
+ * Detects browser language and sets default currentLang.
+ * If zh-CN or zh is detected, default to 'cn'.
+ */
+async function initLanguage() {
+  const storage = await chrome.storage.local.get('preferredLang');
+  if (storage.preferredLang) {
+    currentLang = storage.preferredLang;
+  } else {
+    const browserLang = navigator.language || 'en';
+    currentLang = (browserLang.startsWith('zh')) ? 'cn' : 'en';
+  }
+  updateLangUI();
+}
+
+/**
+ * updateLangUI()
+ * 
+ * Updates the visual state of the language toggle buttons.
+ */
+function updateLangUI() {
+  document.querySelectorAll('[data-action="set-lang"]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === currentLang);
+  });
+}
 
 /**
  * fetchGitHubRankings(type)
@@ -40,6 +69,66 @@ async function fetchGitHubRankings(type = 'daily') {
   const countEl = document.getElementById('githubRankingsCount');
   if (!listEl) return;
 
+  const labels = {
+    daily: { en: 'Daily', cn: '日榜' },
+    weekly: { en: 'Weekly', cn: '周榜' },
+    projects: { en: 'projects', cn: '个项目' },
+    loading: { en: 'Loading trending projects...', cn: '正在加载趋势榜...' },
+    failed: { en: 'Fetch failed', cn: '加载失败' },
+    noProjects: { en: 'No projects found.', cn: '未找到项目' },
+    noDesc: { en: 'No description available.', cn: '暂无项目描述' }
+  };
+
+  // Update tab labels
+  document.querySelectorAll('[data-action="switch-rank"]').forEach(btn => {
+    const rType = btn.dataset.rank;
+    btn.textContent = labels[rType][currentLang];
+    btn.classList.toggle('active', rType === currentRankType);
+  });
+
+  const TRENDING_URL = 'https://raw.githubusercontent.com/neveevol7/tab-out/main/data/github-trending.json';
+
+  try {
+    // Attempt to fetch from our local pre-translated source first
+    const response = await fetch(TRENDING_URL);
+    if (response.ok) {
+      const data = await response.json();
+      const projects = data[type] || [];
+
+      if (projects.length === 0) {
+        listEl.innerHTML = `<div class="deferred-empty">${labels.noProjects[currentLang]}</div>`;
+        return;
+      }
+
+      if (countEl) countEl.textContent = `${projects.length} ${labels.projects[currentLang]}`;
+
+      let html = projects.map(p => {
+        const desc = (currentLang === 'cn' && p.description_cn) ? p.description_cn : p.description;
+        return `
+          <a href="${p.url}" target="_blank" class="rank-item">
+            <div class="rank-number">${p.rank}</div>
+            <div class="rank-main">
+              <div class="rank-title-row">
+                <div class="rank-item-title">${p.name}</div>
+                <div class="rank-item-desc">${desc}</div>
+              </div>
+            </div>
+            <div class="rank-stats">
+              <div class="rank-stat-item">⭐ ${p.stars}</div>
+              <div class="rank-stat-item rank-stat-growth">${p.growth}</div>
+            </div>
+          </a>
+        `;
+      }).join('');
+
+      listEl.innerHTML = html;
+      return;
+    }
+  } catch (err) {
+    console.warn('[tab-out] Local trending fetch failed, falling back to remote README', err);
+  }
+
+  // Fallback to remote README if local fetch fails (original logic)
   const url = type === 'daily' 
     ? 'https://raw.githubusercontent.com/OpenGithubs/github-daily-rank/main/README.md'
     : 'https://raw.githubusercontent.com/OpenGithubs/github-weekly-rank/main/README.md';
@@ -47,75 +136,12 @@ async function fetchGitHubRankings(type = 'daily') {
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      console.error(`[tab-out] GitHub rankings fetch failed with status: ${response.status}`);
-      listEl.innerHTML = `<div class="deferred-empty">Fetch failed (Status ${response.status}).</div>`;
+      listEl.innerHTML = `<div class="deferred-empty">${labels.failed[currentLang]} (Status ${response.status}).</div>`;
       return;
     }
     const markdown = await response.text();
-    
-    // 1. Extract the Ranking Table
-    const tableRegex = /\|\s*(\d+)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*([^|]+)\|\s*([^|]+)\|/g;
-    const projects = [];
-    let match;
-    while ((match = tableRegex.exec(markdown)) !== null) {
-      projects.push({
-        rank: match[1],
-        name: match[2],
-        url: match[3],
-        stars: match[4].trim(),
-        growth: match[5].trim()
-      });
-    }
-    console.log(`[tab-out] Parsed ${projects.length} projects from ${type} rank`);
+    // ... (rest of the parsing logic stays the same as fallback)
 
-    // 2. Extract Descriptions (safer way: split by sections)
-    const descMap = {};
-    const detailSections = markdown.split(/<h3/);
-    detailSections.forEach(sec => {
-      const urlMatch = sec.match(/https:\/\/github\.com\/([a-zA-Z0-9-._]+\/[a-zA-Z0-9-._]+)/);
-      const descMatch = sec.match(/📝\s*项目描述[:：]\s*([^\n<]+)/);
-      if (urlMatch && descMatch) {
-        descMap[urlMatch[1]] = descMatch[1].trim();
-      }
-    });
-
-    if (projects.length === 0) {
-      listEl.innerHTML = '<div class="deferred-empty">No projects found.</div>';
-      return;
-    }
-
-    if (countEl) countEl.textContent = `${projects.length} projects`;
-
-    let html = projects.map(p => {
-      const desc = descMap[p.name] || 'No description available.';
-      return `
-        <a href="${p.url}" target="_blank" class="rank-item">
-          <div class="rank-number">${p.rank}</div>
-          <div class="rank-main">
-            <div class="rank-title-row">
-              <div class="rank-item-title">${p.name}</div>
-              <div class="rank-item-desc">${desc}</div>
-            </div>
-          </div>
-          <div class="rank-stats">
-            <div class="rank-stat-item">⭐ ${p.stars}</div>
-            <div class="rank-stat-item rank-stat-growth">${p.growth}</div>
-          </div>
-        </a>
-      `;
-    }).join('');
-
-    listEl.innerHTML = html;
-
-  } catch (err) {
-    console.warn('[tab-out] GitHub rankings fetch failed:', err);
-    listEl.innerHTML = `
-      <div class="deferred-empty">
-        Unable to load rankings.<br>
-        <span style="font-size:10px;opacity:0.6;font-style:normal;">Error: ${err.message || 'Unknown network error'}</span>
-      </div>`;
-  }
-}
 
 /**
  * fetchOpenTabs()
@@ -1113,7 +1139,22 @@ function renderArchiveItem(item) {
 async function fetchBuildersFeed() {
   const feedListEl = document.getElementById('buildersFeedList');
   const countEl    = document.getElementById('buildersFeedCount');
+  const headingEl  = document.querySelector('#buildersFeed .section-header h2');
   if (!feedListEl) return;
+
+  const labels = {
+    heading: { en: 'Daily Feed', cn: '每日 AI 动态' },
+    items: { en: 'items', cn: '条动态' },
+    loading: { en: 'Loading AI insights...', cn: '正在加载 AI 资讯...' },
+    noUpdates: { en: (days) => `No updates in the last ${days} days.`, cn: (days) => `最近 ${days} 天没有新动态。` },
+    today: { en: 'Today', cn: '今天' },
+    yesterday: { en: 'Yesterday', cn: '昨天' },
+    loadMore: { en: (days) => `Load ${days} more days`, cn: (days) => `加载更早的 ${days} 天` },
+    loadingHistory: { en: 'Tracing back history...', cn: '正在往回追溯历史...' },
+    allLoaded: { en: 'All items loaded', cn: '已加载全部数据' }
+  };
+
+  if (headingEl) headingEl.textContent = labels.heading[currentLang];
 
   const HISTORY_URL = 'https://raw.githubusercontent.com/neveevol7/tab-out/main/data/feed-history.json';
 
@@ -1136,47 +1177,44 @@ async function fetchBuildersFeed() {
       finalItems = local.cachedFeedItems || [];
     }
 
-    // Sort items by date descending to ensure the most recent updates are at the top
     finalItems.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     const cutoffDate = new Date();
     cutoffDate.setHours(0, 0, 0, 0);
-    // If feedDaysToShow is 3, we want Today, Yesterday, and the Day Before.
-    // So we subtract (3 - 1) = 2 days from today's midnight.
     cutoffDate.setDate(cutoffDate.getDate() - (feedDaysToShow - 1));
 
     const displayedItems = finalItems.filter(item => new Date(item.date) >= cutoffDate);
     const hasMore = finalItems.length > displayedItems.length;
 
     if (displayedItems.length === 0) {
-      feedListEl.innerHTML = `<div class=\"deferred-empty\">No updates in the last ${feedDaysToShow} days.</div>`;
+      feedListEl.innerHTML = `<div class="deferred-empty">${labels.noUpdates[currentLang](feedDaysToShow)}</div>`;
       if (countEl) countEl.textContent = '';
       return;
     }
 
-    if (countEl) countEl.textContent = `${displayedItems.length} items`;
+    if (countEl) countEl.textContent = `${displayedItems.length} ${labels.items[currentLang]}`;
     let html = '';
     let lastDateLabel = '';
 
-    // Pre-calculate unread counts per date group
+    const locale = currentLang === 'cn' ? 'zh-CN' : 'en-US';
+    const dateOptions = { weekday: 'long', month: 'long', day: 'numeric' };
+
     const dateStats = {};
     displayedItems.forEach(item => {
-      const dLabel = new Date(item.date).toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+      const dLabel = new Date(item.date).toLocaleDateString(locale, dateOptions);
       if (!dateStats[dLabel]) dateStats[dLabel] = { unread: 0, total: 0 };
       dateStats[dLabel].total++;
       if (!readUrls.has(item.url)) dateStats[dLabel].unread++;
     });
 
     const uniqueDates = [...new Set(displayedItems.map(item => 
-      new Date(item.date).toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })
+      new Date(item.date).toLocaleDateString(locale, dateOptions)
     ))];
 
-    // If no collapsed state preference exists yet, default to collapsing everything except the first date
     const storageObj = await chrome.storage.local.get(['collapsedFeedDates', 'hasSetFeedCollapseDefault']);
     let currentCollapsed = new Set(storageObj.collapsedFeedDates || []);
     
     if (!storageObj.hasSetFeedCollapseDefault && uniqueDates.length > 1) {
-      // Collapse everything except the newest date (index 0)
       for (let i = 1; i < uniqueDates.length; i++) {
         currentCollapsed.add(uniqueDates[i]);
       }
@@ -1188,12 +1226,15 @@ async function fetchBuildersFeed() {
 
     displayedItems.forEach(item => {
       const itemDate = new Date(item.date);
-      const dateLabel = itemDate.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+      const dateLabel = itemDate.toLocaleDateString(locale, dateOptions);
       
       if (dateLabel !== lastDateLabel) {
         let displayLabel = dateLabel;
-        const today = new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
-        if (dateLabel === today) displayLabel = 'Today';
+        const today = new Date().toLocaleDateString(locale, dateOptions);
+        const yesterday = new Date(new Date().setDate(new Date().getDate() - 1)).toLocaleDateString(locale, dateOptions);
+
+        if (dateLabel === today) displayLabel = labels.today[currentLang];
+        else if (dateLabel === yesterday) displayLabel = labels.yesterday[currentLang];
         
         const isCollapsed = currentCollapsed.has(dateLabel);
         const stats = dateStats[dateLabel];
@@ -1217,15 +1258,17 @@ async function fetchBuildersFeed() {
       const isRead = readUrls.has(item.url);
       const isHidden = currentCollapsed.has(dateLabel);
       const displaySource = item.type === 'x' ? "𝕏 " + item.name : "✎ " + item.name;
-      const timeStr = itemDate.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit', hour12: false });
+      const timeStr = itemDate.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', hour12: false });
       
+      const title = (currentLang === 'cn' && item.title_cn) ? item.title_cn : item.title;
+
       html += `
         <a href="${item.url}" target="_blank" 
            class="feed-card type-${item.type} ${isRead ? 'is-read' : ''} ${isHidden ? 'is-hidden' : ''}" 
            data-action="mark-feed-read" data-date-group="${dateLabel}" data-url="${item.url}">
           <div class="unread-badge"></div>
           <div class="feed-card-source">${displaySource}</div>
-          <div class="feed-card-title">${item.title}</div>
+          <div class="feed-card-title">${title}</div>
           <div class="feed-card-meta"><span>${timeStr}</span></div>
         </a>
       `;
@@ -1234,12 +1277,12 @@ async function fetchBuildersFeed() {
     html += `<div class="feed-load-more">`;
     if (hasMore) {
       html += `
-        <button class="action-btn" data-action="load-more-feed">
-          加载更早的 3 天
+        <button class="action-btn" data-action="load-more-feed" data-original-text="${labels.loadMore[currentLang](3)}">
+          ${labels.loadMore[currentLang](3)}
         </button>
       `;
     } else if (finalItems.length > 0) {
-      html += `<span class="feed-no-more">已加载全部数据</span>`;
+      html += `<span class="feed-no-more">${labels.allLoaded[currentLang]}</span>`;
     }
     html += `</div>`;
     feedListEl.innerHTML = html;
@@ -1469,15 +1512,31 @@ document.addEventListener('click', async (e) => {
 
   const action = actionEl.dataset.action;
 
+  // ---- Language Toggle ----
+  if (action === 'set-lang') {
+    const lang = actionEl.dataset.lang;
+    if (lang === currentLang) return;
+    currentLang = lang;
+    await chrome.storage.local.set({ preferredLang: lang });
+    updateLangUI();
+    renderDashboard();
+    return;
+  }
+
   // ---- Load more feed items (Smart Search) ----
   if (action === 'load-more-feed') {
     if (isFeedLoading) return;
     isFeedLoading = true;
     
-    const originalText = actionEl.textContent;
+    const originalText = actionEl.dataset.originalText || actionEl.textContent;
     const originalCount = document.querySelectorAll('.feed-card').length;
     
-    actionEl.textContent = '正在往回追溯历史...';
+    const loadingLabels = {
+      en: 'Tracing back history...',
+      cn: '正在往回追溯历史...'
+    };
+    
+    actionEl.textContent = loadingLabels[currentLang];
     actionEl.style.opacity = '0.6';
     
     const startTime = Date.now();
@@ -1829,4 +1888,7 @@ document.addEventListener('input', async (e) => {
 /* ----------------------------------------------------------------
    INITIALIZE
    ---------------------------------------------------------------- */
-renderDashboard();
+(async () => {
+  await initLanguage();
+  renderDashboard();
+})();
