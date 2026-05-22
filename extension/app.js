@@ -1266,13 +1266,19 @@ async function fetchBuildersFeed() {
       new Date(item.date).toLocaleDateString(locale, dateOptions)
     ))];
 
+    const todayLabel = new Date().toLocaleDateString(locale, dateOptions);
     const storageObj = await chrome.storage.local.get(['collapsedFeedDates', 'hasSetFeedCollapseDefault']);
     let currentCollapsed = new Set(storageObj.collapsedFeedDates || []);
     
-    if (!storageObj.hasSetFeedCollapseDefault && uniqueDates.length > 1) {
-      for (let i = 1; i < uniqueDates.length; i++) {
-        currentCollapsed.add(uniqueDates[i]);
-      }
+    // Strict default: Collapse everything except 'Today'
+    if (!storageObj.hasSetFeedCollapseDefault) {
+      uniqueDates.forEach(date => {
+        if (date !== todayLabel) {
+          currentCollapsed.add(date);
+        } else {
+          currentCollapsed.delete(date);
+        }
+      });
       await chrome.storage.local.set({ 
         collapsedFeedDates: Array.from(currentCollapsed),
         hasSetFeedCollapseDefault: true 
