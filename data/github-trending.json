@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "13k",
-      "growth": "🔺4029",
+      "stars": "16.2k",
+      "growth": "🔺3266",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": "2",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "18k",
-      "growth": "🔺2167",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "stars": "18.2k",
+      "growth": "🔺1737",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": "3",
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars": "98.8k",
-      "growth": "🔺2109",
-      "description": "My personal directory of skills, straight from my .claude directory.",
-      "description_cn": "我的个人技能目录，直接来自我的 .claude 目录。"
-    },
-    {
-      "rank": "4",
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": "24.7k",
-      "growth": "🔺1284",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
-    },
-    {
-      "rank": "5",
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars": "62.9k",
-      "growth": "🔺1199",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": "6",
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "10.6k",
-      "growth": "🔺1181",
+      "stars": "11.7k",
+      "growth": "🔺1058",
       "description": "Learn it. Build it. Ship it for others.",
       "description_cn": "学习它。建造它。寄给别人。"
     },
     {
+      "rank": "4",
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars": "63.8k",
+      "growth": "🔺968",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": "5",
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": "19k",
+      "growth": "🔺948",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+    },
+    {
+      "rank": "6",
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "stars": "25.6k",
+      "growth": "🔺894",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
+    },
+    {
       "rank": "7",
-      "name": "truelockmc/streambert",
-      "url": "https://github.com/truelockmc/streambert",
-      "stars": "3.8k",
-      "growth": "🔺951",
-      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "description_cn": "跨平台 Electron 桌面应用程序，用于流式传输和下载世界上的任何电影、电视剧或动漫。零广告和跟踪"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "stars": "31.4k",
+      "growth": "🔺750",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_cn": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     },
     {
       "rank": "8",
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": "52.6k",
-      "growth": "🔺841",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
-    },
-    {
-      "rank": "9",
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
-      "stars": "15.7k",
-      "growth": "🔺751",
+      "stars": "16.3k",
+      "growth": "🔺621",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "description_cn": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
+      "rank": "9",
+      "name": "truelockmc/streambert",
+      "url": "https://github.com/truelockmc/streambert",
+      "stars": "4.4k",
+      "growth": "🔺608",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "description_cn": "跨平台 Electron 桌面应用程序，用于流式传输和下载世界上的任何电影、电视剧或动漫。零广告和跟踪"
+    },
+    {
       "rank": "10",
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "stars": "30.6k",
-      "growth": "🔺655",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "description_cn": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars": "27.9k",
+      "growth": "🔺585",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_cn": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
     }
   ],
-  "updated_at": "2026-05-22T23:41:17.936309"
+  "updated_at": "2026-05-23T12:01:51.324644"
 }
