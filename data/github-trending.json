@@ -34,7 +34,7 @@
       "stars": "63.8k",
       "growth": "🔺968",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": "5",
@@ -162,7 +162,7 @@
       "stars": "60.2k",
       "growth": "🔺7947",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": "9",
@@ -273,5 +273,5 @@
       "description_cn": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
     }
   ],
-  "updated_at": "2026-05-23T15:04:14.657991"
+  "updated_at": "2026-05-23T17:04:37.096647"
 }
