@@ -2,7 +2,7 @@
 
 **Keep tabs on your tabs, and stay updated with AI builders.**
 
-![Tab Out Banner](./images/banner.png)
+![Tab Out Dashboard](./images/banner.png)
 
 Tab Out with Follow-Builders is an enhanced version of the original Tab Out extension. It not only manages your tab clutter but also brings you daily insights from the world of AI directly to your new tab page.
 
@@ -13,15 +13,18 @@ Tab Out with Follow-Builders is an enhanced version of the original Tab Out exte
 ## 🚀 Latest Features (New!)
 
 ### 🌍 Multi-language Intelligence
-![Language Switch Demo](./images/lang-switch.png)
 - **One-Click Multi-language Toggle**: Seamlessly switch the entire UI between **English** and **Chinese**. Defaults to your browser's locale while offering manual override.
 - **Smart Pre-translation**: All English content from GitHub Trending and Daily Feed is automatically translated and pre-cached via our backend. Enjoy localized content instantly without waiting for API calls.
-- **🚀 GitHub Trending Rankings**:
-  - **Multi-dimension Switching**: Seamlessly toggle between **Daily** and **Weekly** rankings.
-  - **High-Density Insight**: Custom-engineered layout for scanning project descriptions (now translated!), stars, and growth.
+
+### 🚀 GitHub Trending Rankings
+![GitHub Trending Section](./images/trending.png)
+- **Multi-dimension Switching**: Seamlessly toggle between **Daily** and **Weekly** rankings.
+- **High-Density Insight**: Custom-engineered layout for scanning project descriptions (now translated!), stars, and growth.
 
 ## Core Features
 
+### 📰 Daily AI Feed
+![Daily AI Feed Section](./images/feed.png)
 - **Daily AI Feed**: A dedicated section showing the latest insights from AI builders and engineering blogs.
   - **Today-First Grouping**: Automatically expands "Today" and collapses history to keep your dashboard focused.
   - **Unread Statistics**: Real-time (unread/total) counts for each date group.
