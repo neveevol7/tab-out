@@ -2,6 +2,8 @@
 
 **管理您的标签页，时刻掌握 AI 领域的最新动向。**
 
+![Tab Out 功能预览](./images/banner.png)
+
 Tab Out with Follow-Builders 是对原始 Tab Out 扩展的增强版本。它不仅能帮您理清凌乱的标签页，还能将 AI 世界的每日洞察直接推送到您的新标签页。
 
 [English Version](./README.md)
@@ -10,6 +12,8 @@ Tab Out with Follow-Builders 是对原始 Tab Out 扩展的增强版本。它不
 
 ## 🚀 最新功能 (New!)
 
+### 🌍 全球化智能翻译
+![中英文切换演示](./images/lang-switch.png)
 - **中英文一键切换**：支持全界面的中英文动态切换。默认根据浏览器语言自动选择，亦可手动点击右上角开关。
 - **智能预翻译**：所有来自 GitHub Trending 和 Daily Feed 的英文内容都会通过后端自动翻译并预存。这意味着您可以秒开页面，无需等待翻译请求。
 - **GitHub 全球实时趋势榜**：

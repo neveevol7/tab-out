@@ -2,6 +2,8 @@
 
 **Keep tabs on your tabs, and stay updated with AI builders.**
 
+![Tab Out Banner](./images/banner.png)
+
 Tab Out with Follow-Builders is an enhanced version of the original Tab Out extension. It not only manages your tab clutter but also brings you daily insights from the world of AI directly to your new tab page.
 
 [中文版 (Chinese Version)](./README_CN.md)
@@ -10,6 +12,8 @@ Tab Out with Follow-Builders is an enhanced version of the original Tab Out exte
 
 ## 🚀 Latest Features (New!)
 
+### 🌍 Multi-language Intelligence
+![Language Switch Demo](./images/lang-switch.png)
 - **One-Click Multi-language Toggle**: Seamlessly switch the entire UI between **English** and **Chinese**. Defaults to your browser's locale while offering manual override.
 - **Smart Pre-translation**: All English content from GitHub Trending and Daily Feed is automatically translated and pre-cached via our backend. Enjoy localized content instantly without waiting for API calls.
 - **🚀 GitHub Trending Rankings**:
