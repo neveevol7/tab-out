@@ -4,32 +4,28 @@
 
 Tab Out with Follow-Builders is an enhanced version of the original Tab Out extension. It not only manages your tab clutter but also brings you daily insights from the world of AI directly to your new tab page.
 
-This project integrates data from [follow-builders](https://github.com/zarazhangrui/follow-builders) and uses **GitHub Actions** to maintain a persistent historical feed.
+[中文版 (Chinese Version)](./README_CN.md)
 
 ---
 
-## Enhanced Features
+## 🚀 Latest Features (New!)
 
-- **🚀 GitHub Trending Rankings (New!)**:
-  - **Multi-dimension Switching**: Seamlessly toggle between **Daily** and **Weekly** rankings to track both breakout projects and consistent trends.
-  - **High-Density Insight**: A custom-engineered list layout optimized for quick scanning of project descriptions, star growth, and tech stacks.
-  - **Real-time Sync**: Automatically updated every 2 hours via GitHub Actions, ensuring you're always seeing the pulse of the global developer community.
-- **Daily AI Feed**: A dedicated bottom section showing the latest insights from AI builders and engineering blogs.
-  - **Smart Date Grouping**: Automatically collapses older days to keep your dashboard clean.
+- **One-Click Multi-language Toggle**: Seamlessly switch the entire UI between **English** and **Chinese**. Defaults to your browser's locale while offering manual override.
+- **Smart Pre-translation**: All English content from GitHub Trending and Daily Feed is automatically translated and pre-cached via our backend. Enjoy localized content instantly without waiting for API calls.
+- **🚀 GitHub Trending Rankings**:
+  - **Multi-dimension Switching**: Seamlessly toggle between **Daily** and **Weekly** rankings.
+  - **High-Density Insight**: Custom-engineered layout for scanning project descriptions (now translated!), stars, and growth.
+
+## Core Features
+
+- **Daily AI Feed**: A dedicated section showing the latest insights from AI builders and engineering blogs.
+  - **Today-First Grouping**: Automatically expands "Today" and collapses history to keep your dashboard focused.
   - **Unread Statistics**: Real-time (unread/total) counts for each date group.
-- **Cloud-Side Auto-Sync**: Uses GitHub Actions to automatically fetch and merge new data every 2 hours. Your feed is updated even when your computer is off.
-- **Persistent History**: A self-hosted "database" (`data/feed-history.json`) ensures you never miss a post. The extension loads from this central source.
-- **Smart Tracking**:
-  - **Read/Unread Status**: Red notification badges for new content. Clicking a card marks it as read.
-  - **Incremental Loading (Smart Search)**: Defaults to a 3-day view. One click on "加载更早" automatically searches back through history until more content is found, crossing "quiet" days with ease.
-  - **Date Separators**: Clean separators for "Today", "Yesterday", and older updates with precise timestamps.
-- **Grid Layout**: A clean, responsive card-based layout that distinguishes between 𝕏 posts and technical blogs with color-coded accents.
+- **Cloud-Side Auto-Sync**: Uses GitHub Actions to automatically fetch and translate new data every 2 hours.
 - **Tab Management**:
-  - **See all your tabs at a glance** on a clean grid, grouped by domain.
-  - **Homepages group** pulls Gmail inbox, X home, YouTube, LinkedIn, GitHub homepages into one card.
-  - **Close tabs with style** with swoosh sound + confetti burst.
-  - **Duplicate detection** flags when you have the same page open twice, with one-click cleanup.
-  - **Save for later** bookmark tabs to a checklist before closing them.
+  - **Grid Layout**: Tabs grouped by domain on a clean grid.
+  - **Duplicate detection**: Flags duplicate tabs with one-click cleanup.
+  - **Save for later**: Bookmark tabs to a checklist before closing.
 
 ---
 
@@ -54,34 +50,15 @@ You'll see Tab Out.
 
 ---
 
-## How it works
-
-```
-GitHub Action (every 2h) 
-  -> Fetches raw data from follow-builders
-  -> Merges with data/feed-history.json
-  -> Commits back to your repository
-
-You open a new tab
-  -> Tab Out fetches history from your GitHub raw URL
-  -> Groups tabs by domain
-  -> Renders feed with incremental "Smart Search" loading
-```
-
-Everything runs inside the Chrome extension and GitHub Actions. Saved tabs are stored in `chrome.storage.local`.
-
----
-
 ## Tech stack
 
 | What | How |
 |------|-----|
 | Extension | Chrome Manifest V3 |
-| Backend | GitHub Actions + Python Sync Script |
+| Backend | GitHub Actions + Python Sync & Translation Script |
+| Translation | deep-translator (Google API) |
 | Data | JSON (Self-hosted on GitHub) |
 | Storage | chrome.storage.local |
-| Sound | Web Audio API (synthesized, no files) |
-| Animations | CSS transitions + JS confetti particles |
 
 ---
 
