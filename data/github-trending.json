@@ -2,21 +2,21 @@
   "daily": [
     {
       "rank": "1",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "19k",
-      "growth": "🔺2793",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
-    },
-    {
-      "rank": "2",
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "stars": "21k",
       "growth": "🔺2739",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
+      "rank": "2",
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars": "21.7k",
+      "growth": "🔺2637",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": "3",
@@ -29,6 +29,15 @@
     },
     {
       "rank": "4",
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": "20.5k",
+      "growth": "🔺897",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+    },
+    {
+      "rank": "5",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "stars": "78.9k",
@@ -37,241 +46,232 @@
       "description_cn": ""
     },
     {
-      "rank": "5",
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars": "64.6k",
-      "growth": "🔺774",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
       "rank": "6",
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": "19.4k",
-      "growth": "🔺769",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "description_cn": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
-    },
-    {
-      "rank": "7",
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": "26.2k",
-      "growth": "🔺623",
+      "stars": "27k",
+      "growth": "🔺775",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
+      "rank": "7",
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "stars": "20.2k",
+      "growth": "🔺761",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "description_cn": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+    },
+    {
       "rank": "8",
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars": "65.3k",
+      "growth": "🔺665",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": "9",
       "name": "manaflow-ai/cmux",
       "url": "https://github.com/manaflow-ai/cmux",
-      "stars": "18.3k",
-      "growth": "🔺617",
+      "stars": "18.9k",
+      "growth": "🔺596",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "description_cn": "基于 Ghostty 的 macOS 终端，带有垂直选项卡和 AI 编码代理通知"
     },
     {
-      "rank": "9",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "19.6k",
-      "growth": "🔺611",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
-    },
-    {
       "rank": "10",
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": "53.6k",
-      "growth": "🔺594",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "stars": "32.4k",
+      "growth": "🔺563",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_cn": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
     }
   ],
   "weekly": [
     {
       "rank": "1",
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "stars": "92.8k",
-      "growth": "🔺26347",
-      "description": "My personal directory of skills, straight from my .claude directory.",
-      "description_cn": "我的个人技能目录，直接来自我的 .claude 目录。"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars": "21.7k",
+      "growth": "🔺16225",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": "2",
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": "18.7k",
-      "growth": "🔺17352",
+      "stars": "27k",
+      "growth": "🔺8312",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
     },
     {
       "rank": "3",
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": "15.7k",
-      "growth": "🔺12873",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "description_cn": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
-    },
-    {
-      "rank": "4",
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "stars": "25.6k",
-      "growth": "🔺11050",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "5",
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "stars": "32.2k",
-      "growth": "🔺10555",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "description_cn": "在终端中运行的 DeepSeek 模型的编码代理"
-    },
-    {
-      "rank": "6",
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "stars": "13.3k",
-      "growth": "🔺9961",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "description_cn": "#1 基于真实世界基准的人工智能编码代理的持久内存"
-    },
-    {
-      "rank": "7",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": "43.5k",
-      "growth": "🔺8568",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "description_cn": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": "8",
-      "name": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars": "60.2k",
-      "growth": "🔺7947",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
-    },
-    {
-      "rank": "9",
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "stars": "12.3k",
-      "growth": "🔺6862",
-      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "description_cn": "🆓 无限免费人工智能编码。通过 40 多个提供商将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 连接到免费的 Claude/GPT/Gemini。自动回退，RTK -40% 代币，永远不会达到极限。"
-    },
-    {
-      "rank": "10",
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "stars": "52.9k",
-      "growth": "🔺6187",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。",
-      "description_cn": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
-    },
-    {
-      "rank": "11",
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "12.8k",
-      "growth": "🔺6057",
+      "stars": "20.5k",
+      "growth": "🔺7653",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     },
     {
-      "rank": "12",
+      "rank": "4",
+      "name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars": "65.3k",
+      "growth": "🔺5082",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+    },
+    {
+      "rank": "5",
+      "name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "stars": "20.2k",
+      "growth": "🔺4480",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "description_cn": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+    },
+    {
+      "rank": "6",
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "stars": "21k",
+      "growth": "🔺4476",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
+      "rank": "7",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": "13.5k",
+      "growth": "🔺4058",
+      "description": "Learn it. Build it. Ship it for others.",
+      "description_cn": "学习它。建造它。寄给别人。"
+    },
+    {
+      "rank": "8",
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "stars": "17.2k",
+      "growth": "🔺3929",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description_cn": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+    },
+    {
+      "rank": "9",
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": "50.2k",
-      "growth": "🔺5497",
+      "stars": "53.6k",
+      "growth": "🔺3378",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "description_cn": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
     },
     {
+      "rank": "10",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars": "29k",
+      "growth": "🔺3194",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_cn": "在终端、VSCode 扩展中或通过 openclaw 等 Discord 免费使用 claude-code"
+    },
+    {
+      "rank": "11",
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "stars": "32.4k",
+      "growth": "🔺3002",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_cn": "开源托管代理平台。将编码代理变成真正的队友 - 分配任务、跟踪进度、复合技能。"
+    },
+    {
+      "rank": "12",
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "stars": "40k",
+      "growth": "🔺2961",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_cn": "“CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/"
+    },
+    {
       "rank": "13",
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "stars": "51.1k",
-      "growth": "🔺5473",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "description_cn": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars": "53.9k",
+      "growth": "🔺2754",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": "14",
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "stars": "77.1k",
-      "growth": "🔺5410",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "description_cn": "TradingAgents：多代理LLM金融交易框架"
-    },
-    {
-      "rank": "15",
       "name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
-      "stars": "18.3k",
-      "growth": "🔺4874",
+      "stars": "20.6k",
+      "growth": "🔺2267",
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
       "description_cn": "AI 从任何文档生成本机可编辑的 PPTX - 真正的 PowerPoint 形状，而不是图像 - 无需设计技能"
     },
     {
+      "rank": "15",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": "79.2k",
+      "growth": "🔺2112",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_cn": "TradingAgents：多代理LLM金融交易框架"
+    },
+    {
       "rank": "16",
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "stars": "15.3k",
-      "growth": "🔺4679",
-      "description": "Let's use AI to Earn!",
-      "description_cn": "让我们用AI来赚钱吧！"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "stars": "34.2k",
+      "growth": "🔺2030",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "description_cn": "在终端中运行的 DeepSeek 模型的编码代理"
     },
     {
       "rank": "17",
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "stars": "18.2k",
-      "growth": "🔺4507",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "description_cn": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars": "53k",
+      "growth": "🔺1918",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "description_cn": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
     },
     {
       "rank": "18",
-      "name": "datawhalechina/easy-vibe",
-      "url": "https://github.com/datawhalechina/easy-vibe",
-      "stars": "13k",
-      "growth": "🔺4505",
-      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-      "description_cn": "💻 氛围编码 2026 |您的第一门现代编程课程，供初学者逐步掌握。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": "45.4k",
+      "growth": "🔺1828",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "description_cn": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": "19",
-      "name": "supertone-inc/supertonic",
-      "url": "https://github.com/supertone-inc/supertonic",
-      "stars": "8.5k",
-      "growth": "🔺4294",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "description_cn": "快如闪电、设备内多语言 TTS — 通过 ONNX 本地运行。"
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "stars": "54.7k",
+      "growth": "🔺1796",
+      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。",
+      "description_cn": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
     },
     {
       "rank": "20",
-      "name": "K-Dense-AI/claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "stars": "24.6k",
-      "growth": "🔺4205",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "description_cn": "一组用于研究、科学、工程、分析、金融和写作的现成可用的代理技能。"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "stars": "23.4k",
+      "growth": "🔺1771",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "description_cn": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     }
   ],
-  "updated_at": "2026-05-24T23:00:35.691209"
+  "updated_at": "2026-05-25T04:10:41.073287"
 }
