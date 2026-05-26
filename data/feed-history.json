@@ -32,6 +32,150 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/garrytan/status/2059155926939299968",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "This is going to be common from here\n\nBrave new world\n\nPrompters of the world unite https://t.co/rtuwOGiEzQ",
+    "title_cn": "从这里开始这将很常见\n\n美丽新世界\n\n世界提示者联合起来 https://t.co/rtuwOGiEzQ",
+    "date": "2026-05-26T06:13:24.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2059151927011909800",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Ultimately the golden age of abundance will be this kind of tech built and deployed 1000x https://t.co/ezuSdcjE3w",
+    "title_cn": "最终，丰富的黄金时代将是这种技术的构建和部署 1000 倍 https://t.co/ezuSdcjE3w",
+    "date": "2026-05-26T05:57:31.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2059148823403082154",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? \n\nRun this a few times and you will be surprised how fast it gets astonishingly better\n\nAnd since it is in a skill file plus code with evals (LLM as judge) and unit tests, it stays better forever",
+    "title_cn": "我所说的评估实际上是告诉代理：根据我们讨论的关于我们正在做什么、为什么以及发生了什么的内容，使用三种不同的前沿模型来查看调用代码的技能文件的输入和输出，并对其有效性进行评级。为什么不是10？怎么会变成这样呢？ \n\n运行几次，你会惊讶地发现它变得惊人地好\n\n由于它位于技能文件中，加上带有评估（LLM 作为法官）和单元测试的代码，因此它永远保持更好",
+    "date": "2026-05-26T05:45:11.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2059135918808981617",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/6AxtdQkx4O",
+    "title_cn": "https://t.co/6AxtdQkx4O",
+    "date": "2026-05-26T04:53:54.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2059135917122838705",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It's not everyday you get to host someone who's been to space.\n\nI'll be chatting with Group Captain Shubhanshu Shukla @gagan_shux at @spc_india.\n\nFighter Pilot. Astronaut. First Indian on the ISS. Incredible guest. Register to attend, BLR, May 28. https://t.co/D0fUyBRgfZ",
+    "title_cn": "接待去过太空的人可不是每天都会有的事。\n\n我将通过 @spc_india 与团队队长 Shubhanshu Shukla @gagan_shux 聊天。\n\n战斗机飞行员。宇航员。第一个登上国际空间站的印度人。令人难以置信的客人。注册参加 5 月 28 日 BLR。https://t.co/D0fUyBRgfZ",
+    "date": "2026-05-26T04:53:54.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2059099566377693305",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Codex is very good. I'm especially impressed by how it uses the browse to test its own work.\n\nBut any design related / frontend tasks, Claude still wins.",
+    "title_cn": "法典非常好。它如何使用浏览器来测试自己的工作给我留下了特别深刻的印象。\n\n但任何设计相关/前端任务，克劳德仍然获胜。",
+    "date": "2026-05-26T02:29:27.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2059070818798465330",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "You have to think of tokenmaxxing as eating crab legs at the buffet.\n\nThe buffet (all you can eat AI plans) is not going to last forever so you better eat all the crab legs while you still can.",
+    "title_cn": "你必须把代币最大化想象成在自助餐上吃蟹腿。\n\n自助餐（人工智能计划）不会永远持续下去，所以你最好趁还能吃的时候吃掉所有的蟹腿。",
+    "date": "2026-05-26T00:35:13.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2059029752858775581",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.\n\nMy number 1 lesson from @ryancarson:\n\n\"We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.\n\nYou have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.\"\n\n📌 I asked Ryan how he ships 10 PRs a day, here's his answer: https://t.co/8jMGNSdHmu",
+    "title_cn": "过去感觉像是拖延的事情（构建系统而不是 MVP）现在已成为使用 AI 代理有效交付的先决条件。\n\n我从 @ryancarson 学到的第一课：\n\n“我们过去常说，只要做最少的事情就能获得 MVP。不要把时间花在系统上。现在情况完全相反了。\n\n您必须花费大量时间来设置文档。将所有这些构建到带有技能文件的 cron 作业中，突然间您就可以完成 10 个人的工作了。”\n\n📌 我问 Ryan 他如何每天发送 10 个 PR，这是他的答案：https://t.co/8jMGNSdHmu",
+    "date": "2026-05-25T21:52:02.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2059025559896883489",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. \n\nIf you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there’d be no jobs left.\n\nWhat happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service. Because some players in the market decides to do more with the automation, and it raises everyone’s expectations. So those that don’t respond can’t compete.\n\nWe get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings. We get better software in niches we never thought we could automate. Our healthcare providers offer more tests and deeper medical advice. This just goes on and on.\n\nWhen you move from believing the world is static and you’ll have a better view of how jobs evolve due to AI.",
+    "title_cn": "高盛首席执行官对人工智能和就业持悲观态度。 \n\n如果你看看几十年前的工作是什么样子，发现一切都比以前更快了，或者生产同样的东西比以前更容易了——甚至在人工智能出现之前——你肯定会相信不会再有工作了。\n\n发生的事情是我们不断地对一切提出更高的要求。我们不是自动化任务并提供相同的价值主张，但更便宜，而是期望从整体产品或服务中获得更多。因为市场上的一些参与者决定利用自动化做更多的事情，这提高了每个人的期望。因此，那些不做出回应的人无法参与竞争。\n\n我们从分析师那里得到更多的财务分析。我们获得更全面的法律建议。我们获得更加量身定制的金融服务产品。我们在从未想过可以自动化的领域获得了更好的软件。我们的医疗保健提供者提供更多的测试和更深入的医疗建议。这种情况一直持续下去。\n\n当你不再相信世界是静态的时，你就会更好地了解人工智能如何改变工作。",
+    "date": "2026-05-25T21:35:22.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2059014616059879501",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Good counterpoint from inside @every to After Automation: https://t.co/o5h1PTYUTg",
+    "title_cn": "从 @every 内部到 After Automation 的良好对位：https://t.co/o5h1PTYUTg",
+    "date": "2026-05-25T20:51:53.000Z"
+  },
+  {
+    "url": "https://x.com/AmandaAskell/status/2058994218484338726",
+    "type": "x",
+    "name": "Amanda Askell",
+    "title": "I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.",
+    "title_cn": "我已经有 5 年多没有写过个人博客文章了，所以如果您看到声称是我写的帖子，那它们不是我写的。如果情况发生变化，我会更新。也许应该如此。",
+    "date": "2026-05-25T19:30:50.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2058962146684215602",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "https://t.co/I91v9v14Ma",
+    "title_cn": "https://t.co/I91v9v14Ma",
+    "date": "2026-05-25T17:23:24.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2058962119287038145",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "\"Humanity, created by God in all its grandeur is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together.\"\n\nThe Pope has obviously been reading @every from 2024: https://t.co/TxmwICvJ77",
+    "title_cn": "“由上帝创造的伟大人类今天面临着一个关键的选择：要么建造一座新的巴别塔，要么建造一座上帝与人类共同居住的城市。”\n\n教皇显然从 2024 年开始就一直在阅读 @every：https://t.co/TxmwICvJ77",
+    "date": "2026-05-25T17:23:17.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2058957711396544752",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Member of Technical Staff https://t.co/84YZZWhB5G",
+    "title_cn": "技术人员 https://t.co/84YZZWhB5G",
+    "date": "2026-05-25T17:05:46.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2058927145519562867",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..\n\nBrother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.  \n\nIt’s also SO much fun to explore the edges of these models and discover new capabilities that haven’t been documented yet. \n\nI also find it absurd that how can you NOT be curious and redo how you do work. We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it’s comfortable? \n\nAutomate or get automated is the bitter lesson we all need to learn. And have a lot of fun along the way :)",
+    "title_cn": "有趣的是，每周都有多少人私信我问“你不是风投吗，你为什么要开发”。\n\n兄弟，这个领域发展得太快了，你学习和保持前沿的唯一方法就是建造。每隔几个月就需要重新考虑先决条件。  \n\n探索这些模型的边缘并发现尚未记录的新功能也非常有趣。 \n\n我还觉得荒谬的是，你怎么能不好奇并重新做你的工作。我们手中掌握着外星超级智慧，而你却想花几个小时以同样的方式做这件事，只是因为它很舒服？ \n\n自动化或变得自动化是我们所有人都需要学习的惨痛教训。一路上玩得很开心:)",
+    "date": "2026-05-25T15:04:19.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2058922222790525272",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP",
+    "title_cn": "OpenClaw 的依赖清除仍在继续。杀死了夏普和吉普。将其替换为 photon，这是一个运行编译后的 Rust 进行图像处理的小型 WebAssembly。 2MB 与 140MB。 https://t.co/tSimX2GKwP",
+    "date": "2026-05-25T14:44:45.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2058917897590673525",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
+    "title_cn": "各位：当你写技巧的时候，要求你的代理要高效，放松语法。我在技能描述中看到太多写书的技能，而所有这些废话都被加载到每个上下文中。\n\n我写了一项可以找到最严重违规者的技能。 https://t.co/kfaaJpxMXE",
+    "date": "2026-05-25T14:27:34.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2058884046940225918",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "There's security, and there's clankers. https://t.co/TLA07uIEZB",
+    "title_cn": "有安全，也有叮当声。 https://t.co/TLA07uIEZB",
+    "date": "2026-05-25T12:13:03.000Z"
+  },
+  {
     "url": "https://x.com/nikunj/status/2058783316753686558",
     "type": "x",
     "name": "Nikunj Kothari",
