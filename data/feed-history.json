@@ -32,6 +32,262 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "type": "blog",
+    "name": "Anthropic Engineering",
+    "title": "How we contain Claude across products",
+    "title_cn": "我们如何在产品中包含克劳德",
+    "date": "2026-05-27T07:46:20.798Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2059521656532721964",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Founders must stop trying to building 2010-era businesses with 2026-era technology. \n\nDon't try to rebuild Foursquare or Yelp. \n\nDon't try to recreate Basecamp by 37 Signals with $10/mo SaaS pricing. \n\nDon't underprice! If it works it's worth a lot more.\n\nDon't be tempted to become \"Tech enabled PE\" with revenue tricks. \n\nThe rules of tech changed with AI. Play the new game.",
+    "title_cn": "创始人必须停止尝试用 2026 时代的技术打造 2010 时代的企业。 \n\n不要尝试重建 Foursquare 或 Yelp。 \n\n不要尝试通过 37 Signals 以 10 美元/月 SaaS 定价重新创建 Basecamp。 \n\n请勿低价！如果它有效的话，它的价值会更高。\n\n不要试图通过盈利技巧成为“科技型私募股权公司”。 \n\n科技规则随着人工智能而改变。玩新游戏。",
+    "date": "2026-05-27T06:26:41.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2059518682825392525",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jordan’s 80th Independence Day.\n\nIt’s been an incredibly journey building @Replit, starting from Jordan more than 15 years ago, and then helping accelerate the field of agentic AI globally. https://t.co/BKE14jsaRe",
+    "title_cn": "很荣幸在约旦独立 80 周年之际获得国王阿卜杜拉二世陛下授予的杰出勋章。\n\n15 年前从约旦开始构建 @Replit，然后帮助加速全球代理 AI 领域的发展，这是一段令人难以置信的旅程。 https://t.co/BKE14jsaRe",
+    "date": "2026-05-27T06:14:52.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2059494440960667678",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "GStack is still getting better daily. Just shipped v1.47\n\nThanks @jayzalowitz for the PR idea \n\nExtra useful for when I need to fix GBrain issues and need to create a precise spec about the bug directly out of the OpenClaw instance that hit the issue https://t.co/L0pDBJ43yz",
+    "title_cn": "GStack 每天都在变得更好。刚刚发布 v1.47\n\n感谢@jayzalowitz 的公关想法 \n\n当我需要修复 GBrain 问题并需要直接从遇到问题的 OpenClaw 实例创建有关错误的精确规范时特别有用 https://t.co/L0pDBJ43yz",
+    "date": "2026-05-27T04:38:32.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2059492605634007125",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "🛫 https://t.co/NARtaDr0wJ",
+    "title_cn": "🛫 https://t.co/NARtaDr0wJ",
+    "date": "2026-05-27T04:31:15.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2059482349977653619",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "A meaningful portion of enterprises I talk to outside of Silicon Valley generally are looking to hire while also adopting agents. \n\nThere’s a huge wave of technical and engineering talent needed inside originations, building software or acting as FDEs for agents. And as AI drives efficiency in areas like the customer lifecycle, companies are leaning in even more heavily to client-facing jobs.\n\nIn a world where AI did everything for you with no human oversight needed, maybe we’d be having a different conversation. But that’s not how AI works. \n\nEven for the areas that have the most automation potential, agents are automating tasks, not whole jobs. As they automate tasks, the agents need to be steered, their work reviewed, the outputs incorporated and more. All of this is requiring people to do the work.\n\nAnd for the areas that have less automation potential, companies are freeing up dollars from efficiency gains elsewhere to hire in those areas now. \n\nYes, maybe AI lets you respond to front line support tickets automatically, but the companies (instead of just dropping the profit to the bottom line) will go and invest in new areas of sales and customer success that will add more differentiation for clients.\n\nCompanies don’t remain static. They automating tasks where they can and free up dollars to move onto the next thing that matters.",
+    "title_cn": "我采访过的硅谷以外的企业中，有相当一部分企业通常在寻求招聘的同时也采用代理商。 \n\n起源内部需要大量技术和工程人才，为代理商构建软件或充当 FDE。随着人工智能在客户生命周期等领域提高效率，公司更加倾向于面向客户的工作。\n\n在一个人工智能为你做一切事情而无需人类监督的世界里，也许我们会有不同的对话。但这不是人工智能的工作原理。 \n\n即使对于最具自动化潜力的领域，代理也正在自动化任务，而不是整个工作。当他们自动化任务时，需要指导代理、审查他们的工作、整合输出等等。这一切都需要人们去做工作。\n\n对于自动化潜力较小的领域，公司现在正在从其他地方提高效率中释放资金，用于在这些领域进行招聘。 \n\n是的，也许人工智能可以让你自动响应前线支持请求，但公司（而不是仅仅将利润降至底线）将投资于新的销售和客户成功领域，这将为客户带来更多差异化。\n\n公司不会保持静止。他们尽可能地自动化任务，并腾出资金来处理下一件重要的事情。",
+    "date": "2026-05-27T03:50:30.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2059478552085692512",
+    "type": "x",
+    "name": "Swyx",
+    "title": "https://t.co/uO2fHIPTjM",
+    "title_cn": "https://t.co/uO2fHIPTjM",
+    "date": "2026-05-27T03:35:24.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2059465819072192770",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Legendary run my dear friend.\n\nProud to have played a part in the journey.\n\nI cannot wait to see what you do next. https://t.co/5IRso6hONi",
+    "title_cn": "传奇奔跑我亲爱的朋友。\n\n很自豪能够参与这段旅程。\n\n我迫不及待地想看看你接下来会做什么。 https://t.co/5IRso6hONi",
+    "date": "2026-05-27T02:44:48.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2059463182297747527",
+    "type": "x",
+    "name": "Swyx",
+    "title": "ai infra is going VERTICAL https://t.co/a6GiZMIFop https://t.co/5PqzQv59FE",
+    "title_cn": "人工智能基础设施将走向垂直 https://t.co/a6GiZMIFop https://t.co/5PqzQv59FE",
+    "date": "2026-05-27T02:34:20.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2059453909819654554",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.\n\nhttps://t.co/zbUjIS2e1i",
+    "title_cn": "自动审核是我添加到堆栈中的最有影响力的技能（仅次于 https://t.co/SEj2XRpaD1）。它会在获得 PR 之前自动检查您的代码。\n\n发现很多边缘情况。\n有时它会运行几个小时。\n\nhttps://t.co/zbUjIS2e1i",
+    "date": "2026-05-27T01:57:29.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2059449464801120765",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Next.js Night  · AMS 🇳🇱  ·  June 11\n\nLearn what’s next + meet the team + share feedback\n\nhttps://t.co/BDRpvNMQn2 https://t.co/z5Jo3RX9Ll",
+    "title_cn": "Next.js 之夜 · AMS 🇳🇱 · 6 月 11 日\n\n了解下一步计划 + 与团队见面 + 分享反馈\n\nhttps://t.co/BDRpvNMQn2 https://t.co/z5Jo3RX9Ll",
+    "date": "2026-05-27T01:39:49.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2059444220956491937",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Feedback is a gift. Critical feedback doubly so.",
+    "title_cn": "反馈是一份礼物。批评性的反馈更是如此。",
+    "date": "2026-05-27T01:18:59.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2059430142980837771",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Saikat Chakrabarti said that a single member of Congress from San Francisco is \"useless.\"\n\nThis type of statement should immediately disqualify him from office. He doesn't want to represent the people.\n\nHe just wants to buy personal power and clout.\n\nHe is no public servant. https://t.co/1dAraoAca2",
+    "title_cn": "Saikat Chakrabarti 表示，来自旧金山的国会议员“毫无用处”。\n\n此类声明应立即取消他的任职资格。他不想代表人民。\n\n他只是想收买个人权力和影响力。\n\n他不是公务员。 https://t.co/1dAraoAca2",
+    "date": "2026-05-27T00:23:03.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2059424310079697188",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both. \n\nIf not, find a way to quickly get there.",
+    "title_cn": "每个风险投资支持的应用程序公司本质上都需要成为一家数据公司和/或一家金融科技公司。最好两者兼而有之。 \n\n如果没有，就想办法快速到达那里。",
+    "date": "2026-05-26T23:59:52.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2059423344961671290",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Also extracted our image-logic into a separate library. Especially useful if you want to ensure small hacked images don't explode your process.\n\nRastermill - Portable image processing for Node agents. Uses Wasm+Rust to be fast.\n\nhttps://t.co/YW6iCQZX4V",
+    "title_cn": "还将我们的图像逻辑提取到一个单独的库中。如果您想确保被黑客入侵的小图像不会破坏您的进程，则特别有用。\n\nRastermill - 用于节点代理的便携式图像处理。使用 Wasm+Rust 速度很快。\n\nhttps://t.co/YW6iCQZX4V",
+    "date": "2026-05-26T23:56:02.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2059422568352714981",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native.\n\nPerformance of modern wasm on node/V8 is ~equivalent to native. \n\nYour claw now automatically takes meetings notes and you can talk to it in meetings.\n\nhttps://t.co/K0uXTLCuYt",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "date": "2026-05-26T23:52:57.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2059411493196529751",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "The biggest mindf*ck scenario in AI: things don’t change that much.  Both doomers and accelerationists turn out to be wrong.  We are all more productive.  Agents deliver automation in the enterprise.  Some important scientific discoveries are made.  All great.  But that’s it.",
+    "title_cn": "人工智能中最令人费解的场景是：事情并没有改变那么多。  事实证明，厄运论者和加速论者都是错误的。  我们都更有生产力。  代理在企业中提供自动化。  取得了一些重要的科学发现。  一切都很棒。  但就是这样。",
+    "date": "2026-05-26T23:08:56.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2059403935538897051",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Three years ago in a beemer https://t.co/bjUNEyJ2ZW",
+    "title_cn": "三年前在 Beemer https://t.co/bjUNEyJ2ZW",
+    "date": "2026-05-26T22:38:54.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2059393192395432172",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Back in Jordan doing my favorite thing — drifting! First time in a pro drift car. https://t.co/9ifXxcofoC",
+    "title_cn": "回到约旦做我最喜欢的事情——漂流！第一次驾驶专业漂移车。 https://t.co/9ifXxcofoC",
+    "date": "2026-05-26T21:56:13.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2059372579790741793",
+    "type": "x",
+    "name": "Swyx",
+    "title": "last 4 days to submit talks: https://t.co/AXtvjtt8gC\n\nthis is our first year featuring PREPRINT poster sessions for research papers as well - as @bclavie pointed out we need a separate process for this but you can submit here for now!",
+    "title_cn": "最后 4 天提交演讲：https://t.co/AXtvjtt8gC\n\n这是我们第一年以研究论文预印海报会议为特色 - 正如 @bclavie 指出的那样，我们需要一个单独的流程，但您现在可以在这里提交！",
+    "date": "2026-05-26T20:34:18.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2059363116316598739",
+    "type": "x",
+    "name": "Thariq",
+    "title": "getting it access to data is important too, add in the gmail, google calendar, etc. connectors\n\nbut I think people underestimate how much context they have in files",
+    "title_cn": "让它访问数据也很重要，添加 gmail、谷歌日历等连接器\n\n但我认为人们低估了文件中的上下文",
+    "date": "2026-05-26T19:56:42.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2059363115146395965",
+    "type": "x",
+    "name": "Thariq",
+    "title": "- image or video editing? write scripts\n- finances, tax work, etc? put in PDFs, write scripts, output HTML\n- medical advice? put in PDFs + data, output HTML \n- filling out paperwork? write scripts\n- creating a report? write HTML\n- making plans? write HTML",
+    "title_cn": "- 图像或视频编辑？写脚本\n- 财务、税务工作等？放入 PDF、编写脚本、输出 HTML\n- 医疗建议？放入PDF+数据，输出HTML \n- 填写文件？写脚本\n- 创建报告？编写 HTML\n- 制定计划？编写 HTML",
+    "date": "2026-05-26T19:56:42.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2059363113963540788",
+    "type": "x",
+    "name": "Thariq",
+    "title": "the basic trick to using Claude Code for non-technical work is to put a bunch of files in a folder and tell it can write scripts + make HTML",
+    "title_cn": "使用 Claude Code 进行非技术工作的基本技巧是将一堆文件放在一个文件夹中，并告诉它可以编写脚本 + 制作 HTML",
+    "date": "2026-05-26T19:56:42.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2059354487823978586",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "How my own usage of coding agents has changed in the past month:\n1. Moved from the terminal to the Codex/Claude Code desktop apps. The Codex Mac app is especially great. Now I rarely open the terminal\n2. Transitioned from mostly Claude Code to 50-50 Claude Code and Codex. Codex feels like a very reliable engineer; Claude Code is a better PM and designer with good communication skills\n\nSo I go to Codex if I already have a defined task and just need it to work; I go to Claude Code if I don't yet know what I want and just wanna brainstorm/prototype",
+    "title_cn": "在过去的一个月里，我自己对编码代理的使用发生了怎样的变化：\n1. 从终端移至 Codex/Claude Code 桌面应用程序。 Codex Mac 应用程序尤其出色。现在我很少打开终端了\n2. 从主要是克劳德代码过渡到 50-50 克劳德代码和法典。 Codex 给人的感觉是一位非常可靠的工程师； Claude Code 是一位更好的产品经理和设计师，具有良好的沟通能力\n\n因此，如果我已经有明确的任务并且只需要它发挥作用，我就会去 Codex；如果我还不知道自己想要什么，只是想集思广益/原型，我会去 Claude Code",
+    "date": "2026-05-26T19:22:25.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2059353269923618819",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "we're having people over at the @every brownstone during NYC Tech Week\n\nai-pilled readers, builders, and writers—and our team\n\ncan't wait to see everyone\n\ncome hang: https://t.co/ZnBXd8CbbU",
+    "title_cn": "we're having people over at the @every brownstone during NYC Tech Week\n\nai-pilled readers, builders, and writers—and our team\n\n迫不及待地想见到大家\n\n来挂：https://t.co/ZnBXd8CbbU",
+    "date": "2026-05-26T19:17:35.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2059348812444151854",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Building at the frontier?\n\nExploring what's worth building?\n\nBoth are good reasons to apply to @southpkcommons.\nhttps://t.co/xWaXyqCFGR",
+    "title_cn": "建在边境？\n\n探索什么值得构建？\n\n两者都是申请 @southpkcommons 的充分理由。\nhttps://t.co/xWaXyqCFGR",
+    "date": "2026-05-26T18:59:52.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2059339414552395836",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Try it now: https://t.co/F951xNM4Bp",
+    "title_cn": "立即尝试：https://t.co/F951xNM4Bp",
+    "date": "2026-05-26T18:22:31.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2059338915023393161",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Frontend Slides skill now has 19k stars on GitHub ✨\n\nI upgraded it with a new design brain: it can now pull from my Beautiful HTML Templates library, pick a visual direction, and generate slides using that template’s design language\n\nAlso new: \n- Works better with coding agents beyond Claude Code - Export to webpage or PDF for easy sharing \n- Inline slide editing \n- Fixed 16:9 deck stage to avoid overflow, cropping, and weird responsive chaos\n\nTry now: https://t.co/CiQpficxcD",
+    "title_cn": "Frontend Slides skill now has 19k stars on GitHub ✨\n\n我用新的设计大脑对其进行了升级：它现在可以从我的 Beautiful HTML Templates 库中提取，选择视觉方向，并使用该模板的设计语言生成幻灯片\n\nAlso new: \n- Works better with coding agents beyond Claude Code - Export to webpage or PDF for easy sharing \n- Inline slide editing \n- Fixed 16:9 deck stage to avoid overflow, cropping, and weird responsive chaos\n\n立即尝试：https://t.co/CiQpficxcD",
+    "date": "2026-05-26T18:20:32.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2059292347678986251",
+    "type": "x",
+    "name": "Claude",
+    "title": "What are you building?",
+    "title_cn": "你在建造什么？",
+    "date": "2026-05-26T15:15:30.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2059292345800048714",
+    "type": "x",
+    "name": "Claude",
+    "title": "https://t.co/mZdWx3DhAO",
+    "title_cn": "https://t.co/mZdWx3DhAO",
+    "date": "2026-05-26T15:15:29.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2059292343723819160",
+    "type": "x",
+    "name": "Claude",
+    "title": "https://t.co/3zGmkffKOx",
+    "title_cn": "https://t.co/3zGmkffKOx",
+    "date": "2026-05-26T15:15:29.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2059290769824084083",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "This is pretty annoying https://t.co/MedLiLPTP9",
+    "title_cn": "这很烦人 https://t.co/MedLiLPTP9",
+    "date": "2026-05-26T15:09:13.000Z"
+  },
+  {
     "url": "https://x.com/garrytan/status/2059155926939299968",
     "type": "x",
     "name": "Garry Tan",
