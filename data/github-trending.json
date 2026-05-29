@@ -2,28 +2,28 @@
   "daily": [
     {
       "rank": "1",
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "41.4k",
-      "growth": "🔺6196",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "66k",
+      "growth": "🔺1841",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": "2",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "64.1k",
-      "growth": "🔺4742",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "stars": "42.5k",
+      "growth": "🔺1078",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": "3",
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "30.8k",
-      "growth": "🔺3290",
+      "stars": "31.5k",
+      "growth": "🔺734",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
@@ -31,8 +31,8 @@
       "rank": "4",
       "name": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "23.1k",
-      "growth": "🔺2618",
+      "stars": "23.7k",
+      "growth": "🔺586",
       "description": "Learn it. Build it. Ship it for others.",
       "description_cn": "学习它。建造它。寄给别人。"
     },
@@ -40,53 +40,53 @@
       "rank": "5",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": "83.2k",
-      "growth": "🔺1483",
+      "stars": "83.7k",
+      "growth": "🔺473",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "23k",
-      "growth": "🔺940",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
-    },
-    {
-      "rank": "7",
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "stars": "55.5k",
-      "growth": "🔺883",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "description_cn": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
-    },
-    {
-      "rank": "8",
       "name": "rohitg00/agentmemory",
       "url": "https://github.com/rohitg00/agentmemory",
-      "stars": "19k",
-      "growth": "🔺799",
+      "stars": "19.3k",
+      "growth": "🔺290",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "description_cn": "#1 基于真实世界基准的人工智能编码代理的持久内存"
     },
     {
+      "rank": "7",
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": "23.3k",
+      "growth": "🔺273",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+    },
+    {
+      "rank": "8",
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "stars": "55.7k",
+      "growth": "🔺273",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "description_cn": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+    },
+    {
       "rank": "9",
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": "29k",
-      "growth": "🔺795",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "stars": "20.3k",
+      "growth": "🔺268",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "description_cn": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": "10",
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
-      "stars": "47.5k",
-      "growth": "🔺747",
+      "stars": "47.7k",
+      "growth": "🔺255",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "description_cn": "构建由社区支持的 Salesforce 的现代替代方案。"
     }
@@ -273,5 +273,5 @@
       "description_cn": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     }
   ],
-  "updated_at": "2026-05-28T23:20:32.590165"
+  "updated_at": "2026-05-29T04:00:00.032923"
 }
