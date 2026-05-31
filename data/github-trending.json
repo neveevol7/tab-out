@@ -126,7 +126,7 @@
       "stars": "65.3k",
       "growth": "🔺5082",
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "description_cn": "InvisPose 的生产就绪实施 - 一种革命性的基于 WiFi 的密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
+      "description_cn": "InvisPose 的生产就绪实施 - 一种基于 WiFi 的革命性密集人体姿势估计系统，可使用商用网状路由器实现穿墙实时全身跟踪"
     },
     {
       "rank": "5",
@@ -273,5 +273,5 @@
       "description_cn": "FinceptTerminal 是一款现代金融应用程序，提供先进的市场分析、投资研究和经济数据工具，专为在用户友好的环境中进行交互式探索和数据驱动的决策而设计。"
     }
   ],
-  "updated_at": "2026-05-31T17:10:58.936435"
+  "updated_at": "2026-05-31T19:21:57.647079"
 }
