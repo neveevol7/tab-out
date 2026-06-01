@@ -225,7 +225,7 @@
       "stars": "8.6k",
       "growth": "🔺1887",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "description_cn": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具利用、LSP、Python、浏览器、子代理等"
+      "description_cn": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
     },
     {
       "rank": "16",
@@ -273,5 +273,5 @@
       "description_cn": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "updated_at": "2026-06-01T04:26:03.237167"
+  "updated_at": "2026-06-01T11:43:20.999589"
 }
