@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "73.9k",
-      "growth": "🔺2120",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "stars": "18.9k",
+      "growth": "🔺12057",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "45.8k",
-      "growth": "🔺1476",
+      "stars": "48.6k",
+      "growth": "🔺2867",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": "3",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "35.2k",
-      "growth": "🔺978",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "76.7k",
+      "growth": "🔺2826",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": "4",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": "85.5k",
-      "growth": "🔺901",
+      "stars": "87.9k",
+      "growth": "🔺2341",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "5",
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "stars": "23.4k",
-      "growth": "🔺669",
-      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-      "description_cn": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": "26.7k",
+      "growth": "🔺1587",
+      "description": "Learn it. Build it. Ship it for others.",
+      "description_cn": "学习它。建造它。寄给别人。"
     },
     {
       "rank": "6",
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": "56.4k",
-      "growth": "🔺663",
+      "stars": "57.8k",
+      "growth": "🔺1409",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": "7",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "25k",
-      "growth": "🔺571",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars": "36.6k",
+      "growth": "🔺1378",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": "8",
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "25.1k",
-      "growth": "🔺567",
-      "description": "Learn it. Build it. Ship it for others.",
-      "description_cn": "学习它。建造它。寄给别人。"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "stars": "11k",
+      "growth": "🔺1136",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "description_cn": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
     },
     {
       "rank": "9",
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "stars": "23.2k",
-      "growth": "🔺343",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "description_cn": "内存引擎和应用程序速度极快，可扩展。 AI时代的内存API。"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars": "30.8k",
+      "growth": "🔺1020",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": "10",
-      "name": "reconurge/flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "stars": "3.9k",
-      "growth": "🔺343",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "description_cn": "一个用于可视化、灵活且可扩展的基于图形的调查的现代平台。适用于网络安全分析师和调查人员。"
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "stars": "9.4k",
+      "growth": "🔺799",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description_cn": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "updated_at": "2026-06-01T23:38:09.567826"
+  "updated_at": "2026-06-02T04:19:24.124557"
 }
