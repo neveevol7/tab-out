@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "stars": "41.9k",
-      "growth": "🔺10967",
+      "stars": "49.9k",
+      "growth": "🔺7918",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -13,8 +13,8 @@
       "rank": "2",
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "stars": "9.2k",
-      "growth": "🔺3150",
+      "stars": "12.1k",
+      "growth": "🔺2882",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
@@ -22,8 +22,8 @@
       "rank": "3",
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "39.2k",
-      "growth": "🔺1373",
+      "stars": "40.8k",
+      "growth": "🔺1554",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
@@ -31,8 +31,8 @@
       "rank": "4",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": "90.5k",
-      "growth": "🔺1296",
+      "stars": "91.6k",
+      "growth": "🔺1124",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -40,8 +40,8 @@
       "rank": "5",
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "51k",
-      "growth": "🔺1032",
+      "stars": "51.9k",
+      "growth": "🔺912",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
@@ -49,46 +49,46 @@
       "rank": "6",
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": "60k",
-      "growth": "🔺1021",
+      "stars": "60.9k",
+      "growth": "🔺871",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
     },
     {
       "rank": "7",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "78.8k",
-      "growth": "🔺862",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": "10.6k",
+      "growth": "🔺769",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_cn": "“Vibe-Trading：您的个人交易代理”"
     },
     {
       "rank": "8",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "32.4k",
-      "growth": "🔺739",
+      "stars": "33.1k",
+      "growth": "🔺642",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": "9",
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "stars": "19k",
-      "growth": "🔺605",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "description_cn": "算法交易机器学习代码，第二版。"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "79.4k",
+      "growth": "🔺636",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     },
     {
       "rank": "10",
-      "name": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "stars": "13k",
-      "growth": "🔺588",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "description_cn": "Hermes WebUI：从网络或手机使用 Hermes Agent 的最佳方式！"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": "27.2k",
+      "growth": "🔺523",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "updated_at": "2026-06-04T23:11:53.243944"
+  "updated_at": "2026-06-05T04:06:51.700222"
 }
