@@ -70,7 +70,7 @@
       "stars": "28.1k",
       "growth": "🔺668",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": "9",
@@ -273,5 +273,5 @@
       "description_cn": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "updated_at": "2026-06-06T06:55:58.132222"
+  "updated_at": "2026-06-06T10:08:15.969038"
 }
