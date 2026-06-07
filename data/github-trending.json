@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "stars": "55.1k",
-      "growth": "🔺5214",
+      "stars": "58.2k",
+      "growth": "🔺3177",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -13,82 +13,82 @@
       "rank": "2",
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "stars": "14.3k",
-      "growth": "🔺2212",
+      "stars": "15.6k",
+      "growth": "🔺1310",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "3",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "42.2k",
-      "growth": "🔺1412",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars": "35.1k",
+      "growth": "🔺1300",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
       "rank": "4",
-      "name": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "stars": "25.9k",
-      "growth": "🔺968",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "description_cn": "Notebook LM 的开源实现，具有更多灵活性和功能"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars": "43k",
+      "growth": "🔺824",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
     },
     {
       "rank": "5",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": "92.6k",
-      "growth": "🔺959",
+      "stars": "93.4k",
+      "growth": "🔺788",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "6",
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "stars": "27.1k",
+      "growth": "🔺731",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "description_cn": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+    },
+    {
+      "rank": "7",
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "22.2k",
+      "growth": "🔺716",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+    },
+    {
+      "rank": "8",
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "52.8k",
-      "growth": "🔺872",
+      "stars": "53.5k",
+      "growth": "🔺675",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
-      "rank": "7",
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "33.8k",
-      "growth": "🔺753",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": "8",
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars": "28.1k",
-      "growth": "🔺668",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
-    },
-    {
       "rank": "9",
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "stars": "80.5k",
-      "growth": "🔺667",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "description_cn": "将任何 PDF 或图像文档转换为 AI 的结构化数据。一款功能强大、轻量级的 OCR 工具包，可弥合图像/PDF 和法学硕士之间的差距。支持 100 多种语言。"
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "stars": "26.5k",
+      "growth": "🔺664",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "description_cn": "Notebook LM 的开源实现，具有更多灵活性和功能"
     },
     {
       "rank": "10",
-      "name": "zgwl/chinese-buy-us-stock-guide",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-      "stars": "3.2k",
-      "growth": "🔺576",
-      "description": "---",
-      "description_cn": null
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": "29.3k",
+      "growth": "🔺561",
+      "description": "Learn it. Build it. Ship it for others.",
+      "description_cn": "学习它。建造它。寄给别人。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Kronos：金融市场语言的基础模型"
     }
   ],
-  "updated_at": "2026-06-06T23:07:20.773752"
+  "updated_at": "2026-06-07T04:17:23.147546"
 }
