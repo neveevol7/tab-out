@@ -11,6 +11,15 @@
     },
     {
       "rank": "2",
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": "30.4k",
+      "growth": "🔺1760",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+    },
+    {
+      "rank": "3",
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "stars": "15.6k",
@@ -19,7 +28,7 @@
       "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
-      "rank": "3",
+      "rank": "4",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "stars": "35.1k",
@@ -28,31 +37,22 @@
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": "4",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "43k",
-      "growth": "🔺824",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "rank": "5",
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "stars": "41.2k",
+      "growth": "🔺1140",
+      "description": "We write your reusable computer vision tools. 💜",
+      "description_cn": "我们为您编写可重复使用的计算机视觉工具。 💜"
     },
     {
-      "rank": "5",
+      "rank": "6",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "stars": "93.4k",
       "growth": "🔺788",
       "description": "No description available.",
       "description_cn": ""
-    },
-    {
-      "rank": "6",
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "stars": "27.1k",
-      "growth": "🔺731",
-      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-      "description_cn": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
     },
     {
       "rank": "7",
@@ -83,195 +83,195 @@
     },
     {
       "rank": "10",
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "29.3k",
-      "growth": "🔺561",
-      "description": "Learn it. Build it. Ship it for others.",
-      "description_cn": "学习它。建造它。寄给别人。"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "81.1k",
+      "growth": "🔺660",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     }
   ],
   "weekly": [
     {
       "rank": "1",
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "45.8k",
-      "growth": "🔺24785",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "stars": "58.2k",
+      "growth": "рҹ”ә51427",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "73.9k",
-      "growth": "🔺15758",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars": "15.6k",
+      "growth": "рҹ”ә9554",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "3",
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "25.1k",
-      "growth": "🔺11611",
-      "description": "Learn it. Build it. Ship it for others.",
-      "description_cn": "学习它。建造它。寄给别人。"
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "stars": "93.4k",
+      "growth": "рҹ”ә7873",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "35.2k",
-      "growth": "🔺10553",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code 的预索引代码知识图 — 更少的标记、更少的工具调用、100% 本地化"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "stars": "53.5k",
+      "growth": "рҹ”ә7701",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "5",
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "stars": "85.5k",
-      "growth": "🔺6576",
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars": "35.1k",
+      "growth": "рҹ”ә5286",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "stars": "25k",
-      "growth": "🔺3653",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "description_cn": "克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "81.1k",
+      "growth": "рҹ”ә4372",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "7",
-      "name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "stars": "23.4k",
-      "growth": "🔺3569",
-      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-      "description_cn": "VoxCPM：用于上下文感知语音生成和逼真语音克隆的无标记器 TTS"
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": "29.3k",
+      "growth": "рҹ”ә4253",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "8",
-      "name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "stars": "56.8k",
-      "growth": "🔺2819",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "description_cn": "CLI 代理可将常见开发命令的 LLM 令牌消耗减少 60-90%。单个 Rust 二进制文件，零依赖"
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars": "61.9k",
+      "growth": "рҹ”ә4038",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "stars": "20.2k",
-      "growth": "🔺2396",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "description_cn": "#1 基于真实世界基准的人工智能编码代理的持久内存"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "stars": "13.6k",
+      "growth": "рҹ”ә3753",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "10",
-      "name": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "stars": "48.8k",
-      "growth": "🔺2336",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "description_cn": "构建由社区支持的 Salesforce 的现代替代方案。"
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": "30.4k",
+      "growth": "рҹ”ә3495",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "11",
-      "name": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "stars": "56.4k",
-      "growth": "🔺2310",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "description_cn": "🕷️ 一个自适应网页抓取框架，可以处理从单个请求到全面抓取的所有内容！"
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "stars": "27.5k",
+      "growth": "рҹ”ә3329",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "12",
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": "30k",
-      "growth": "🔺2225",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "description_cn": "您的个人人工智能超级智能。私密、简单且极其强大。"
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "stars": "28.5k",
+      "growth": "рҹ”ә2821",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "13",
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "stars": "22.9k",
-      "growth": "🔺1950",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "description_cn": "AI 从任何文档生成本机可编辑的 PPTX - 真正的 PowerPoint 形状，而不是图像 - 无需设计技能"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "35.1k",
+      "growth": "рҹ”ә2495",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "14",
-      "name": "CloakHQ/CloakBrowser",
-      "url": "https://github.com/CloakHQ/CloakBrowser",
-      "stars": "22.8k",
-      "growth": "🔺1934",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "description_cn": "Stealth Chromium 通过了所有机器人检测测试。使用源级指纹补丁替换 Playwright。 30/30 测试通过。"
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "stars": "59.7k",
+      "growth": "рҹ”ә2368",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "15",
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "stars": "8.6k",
-      "growth": "🔺1887",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "description_cn": "⌥ 终端的 AI 编码代理 — 哈希锚定编辑、优化工具工具、LSP、Python、浏览器、子代理等"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": "84k",
+      "growth": "рҹ”ә2330",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "16",
-      "name": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "stars": "56.9k",
-      "growth": "🔺1862",
-      "description": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。",
-      "description_cn": "Claude Flow 是一个围绕 Claude 的工作流与任务编排工具，支持多步骤推理与自动执行。它强调将大模型融入实际自动化流程中，而不仅是对话使用。"
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "stars": "10.9k",
+      "growth": "рҹ”ә2277",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "17",
-      "name": "perplexityai/bumblebee",
-      "url": "https://github.com/perplexityai/bumblebee",
-      "stars": "4k",
-      "growth": "🔺1850",
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "stars": "25.3k",
+      "growth": "рҹ”ә2181",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "18",
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "stars": "79.9k",
-      "growth": "🔺1807",
-      "description": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。",
-      "description_cn": "Claude-mem 是一个为 Claude 系列模型提供持久化记忆能力的工具，能够记录长期上下文、用户偏好与历史对话，使模型在多轮交互中拥有稳定的个性化记忆。它支持本地与远程存储，可集成多种应用场景，让 AI 助手更智能、更贴近真实助理体验。"
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "stars": "26k",
+      "growth": "рҹ”ә2125",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "19",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": "47.4k",
-      "growth": "🔺1765",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "description_cn": "AI 编码代理的生产级工程技能。"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "stars": "24.1k",
+      "growth": "рҹ”ә2102",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "20",
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "stars": "27.8k",
-      "growth": "🔺1764",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "description_cn": "Kronos：金融市场语言的基础模型"
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars": "57.3k",
+      "growth": "рҹ”ә2041",
+      "description": "No description available.",
+      "description_cn": ""
     }
   ],
-  "updated_at": "2026-06-07T23:09:51.118596"
+  "updated_at": "2026-06-08T04:21:36.744689"
 }
