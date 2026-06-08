@@ -16,7 +16,7 @@
       "stars": "30.4k",
       "growth": "🔺1760",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": "3",
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-06-08T04:21:36.744689"
+  "updated_at": "2026-06-08T11:03:43.635129"
 }
