@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "pewdiepie-archdaemon/odysseus",
       "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "stars": "58.2k",
-      "growth": "🔺3177",
+      "stars": "63.4k",
+      "growth": "🔺5203",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -13,82 +13,82 @@
       "rank": "2",
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "stars": "30.4k",
-      "growth": "🔺1760",
+      "stars": "34.1k",
+      "growth": "🔺3658",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": "3",
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "stars": "15.6k",
-      "growth": "🔺1310",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": "4",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "35.1k",
-      "growth": "🔺1300",
+      "stars": "38.3k",
+      "growth": "🔺3203",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": "5",
-      "name": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "stars": "41.2k",
-      "growth": "🔺1140",
-      "description": "We write your reusable computer vision tools. 💜",
-      "description_cn": "我们为您编写可重复使用的计算机视觉工具。 💜"
+      "rank": "4",
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars": "18.5k",
+      "growth": "🔺2890",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
-      "rank": "6",
+      "rank": "5",
       "name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": "93.4k",
-      "growth": "🔺788",
+      "stars": "95.1k",
+      "growth": "🔺1755",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "7",
+      "rank": "6",
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "22.2k",
-      "growth": "🔺716",
+      "stars": "23.9k",
+      "growth": "🔺1738",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": "8",
+      "rank": "7",
       "name": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "53.5k",
-      "growth": "🔺675",
+      "stars": "55.1k",
+      "growth": "🔺1648",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+    },
+    {
+      "rank": "8",
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars": "8.6k",
+      "growth": "🔺1585",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "description_cn": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     },
     {
       "rank": "9",
       "name": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
-      "stars": "26.5k",
-      "growth": "🔺664",
+      "stars": "27.9k",
+      "growth": "🔺1374",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "description_cn": "Notebook LM 的开源实现，具有更多灵活性和功能"
     },
     {
       "rank": "10",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "81.1k",
-      "growth": "🔺660",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "36.2k",
+      "growth": "🔺1084",
+      "description": "The design language that makes your AI harness better at design.",
+      "description_cn": "使您的 AI 线束在设计上更加出色的设计语言。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-06-08T23:13:51.898299"
+  "updated_at": "2026-06-09T03:53:01.574297"
 }
