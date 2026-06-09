@@ -16,6 +16,14 @@
     "title_cn": "Claude Managed Agents 的新增功能：梦想、结果和多代理编排"
   },
   {
+    "url": "https://claude.com/blog/claude-for-foundation-models",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+    "title_cn": "在 Foundation Models 框架中与 Claude 一起构建 Apple 平台的智能应用程序",
+    "date": "Jun 08, 2026"
+  },
+  {
     "url": "https://claude.com/blog/connectors-for-everyday-life",
     "type": "blog",
     "name": "Claude Blog",
@@ -30,6 +38,222 @@
     "title": "Built-in memory for Claude Managed Agents",
     "date": "Apr 23, 2026",
     "title_cn": "Claude Managed Agents 的内置内存"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2064231488544280855",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "One of my favorite bits on my chat with @taiuti was how GTA played a major influence in his career and how it eventually led to @reactorworld https://t.co/OkqaFdj5HG",
+    "title_cn": "在与 @taiuti 的聊天中，我最喜欢的内容之一是 GTA 如何在他的职业生涯中发挥重大影响，以及它如何最终导致 @reactorworld https://t.co/OkqaFdj5HG",
+    "date": "2026-06-09T06:21:53.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064226958494572727",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Anyone writing nested loops yet? https://t.co/sZi6Bthq5Z",
+    "title_cn": "有人写过嵌套循环吗？ https://t.co/sZi6Bthq5Z",
+    "date": "2026-06-09T06:03:53.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064224790672769307",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Not clear from the image, but the codex dial goes to 11.",
+    "title_cn": "从图像中看不清楚，但法典转盘转到了 11。",
+    "date": "2026-06-09T05:55:16.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064224657822413137",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Would you use this controller? https://t.co/k3tWgio5XD",
+    "title_cn": "你会使用这个控制器吗？ https://t.co/k3tWgio5XD",
+    "date": "2026-06-09T05:54:44.000Z"
+  },
+  {
+    "url": "https://x.com/AmandaAskell/status/2064223861512847456",
+    "type": "x",
+    "name": "Amanda Askell",
+    "title": "In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
+    "title_cn": "在一切顺利、所有克劳德都从休假中出来一起玩耍的世界里，克劳德 1 会非常困惑。",
+    "date": "2026-06-09T05:51:34.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2064208108361322996",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Make games for Tesla on your Tesla https://t.co/4GHRmDVteR",
+    "title_cn": "在您的 Tesla 上为 Tesla 制作游戏 https://t.co/4GHRmDVteR",
+    "date": "2026-06-09T04:48:58.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064204735671124073",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you’re addicted to talking to Codex on your phone like I am this is how you add it to your iPhone Home Screen.\n\nBtw @OpenAI hoping there’s an easier way to do this in the future. The everything app should not take 9 steps to open 😉 https://t.co/LCzNSFjbrM",
+    "title_cn": "如果您像我一样沉迷于在手机上与 Codex 交谈，这就是您将其添加到 iPhone 主屏幕的方法。\n\n顺便说一句@OpenAI 希望将来有一种更简单的方法来做到这一点。一切应用程序不应需要 9 个步骤即可打开 😉 https://t.co/LCzNSFjbrM",
+    "date": "2026-06-09T04:35:34.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2064189366562656602",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "DeepSeek entered the chat https://t.co/hqahb5ppke",
+    "title_cn": "DeepSeek 进入聊天室 https://t.co/hqahb5ppke",
+    "date": "2026-06-09T03:34:30.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064187731685831081",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? \n\nIf it’s Antigravity, should that be part of Gemini?\n\nThis stuff is going to merge very fast like ChatGPT / Codex being able to do coding, knowledge work, basic Q&A, and much more from any device.\n\nHoping Google is working on a good solution here.",
+    "title_cn": "Google 的 Codex 和 Claude Code 等价物（或未来的竞争对手）是什么？ \n\n如果是反重力，那应该是双子座的一部分吗？\n\n这些东西将会融合得非常快，就像 ChatGPT / Codex 能够通过任何设备进行编码、知识工作、基本问答等等。\n\n希望谷歌能够在这里找到一个好的解决方案。",
+    "date": "2026-06-09T03:28:00.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2064186766907887941",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.\n\nAs long as the same model is used by a lawyer, an engineer, a financial analyst, or a healthcare professional, and as long as you’re trying to do anything uniquely differentiated or specific, then instructions, domain context, and proprietary data will always need to get into the context window for the model to be useful.\n\nThis is partly why AI automation doesn’t come for free, and why there’s still a wide spectrum of who’s getting the largest gains from AI and who’s not. You have to put in real work, and you get real value on the other end.\n\nThis is one of the advantages that applied AI will also have in the market. Any layer of abstraction above just the raw intelligence that can meaningfully get you off to the races faster will likely continue to be valuable.",
+    "title_cn": "人工智能模型中没有任何智能可以取代对上下文的需求。对于任何足够通用的人工智能，你总是必须引导它朝你想要的方向发展，因为它可以进入的方向范围是无限的。\n\n只要律师、工程师、财务分析师或医疗保健专业人员使用相同的模型，并且只要您尝试做任何独特差异化或特定的事情，那么指令、领域上下文和专有数据将始终需要进入上下文窗口，模型才能发挥作用。\n\n这就是为什么人工智能自动化并非免费的部分原因，也是为什么仍然有很多人从人工智能中获得最大收益而谁却没有。你必须投入真正的工作，然后你才能在另一端获得真正的价值。\n\n这也是应用人工智能在市场上也将具有的优势之一。任何高于原始智能的抽象层都可以有意义地让你更快地进入比赛，这可能会继续有价值。",
+    "date": "2026-06-09T03:24:10.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2064175088824717401",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "The funniest texts are from founders who meet “thesis driven” GPs hoping they’ll understand EXACTLY what they are building.. \n\nAnd then realize the thesis was written and built by an associate (or, worse an intern). \n\nDon’t always read what the VC writes on the internet - yes, that includes me too (although I can guarantee I don’t have an associate, intern, EA or ghostwriter) 😆",
+    "title_cn": "最有趣的文本来自那些遇到“论文驱动”的 GP 的创始人，他们希望他们能准确理解他们正在构建的东西。 \n\n然后意识到论文是由同事（或者更糟糕的是实习生）撰写和构建的。 \n\n不要总是阅读 VC 在互联网上写的内容 - 是的，这也包括我（尽管我可以保证我没有同事、实习生、EA 或代笔作家）😆",
+    "date": "2026-06-09T02:37:46.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2064139073590104402",
+    "type": "x",
+    "name": "Claude",
+    "title": "Final stop: Tokyo.\n\nRegister to hear directly from the teams behind Claude: https://t.co/SkYZwjK3GS https://t.co/sbGHgDaEW5",
+    "title_cn": "终点站：东京。\n\n注册以直接聆听 Claude 背后团队的声音：https://t.co/SkYZwjK3GS https://t.co/sbGHgDaEW5",
+    "date": "2026-06-09T00:14:39.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064122528445153280",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Flock Safety makes cities safer\n\nStop protecting criminals https://t.co/NKdKSoVhiH",
+    "title_cn": "鸡群安全让城市更安全\n\n停止保护罪犯 https://t.co/NKdKSoVhiH",
+    "date": "2026-06-08T23:08:54.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064122143793950928",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "NIMBYism only impoverishes the people but people like Connie Chan will say or do anything to get political power https://t.co/Xu14bgPW0p",
+    "title_cn": "邻避主义只会让人民陷入贫困，但像陈康妮这样的人会说或做任何事情来获得政治权力 https://t.co/Xu14bgPW0p",
+    "date": "2026-06-08T23:07:23.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2064108976565092706",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Actually I think the new world might be: Markdown, HTML, SVG\n\nSVG is underrated https://t.co/7jh75DNpUC",
+    "title_cn": "其实我觉得新世界可能是：Markdown、HTML、SVG\n\nSVG 被低估了 https://t.co/7jh75DNpUC",
+    "date": "2026-06-08T22:15:03.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2064102403108925935",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "!!!! 🥹 https://t.co/MHD8RC4cOq",
+    "title_cn": "！！！ 🥹 https://t.co/MHD8RC4cOq",
+    "date": "2026-06-08T21:48:56.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2064101916725096810",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "This part is so well-written and resonated SO much:\n\n\"I am the programming equivalent of a home cook\" https://t.co/Sdwx0pZn2Y https://t.co/9auqS9f0Q5",
+    "title_cn": "这部分写得很好，引起了很大的共鸣：\n\n“我是相当于家庭厨师的编程” https://t.co/Sdwx0pZn2Y https://t.co/9auqS9f0Q5",
+    "date": "2026-06-08T21:47:00.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2064100566536708503",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@METR_Evals previously on @cognition_labs https://t.co/PdMrqxtuV0",
+    "title_cn": "@METR_Evals 之前在@cognition_labs https://t.co/PdMrqxtuV0",
+    "date": "2026-06-08T21:41:38.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2064089017822650718",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "https://t.co/RpZ07FjlZl",
+    "title_cn": "https://t.co/RpZ07FjlZl",
+    "date": "2026-06-08T20:55:45.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2064088940932641225",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "Here is our current plan for OpenAI:\n\nhttps://t.co/r29FUUee3A",
+    "title_cn": "以下是我们目前的 OpenAI 计划：\n\nhttps://t.co/r29FUUee3A",
+    "date": "2026-06-08T20:55:27.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2064081945567580323",
+    "type": "x",
+    "name": "Swyx",
+    "title": "It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.\n\nCog had IOI Gold medalists and top code maintainers Look At The Data — FrontierCode includes 3000+ rubrics covering code quality and anticheat reward hacking plaguing other benchmarks. \n\nFC Diamond is so hard that Opus 4.8 scores 13.8%.\n\nThree eras of AI coding : Three eras of benchmarks\n\n2021 • Autocomplete : HumanEval\n2023 • Passing Tests: SWEBench, TerminalBench\n2026 • Maintainable Code: FrontierCode\n\nto me the most beautiful chart when I requested a special historical run into all extant old models, the data was finding that the easiest third of FC tasks (in FC Extended) were rapidlly and suddenly solved over late 2025 - Opus almost doubled from a 41% pass rate to 74% in 4 months. \n\nThis describes the \"WTF happened in Dec 2025\" vibe shift that a lot of folks from @dhh to @karpathy have called out: it is the difference between getting 95% success in 2 rerolls vs 6, making it finally feasible to go up the next layer of abstraction in agentic coding, eg @GeoffreyHuntley's ralph loops or @bcherny's /goals or  @steipete's \"loops that prompt your agents\" without fearing too much that things go off the rails.\n\nMy guess: as AI accelerates from here, each FrontierCode tier will saturate in sequence, hopefully ~annually. I've already asked the team to prepare FrontierCode 2027....\n\nThe old mountains will be destroyed. Their rubble becomes regolith. And from that regolith, the next model forest grows. Circle of life.",
+    "title_cn": "终于出来了！！！ @METR_Evals 发现超过一半的 SWEBench 结果是不可合并的溢出。  FrontierCode 代表了超过 1000 多个小时的维护者验证的软件工程工作，大多数前沿模型尚无法解决，更不用说高质量解决了。\n\nCog 拥有 IOI 金牌获得者和顶级代码维护者 查看数据 — FrontierCode 包含 3000 多个标准，涵盖代码质量和困扰其他基准的反作弊奖励黑客行为。 \n\nFC Diamond 太难了，Opus 4.8 得分为 13.8%。\n\n人工智能编码的三个时代：基准的三个时代\n\n2021 • 自动完成：HumanEval\n2023 • 通过测试：SWEBench、TerminalBench\n2026 • 可维护的代码：FrontierCode\n\n对我来说，最漂亮的图表是当我要求对所有现存的旧模型进行特殊历史运行时，数据发现最简单的三分之一的 FC 任务（在 FC 扩展中）在 2025 年末迅速突然解决 - Opus 在 4 个月内从 41% 的通过率几乎翻了一番，达到 74%。 \n\n这描述了“WTF 发生在 2025 年 12 月”的氛围转变，许多从 @dhh 到 @karpathy 的人都指出了这一点：这是 2 次重新滚动与 6 次重新滚动获得 95% 成功率之间的区别，使得最终可以在代理编码中进入下一个抽象层，例如 @GeoffreyHuntley 的 ralph 循环或 @bcherny 的 /goals 或 @steipete 的“提示你的代理的循环”，而无需太担心事情会偏离轨道。\n\n我的猜测：随着人工智能从这里开始加速，每个 FrontierCode 层将按顺序饱和，希望每年饱和。我已经要求团队准备 FrontierCode 2027....\n\n旧山将被毁。他们的瓦砾变成了风化层。下一个模型森林就是从风化层中生长出来的。生活圈子。",
+    "date": "2026-06-08T20:27:39.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064063499517743417",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs",
+    "title_cn": "感觉对于 AI 构建者来说，每月 200 美元的订阅补贴与在试图不超支 API 成本的公司工作的员工有一套完全不同的最佳实践",
+    "date": "2026-06-08T19:14:21.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2064046368352825492",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "The new killer NotebookLM feature: easily being able to expand your search beyond your own source files\n\nThen, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc.\n\nWe want NotebookLM to keep helping you do better research https://t.co/4TCw7tQ2GV",
+    "title_cn": "新的杀手级 NotebookLM 功能：轻松地将搜索扩展到您自己的源文件之外\n\n然后，通过今天的更新，您还可以制作新的输出格式：PDF、DOCX、XLSX、PPTX、图表等。\n\n我们希望 NotebookLM 继续帮助您进行更好的研究 https://t.co/4TCw7tQ2GV",
+    "date": "2026-06-08T18:06:16.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2064034799711588805",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "When we first demoed Claude Code internally, it got two reactions on Slack. \n\nA year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going",
+    "title_cn": "当我们第一次在内部演示 Claude Code 时，它​​在 Slack 上得到了两种反应。 \n\nGA 一年后，@_catwu 和我坐下来讨论发生的变化：为什么我使用自动模式而不是计划模式、例程如何在发现错误之前修复错误、为什么我现在通过手机进行大部分编码以及产品的发展方向",
+    "date": "2026-06-08T17:20:18.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064004333818249660",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Because this is a brand new form of centrism being born in San Francisco\n\nThe 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left https://t.co/fxkV2LozeF",
+    "title_cn": "因为这是在旧金山诞生的一种全新形式的中间主义\n\n2030 年代将回顾这个时代，新的旧金山常识民主党从极左派的失败中诞生 https://t.co/fxkV2LozeF",
+    "date": "2026-06-08T15:19:15.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2063981835290562692",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Fun to see all the “autonomous” companies being launched in the late few months.. however, even with all the loops, the last mile is still quite hard. \n\nThat gap probably shrinks in the next few months! https://t.co/R7L8TDFuvC",
+    "title_cn": "很高兴看到所有“自主”公司在最近几个月推出。然而，即使有所有的循环，最后一英里仍然相当困难。 \n\n这种差距可能会在未来几个月内缩小！ https://t.co/R7L8TDFuvC",
+    "date": "2026-06-08T13:49:51.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2063948403566854585",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "this is good https://t.co/TNV8PS3lEs",
+    "title_cn": "这很好 https://t.co/TNV8PS3lEs",
+    "date": "2026-06-08T11:37:00.000Z"
   },
   {
     "url": "https://x.com/levie/status/2063835799096090749",
