@@ -40,6 +40,310 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/zarazhangrui/status/2064587398529606082",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "The barrier for non-technical people using coding agents was never the interface. Chatting is the easiest UI ever invented\n\nThe barrier is that they don't know what to ask for.\n\nThe blank chat box assumes you already know what's possible. Most people don't.\n\nWhen I tried Town, I was impressed by its onboarding process where the agent proactively suggested workflows & things it can take off my plate, rather than waiting for me to give instructions",
+    "title_cn": "对于非技术人员使用编码代理来说，障碍从来都不是界面。聊天是有史以来最简单的用户界面\n\n障碍在于他们不知道要要求什么。\n\n空白聊天框假定您已经知道可能发生的情况。大多数人都没有。\n\n当我尝试 Town 时，它的入职流程给我留下了深刻的印象，代理主动建议工作流程和可以帮我解决的事情，而不是等待我给出指示",
+    "date": "2026-06-10T05:56:08.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064577126385459265",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "The browser use is really slowing Fable down for me https://t.co/xa1ijT3KMG",
+    "title_cn": "对我来说，浏览器的使用确实减慢了《神鬼寓言》的速度 https://t.co/xa1ijT3KMG",
+    "date": "2026-06-10T05:15:19.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064573857911152710",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Fable 5 is the biggest model energy I've ever seen",
+    "title_cn": "《神鬼寓言5》是我见过的最大的模型能量",
+    "date": "2026-06-10T05:02:20.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064572276180484475",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "I would like to claim my 1% of royalty fees. https://t.co/TkizkUmfZ8",
+    "title_cn": "我想索取 1% 的特许权使用费。 https://t.co/TkizkUmfZ8",
+    "date": "2026-06-10T04:56:03.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2064569513023328268",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "This is a critical post to read if you’re building an applied AI company right now.\n\n“An application earns its place in the untrainable corner by doing unglamorous work: arranging a company's private reality so a model can act on it, handing the model the tools to act, working with the customer to change the reality of its workforce. A company that brings the translation is tough to copy – and the translation never ends. Integration and maintenance run as long as the relationship does, won by teams that put domain-specialized engineers and tools next to the customer.”\n\nThere’s still an insanely large gulf between model capabilities and what it takes to apply them to specific corporate workflows. Some of that is technology that needs to be built, a lot is access to (and formatting of) the right data to work with, and a ton more is on the change management and specific implementation work (FDEs, etc.) it takes to make AI work in any specific corporate setting. \n\n2 things can be very true at once: frontier models and labs will continue to grow an incredible amount, and there will be a vast ecosystem of software and services companies that emerge to bring the power of these models to real enterprises. This makes room for new infrastructure provides, applied AI companies in every vertical, new versions of system integrators, and more players.\n\nIncredibly exciting time on all fronts.",
+    "title_cn": "如果您现在正在建立一家应用人工智能公司，那么这是一篇值得阅读的重要文章。\n\n“应用程序通过做一些乏味的工作而在不可培训的角落赢得一席之地：安排公司的私人现实，以便模型可以对其采取行动，为模型提供行动的工具，与客户合作改变其员工的现实。提供翻译的公司很难复制——而且翻译永远不会结束。只要关系存在，集成和维护就会持续下去，由将领域专业工程师和工具放在客户身边的团队赢得胜利。”\n\n模型功能与将其应用到特定企业工作流程所需的能力之间仍然存在巨大的鸿沟。其中一些是需要构建的技术，很多是访问（和格式化）要使用的正确数据，还有更多是关于使人工智能在任何特定的企业环境中发挥作用所需的变更管理和具体实施工作（FDE 等）。 \n\n有两件事可能同时成为现实：前沿模型和实验室将继续以惊人的数量增长，并且将出现一个庞大的软件和服务公司生态系统，将这些模型的力量带给真正的企业。这为新的基础设施提供者、各个垂直领域的应用人工智能公司、新版本的系统集成商和更多参与者腾出了空间。\n\n各方面都令人难以置信的激动人心的时刻。",
+    "date": "2026-06-10T04:45:04.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064563041166090672",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "wtf does \"big model smell\" mean",
+    "title_cn": "wtf “大模特的味道”是什么意思",
+    "date": "2026-06-10T04:19:21.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064559225859416186",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Just trying to work on fixing GStack and running into this with Fable 5 *long sigh* https://t.co/5t6oabHOnR",
+    "title_cn": "只是试图修复 GStack 并在《神鬼寓言 5》中遇到这个*长叹* https://t.co/5t6oabHOnR",
+    "date": "2026-06-10T04:04:11.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2064551967461114111",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Vercel CLI now allows you to:\n◾ create AI Gateway API keys\n◾ pass a --𝚋𝚞𝚍𝚐𝚎𝚝 to cap their spend\n◾ set a --𝚛𝚎𝚏𝚛𝚎𝚜𝚑-𝚙𝚎𝚛𝚒𝚘𝚍 for the quota\n\nThink of it as virtual credit cards for AI tokens 🤖💳 https://t.co/ZOuhwIp7h5 https://t.co/mvIsJkaBfR",
+    "title_cn": "Vercel CLI 现在允许您：\n◾ 创建AI网关API密钥\n◾ 通过 --𝚋𝚞𝚍𝚐𝚎𝚝 来限制他们的支出\n◾ 设置配额--𝚛𝚎𝚏𝚛𝚎𝚜𝚑-𝚙𝚎𝚛𝚒𝚘𝚍\n\n将其视为 AI 代币的虚拟信用卡🤖💳 https://t.co/ZOuhwIp7h5 https://t.co/mvIsJkaBfR",
+    "date": "2026-06-10T03:35:21.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2064550073594446059",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Btw this is the prompt I used:\n\nBuild F-Zero: futuristic anti-gravity racer with pseudo-3D track (raycasting or mode-7 style scaling), 3 AI opponents, boost meter that drains health, speed 400-800 km/h with visible sense of speed via track warping and scrolling ground pattern, arrow keys to steer, shift to boost, 3 laps on a looping track with checkpoints. \n\nStyle it neon cyberpunk (dark sky, glowing track edges, chromatic aberration on boost), show HUD with position/lap/speed/health, and make the ship bank into turns. Prioritize feel over realism - the speed sensation is the whole game.",
+    "title_cn": "顺便说一句，这是我使用的提示：\n\n构建 F-Zero：具有伪 3D 赛道（光线投射或模式 7 风格缩放）的未来反重力赛车，3 个 AI 对手，消耗生命值的助推计，速度 400-800 公里/小时，通过赛道扭曲和滚动地面图案可见速度感，方向键转向，换档加速，在带有检查点的循环赛道上跑 3 圈。 \n\n设计出霓虹赛博朋克风格（黑暗的天空、发光的轨道边缘、加速时的色差），在 HUD 上显示位置/圈数/速度/生命值，并使船舶转弯。优先考虑感觉而不是真实感 - 速度感是整个游戏的全部。",
+    "date": "2026-06-10T03:27:49.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2064521202622960058",
+    "type": "x",
+    "name": "Thariq",
+    "title": "at Code w/ Claude Tokyo! say hi if you see me around https://t.co/BXfvEJVvrf",
+    "title_cn": "与 Claude Tokyo 一起参加 Code！如果你在附近看到我，请打个招呼 https://t.co/BXfvEJVvrf",
+    "date": "2026-06-10T01:33:06.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2064519190061666393",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "I eat Aaron Peskin's hate for breakfast. Guys, we're winning. It feels good. \n\nAaron Peskin is no public servant. He was all along just a grifter trying to protect his views at the expense of the people.\n\nWe are the real people powered movement of San Francisco. https://t.co/nTuUasuCvU",
+    "title_cn": "我把亚伦·佩斯金的讨厌早餐当作早餐。伙计们，我们赢了。感觉很好。 \n\n亚伦·佩斯金不是公务员。他一直只是一个骗子，试图以牺牲人民为代价来保护自己的观点。\n\n我们是旧金山真正以人民为动力的运动。 https://t.co/nTuUasuCvU",
+    "date": "2026-06-10T01:25:06.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2064509357216428171",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "The demand for software is going to be off the charts https://t.co/cw1ojEhxq1",
+    "title_cn": "对软件的需求将超出预期 https://t.co/cw1ojEhxq1",
+    "date": "2026-06-10T00:46:02.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2064508462034501997",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "For the prompt, in Claude app with research mode on - I dumped the transcript for the episode, have it research all the scurves in history, figure out all the sections and give me a Claude code prompt that I could one shot.\n\nHere’s the website: https://t.co/zPGOiwmiXG",
+    "title_cn": "对于提示，在打开研究模式的克劳德应用程序中 - 我转储了该集的文字记录，让它研究历史上所有的scurves，找出所有部分，并给我一个克劳德代码提示，我可以一次拍摄。\n\n这是网站：https://t.co/zPGOiwmiXG",
+    "date": "2026-06-10T00:42:28.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2064506504888373758",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "I was listening to the latest episode of @InvestLikeBest and it talked a lot about S-curves..\n\nSo I had Fable one shot a website that talked about all the S-curves, their inflection point &amp; commentary on each being a bubble in the last 200 years.\n\nLive now on escurves dot com 🌊 https://t.co/jYMCkJde9x",
+    "title_cn": "我正在听 @InvestLikeBest 的最新一集，它谈论了很多关于 S 曲线的内容。\n\n所以我让《神鬼寓言》拍摄了一个网站，讨论所有的 S 曲线、它们的拐点和曲线。对过去200年里每一次泡沫的评论。\n\n现在在 escurves dot com 上直播 🌊 https://t.co/jYMCkJde9x",
+    "date": "2026-06-10T00:34:42.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2064492823781789969",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per use\n\nbe prepared to be in abject horror that you shipped anything to prod without a Fable Check™ first https://t.co/wPCWRO84xV",
+    "title_cn": "顺便说一句，在神鬼寓言 rn 上告诉克劳德代码“检查我的代码是否存在问题”时，阿尔法数量惊人，而它不是按使用付费的\n\n准备好在没有先进行 Fable Check™ 的情况下将任何东西发送到产品时感到极度恐惧 https://t.co/wPCWRO84xV",
+    "date": "2026-06-09T23:40:20.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2064486120386379950",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I will be doing a virtual talk this Friday on my vibe coding process. \n\nAs a non-technical person who has somehow managed to get 30k stars on GitHub, I will be sharing the behind-the-scenes of how I get product ideas, how I work with coding agents, how to design stuff that's not AI slop, and why I think code is a medium for storytelling. \n\nRSVP here https://t.co/4wxpJjrAAB (Use the code PREMIUMPASS under \"Add a coupon\" to access the event for free)\n\n(Thanks to @sariazout and the @wwwsublimeapp  community for hosting)",
+    "title_cn": "本周五我将就我的氛围编码过程进行虚拟演讲。 \n\n作为一个在 GitHub 上获得 3 万颗星的非技术人员，我将分享我如何获得产品创意、如何与编码代理合作、如何设计非 AI 垃圾的东西，以及为什么我认为代码是讲故事的媒介的幕后故事。 \n\n请在此回复 https://t.co/4wxpJjrAAB（使用“添加优惠券”下的代码 PREMIUMPASS 免费参加活动）\n\n（感谢 @sariazout 和 @wwwsublimeapp 社区的托管）",
+    "date": "2026-06-09T23:13:42.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2064469227499929651",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Enjoy! https://t.co/X38ItA7vpj",
+    "title_cn": "享受！ https://t.co/X38ItA7vpj",
+    "date": "2026-06-09T22:06:34.000Z"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2064467657483829441",
+    "type": "x",
+    "name": "Alex Albert",
+    "title": "We've reset usage limits across our products! \n\nFor those just starting to test Fable, here's four tips for using it more effectively:\n1. Give it bigger, more ambitious tasks than what previous models could handle.\n2. Use xhigh/high effort as your default for best performance, med for faster interactive sessions.\n3. Rework your skills and CLAUDE.mds. Instructions written for prior models anchor Fable to stale patterns, let it use its own judgment first.\n4. Move from providing tasks to providing objectives. Describe what done looks like and how to verify it, then let Fable find the path (/loop and /goal are built for this)",
+    "title_cn": "我们重置了产品的使用限制！ \n\n对于那些刚刚开始测试《神鬼寓言》的人来说，这里有四个更有效地使用它的技巧：\n1. 赋予它比以前的模型能够处理的更大、更雄心勃勃的任务。\n2. 使用 xhigh/higheffort 作为默认值以获得最佳性能，med 以获得更快的交互会话。\n3. 修改你的技能和 CLAUDE.mds。为先前模型编写的指令将 Fable 锚定到过时的模式，让它首先使用自己的判断。\n4. 从提供任务转向提供目标。描述完成的内容以及如何验证它，然后让 Fable 找到路径（/loop 和 /goal 为此构建）",
+    "date": "2026-06-09T22:00:20.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2064437561930682672",
+    "type": "x",
+    "name": "Thariq",
+    "title": "Fable is a step-change in models, and I hope it changes how you work with Claude. \n\nMore to come in a series of posts on how it’s reshaped our work, but the TLDR: it’s time to be more ambitious. https://t.co/bWoxbTBShh",
+    "title_cn": "《神鬼寓言》是模型的一次重大变革，我希望它能改变你与克劳德的合作方式。 \n\n我们将在一系列帖子中介绍如何重塑我们的工作，但总而言之：是时候更加雄心勃勃了。 https://t.co/bWoxbTBShh",
+    "date": "2026-06-09T20:00:44.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2064431111154053187",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstalled my IDE when I realized that I’d been doing 100% of my coding in a terminal for a few weeks. With Fable, it’s felt like Claude has stepped up from being a coding agent to a thought and design partner in building the product. Fable has judgement, taste, and dimensionality in a way that previous models didn’t, leading me to trust it more with the most complex work.\n\nI think the first time I had this realization was when I asked Fable to debug something. It is the first model I have used that was so methodical and precise, taking measurements and adding logs then verifying that it truly fixed the issue before declaring victory.\n\nThere’s nothing in claude code’s prompting telling the model to do that, it’s just part of its personality. It really has this “big model smell” that I haven’t felt before.",
+    "title_cn": "自 11 月份推出 Opus 4.5 以来，《神鬼寓言 5》是我在模型中感受到的最大进步。 4.5 发布后，当我意识到几周以来我 100% 的编码都是在终端中完成时，我卸载了 IDE。在《神鬼寓言》中，克劳德感觉自己已经从一名编码代理晋升为构建产品的思想和设计合作伙伴。 《神鬼寓言》具有以前的模型所没有的判断力、品味和维度，这让我在最复杂的作品上更加信任它。\n\n我想我第一次意识到这一点是当我要求 Fable 调试一些东西时。这是我使用的第一个如此有条理和精确的模型，进行测量并添加日志，然后在宣布胜利之前验证它是否真正解决了问题。\n\n克劳德代码中没有任何提示告诉模型这样做，这只是其个性的一部分。真是有种我从未感受过的“大模味”。",
+    "date": "2026-06-09T19:35:06.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2064426115255730578",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "We talk a lot about how important it is to set up self-verification loops. Especially in the age of powerful models that can run for long periods of time, self-verification is a key ingredient that enables the model to run for much longer, delivering a result that is closer to what you intended, so you can do more without having to constantly check in on Claude as it works.\n\n@delba_oliveira gives a great breakdown of what that looks like and why it matters",
+    "title_cn": "我们经常谈论建立自我验证循环的重要性。尤其是在可以长时间运行的强大模型时代，自我验证是使模型能够运行更长时间、提供更接近您预期结果的关键要素，因此您可以做更多事情，而无需不断检查 Claude 的工作情况。\n\n@delba_oliveira 详细介绍了它的外观及其重要性",
+    "date": "2026-06-09T19:15:15.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2064421542503797186",
+    "type": "x",
+    "name": "Swyx",
+    "title": "for those keeping track at home it was 34 days between signing this deal and launching Mythos-class model GA to the world.\n\nhttps://t.co/J1dZDZcxMu\n\nbuilding on @nvidia stack means you can just do things™.",
+    "title_cn": "对于那些在国内关注的人来说，从签署协议到向全球推出 Mythos 级车型 GA 只用了 34 天。\n\nhttps://t.co/J1dZDZcxMu\n\n在 @nvidia 堆栈上构建意味着您可以做事™。",
+    "date": "2026-06-09T18:57:05.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2064419055726215438",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Opus wrote us a VM and then Mythos verified it https://t.co/oOJlo6aSLI",
+    "title_cn": "Opus 给我们写了一个虚拟机，然后 Mythos 验证了它 https://t.co/oOJlo6aSLI",
+    "date": "2026-06-09T18:47:12.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2064415059003248694",
+    "type": "x",
+    "name": "Swyx",
+    "title": "more charts of other tiers where its less stark \n\nincluding the vibe shift chart from https://t.co/Ht1G2fials here https://t.co/wkvnoEmsCK",
+    "title_cn": "更多其他级别的图表，其中不那么明显 \n\n包括来自 https://t.co/Ht1G2fials 的氛围转换图表 https://t.co/wkvnoEmsCK",
+    "date": "2026-06-09T18:31:19.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2064411791015432466",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Try Claude Mythos at 25% off on Replit. https://t.co/Lq68eRydYI",
+    "title_cn": "在 Replit 上试试 Claude Mythos，享受 25% 的折扣。 https://t.co/Lq68eRydYI",
+    "date": "2026-06-09T18:18:20.000Z"
+  },
+  {
+    "url": "https://x.com/karpathy/status/2064409694761054332",
+    "type": "x",
+    "name": "Andrej Karpathy",
+    "title": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
+    "title_cn": "这是一个超级令人兴奋的版本 - Claude Fable 5 与 Mythos 具有相同的底层模型，但增加了保护措施。基准测试很棒，而且在所有方面都处于 SOTA 状态，但我还要补充一点，“定性地”，这是一个值得重大版本突破的进步（我认为与 11 月的 Claude 4.5 的顺序相同），尤其是在解决非常困难的问题的长时间问题解决过程中达到顶峰。你可以给它比你习惯的任务更雄心勃勃的任务，模型“明白了”，它就会继续下去，而且从来没有感觉到有这样的诱惑来停止查看代码（但不要在产品中这样做！）。该模型仍然存在人们会遇到的怪癖，并且安全措施的配置有点太不适合启动，希望可以随着时间的推移进行调整。\n\n我觉得随着工作软件越来越多地出现在水龙头上，很多事情都在发生变化。杰文悖论开始出现，我感觉自己对软件的需求大幅增长。您可以要求任何东西 - 解释器、可视化工具、仪表板、定制的一次性应用程序（例如，专门针对您的项目的完整 wandb）、您可以将您的测试套件扩大 10 倍、自动优化代码、使用自定义 HTML 运行大型研究项目以获得结果，等等！ “释放你的思想”（矩阵参考）。真的很期待人们建造的所有东西！",
+    "date": "2026-06-09T18:10:00.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2064398724495737180",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "@every watch on YouTube: https://t.co/SOW9nt2wC7",
+    "title_cn": "@YouTube 上的每一次观看：https://t.co/SOW9nt2wC7",
+    "date": "2026-06-09T17:26:25.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2064396746953023647",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "If you thought AI progress was slowing down, well here's the immediate answer to that. Huge jump in capability across the board. This is going to deliver major improvement in agents across almost all knowledge work categories. https://t.co/3CKQuX5HsG https://t.co/yPR4SfMrxM",
+    "title_cn": "如果您认为人工智能的进步正在放缓，那么这就是对此的直接答案。全面提升能力。这将为几乎所有知识工作类别的代理带来重大改进。 https://t.co/3CKQuX5HsG https://t.co/yPR4SfMrxM",
+    "date": "2026-06-09T17:18:33.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2064395458777108707",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "VIBE CHECK: Claude Fable 5 IS OUT! https://t.co/dGVuRlK7H8",
+    "title_cn": "氛围检查：《克劳德寓言 5》已推出！ https://t.co/dGVuRlK7H8",
+    "date": "2026-06-09T17:13:26.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2064395167658860859",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "FABLE (MYTHOS) is OUT!\n\nwe've been testing for a week @every. here's our vibe check: https://t.co/ZdceXz3apU https://t.co/jZ2690Th1G",
+    "title_cn": "寓言（神话）已经出版了！\n\n我们已经测试了一个星期@every。这是我们的氛围检查：https://t.co/ZdceXz3apU https://t.co/jZ2690Th1G",
+    "date": "2026-06-09T17:12:17.000Z"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2064394410004304003",
+    "type": "x",
+    "name": "Alex Albert",
+    "title": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models:\n- Claude Opus 3\n- Claude Sonnet 3.5\n- Claude Opus 4.5\n\nAnd now Claude Fable 5.\n\nWith Fable, the model stopped feeling like a tool I direct and started feeling more like something I collaborate with.",
+    "title_cn": "我一直在 Anthropic 参与每一个模型的发布。我记得有几个案例的发布非常引人注目，标志着我们使用模型的方式发生了重大变化：\n- 克劳德作品 3\n- 克劳德十四行诗 3.5\n- 克劳德作品 4.5\n\n现在是克劳德寓言5。\n\n有了《神鬼寓言》，模型不再感觉像是我指导的工具，而是开始感觉更像是我合作的东西。",
+    "date": "2026-06-09T17:09:16.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2064394160522559632",
+    "type": "x",
+    "name": "Claude",
+    "title": "Claude Fable 5 is available everywhere today. Claude Mythos 5 is restricted to Glasswing partners until we expand our trusted access program.\n\nhttps://t.co/iQymY0jiGq",
+    "title_cn": "《克劳德寓言 5》如今随处可见。在我们扩展我们的可信访问计划之前，Claude Mythos 5 仅限于 Glasswing 合作伙伴。\n\nhttps://t.co/iQymY0jiGq",
+    "date": "2026-06-09T17:08:17.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2064394159318782217",
+    "type": "x",
+    "name": "Claude",
+    "title": "Soon, we intend to expand access to Mythos 5 through a broader trusted access program, both for defensive cybersecurity work and biomedical research.",
+    "title_cn": "很快，我们打算通过更广泛的可信访问计划来扩大对 Mythos 5 的访问，既用于防御性网络安全工作，也用于生物医学研究。",
+    "date": "2026-06-09T17:08:16.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2064394158056386684",
+    "type": "x",
+    "name": "Claude",
+    "title": "For a small group of cyber defenders and critical infrastructure providers, we are also launching Claude Mythos 5.\n\nMythos 5 shares the same underlying model as Fable 5, but with the safeguards lifted in some areas.",
+    "title_cn": "对于一小部分网络防御者和关键基础设施提供商，我们还推出了 Claude Mythos 5。\n\n《神话 5》与《神鬼寓言 5》具有相同的基础模型，但在某些方面取消了保障措施。",
+    "date": "2026-06-09T17:08:16.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2064391655453802773",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "As an investor, these are the moments that remind you why you fund startups to do important things. https://t.co/AK1rHnp2nG",
+    "title_cn": "作为投资者，这些时刻会提醒您为什么要资助初创公司来做重要的事情。 https://t.co/AK1rHnp2nG",
+    "date": "2026-06-09T16:58:19.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2064379199629181139",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Great post. So much about model performance is a function of how much compute you’re doing at inference time. This means compute-normalized benchmarks is the only logical path forward. \n\nAnd yet, the challenge is it’s a lot harder than it seems given it’s subjective how much compute to apply, which means models behave differently at different thresholds (simplistically, model X’s min thinking may beat model Y’s min thinking, but be reversed at high), and there are a near infinite set of thresholds you could choose to set. \n\nBut either way, moving more in this direction would be great for better understanding AI progress.",
+    "title_cn": "很棒的帖子。模型性能在很大程度上取决于您在推理时执行的计算量。这意味着计算标准化基准是唯一合乎逻辑的前进道路。 \n\n然而，挑战在于，考虑到要应用多少计算量是主观的，这比看起来要困难得多，这意味着模型在不同阈值下的表现不同（简单地说，模型 X 的最小思维可能会击败模型 Y 的最小思维，但在高值时会相反），并且您可以选择设置一组近乎无限的阈值。 \n\n但无论哪种方式，朝这个方向发展都将有助于更好地理解人工智能的进展。",
+    "date": "2026-06-09T16:08:50.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064308436133716008",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Do you use codex /goal occasionally or as your main way to get things done?",
+    "title_cn": "您偶尔使用 codex /goal 还是将其作为完成工作的主要方式？",
+    "date": "2026-06-09T11:27:38.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2064307859903447396",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Playing codex like an orchestra. One /goal at a time. https://t.co/vlpypZu20A",
+    "title_cn": "像管弦乐队一样演奏手抄本。一次一个/目标。 https://t.co/vlpypZu20A",
+    "date": "2026-06-09T11:25:21.000Z"
+  },
+  {
     "url": "https://x.com/nikunj/status/2064231488544280855",
     "type": "x",
     "name": "Nikunj Kothari",
