@@ -2,19 +2,19 @@
   "daily": [
     {
       "rank": "1",
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "stars": "34.9k",
-      "growth": "🔺2939",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "description_cn": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars": "26k",
+      "growth": "🔺1529",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "2",
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": "56.6k",
-      "growth": "🔺2279",
+      "stars": "58.1k",
+      "growth": "🔺1508",
       "description": "Production-grade engineering skills for AI coding agents.",
       "description_cn": "AI 编码代理的生产级工程技能。"
     },
@@ -22,73 +22,73 @@
       "rank": "3",
       "name": "XiaomiMiMo/MiMo-Code",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-      "stars": "6.5k",
-      "growth": "🔺2104",
+      "stars": "7.9k",
+      "growth": "🔺1307",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "stars": "24.4k",
-      "growth": "🔺1446",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "stars": "36.1k",
+      "growth": "🔺1269",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "description_cn": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
     },
     {
       "rank": "5",
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "stars": "69.2k",
-      "growth": "🔺998",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "stars": "4.3k",
+      "growth": "🔺955",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description_cn": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
     },
     {
       "rank": "6",
-      "name": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "stars": "99.3k",
-      "growth": "🔺873",
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": "41.1k",
+      "growth": "🔺870",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+    },
+    {
+      "rank": "7",
+      "name": "pewdiepie-archdaemon/odysseus",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "stars": "70k",
+      "growth": "🔺801",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "7",
+      "rank": "8",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "42.3k",
-      "growth": "🔺795",
+      "stars": "43k",
+      "growth": "🔺713",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
-    },
-    {
-      "rank": "8",
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "58.1k",
-      "growth": "🔺779",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": "9",
       "name": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
-      "stars": "16.9k",
-      "growth": "🔺763",
+      "stars": "17.6k",
+      "growth": "🔺695",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "description_cn": "PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。"
     },
     {
       "rank": "10",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "48.2k",
-      "growth": "🔺751",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "stars": "3.1k",
+      "growth": "🔺674",
+      "description": "---",
+      "description_cn": null
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-06-13T23:09:27.023270"
+  "updated_at": "2026-06-14T04:25:40.448930"
 }
