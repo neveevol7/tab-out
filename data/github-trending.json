@@ -25,7 +25,7 @@
       "stars": "29.9k",
       "growth": "🔺1214",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "4",
@@ -108,7 +108,7 @@
       "stars": "26k",
       "growth": "🔺10310",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "3",
@@ -273,5 +273,5 @@
       "description_cn": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     }
   ],
-  "updated_at": "2026-06-17T04:26:47.530120"
+  "updated_at": "2026-06-17T11:04:13.273901"
 }
