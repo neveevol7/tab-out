@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "23.7k",
-      "growth": "🔺8690",
+      "stars": "30.8k",
+      "growth": "🔺7164",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "31.9k",
-      "growth": "🔺1989",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars": "31.2k",
+      "growth": "🔺1334",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "3",
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "stars": "29.9k",
-      "growth": "🔺1214",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "stars": "62.7k",
+      "growth": "🔺1250",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
     },
     {
       "rank": "4",
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "61.4k",
-      "growth": "🔺1080",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "33k",
+      "growth": "🔺1131",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": "5",
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": "61.1k",
-      "growth": "🔺910",
+      "stars": "62.1k",
+      "growth": "🔺1031",
       "description": "Production-grade engineering skills for AI coding agents.",
       "description_cn": "AI 编码代理的生产级工程技能。"
     },
     {
       "rank": "6",
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "stars": "21.8k",
+      "growth": "🔺799",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "description_cn": "TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。"
+    },
+    {
+      "rank": "7",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "45.2k",
-      "growth": "🔺758",
+      "stars": "45.9k",
+      "growth": "🔺723",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
-      "rank": "7",
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "stars": "6.9k",
-      "growth": "🔺741",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "description_cn": "AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。"
+      "rank": "8",
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "stars": "51k",
+      "growth": "🔺705",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description_cn": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
     },
     {
-      "rank": "8",
-      "name": "pewdiepie-archdaemon/odysseus",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "stars": "72.4k",
-      "growth": "🔺734",
+      "rank": "9",
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "stars": "3.4k",
+      "growth": "🔺690",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "9",
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "stars": "33.6k",
-      "growth": "🔺686",
-      "description": "Learn it. Build it. Ship it for others.",
-      "description_cn": "学习它。建造它。寄给别人。"
-    },
-    {
       "rank": "10",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "50.3k",
-      "growth": "🔺656",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": "89.3k",
+      "growth": "🔺547",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
     }
   ],
   "weekly": [
@@ -108,7 +108,7 @@
       "stars": "26k",
       "growth": "🔺10310",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "3",
@@ -273,5 +273,5 @@
       "description_cn": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     }
   ],
-  "updated_at": "2026-06-17T22:03:36.130918"
+  "updated_at": "2026-06-18T04:20:02.125356"
 }
