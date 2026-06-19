@@ -25,7 +25,7 @@
       "stars": "6.8k",
       "growth": "🔺1785",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "description_cn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens.单个静态二进制文件，零依赖性。"
+      "description_cn": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
       "rank": "4",
@@ -88,7 +88,7 @@
       "stars": "5.8k",
       "growth": "🔺604",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。"
     }
   ],
-  "updated_at": "2026-06-19T18:01:15.309764"
+  "updated_at": "2026-06-19T21:12:32.872960"
 }
