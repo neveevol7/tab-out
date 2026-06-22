@@ -48,6 +48,222 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/steipete/status/2068965200343224367",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "This is becoming my favorite way to read Twitter. https://t.co/eykEElxzu7 https://t.co/m5qM5PP3rA",
+    "title_cn": "这正在成为我最喜欢的阅读 Twitter 的方式。 https://t.co/eykEElxzu7 https://t.co/m5qM5PP3rA",
+    "date": "2026-06-22T07:51:57.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2068964055235321954",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I’m talking about context, not prompt",
+    "title_cn": "我说的是上下文，而不是提示",
+    "date": "2026-06-22T07:47:24.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2068961217524490739",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "People here discussing what happened with OpenClaw.\n\nThe hype died down. We improved quality and grew a team. We created a non-profit whereas competiors are VC funded and have other agendas.\n\nThis is our strongest week so far. https://t.co/j6uwRneNvh",
+    "title_cn": "这里的人们正在讨论 OpenClaw 发生的事情。\n\n炒作逐渐平息。我们提高了质量并发展了团队。我们创建了一个非营利组织，而竞争对手则由风险投资资助并有其他议程。\n\n这是迄今为止我们表现最强劲的一周。 https://t.co/j6uwRneNvh",
+    "date": "2026-06-22T07:36:08.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2068960117253632160",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "I was skeptical about the multi-model routing. Seems my hinch was right. https://t.co/oVUUqBYRyy",
+    "title_cn": "我对多模型路由持怀疑态度。看来我的预感是对的。 https://t.co/oVUUqBYRyy",
+    "date": "2026-06-22T07:31:46.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2068924451887129055",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high\n\nmy real estate broker: \"just go with corgi they are covering every single one of my clients rn\"\n\nbreaking through with ~100% greenfield market share like this is unheard of in the insurance industry",
+    "title_cn": "顺便说一句，我一直在为我们正在建立的新媒体实验室（基本上是 swyx 公司的创意游乐场）寻找保险公司，是的，柯基犬的 NPS 非常高\n\n我的房地产经纪人：“就和柯基犬一起去吧，他们涵盖了我的每一位客户”\n\n以约 100% 的新建市场份额实现突破，这在保险行业是闻所未闻的",
+    "date": "2026-06-22T05:10:02.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2068924375341179347",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "works with any epub\nsyncs progress with ryOS account\nhttps://t.co/99stn8QuPH",
+    "title_cn": "适用于任何 epub\n与 ryOS 帐户同步进度\nhttps://t.co/99stn8QuPH",
+    "date": "2026-06-22T05:09:44.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2068923971136098633",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "missing wooden shelves\nso i made Books in ryOS\n\nstarted in Cursor mobile, then hand-tuned the animations and textures until things felt right https://t.co/f2yFZ2N1CQ",
+    "title_cn": "缺少木架子\n所以我在 ryOS 中制作了书籍\n\n从 Cursor mobile 开始，然后手动调整动画和纹理，直到感觉正确为止 https://t.co/f2yFZ2N1CQ",
+    "date": "2026-06-22T05:08:08.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2068923768500793603",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "A good rule of thumb for preventing AI slop (in writing, design, etc):\n\nIs your input (the context) longer than the output? \n\nI've found that for the AI to produce quality results, my input is often 3-5 times the length of the output.\n\nIf your input is much shorter than the output, it's almost certainly going to produce slop",
+    "title_cn": "防止人工智能失误（在写作、设计等方面）的一个好的经验法则是：\n\n您的输入（上下文）比输出长吗？ \n\n我发现，为了让人工智能产生高质量的结果，我的输入通常是输出长度的 3-5 倍。\n\n如果你的输入比输出短得多，几乎肯定会产生溢出",
+    "date": "2026-06-22T05:07:19.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2068917230570795178",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Another new idea to push the state of AI architectures forward. Sakana released a model that effectively uses a mixture of models to get work done. You get a single API but then the work gets farmed out the model that best performs the task. \n\n“Fugu manages model selection, delegation, verification, and synthesis automatically. It solves tasks directly when that is enough, or coordinates a team of expert models when a problem calls for more. The complexity of a multi-agent system never reaches your code.”\n\nThis is generally how applied AI products are building their agent harnesses at this point, but the idea of making this an LLM that any developer can interact with is also a great idea. As we get more innovation with both frontier closed and OSS models, there’s going to be a ton of value produced for the layer that can route the best.",
+    "title_cn": "另一个推动人工智能架构向前发展的新想法。 Sakana 发布了一个模型，该模型有效地使用混合模型来完成工作。您获得一个 API，但随后工作会被外包给最能执行任务的模型。 \n\n“Fugu 自动管理模型选择、委托、验证和综合。当足够时，它会直接解决任务，或者当问题需要更多时协调专家模型团队。多智能体系统的复杂性永远不会达到您的代码。”\n\n这通常是应用人工智能产品目前构建其代理工具的方式，但将其设为任何开发人员都可以与之交互的法学硕士的想法也是一个好主意。随着我们在边界封闭和 OSS 模型方面获得更多创新，将为能够路由最佳路径的层产生大量价值。",
+    "date": "2026-06-22T04:41:21.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2068874249167884544",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "It’s funny, growing up as an immigrant I developed a scarcity mindset around saving money and resources.\n\nBut when it comes to unlimited token plans and tokenmaxxing, it feels like a missed opportunity if I don’t burn as many tokens as possible and hit the limit each time.\n\nHow do I address this disconnect? 🥹",
+    "title_cn": "有趣的是，作为一名移民，我在成长过程中形成了一种关于节省金钱和资源的稀缺心态。\n\n但当谈到无限的代币计划和代币最大化时，如果我不燃烧尽可能多的代币并每次都达到限制，那感觉就像是错失了机会。\n\n我该如何解决这种脱节问题？ 🥹",
+    "date": "2026-06-22T01:50:33.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2068868744206799270",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@QuinnyPig i think this is where i challenge @willccbb to his first poaster session. or maybe @willdepue. or @WilliamBryk. idk all the wills?",
+    "title_cn": "@QuinnyPig 我认为这是我向@willccbb 挑战他的第一次海报会议的地方。或者@willdepue。或@WilliamBryk。我不知道所有的意愿吗？",
+    "date": "2026-06-22T01:28:40.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2068868568348070344",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@QuinnyPig https://t.co/6639ddlPvc",
+    "title_cn": "@QuinnyPig https://t.co/6639ddlPvc",
+    "date": "2026-06-22T01:27:59.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2068854663534031124",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Check out my friend Kevin's awesome tool @ferrymanio to post from your favorite social platform and have that cross post to 7+ platforms at once. https://t.co/3uLlQUeTFk",
+    "title_cn": "查看我的朋友 Kevin 的出色工具 @ferrymanio，从您最喜欢的社交平台上发帖，并同时将其交叉发布到 7 个以上平台。 https://t.co/3uLlQUeTFk",
+    "date": "2026-06-22T00:32:43.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2068851573175021864",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Agents will use software 100X more than people. \n\nWhen that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.\n\nA simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless that the usage and value go up substantially. Agents will end up using our CRM data, documents and corporate knowledge, analytics data, and other information far more than people ever did.\n\nThe platforms that can move toward the model of powering these headless interactions, and have a business model and technology strategy to support this, will be in the best position in the future.",
+    "title_cn": "代理使用软件的次数比人多 100 倍。 \n\n当这种情况发生时，就非常需要对特工正在做的事情进行防护，这样他们就不会泄露数据或更改错误信息，需要有权威的事实来源供他们使用，记录和审计他们正在做的事情，通过这些系统与人们协作的能力等等。\n\n对任何给定代理任务的简单查询可能会获取比用户一个月内接触的数据还要多的数据。因此，有很多类别的软件在实现无头后，其使用率和价值都会大幅上升。代理商最终将比人们更多地使用我们的 CRM 数据、文档和公司知识、分析数据和其他信息。\n\n能够走向支持这些无头交互的模式，并拥有支持这一模式的商业模式和技术战略的平台，将在未来处于最佳位置。",
+    "date": "2026-06-22T00:20:27.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2068838709517336756",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The team cooked on https://t.co/A1yfEM3p7O performance. 'Everything the light touches' was optimized Simba. Painting, layout, WebGPU shaders, blocking scripts. Every frame scrutinized. The best part is that we'll be updating our https://t.co/pYz1Gn9F9b with the lessons learned! https://t.co/NkxvURcNbq",
+    "title_cn": "该团队对 https://t.co/A1yfEM3p7O 的性能进行了烹饪。辛巴优化了“光所触及的一切”。绘画、布局、WebGPU 着色器、阻塞脚本。每一帧都经过仔细检查。最好的部分是我们将更新我们的 https://t.co/pYz1Gn9F9b 并吸取经验教训！ https://t.co/NkxvURcNbq",
+    "date": "2026-06-21T23:29:20.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2068792061265121316",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "https://t.co/pBWhE53c4A",
+    "title_cn": "https://t.co/pBWhE53c4A",
+    "date": "2026-06-21T20:23:58.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2068792010715324444",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Now that you can bank usage resets in Codex. Are you a hoarder or do you use them without breaking a sweat? How do you think about them?",
+    "title_cn": "现在您可以在 Codex 中重置银行使用情况。您是囤积者还是毫不费力地使用它们？你觉得他们怎么样？",
+    "date": "2026-06-21T20:23:46.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2068778750800531640",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "“Quality is irrational” is a great way to describe it. You have to have an irrational level of commitment to constantly choose quality and an irrational level of self-belief that controlling things top to bottom will yield better results than using common frameworks. https://t.co/NPtm8c7sid",
+    "title_cn": "“质量是非理性的”是一个很好的描述方式。你必须有一种非理性的承诺，不断地选择质量，并且有一种非理性的自信，认为从上到下控制事物会比使用通用框架产生更好的结果。 https://t.co/NPtm8c7sid",
+    "date": "2026-06-21T19:31:04.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2068778558672273422",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.",
+    "title_cn": "如果你允许的话，编码剂会榨干你身上的每一盎司宜家效应。",
+    "date": "2026-06-21T19:30:19.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2068755908319236338",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Why HTML turned out to be the foundation for agentic video making from @liu8in:\n\n“We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence.\n\nSo that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.\n\nFootage, images, assets, SVGs can all sit on top of HTML.\"\n\n📌 As an example, see how you can make a product video from any website URL here: https://t.co/Q2p8XzCfc6",
+    "title_cn": "@liu8in 为何 HTML 成为代理视频制作的基础：\n\n“我们一直在尝试构建一个视频代理。然而，我们惨痛地认识到代理没有视觉智能。\n\n这就是我们转向代码的时候。 HTML 是法学硕士的母语。 LLM 不仅可以表达信息，还可以通过 HTML、CSS 和 JavaScript 表达视觉美感。\n\n素材、图像、资产、SVG 都可以位于 HTML 之上。”\n\n📌 作为示例，请参阅如何从此处的任何网站 URL 制作产品视频：https://t.co/Q2p8XzCfc6",
+    "date": "2026-06-21T18:00:18.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2068740575130689554",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "How your email finds me today.. \n\nHappy Father’s Day to all the families celebrating today 🕺 https://t.co/ltYZwS2toM",
+    "title_cn": "今天你的电子邮件如何找到我.. \n\n祝所有今天庆祝的家庭父亲节快乐 🕺 https://t.co/ltYZwS2toM",
+    "date": "2026-06-21T16:59:23.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2068736857312198928",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "What should we improve in the Codex app. What's not delightful?",
+    "title_cn": "我们应该在 Codex 应用程序中改进哪些方面。有什么不令人愉快的呢？",
+    "date": "2026-06-21T16:44:36.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2068732939559727468",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Happy Father's Day. Thankful to my dad who spent every last penny on buying our family 'the bicycle of the mind' https://t.co/y4xvwtYPjr",
+    "title_cn": "父亲节快乐。感谢我的父亲花了每一分钱为我们家购买了“心灵自行车”https://t.co/y4xvwtYPjr",
+    "date": "2026-06-21T16:29:02.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2068714024934740476",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Happens every week 🙈\n\n&gt; see an interesting project on X\n&gt; play with it, fork it, try it, have some ideas\n&gt; go to founder profile\n&gt; press the message button \n\n…\n\n&gt; pray to God that I haven’t missed a DM from them before 😢\n\nI try to respond to all the DMs but miss sometimes!!",
+    "title_cn": "每周都会发生🙈\n\n>在 X 上看到一个有趣的项目\n>玩弄它，分叉它，尝试它，有一些想法\n>转到创始人简介\n>按消息按钮 \n\n……\n\n>向上帝祈祷我之前没有错过他们的 DM 😢\n\n我尝试回复所有的私信，但有时会错过！！",
+    "date": "2026-06-21T15:13:53.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2068701357696323769",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "This is why I made GBrain and open sourced it\n\nhttps://t.co/yFpFU4pn5b",
+    "title_cn": "这就是我制作 GBrain 并将其开源的原因\n\nhttps://t.co/yFpFU4pn5b",
+    "date": "2026-06-21T14:23:32.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2068701356358308112",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI\n\nAGI gives you the intelligence\n\nYou still have to collect your personal context to get the real unlock",
+    "title_cn": "我认为，当我们回顾过去时，有一件被低估的事情是，在 2026 年可用 AGI 出现之初，拥有自己的个人大脑和公司大脑是多么有用\n\nAGI 给你智慧\n\n您仍然需要收集您的个人背景才能获得真正的解锁",
+    "date": "2026-06-21T14:23:32.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2068668365623710018",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "@Outlook @gmail No that’s not going to solve the problem to any significant degree. We are talking about default behavior.\n\nhttps://t.co/zbZtXMJVkR",
+    "title_cn": "@Outlook @gmail 不，这不会在任何程度上解决问题。我们正在讨论默认行为。\n\nhttps://t.co/zbZtXMJVkR",
+    "date": "2026-06-21T12:12:27.000Z"
+  },
+  {
     "url": "https://x.com/amasad/status/2068589860097790449",
     "type": "x",
     "name": "Amjad Masad",
