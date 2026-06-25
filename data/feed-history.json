@@ -48,6 +48,238 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2070010718288843204",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "At times our internal Slack is at least as fun as twitter.",
+    "title_cn": "有时我们内部的 Slack 至少和 Twitter 一样有趣。",
+    "date": "2026-06-25T05:06:28.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2070001110866354345",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "AI will bring forth an unprecedented surge in entrepreneurship.\n\nFrom 'solopreneurs,' to the revitalization of the small &amp; medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all.",
+    "title_cn": "人工智能将带来前所未有的创业浪潮。\n\n从“个体企业家”到小企业的振兴中型业务领域，到我们这个时代最大的公司的出现……为这一切奠定了基础。",
+    "date": "2026-06-25T04:28:18.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2069996867627393467",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Is Widow's Bay worth watching, I'm not great with jump scares.",
+    "title_cn": "寡妇湾值得一看吗，我不太喜欢跳跃恐惧。",
+    "date": "2026-06-25T04:11:26.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2069992268963135897",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Claude Design is pretty great. \n\nI gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.\n\nExcept after one prompt it's telling me to save tokens already 😅 https://t.co/k6hQ53zmFN",
+    "title_cn": "克劳德的设计非常棒。 \n\n我为我正在构建的移动应用程序提供了一个存储库，它完美地再现了屏幕。\n\n除了一个提示后，它告诉我已经保存令牌了😅 https://t.co/k6hQ53zmFN",
+    "date": "2026-06-25T03:53:10.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2069975251476422664",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way.\n\nWe’ve already seen some agentic coding systems start to adopt this pattern (as well as OpenClaw and Hermes), and doing it for general purpose knowledge work continues to push the idea forward.\n\nAs a result, what this means is that this agentic coworker needs its own set of resources, access to tools, and data to work with. This is not the same as you giving it access to your personal resources and tools, because the agent then could accidentally then share those out with anyone. \n\nThe agent needs to instead be like any other user in the system, and you need to be thoughtful about what it should have access to, and make sure its information that is safe to share with that group.\n\nWhen you can pull that off, it’s quite powerful. For instance, by connecting to Claude Tag to Box, you could have Claude access corporate sales materials for questions in sales conversations or generating RFPs, brand guidelines and marketing assets for campaign creation, product roadmap materials and product documentation for coding agents to use, contracts that anyone in the legal team can access, and more.\n\nBut this is just the Box example. You can equally have it access your product or customer analytics data, CRM information, codebase, and other resources and agents that would make sense to work on in a collective manner. \n\nIt’s awesome to see continued innovation in what the future of work may begin to look like with agents.",
+    "title_cn": "这次发布有一些微妙之处，在实践中非常重要。这不仅仅是您通过 Slack 以 1:1 的形式与 Claude 互动。在这种情况下，Claude 充当任何用户都可以通过共享方式访问的同事。\n\n我们已经看到一些代理编码系统开始采用这种模式（以及 OpenClaw 和 Hermes），并且将其用于通用知识工作继续推动这一想法的发展。\n\n因此，这意味着这位代理同事需要自己的一组资源、工具和数据来工作。这与您授予其访问您的个人资源和工具的权限不同，因为代理可能会意外地与任何人共享这些资源和工具。 \n\n相反，代理需要像系统中的任何其他用户一样，并且您需要考虑它应该有权访问什么，并确保其信息可以安全地与该组共享。\n\n当你能做到这一点时，它就非常强大了。例如，通过连接到 Claude Tag to Box，您可以让 Claude 访问公司销售材料以解决销售对话中的问题或生成 RFP、用于活动创建的品牌指南和营销资产、供编码代理使用的产品路线图材料和产品文档、法律团队中的任何人都可以访问的合同等等。\n\n但这只是 Box 的例子。您同样可以让它访问您的产品或客户分析数据、CRM 信息、代码库以及其他以集体方式工作有意义的资源和代理。 \n\n很高兴看到客服人员的未来工作方式不断创新。",
+    "date": "2026-06-25T02:45:32.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2069964772003770673",
+    "type": "x",
+    "name": "Swyx",
+    "title": "lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and researcher- focused talks:\n\n- AI generated svgs > AI generated imgs. MAXIMUM 4 ai slop images in your slides, I don't care how pretty your mom thinks they are (exception ofc if your talk is ABOUT imagegen)\n- Be pointy. Better to have 1 message with 5 surprising applications, than 5 messages with no concrete examples.\n- Put code on screen. Engineers like to see code. Especially if they can nitpick it to death over things that aren't the point.\n- Don't forget to Entertain. Being actually funny, or good at telling relevant anecdotes, is more important than adding yet another bullet point.\n- Have a Thesis. every talk gets ONE \"if you remember one thing from this talk, it is this\" card. 1) SO MANY PEOPLE DON'T USE IT. 2) SO MANY PEOPLE DON'T PLAN FOR IT. you get one. use it well?\n- Have a Thesis Slide. you've been in that talk where everyone gets their phone out to take a photo of the slide. Because people see 1000x more images than videos, you are much more likely to have a viral talk/slide if you have a single viral slide. You are much more likely to have a viral slide if you TRY and most people do not TRY. Struggling? Collect examples from talks you like and adapt their format to your thing. Your slides have a power law - don't spend 5% of your time each on 20 slides, spend 80% of your time on 1 slide and have the rest build up to that 1 slide.\n- You might not need slides. live demo in IDE, off the cuff rambles, pull audience member up to roleplay, do call and response with the audience, sing/perform, voice over vibe videos, I have seen it all. higher risk/effort, higher reward when done well.\n- Be pleasant to listen to. Talks with bad/no visuals still can be listened to. Talks with bad audio are DOA. Be confident, project, remember vocal variation, evoke emotion.\n- Design the emotional journey. Start strong, end strong, have a peak aha/laugh/thesis moment in the middle. Everything else is buildup.\n- Data driven talks are underrated. Present pretty charts and surprising, authoritative numbers. Use the stage authority to infer from the data to support the broader thesis. Done well, it will feel like my obvious conclusion from objectively looking at the data you presented, not you feeding the conclusion to me.\n- How to shill your product/company without feeling salesy: teach me everything I didn't know I should to know about the problems you solve, and then you shall have earned the right to convince me you are the guys to trust to solve it once and for all.\n- Actively watch a lot of talks. like with anything you both need a lot of reps AND you need to explore to find the styles/role models that you shine in. Passive = no introspection after watching, just mindlessly autoplay next video. Active = trying to articulate why a talk was good/bad after watching. If you want to REALLY hone it, think about how you feel about a famous talk and then TRANSCRIBE the talks and read the words on the printed page, and then compare with a \"normal\" talk and define rules you will follow for yourself to improve.\n\nthanks to @dexhorthy for organizing the AIEWF Speaker prep meetup tonight. we should actually do more of these....",
+    "title_cn": "很多人正在准备下周的演讲（恭喜！）。 RLing 对数千小时以工程师和研究人员为重点的演讲的一些想法：\n\n- AI 生成的 svgs > AI 生成的 imgs。你的幻灯片中最多有 4 张 ai slop 图像，我不在乎你妈妈认为它们有多漂亮（如果你的演讲是关于 imagegen 的，ofc 除外）\n- 要有针对性。 1 条消息包含 5 个令人惊奇的应用，比 5 条消息没有具体示例要好。\n- 将代码放在屏幕上。工程师喜欢看代码。尤其是如果他们可以对不重要的事情挑剔得要死。\n- 别忘了娱乐。真正有趣，或者善于讲述相关轶事，比添加另一个要点更重要。\n- 有一篇论文。每个演讲都会得到一张“如果你从这次演讲中记住一件事，那就是这个”卡片。 1）很多人不使用它。 2) 很多人都没有为此做好计划。你得到一个。用得好吗？\n- 有一张论文幻灯片。你参加过那个演讲，每个人都拿出手机给幻灯片拍照。因为人们看到的图像比视频多 1000 倍，所以如果您有一张病毒式幻灯片，您就更有可能进行病毒式演讲/幻灯片。如果你尝试，那么你更有可能获得病毒式传播，而大多数人不会尝试。挣扎吗？从您喜欢的演讲中收集示例，并根据您的情况调整其格式。您的幻灯片遵循幂律 - 不要将 5% 的时间花在 20 张幻灯片上，而应将 80% 的时间花在 1 张幻灯片上，然后将其余时间花在 1 张幻灯片上。\n- 您可能不需要幻灯片。 IDE 中的现场演示、即兴漫步、拉观众进行角色扮演、与观众通话和回应、唱歌/表演、配音氛围视频，我都看过了。更高的风险/努力，做得好的话回报更高。\n- 听起来很愉快。仍然可以听到糟糕/没有视觉效果的谈话。音频质量差的通话属于 DOA。自信、投射、记住声音变化、唤起情感。\n- 设计情感旅程。强势开始，强势结束，中间有一个巅峰的顿悟/大笑/论文时刻。其他一切都是积累。\n- 数据驱动的谈话被低估了。呈现漂亮的图表和令人惊讶的权威数字。使用阶段权威从数据中推断以支持更广泛的论文。做得好的话，感觉就像是我客观地观察你提供的数据得出的明显结论，而不是你向我提供的结论。\n- 如何在不感觉推销的情况下推销你的产品/公司：教我所有我不知道的事情，我应该知道你解决的问题，然后你就有权说服我，你是值得信任的人，可以一劳永逸地解决问题。\n- 积极观看大量演讲。就像任何事情一样，你都需要大量的代表，并且你需要探索才能找到你擅长的风格/角色模型。被动=观看后不反省，只是无意识地自动播放下一个视频。主动 = 观看后试图阐明为什么演讲好/不好。如果你想真正磨练它，想想你对一次著名演讲的感受，然后抄写演讲并阅读打印页上的文字，然后与“正常”演讲进行比较，并定义你自己要遵循的改进规则。\n\n感谢 @dexhorthy 组织今晚的 AIEWF 演讲者准备聚会。我们实际上应该做更多这样的事情......",
+    "date": "2026-06-25T02:03:54.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2069956505580003458",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I'll be publishing the interview on my YouTube.\n\nSubscribe here to get it in a few weeks: https://t.co/MbOfeFUJbn",
+    "title_cn": "我将在我的 YouTube 上发布采访内容。\n\n在这里订阅，几周后即可获得：https://t.co/MbOfeFUJbn",
+    "date": "2026-06-25T01:31:03.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2069951925202903176",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "The best founders post on X https://t.co/9R3glKnPuM",
+    "title_cn": "X 上最好的创始人帖子 https://t.co/9R3glKnPuM",
+    "date": "2026-06-25T01:12:51.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2069937175899275475",
+    "type": "x",
+    "name": "Swyx",
+    "title": "we are going to have to Rebuild So. Much. Infra. for the age of Software Factories https://t.co/OHfQjOhiwJ",
+    "title_cn": "我们将不得不重建所以。很多。基础设施。软件工厂时代 https://t.co/OHfQjOhiwJ",
+    "date": "2026-06-25T00:14:14.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2069934356899246083",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public office.\n\nJackie Fielder should resign. https://t.co/12qcV4Lhka",
+    "title_cn": "旧金山市律师 David Chiu 表示，向记者发送机密法律摘要是被免职的理由。\n\n杰基·菲尔德应该辞职。 https://t.co/12qcV4Lhka",
+    "date": "2026-06-25T00:03:02.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2069925697741881633",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Excited to host a World Cup viewing party in SF next week with our friends at @Replit x @trincapital!\n\nJoin us ⚽️🍾\n\nhttps://t.co/lcxTnHzKap",
+    "title_cn": "很高兴下周与@Replit x @trincapital 的朋友们在旧金山举办世界杯观看派对！\n\n加入我们吧⚽️🍾\n\nhttps://t.co/lcxTnHzKap",
+    "date": "2026-06-24T23:28:38.000Z"
+  },
+  {
+    "url": "https://x.com/AmandaAskell/status/2069925173999083974",
+    "type": "x",
+    "name": "Amanda Askell",
+    "title": "update 2: nooo",
+    "title_cn": "更新2：不",
+    "date": "2026-06-24T23:26:33.000Z"
+  },
+  {
+    "url": "https://x.com/AmandaAskell/status/2069916038918250755",
+    "type": "x",
+    "name": "Amanda Askell",
+    "title": "update: nooo",
+    "title_cn": "更新： 不",
+    "date": "2026-06-24T22:50:15.000Z"
+  },
+  {
+    "url": "https://x.com/AmandaAskell/status/2069910673921048985",
+    "type": "x",
+    "name": "Amanda Askell",
+    "title": "No more goals plz brazil, thank you.",
+    "title_cn": "巴西队不要再进球了，谢谢。",
+    "date": "2026-06-24T22:28:56.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2069908420384428132",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "The root cause of procrastination is not the lack of time\n\nIt’s the lack of courage",
+    "title_cn": "拖延的根本原因不是缺乏时间\n\n这是缺乏勇气",
+    "date": "2026-06-24T22:19:59.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2069900496304042343",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "“Community is your users’ relationships with you and with each other, and most teams never think to design it\n\nCommunity is the new moat\n\nFeatures get copied. Belonging can’t”\n\n- from @figma Config session today",
+    "title_cn": "“社区是用户与你以及彼此之间的关系，大多数团队从未想过要设计它\n\n社区是新的护城河\n\n功能被复制。归属感不能”\n\n- 来自@figma 今天的配置会议",
+    "date": "2026-06-24T21:48:29.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2069864073202905501",
+    "type": "x",
+    "name": "Swyx",
+    "title": "LOTS of alpha in this pod:\n\n- Why Databricks beat Snowflake (! a straight answer!)\n- Why everyone is building a metaharness now\n- Why the @neondatabase made so much sense (so much @nikitabase glazing its not even funny)\n- How LTAP solves the HTAP dream I discussed with @ankrgyl in our @braintrust pod\n- What happened to @MosaicML + DBRX\n- How to maintain research/startup culture in a $175B megacorp\n- What's more important knowledge/experience in the race to the agent cloud: databases, operating systems, or.... networking!\n\nvery honored to be invited to @Data_AI_Summit to interview two of the top people in our industry and somehow be able to jam on everything from the @bennstancil modern data stack theme to @alighodsi's amazing keynote aura",
+    "title_cn": "这个 Pod 中有很多 alpha：\n\n- 为什么 Databricks 击败 Snowflake（！直接回答！）\n- 为什么现在每个人都在构建元安全带\n- 为什么@neondatabase 如此有意义（这么多@nikitabase 玻璃甚至一点都不好笑）\n- LTAP 如何解决我在 @braintrust pod 中与 @ankrgyl 讨论的 HTAP 梦想\n- @MosaicML + DBRX 发生了什么\n- 如何在 $175B 的巨型企业中维持研究/创业文化\n- 在代理云竞争中，什么更重要的知识/经验：数据库、操作系统，或者……网络！\n\n非常荣幸受邀参加 @Data_AI_Summit 采访我们行业的两位顶尖人士，并以某种方式能够畅所欲言，从 @bennstancil 现代数据堆栈主题到 @alighodsi 令人惊叹的主题演讲光环",
+    "date": "2026-06-24T19:23:45.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2069863762694459805",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Really fast GLM now live https://t.co/fAyuB7XJ3v",
+    "title_cn": "非常快的 GLM 现已上线 https://t.co/fAyuB7XJ3v",
+    "date": "2026-06-24T19:22:31.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2069861190684045792",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "The power of @southpkcommons is that you can get a chance to interact with some of the world's sharpest minds in a very intimate setting. \n\nhttps://t.co/xWaXyqC7Rj",
+    "title_cn": "@southpkcommons 的力量在于，您可以有机会在非常亲密的环境中与世界上一些最敏锐的头脑进行互动。 \n\nhttps://t.co/xWaXyqC7Rj",
+    "date": "2026-06-24T19:12:18.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2069861187479618042",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It is a strange time to be a leader right now. \n\nYou have to be fearless. You have to be optimistic. You have to be empathetic about upcoming changes.\n\nYou have to retain a lot of humility.\n\nI was struck by how well @RamaswmySridhar is navigating this moment at @Snowflake. https://t.co/yRmsnP0R71",
+    "title_cn": "现在成为领导者是一个奇怪的时刻。 \n\n你必须无所畏惧。你必须保持乐观。您必须对即将发生的变化有同理心。\n\n你必须保持谦虚。\n\n我对@RamaswmySridhar 在@Snowflake 的这一刻表现得如此出色感到震惊。 https://t.co/yRmsnP0R71",
+    "date": "2026-06-24T19:12:17.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2069837606574289329",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Spicy https://t.co/mi61Gve4R8",
+    "title_cn": "辣 https://t.co/mi61Gve4R8",
+    "date": "2026-06-24T17:38:35.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2069830172354986418",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "use cursor in notion\nuse notion in cursor https://t.co/3q36oyzwu0",
+    "title_cn": "在概念中使用光标\n在光标中使用概念 https://t.co/3q36oyzwu0",
+    "date": "2026-06-24T17:09:03.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2069827839826809042",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We are honored to share that Project Genie has won the Cannes Lions Grand Prix for AI Craft! 🏆 To our awesome Labs community, thank you for being on this journey with us! https://t.co/FN5nx19g68",
+    "title_cn": "我们很荣幸地与大家分享，Project Genie 荣获戛纳国际创意节 AI Craft 大奖！ 🏆 对于我们出色的实验室社区，感谢您与我们一起踏上这段旅程！ https://t.co/FN5nx19g68",
+    "date": "2026-06-24T16:59:47.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2069819652365242765",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The data of tokens and uptime recovered by @vercel AI Gateway is truly astonishing https://t.co/kKzZWtdELa",
+    "title_cn": "@vercel AI Gateway 恢复的代币和正常运行时间数据确实令人震惊 https://t.co/kKzZWtdELa",
+    "date": "2026-06-24T16:27:15.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2069817246671851686",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "A space economy doesn't just need rockets and space guns.\n\nIt needs ways to communicate as efficiently as we do on the ground.\n\nVery excited about the work Qosmic is doing. https://t.co/klxp02nieA",
+    "title_cn": "太空经济不仅仅需要火箭和太空枪。\n\n它需要像我们在实地一样有效的沟通方式。\n\n对 Qosmic 所做的工作非常兴奋。 https://t.co/klxp02nieA",
+    "date": "2026-06-24T16:17:41.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2069806049847321020",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens\n\nAsian elders killed\nPublic education dismantled\n\nIf you start counting their bodies and talking about their abdication of duty, the hard left can’t win https://t.co/WZnllDa30D",
+    "title_cn": "我们不会在旧金山做这些垃圾，因为我们看到了这些无情的政客对公民所做的一切\n\n亚裔长老被杀\n公共教育被拆除\n\n如果你开始数他们的尸体并谈论他们的放弃职责，那么极左派就赢不了 https://t.co/WZnllDa30D",
+    "date": "2026-06-24T15:33:12.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2069805585479114806",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "YouTube: https://t.co/O8njShLFWB\n\nSpotify: https://t.co/U3R2F9rSYS",
+    "title_cn": "YouTube：https://t.co/O8njShLFWB\n\nSpotify：https://t.co/U3R2F9rSYS",
+    "date": "2026-06-24T15:31:21.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2069805581263847467",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Are we hurtling toward a future where AI can do everything humans can?\n\nEdwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin a unique perspective on how quickly AI progress is accelerating.\n\nI’m on the record arguing that AI automation actually creates more human work. I also believe that even though AI progress is accelerating exponentially, we’re much farther away from AI replacing humans than it might seem.\n\nThat’s why I had Edwin on @every’s AI & I. We batted around different visions of the future, and discussed whether humanity will retain its unique place in the universe, and what that might be.\n\nWe get into:\n• If Chen’s version of the future materializes, he’s worried it’ll make people stop trying. One answer comes from a short story by science fiction writer Ted Chiang: Behave as if your decisions matter, even when you know they don’t.\n• AI may soon be able to take a nebulous goal like “win a Fields Medal” and execute. What it can’t do, I argue, is set its own goals—LLMs have no intrinsic motivation, no drive to explore, no ability to just change their mind.\n• A model optimized for engagement doesn’t provide the most valuable user experience. Edwin spent 20 rounds polishing a pointless email with one model before Claude told him to just send it.\n• Why AI is still bad at writing: models learn to hack the metrics they're trained on. Edwin's Hemingway Bench found models outputting a metaphor in every single sentence, an overindexxing that makes for a terrible reading experience.\n\nThis is a must-watch for anyone interested in where we fit as models get more capable.\n\nWatch below!\n\nTimestamps\n1. Introduction: 00:00:54\n2. Surge as a \"school for AGI\": 00:01:49\n3. What AI's capacity for novel mathematics says about human achievement: 00:04:46\n4. Motivation in an era when AI can do everything: 00:07:29\n5. The trap of optimizing AI models for engagement: 00:14:34\n6. Training using datasets versus training using environments: 00:29:34\n7. The value of personal data: 00:35:09\n8. Why models are bad at writing: 00:39:40\n9. Chen's AGI timeline: 00:42:00",
+    "title_cn": "我们是否正朝着人工智能可以做人类能做的一切的未来迈进？\n\nEdwin Chen (@echen) 相信我们可能会。他是 Surge AI 的首席执行官，该公司是前沿实验室最大的专家数据提供商之一。 Surge 在没有筹集任何外部资本的情况下就实现了超过 10 亿美元的收入，这让 Edwin 对人工智能进步的加速速度有了独特的视角。\n\n我公开表示，人工智能自动化实际上创造了更多的人类工作。我还相信，尽管人工智能的进步正在呈指数级加速，但我们距离人工智能取代人类的距离比看起来要远得多。\n\n这就是为什么我让埃德温加入@every’s AI & I。我们讨论了对未来的不同愿景，并讨论了人类是否会保留其在宇宙中的独特地位，以及可能是什么。\n\n我们进入：\n• 如果陈的未来版本成为现实，他担心这会让人们停止尝试。一个答案来自科幻小说作家特德·蒋的短篇小说：表现得好像你的决定很重要，即使你知道它们并不重要。\n• 人工智能可能很快就能实现“赢得菲尔兹奖”等模糊目标并执行。我认为，它不能做的是设定自己的目标——法学硕士没有内在动力，没有探索的动力，没有能力改变主意。\n• 针对参与度进行优化的模型并不能提供最有价值的用户体验。埃德温 (Edwin) 花了 20 轮时间与一位模特打磨一封毫无意义的电子邮件，然后克劳德 (Claude) 让他直接发送。\n• 为什么人工智能仍然不擅长写作：模型学会破解它们所训练的指标。埃德温的海明威长凳发现模型在每一个句子中都输出一个隐喻，这种过度索引会带来糟糕的阅读体验。\n\n随着模型变得越来越有能力，对于任何对我们适合的位置感兴趣的人来说，这是必看的。\n\n往下看！\n\n时间戳\n1.简介：00:00:54\n2. Surge 作为“AGI 学校”：00:01:49\n3. 人工智能在新颖数学方面的能力说明了人类的成就：00:04:46\n4.人工智能无所不能时代的动力：00:07:29\n5. 优化 AI 模型参与度的陷阱：00:14:34\n6. 使用数据集进行训练与使用环境进行训练：00:29:34\n7. 个人数据的价值：00:35:09\n8. 为什么模特不擅长写作：00:39:40\n9. Chen的AGI时间表：00:42:00",
+    "date": "2026-06-24T15:31:20.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2069803472996941959",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "The easiest way to figure out what you are TRULY excellent at is to notice what looks like child’s play to you but is very hard for those around you..\n\nThat’s your edge. If you can use that, tenacity and combine it with a large market, then magic follows 🪄",
+    "title_cn": "弄清楚你真正擅长什么的最简单方法就是注意什么对你来说看起来像儿戏，但对你周围的人来说却很难。\n\n这就是你的优势。如果你能利用这一点、坚韧并将其与广阔的市场结合起来，那么魔法就会随之而来🪄",
+    "date": "2026-06-24T15:22:57.000Z"
+  },
+  {
     "url": "https://x.com/swyx/status/2069665232822366577",
     "type": "x",
     "name": "Swyx",
