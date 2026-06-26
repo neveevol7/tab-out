@@ -48,6 +48,246 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/levie/status/2070370225271251161",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "AI regulation is far less simple than it looks. It’s prisoners dilemma at insane scale. \n\nIn theory if all leading AI labs globally agreed to the same process of review and slow down, then we’d get frontier intelligence at similar rates and it diffuses relatively evenly. \n\nIf the US remains at the frontier at all times, and has heavy regulation on the release of intelligence then we end up with an economic and geopolitical edge because we can control who has access to frontier intelligence. \n\nIf we delay model releases, however, and another player - specifically China - doesn’t slow down and has equally strong models (not now but soon?) then our delays end up advantaging their models and eventually their tech stack.\n\nNow, the US could ban these models, but that actually only puts the US at a steeper disadvantage because other countries won’t have those bans. Then, from a relative competitiveness standpoint the US has now fallen behind even though it started in front.\n\nSo, none of this is as simple as it looks. At some point it’s a simple bet of can closed models remain at the frontier in perpetuity or is there a risk of any other player or market catching up or just not falling behind.",
+    "title_cn": "人工智能监管远没有看上去那么简单。这是规模疯狂的囚徒困境。 \n\n理论上，如果全球所有领先的人工智能实验室都同意相同的审查过程并放慢速度，那么我们将以相似的速度获得前沿情报，并且其传播相对均匀。 \n\n如果美国始终处于前沿，并对情报的发布进行严格监管，那么我们最终将获得经济和地缘政治优势，因为我们可以控制谁可以获得前沿情报。 \n\n然而，如果我们推迟模型发布，而另一个参与者——特别是中国——没有放慢速度并拥有同样强大的模型（不是现在，而是很快？），那么我们的延迟最终将有利于他们的模型，最终有利于他们的技术堆栈。\n\n现在，美国可以禁止这些模型，但这实际上只会使美国处于更不利的地位，因为其他国家不会有这些禁令。那么，从相对竞争力的角度来看，美国虽然一开始领先，但现在已经落后了。\n\n所以，这一切并不像看起来那么简单。在某种程度上，这是一个简单的赌注，即封闭模型能否永久保持在前沿，或者是否存在任何其他参与者或市场迎头赶上或只是不落后的风险。",
+    "date": "2026-06-26T04:55:01.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2070368060918407269",
+    "type": "x",
+    "name": "Swyx",
+    "title": "this is too late for AIE worlds fair but heres the how to book talks in the first place\n\nhttps://t.co/qoqQVjA7Gu",
+    "title_cn": "对于 AIE 世界博览会来说已经太晚了，但首先这是如何预订演讲的方法\n\nhttps://t.co/qoqQVjA7Gu",
+    "date": "2026-06-26T04:46:25.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2070355589994336345",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "truth https://t.co/w0v1JLI7f8",
+    "title_cn": "真相 https://t.co/w0v1JLI7f8",
+    "date": "2026-06-26T03:56:52.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2070353698140958818",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I'm planning to go to Japan (again!) in December and this time I asked Codex to use the browser to navigate Google Flights and individual hotel websites, find and save all the prices, give me the direct booking links on the dates that I want + save it all in a doc.  I should just tell it to book everything next.",
+    "title_cn": "我计划在 12 月（再次！）去日本，这次我要求 Codex 使用浏览器导航 Google 航班和各个酒店网站，查找并保存所有价格，为我提供我想要的日期的直接预订链接 + 将其全部保存在文档中。  我应该告诉它接下来预订一切。",
+    "date": "2026-06-26T03:49:21.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2070352201944625405",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "lol this is pretty insane but I'm not surprised\n\nIdentity verification 100% coming to model access https://t.co/3EWlT73eno",
+    "title_cn": "哈哈，这太疯狂了，但我并不感到惊讶\n\n身份验证 100% 进入模型访问 https://t.co/3EWlT73eno",
+    "date": "2026-06-26T03:43:24.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2070349010007646700",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Was truly a transformational decision to hire Russell Crowe as USMNT coach https://t.co/VOXnYG7HzB",
+    "title_cn": "聘请罗素·克劳担任 USMNT 教练确实是一个变革性的决定 https://t.co/VOXnYG7HzB",
+    "date": "2026-06-26T03:30:43.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2070343597111812414",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "It's a fantastic update https://t.co/v0pQfTO9tJ",
+    "title_cn": "这是一个很棒的更新 https://t.co/v0pQfTO9tJ",
+    "date": "2026-06-26T03:09:13.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2070318195190464538",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Feels pretty weird that I can only directly access Codex on mobile through this random iPhone shortcut I made.\n\n(yes I know I can use chatgpt but that takes too many taps) https://t.co/4XZFe5yBKl",
+    "title_cn": "感觉很奇怪，我只能通过我随机创建的 iPhone 快捷方式在移动设备上直接访问 Codex。\n\n（是的，我知道我可以使用 chatgpt，但这需要太多点击）https://t.co/4XZFe5yBKl",
+    "date": "2026-06-26T01:28:17.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2070310706369712272",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. \n\nRealistically, as AI models became more and more powerful this was going to be inevitable (I think it’s too early, but here we are). So now it’s mostly just interesting to think about the implications and scenarios from here. A few would be:\n\n* America gets to control who gets access to frontier intelligence and when. This generally works as long as we remain at the frontier at all times and don’t have a risk of being surpassed. At the moment we have a clear lead in frontier intelligence so this is a good bet, but lots of motivated parties would love to change that.\n\n* This likely creates backlog of AI releases which means that we will see less rapid fire back and forth jumps in model progress. Bull/fine case is that we just get bigger step functions per release at a slower rate and we end up at the same point we would have. Bear case is those incremental smaller jumps were necessary for the continued flywheel of innovation. \n\n* Other countries likely have even more incentive to at least hedge their bets with sovereign AI strategies so aren’t dependent on access to US AI all times. Previously this was relatively moot because the alternative wasn’t good enough, but that could change out of necessity and what we’re seeing in China.\n\n* Open weights obviously a big winner here as it becomes what likely sovereign AI gets built out on, and what (for now) can still be released to the market without the same controls. One interesting question would be how regulation eventually extends to open models, which would have its own set of long term consequences.\n\nAnyway some big updates to everyone’s mental models of AI regulation as a result of the capabilities we’re now seeing in AI. Wild times.",
+    "title_cn": "我们现在有了事实上的人工智能监管。目前尚不清楚为什么从现在开始，具有一定能力水平或在特定计算规模上进行训练的模型在发布前无需经过政府审查。 \n\n实际上，随着人工智能模型变得越来越强大，这将是不可避免的（我认为现在还为时过早，但我们已经到了）。所以现在思考这里的影响和场景很有趣。其中一些是：\n\n* 美国可以控制谁能够在何时获得前沿情报。只要我们始终保持在前沿并且不存在被超越的风险，这种方法通常就有效。目前我们在前沿情报方面拥有明显的领先优势，因此这是一个不错的选择，但许多积极主动的各方都希望改变这一点。\n\n*这可能会造成人工智能版本的积压，这意味着我们将看到模型进展中来回快速跳跃的情况减少。牛/好的情况是，我们只是以较慢的速度在每次发布时获得更大的阶跃函数，并且我们最终会达到我们本来应该拥有的相同点。悲观的情况是，那些增量较小的跳跃对于持续创新的飞轮是必要的。 \n\n* 其他国家可能更有动力至少用主权人工智能战略对冲他们的赌注，因此不会一直依赖于美国人工智能。此前，这相对没有意义，因为替代方案不够好，但出于必要和我们在中国所看到的情况，这种情况可能会改变。\n\n* 开放权重显然是这里的大赢家，因为它可能成为主权人工智能的基础，并且（目前）仍然可以在没有相同控制的情况下向市场发布。一个有趣的问题是监管最终如何扩展到开放模式，这将产生一系列长期后果。\n\n无论如何，由于我们现在在人工智能中看到的功能，每个人的人工智能监管心理模型都会发生一些重大更新。狂野的时代。",
+    "date": "2026-06-26T00:58:31.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2070286643303715034",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@neondatabase @nikitabase @ankrgyl pls find my soundcloud https://t.co/N1apWplUBd",
+    "title_cn": "@neondatabase @nikitabase @ankrgyl 请找到我的 soundcloud https://t.co/N1apWplUBd",
+    "date": "2026-06-25T23:22:54.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2070270074049777942",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw this was 3 years ago lmao\nhttps://t.co/DFLutr4yeN",
+    "title_cn": "顺便说一句，这是 3 年前的事了 lmao\nhttps://t.co/DFLutr4yeN",
+    "date": "2026-06-25T22:17:04.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2070269902322110786",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "How can you not love the World Cup - MetLife loses its mind as Ecuador pulls off the upset #ECUGER https://t.co/eNDdRpazuq",
+    "title_cn": "你怎么能不喜欢世界杯 - 当厄瓜多尔取得令人沮丧的成绩时，大都会人寿失去了理智#ECUGER https://t.co/eNDdRpazuq",
+    "date": "2026-06-25T22:16:23.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2070268106564587840",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "https://t.co/147qcY6XJC",
+    "title_cn": "https://t.co/147qcY6XJC",
+    "date": "2026-06-25T22:09:14.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2070243120546218000",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Next.js \"Ways to fix this\" with \"Copy prompt\" buttons is a work of (agentic) art https://t.co/PXkYglrT1y",
+    "title_cn": "Next.js 使用“复制提示”按钮的“修复此问题的方法”是一件（代理）艺术作品 https://t.co/PXkYglrT1y",
+    "date": "2026-06-25T20:29:57.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2070241572416078161",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "How we imbue coding agents with our design standards https://t.co/WhzzouBi4a",
+    "title_cn": "我们如何向编码代理灌输我们的设计标准 https://t.co/WhzzouBi4a",
+    "date": "2026-06-25T20:23:48.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2070238932621811713",
+    "type": "x",
+    "name": "Thariq",
+    "title": "this video was also edited by Claude :)",
+    "title_cn": "该视频也是由 Claude 编辑的:)",
+    "date": "2026-06-25T20:13:19.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2070238581147455842",
+    "type": "x",
+    "name": "Thariq",
+    "title": "I'll be talking more about Claude Tag with @petergyang and at AIE with @_catwu. \n\nLet me know if there's anything you'd like us to dive into more! https://t.co/VV76M9OO1a",
+    "title_cn": "我将与 @petergyang 以及 AIE 与 @_catwu 详细讨论 Claude Tag。 \n\n如果您希望我们深入探讨任何内容，请告诉我！ https://t.co/VV76M9OO1a",
+    "date": "2026-06-25T20:11:55.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2070215849970119090",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Grok Imagine Video has become the clear leader in @vercel AI Gateway, now amounting to ~50% of videos generated by developers 🤯\n\nhttps://t.co/xqgzenfoVu https://t.co/Bnw3pMIdil",
+    "title_cn": "Grok Imagine Video 已成为 @vercel AI Gateway 的明显领导者，目前约占开发者生成视频的 50% 🤯\n\nhttps://t.co/xqgzenfoVu https://t.co/Bnw3pMIdil",
+    "date": "2026-06-25T18:41:36.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2070205719501254860",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "February 2nd was the release of the Codex App. You can see what it did to adoption outside of engineering.\n\n👀 @ajambrosino",
+    "title_cn": "2 月 2 日是 Codex 应用程序的发布。您可以看到它对工程之外的采用有何影响。\n\n👀@ajambrosino",
+    "date": "2026-06-25T18:01:20.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2070205520552886305",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Codex for everything at OpenAI https://t.co/6mFz5XQiJd https://t.co/dQvCwSYGsp",
+    "title_cn": "OpenAI 的所有内容 Codex https://t.co/6mFz5XQiJd https://t.co/dQvCwSYGsp",
+    "date": "2026-06-25T18:00:33.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2070201854932250949",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "This deep, insightful and often funny conversation with @eastdakota of @Cloudflare is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/6v0jiVItz3",
+    "title_cn": "与 @Cloudflare 的 @eastdakota 进行的这段深入、富有洞察力且常常有趣的对话也可在 Spotify、Apple 播客和 YouTube 上观看：\n\nhttps://t.co/6v0jiVItz3",
+    "date": "2026-06-25T17:45:59.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2070199548694437957",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Major updates to mobile app coming soon! https://t.co/B31NRjITgD",
+    "title_cn": "移动应用程序的重大更新即将推出！ https://t.co/B31NRjITgD",
+    "date": "2026-06-25T17:36:49.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2070188279941738952",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "This is a big misconception \n\nSomehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the same thing\n\nStorytelling (to users/customers, investors, candidates) is arguably the founder’s most important job\n\nBuilding is getting cheaper, attention is getting more expensive",
+    "title_cn": "这是一个很大的误解 \n\n不知何故，人们认为建立受众群体与建立公司是对立的。事实上，它们正在变得越来越一样\n\n讲故事（向用户/客户、投资者、候选人）可以说是创始人最重要的工作\n\n建筑越来越便宜，注意力却越来越贵",
+    "date": "2026-06-25T16:52:02.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2070180027132768592",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Coming to Tartine Manufactory always makes me so happy.. even though I come here practically every week 🪴 https://t.co/uhzjyWGR60",
+    "title_cn": "来到 Tartine Manufactory 总是让我很高兴..尽管我几乎每周都来这里🪴 https://t.co/uhzjyWGR60",
+    "date": "2026-06-25T16:19:15.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2070179913647485344",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It is stupidly hard to start a pure software company right now.\n\nCustomers don't want software, they want outcomes. So you end up having to do a lot of custom work for them. \n\nAnything horizontal is on a ticking clock.\n\nEvery customer wants to deeply customize.\n\nThere are opportunities.\n\nBut you need to have a very heretical 2-3 year view of the world in order to build something good.",
+    "title_cn": "现在创办一家纯软件公司是非常困难的。\n\n客户想要的不是软件，而是结果。所以你最终不得不为他们做很多定制工作。 \n\n任何水平的东西都在滴答作响的时钟上。\n\n每个客户都希望进行深度定制。\n\n有机会。\n\n但你需要对世界有 2-3 年的非常异端的看法才能创造出好的东西。",
+    "date": "2026-06-25T16:18:48.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2070174023678648673",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Legora is the defining legal AI startup https://t.co/jA1iZYyNLM",
+    "title_cn": "Legora 是定义性的合法人工智能初创公司 https://t.co/jA1iZYyNLM",
+    "date": "2026-06-25T15:55:23.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2070165863907668426",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Jarvis-core is the new most powerful launch video meme  https://t.co/QYIsg04Xiq",
+    "title_cn": "Jarvis-core 是新的最强大的发布视频 meme https://t.co/QYIsg04Xiq",
+    "date": "2026-06-25T15:22:58.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2070165335534108948",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Disclosure I am also an investor",
+    "title_cn": "披露 我也是投资者",
+    "date": "2026-06-25T15:20:52.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2070158469173256231",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "One of the smartest people i know, ex-One Medical, ex-Bridgewater founder backed by a16z is building a stealth NYC health-tech company.\n\nHe's doing AI-first medicine with physical clinics\n\nHiring staff+ engineers, physicians who ship product, and a Codex-native Chief of Staff/BizOps lead\n\nYou should email him if you want to work on something like this: every@rungravity.com",
+    "title_cn": "我认识的最聪明的人之一、前 One Medical、前 Bridgewater 创始人在 a16z 的支持下正在建立一家纽约市的隐形健康科技公司。\n\n他正在与实体诊所合作开展人工智能优先医学\n\n招聘员工+工程师、运送产品的医生以及法典本地人参谋长/BizOps 负责人\n\n如果你想做这样的事情，你应该给他发电子邮件：every@rungravity.com",
+    "date": "2026-06-25T14:53:35.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2070101642683543739",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "SF lesson: You need to expose the extremist left in profound ways\n\nThe death of the innocent \nThe breakdown of public safety \nThe downfall of schools\n\nThese are all inevitable in the hands of the inept DSA\n\nIt will be the defining fight for the Dem party https://t.co/1YAP1Y9d6i",
+    "title_cn": "科幻教训：你需要深刻揭露极端左派\n\n无辜者的死亡 \n公共安全崩溃 \n学校的衰落\n\n这些在无能的 DSA 手中都是不可避免的\n\n这将是民主党的决定性斗争 https://t.co/1YAP1Y9d6i",
+    "date": "2026-06-25T11:07:46.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2070010718288843204",
     "type": "x",
     "name": "Thibault Sottiaux",

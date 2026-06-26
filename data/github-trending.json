@@ -198,7 +198,7 @@
       "stars": "45.3k",
       "growth": "🔺2547",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
     },
     {
       "rank": "13",
@@ -273,5 +273,5 @@
       "description_cn": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
     }
   ],
-  "updated_at": "2026-06-26T04:02:48.491769"
+  "updated_at": "2026-06-26T09:33:45.361268"
 }
