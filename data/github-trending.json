@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "stars": "21.8k",
-      "growth": "🔺2950",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": "59.9k",
+      "growth": "🔺2188",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "57.7k",
-      "growth": "🔺2935",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "stars": "21k",
+      "growth": "🔺2141",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "description_cn": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
       "rank": "3",
       "name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": "8.2k",
-      "growth": "🔺2041",
+      "stars": "10.3k",
+      "growth": "🔺2095",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "stars": "18.9k",
-      "growth": "🔺1647",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "description_cn": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars": "23.4k",
+      "growth": "🔺1593",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": "5",
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "41.1k",
-      "growth": "🔺1572",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars": "3k",
+      "growth": "🔺1244",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "description_cn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": "6",
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "stars": "43.1k",
-      "growth": "🔺1167",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "description_cn": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "42.2k",
+      "growth": "🔺1139",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": "7",
       "name": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "stars": "50.8k",
-      "growth": "🔺1123",
+      "stars": "51.8k",
+      "growth": "🔺1013",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "8",
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "stars": "49.4k",
-      "growth": "🔺1114",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "description_cn": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
-    },
-    {
-      "rank": "9",
       "name": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "stars": "20.3k",
-      "growth": "🔺1077",
+      "stars": "21.2k",
+      "growth": "🔺968",
       "description": "Clone any website with one command using AI coding agents",
       "description_cn": "使用 AI 编码代理通过一个命令克隆任何网站"
     },
     {
+      "rank": "9",
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "stars": "7.5k",
+      "growth": "🔺961",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "description_cn": "自托管旅行/行程规划器，具有实时协作、交互式地图、PWA 支持、SSO、预算、装箱单等功能。"
+    },
+    {
       "rank": "10",
-      "name": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "stars": "3k",
-      "growth": "🔺1002",
-      "description": "git push no-mistakes",
-      "description_cn": "git推送无错误"
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "stars": "70.3k",
+      "growth": "🔺841",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "description_cn": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
     }
   ],
   "weekly": [
@@ -198,7 +198,7 @@
       "stars": "45.3k",
       "growth": "🔺2547",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": "13",
@@ -273,5 +273,5 @@
       "description_cn": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
     }
   ],
-  "updated_at": "2026-06-26T23:10:29.795838"
+  "updated_at": "2026-06-27T03:49:05.102310"
 }
