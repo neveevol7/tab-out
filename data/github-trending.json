@@ -117,7 +117,7 @@
       "stars": "52.5k",
       "growth": "🔺10891",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "4",
@@ -273,5 +273,5 @@
       "description_cn": "练习使克劳德变得完美"
     }
   ],
-  "updated_at": "2026-06-29T11:07:26.398692"
+  "updated_at": "2026-06-29T15:53:06.437125"
 }
