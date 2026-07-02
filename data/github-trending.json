@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "67k",
-      "growth": "🔺5436",
+      "stars": "70.3k",
+      "growth": "🔺3274",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars": "21.2k",
-      "growth": "🔺3999",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "description_cn": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
-    },
-    {
-      "rank": "3",
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "stars": "28.4k",
-      "growth": "🔺3319",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
-    },
-    {
-      "rank": "4",
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "stars": "6.5k",
-      "growth": "🔺2523",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "description_cn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
-    },
-    {
-      "rank": "5",
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "45.6k",
-      "growth": "🔺2243",
+      "stars": "48.2k",
+      "growth": "🔺2619",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
-      "rank": "6",
+      "rank": "3",
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": "23.7k",
+      "growth": "🔺2409",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "description_cn": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+    },
+    {
+      "rank": "4",
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars": "30.8k",
+      "growth": "🔺2382",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": "5",
       "name": "deepseek-ai/DeepSpec",
       "url": "https://github.com/deepseek-ai/DeepSpec",
-      "stars": "3.6k",
-      "growth": "🔺1469",
+      "stars": "5.7k",
+      "growth": "🔺2145",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "6",
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars": "8.3k",
+      "growth": "🔺1892",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "description_cn": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
+    },
+    {
       "rank": "7",
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "stars": "23.4k",
-      "growth": "🔺1411",
-      "description": "Clone any website with one command using AI coding agents",
-      "description_cn": "使用 AI 编码代理通过一个命令克隆任何网站"
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars": "8.1k",
+      "growth": "🔺1569",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "description_cn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
     },
     {
       "rank": "8",
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars": "15k",
-      "growth": "🔺1354",
+      "stars": "16.4k",
+      "growth": "🔺1428",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "description_cn": "“Vibe-Trading：您的个人交易代理”"
     },
     {
       "rank": "9",
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "stars": "34.3k",
-      "growth": "🔺1327",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
-      "description_cn": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "29.4k",
+      "growth": "🔺1419",
+      "description": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。",
+      "description_cn": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。"
     },
     {
       "rank": "10",
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "stars": "72.3k",
-      "growth": "🔺1272",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "description_cn": "将 PDF 和 Office 文档等复杂文档转换为适合您的 Agentic 工作流程的 LLM 就绪 Markdown/JSON。"
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": "35.7k",
+      "growth": "🔺1416",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "description_cn": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "练习使克劳德变得完美"
     }
   ],
-  "updated_at": "2026-07-01T23:19:09.635779"
+  "updated_at": "2026-07-02T03:53:58.777315"
 }
