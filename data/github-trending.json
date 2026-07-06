@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
-      "stars": "35.9k",
-      "growth": "🔺1560",
+      "stars": "36.9k",
+      "growth": "🔺1062",
       "description": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。",
       "description_cn": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。"
     },
@@ -58,8 +58,8 @@
       "rank": "7",
       "name": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
-      "stars": "23k",
-      "growth": "🔺699",
+      "stars": "23.7k",
+      "growth": "🔺741",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "description_cn": "JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。"
     },
@@ -83,12 +83,12 @@
     },
     {
       "rank": "10",
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars": "26.1k",
-      "growth": "🔺615",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "description_cn": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": "69.5k",
+      "growth": "🔺637",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "description_cn": "AI 编码代理的生产级工程技能。"
     }
   ],
   "weekly": [
@@ -96,182 +96,182 @@
       "rank": "1",
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "61.6k",
-      "growth": "🔺18901",
+      "stars": "73.8k",
+      "growth": "🔺13883",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "stars": "25.1k",
-      "growth": "🔺18130",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
-    },
-    {
-      "rank": "3",
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "stars": "52.5k",
-      "growth": "🔺10891",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
-    },
-    {
-      "rank": "4",
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars": "17.2k",
-      "growth": "🔺8086",
+      "stars": "26.1k",
+      "growth": "🔺10673",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "description_cn": "高性能代码智能MCP服务器。将代码库索引到持久知识图谱中——以毫秒为单位的平均存储库。 158 种语言，亚毫秒级查询，标记减少 99%。单个静态二进制文件，零依赖性。"
     },
     {
-      "rank": "5",
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": "11k",
-      "growth": "🔺7638",
-      "description": "No description available.",
-      "description_cn": ""
+      "rank": "3",
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "36.9k",
+      "growth": "🔺9743",
+      "description": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。",
+      "description_cn": "一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。"
     },
     {
-      "rank": "6",
+      "rank": "4",
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "stars": "33k",
+      "growth": "🔺9592",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+    },
+    {
+      "rank": "5",
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "43.3k",
-      "growth": "🔺7608",
+      "stars": "50.5k",
+      "growth": "🔺8307",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
+      "rank": "6",
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars": "9.6k",
+      "growth": "🔺6594",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "description_cn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。 | AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
       "rank": "7",
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "stars": "9.2k",
-      "growth": "🔺6128",
-      "description": "macOS video editor built for AI",
-      "description_cn": "专为 AI 打造的 macOS 视频编辑器"
-    },
-    {
-      "rank": "8",
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "stars": "24.8k",
-      "growth": "🔺5496",
-      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "description_cn": "6 行代码实现 AI 代理内存知识引擎"
-    },
-    {
-      "rank": "9",
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "stars": "22.1k",
-      "growth": "🔺5097",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
-    },
-    {
-      "rank": "10",
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "stars": "22.2k",
-      "growth": "🔺5024",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "description_cn": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
-    },
-    {
-      "rank": "11",
-      "name": "apple/container",
-      "url": "https://github.com/apple/container",
-      "stars": "43.9k",
-      "growth": "🔺4842",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "description_cn": "一种在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。它是用 Swift 编写的，并针对 Apple 芯片进行了优化。"
-    },
-    {
-      "rank": "12",
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "stars": "22k",
-      "growth": "🔺4360",
-      "description": "Clone any website with one command using AI coding agents",
-      "description_cn": "使用 AI 编码代理通过一个命令克隆任何网站"
-    },
-    {
-      "rank": "13",
       "name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": "52k",
-      "growth": "🔺4340",
+      "stars": "56.3k",
+      "growth": "🔺4859",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "description_cn": "品味技能 - 给你的人工智能良好的品味。阻止人工智能产生无聊的、通用的斜坡"
     },
     {
+      "rank": "8",
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "stars": "56.5k",
+      "growth": "🔺4638",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+    },
+    {
+      "rank": "9",
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": "17.8k",
+      "growth": "🔺4349",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_cn": "“Vibe-Trading：您的个人交易代理”"
+    },
+    {
+      "rank": "10",
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "stars": "25.5k",
+      "growth": "🔺4268",
+      "description": "Clone any website with one command using AI coding agents",
+      "description_cn": "使用 AI 编码代理通过一个命令克隆任何网站"
+    },
+    {
+      "rank": "11",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "12k",
+      "growth": "🔺4088",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
+      "rank": "12",
+      "name": "deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec",
+      "stars": "6.2k",
+      "growth": "🔺4045",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "13",
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "stars": "11.3k",
+      "growth": "🔺3831",
+      "description": "agent multiplexer that lives in your terminal.",
+      "description_cn": "位于您终端中的代理多路复用器。"
+    },
+    {
       "rank": "14",
-      "name": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "stars": "68.6k",
-      "growth": "🔺4143",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "description_cn": "具有教学意义的图表 > 令人印象深刻的图表。将任何代码变成您可以探索、搜索和提问的交互式知识图。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。"
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "stars": "24.8k",
+      "growth": "🔺3830",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "description_cn": "用于向编码代理描述视觉标识的格式规范。 DESIGN.md 使代理能够对设计系统有持久的、结构化的理解。"
     },
     {
       "rank": "15",
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars": "35.3k",
-      "growth": "🔺3261",
-      "description": "The open-source voice synthesis studio",
-      "description_cn": "开源语音合成工作室"
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "stars": "14.6k",
+      "growth": "🔺3711",
+      "description": "Edit videos with coding agents",
+      "description_cn": "使用编码代理编辑视频"
     },
     {
       "rank": "16",
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "stars": "55.3k",
-      "growth": "🔺3077",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "description_cn": "Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 的预索引代码知识图 — 更少的令牌、更少的工具调用、100% 本地"
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": "36.6k",
+      "growth": "🔺3607",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "description_cn": "AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He"
     },
     {
       "rank": "17",
-      "name": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "stars": "54.2k",
-      "growth": "🔺2934",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "description_cn": "Penpot：用于设计和代码协作的开源设计工具"
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "stars": "5.3k",
+      "growth": "🔺3558",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "description_cn": "完全可定制且可供代理使用的开源设计系统"
     },
     {
       "rank": "18",
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "stars": "60.4k",
-      "growth": "🔺2715",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "description_cn": "实时全球情报仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars": "9.9k",
+      "growth": "🔺3549",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "description_cn": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
     },
     {
       "rank": "19",
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stars": "93.9k",
-      "growth": "🔺2634",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "description_cn": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": "54.2k",
+      "growth": "🔺3149",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     },
     {
       "rank": "20",
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "stars": "61.4k",
-      "growth": "🔺2565",
-      "description": "practice made claude perfect",
-      "description_cn": "练习使克劳德变得完美"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": "83.8k",
+      "growth": "🔺3117",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "description_cn": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
     }
   ],
-  "updated_at": "2026-07-05T23:04:26.154861"
+  "updated_at": "2026-07-06T03:54:43.154922"
 }
