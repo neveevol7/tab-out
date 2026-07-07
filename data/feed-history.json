@@ -48,6 +48,278 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/steipete/status/2074389082017550720",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "You don't wanna miss this. Signup closes this week.\n\nWill be there and share some claws and tokens 🦞 https://t.co/RAXcyt4bFv",
+    "title_cn": "你不想错过这个。注册本周截止。\n\n将在那里分享一些爪子和代币🦞 https://t.co/RAXcyt4bFv",
+    "date": "2026-07-07T07:04:32.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2074380549318443311",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "How do folks run AI-assisted engineering interviews these days?",
+    "title_cn": "如今，人们如何进行人工智能辅助的工程面试？",
+    "date": "2026-07-07T06:30:37.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2074353874996211831",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Major inflection point around the time of the brief bear market fall of last year. https://t.co/OvC596JzLY",
+    "title_cn": "主要拐点发生在去年短暂的熊市下跌期间。 https://t.co/OvC596JzLY",
+    "date": "2026-07-07T04:44:38.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2074344727202463832",
+    "type": "x",
+    "name": "Swyx",
+    "title": "imo this is the most impt part of anthropic's J-space paper today. it's a two-parter:\n\n1) ant proved that they can do \"brain surgery\" interventions into reasoning to change topics midstream*\n2) THE MODEL IS ABLE TO DETECT WHAT INTERVENTION WAS DONE - close cousin to eval awareness**\n\n*control > correlation - this convincingly demonstrates understanding\n\n**this was prompted awareness... surely @mlpowered's team also tried to eval unprompted awareness but i didn't see evidence of that",
+    "title_cn": "在我看来，这是今天人类 J 空间论文中最重要的部分。这是一个两部分：\n\n1) 蚂蚁证明他们可以对推理进行“脑部手术”干预以中途改变话题*\n2) 该模型能够检测所做的干预措施 - 与评估意识密切相关**\n\n*控制 > 相关性 - 这令人信服地展示了理解\n\n**这是提示意识...当然@mlpowered 的团队也尝试评估自发意识，但我没有看到这方面的证据",
+    "date": "2026-07-07T04:08:17.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2074313180554412076",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Update: 🇪🇸 ESP - 🇦🇷 ARG final.\n\nThe legendary Spanish team will avenge team USA with a decisive defeat of 🇧🇪.",
+    "title_cn": "更新：🇪🇸 ESP - 🇦🇷 ARG 决赛。\n\n传奇的西班牙队将以🇧🇪的决定性失败为美国队报仇。",
+    "date": "2026-07-07T02:02:55.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2074312096960123318",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Ughhhhhhh",
+    "title_cn": "呃呃呃呃",
+    "date": "2026-07-07T01:58:37.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2074305070955639077",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "@aiDotEngineer @cursor_ai Also don't be constrained by your titles/roles. Even though I'm not an engineer/designer by training, I find the Cursor/AI Engineer/Config talks SO helpful. Everyone is an engineer and a PM and a designer now",
+    "title_cn": "@aiDotEngineer @cursor_ai 另外，不要受到您的头衔/角色的限制。尽管我不是受过培训的工程师/设计师，但我发现 Cursor/AI 工程师/配置讲座非常有帮助。现在每个人都是工程师、PM 和设计师",
+    "date": "2026-07-07T01:30:42.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2074304295097561490",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "If you wanna level up as an AI builder, binge watch the talks from these 3 conferences (all freshly wrapped). You can literally learn from the best in the field from the comfort of your home.\n\n- AI Engineer @aiDotEngineer https://t.co/zsLvuWWBMl\n- Cursor Compile @cursor_ai https://t.co/EzpGKd8O4Y\n- Figma Config https://t.co/m3KdubDk0i\n\nIt's crazy that all of this high-quality knowledge is freely shared on the Internet (the tickets to these conferences often cost hundreds of dollars), and I'm surprised that most of these videos only get tens of thousands of views. High-quality conference talks are massively, massively underrated! \n\nWatching on YouTube is also arguably a better experience than attending in person: no bad audio, no crowd blocking the screen, no distractions, and you can pause to take notes",
+    "title_cn": "如果您想提升 AI 构建者的水平，请尽情观看这 3 个会议的演讲（全部都是最新的）。您实际上可以在舒适的家中向该领域最优秀的人学习。\n\n- 人工智能工程师@aiDotEngineer https://t.co/zsLvuWWBMl\n- 光标编译@cursor_ai https://t.co/EzpGKd8O4Y\n- Figma 配置 https://t.co/m3KdubDk0i\n\n令人疯狂的是，所有这些高质量的知识都在互联网上免费共享（这些会议的门票通常要花费数百美元），而令我惊讶的是，这些视频中的大多数只获得了数万次的观看次数。高质量的会议演讲被极大地低估了！ \n\n在 YouTube 上观看也可以说是比亲自参加更好的体验：没有糟糕的音频，没有人群遮挡屏幕，没有干扰，而且您可以停下来做笔记",
+    "date": "2026-07-07T01:27:37.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2074295408902479910",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Go USA!!!",
+    "title_cn": "去美国！！！",
+    "date": "2026-07-07T00:52:18.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2074287795028512773",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "🆒 eve evals itself with 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕.\n\nWeb frameworks made testing an ecosystem choice. e.g.: React didn’t ship with a built-in testing solution.\n\nFor agents, evals are essential… thus we ship 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕 out of the box. For your agents and eve’s own evolution. https://t.co/Ujh4FHpPdN",
+    "title_cn": "🆒 eve 用 𝚎𝚟𝚎 𝚎𝚟𝚊𝚕 自我评估。\n\nWeb 框架使测试成为生态系统的选择。例如：React 没有附带内置的测试解决方案。\n\n对于代理商来说，评估至关重要……因此我们开箱即用。为了你的特工和夏娃自己的进化。 https://t.co/Ujh4FHpPdN",
+    "date": "2026-07-07T00:22:03.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2074287157007806932",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "This is how media is a bludgeon for an entrenched class of doom loop politicians\n\nThey want their doom loop politician Gary McCoy in at any cost and will lie, cheat and steal to do it\n\nAnd legacy media does nothing to stop it\n\nPure sociopathy",
+    "title_cn": "这就是媒体如何成为根深蒂固的末日循环政客阶层的棍棒\n\n他们不惜一切代价想要他们的末日循环政治家加里·麦考伊加入，并且会撒谎、欺骗和偷窃来做到这一点\n\n传统媒体对此无能为力\n\n纯粹的社会病态",
+    "date": "2026-07-07T00:19:31.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2074286755185086538",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "When headlines lie by omission, it says a lot about the headline writers in a news room https://t.co/AR3Gcs7vh3",
+    "title_cn": "当头条新闻因遗漏而撒谎时，它说明了新闻编辑室中头条新闻作者的很多信息 https://t.co/AR3Gcs7vh3",
+    "date": "2026-07-07T00:17:55.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2074279598612000785",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Oakland will continue to be a case study in virtue signal policies by ideologies that don’t work\n\nThe city will continue to crumble until the common sense and business forces unite to vote smarter https://t.co/310Nlcl7cy",
+    "title_cn": "奥克兰将继续成为无效意识形态的美德信号政策的案例研究\n\n这座城市将继续崩溃，直到常识和商业力量联合起来投票更聪明 https://t.co/310Nlcl7cy",
+    "date": "2026-07-06T23:49:29.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2074274666709987663",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Atlanta-based real estate company saved $100k by replacing Salesforce with their Replit-built CRM. https://t.co/3l7t6VljVw",
+    "title_cn": "总部位于亚特兰大的房地产公司通过使用 Replit 构建的 CRM 取代 Salesforce，节省了 10 万美元。 https://t.co/3l7t6VljVw",
+    "date": "2026-07-06T23:29:53.000Z"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2074258446686536167",
+    "type": "x",
+    "name": "Cat Wu",
+    "title": "a retrospective on making claude code from our early team! https://t.co/Kk9mz4BYXx",
+    "title_cn": "我们早期团队制作克劳德代码的回顾！ https://t.co/Kk9mz4BYXx",
+    "date": "2026-07-06T22:25:26.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2074258147015897357",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Yeah, this resonates. I was horribly inefficient, so I brute forced a lot of stuff. The biggest difference now, even for early stage startups, is you can do way more in parallel because of agents.\n\nhttps://t.co/Bplx8imZ9n",
+    "title_cn": "是的，这引起共鸣。我的效率非常低下，所以我强行做了很多事情。现在最大的区别是，即使对于处于早期阶段的初创公司来说，由于代理的存在，你可以并行地做更多的事情。\n\nhttps://t.co/Bplx8imZ9n",
+    "date": "2026-07-06T22:24:14.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2074257906594177279",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Many are asking how Replit is improving so rapidly—we closed the loop and the agent is self-improving. \n\nTechnical details here: https://t.co/jfyBidPEQo",
+    "title_cn": "许多人都在问 Replit 是如何进步得如此之快——我们关闭了循环，代理正在自我改进。 \n\n技术详情请参见：https://t.co/jfyBidPEQo",
+    "date": "2026-07-06T22:23:17.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2074247226038063316",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research.\n\nSo much more to do. We are 1% done. https://t.co/QSkt89cB8q",
+    "title_cn": "这是我们第一次讲述我们如何首次构建和启动 Claude Code 的故事，从人类安全研究的起源开始。\n\n还有很多事情要做。我们已经完成了 1%。 https://t.co/QSkt89cB8q",
+    "date": "2026-07-06T21:40:50.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2074244664199115201",
+    "type": "x",
+    "name": "Claude",
+    "title": "We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.\n\nhttps://t.co/0gXEPID8lh https://t.co/2qeCVrD6Ep",
+    "title_cn": "我们整理了 Claude Code 诞生的简短历史，由构建它的人和帮助它成为今天的样子的早期用户讲述。\n\nhttps://t.co/0gXEPID8lh https://t.co/2qeCVrD6Ep",
+    "date": "2026-07-06T21:30:40.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2074222247548735996",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The ultimate test for coding AI: is software as a whole getting better? Are companies shipping faster? Do you now have apps and games you couldn't even dream of before? Is the software you're getting bug-free?\n\nFor me: my own ability to influence my productivity has radically increased. I feel a level of agency and autonomy I never had before. I'm free to create and execute. I can communicate a vision with my colleagues instantly. Personal software is real and a big win, I have a bunch of web tools and macOS apps I wrote just for myself.\n\nFor Vercel: it's been amazing to see our CTO @cramforce bring novel software to life with swaths of agents. Genuinely useful software that's having an impact industry-wide emerged nearly autonomously (https://t.co/zwHPbMHK45, https://t.co/TTbSu13EjV, https://t.co/HedSpZpVQI). That's just an example. Our PM team ships software and fixes bugs. Our junior engineers and interns ship quality software at scale. On a personal note, AI at my fingertips, as CLI or v0, allows me to keep up with all the product updates. I can build demos, apps and benchmarks on top of @vercel as new products go out.\n\nBut the ultimate jury is that people should love our products, expand their usage, refer their friends and colleagues to the platform. So far that tracks well, and it's the main metric I watch (and obviously we take token costs seriously, just like any other infrastructure spend… there isn't and has never been a proclamation to \"tokenmaxxx\").",
+    "title_cn": "人工智能编码的终极测试：软件整体是否变得更好？公司发货速度更快吗？您现在拥有以前无法想象的应用程序和游戏吗？您获得的软件没有错误吗？\n\n对我来说：我自己影响生产力的能力已经大大提高。我感受到了前所未有的代理权和自主权。我可以自由地创建和执行。我可以立即与同事交流愿景。个人软件是真实的，也是一个巨大的胜利，我有很多我为自己编写的网络工具和 macOS 应用程序。\n\n对于 Vercel 来说：看到我们的 CTO @cramforce 通过大量代理将新颖的软件变为现实，真是太棒了。对整个行业产生影响的真正有用的软件几乎是自动出现的（https://t.co/zwHPbMHK45、https://t.co/TTbSu13EjV、https://t.co/HedSpZpVQI）。这只是一个例子。我们的 PM 团队发布软件并修复错误。我们的初级工程师和实习生大规模交付优质软件。就我个人而言，触手可及的 AI（如 CLI 或 v0）使我能够跟上所有产品更新。当新产品推出时，我可以在 @vercel 上构建演示、应用程序和基准测试。\n\n但最终的评审团是，人们应该喜欢我们的产品，扩大他们的用途，推荐他们的朋友和同事使用该平台。到目前为止，跟踪情况良好，这是我关注的主要指标（显然，我们认真对待代币成本，就像任何其他基础设施支出一样……没有也从未宣布过“tokenmaxxx”）。",
+    "date": "2026-07-06T20:01:35.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2074210475777364197",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "We been cooking, by the time this went through review main again is materially better 🥲 https://t.co/3CB3eJu5tr",
+    "title_cn": "我们一直在做饭，当这再次经过审查时，主要是实质上更好了🥲 https://t.co/3CB3eJu5tr",
+    "date": "2026-07-06T19:14:49.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2074209928961819081",
+    "type": "x",
+    "name": "Thariq",
+    "title": "great post by @delba_oliveira https://t.co/xZ2bCh7yOL",
+    "title_cn": "@delba_oliveira 的精彩帖子 https://t.co/xZ2bCh7yOL",
+    "date": "2026-07-06T19:12:38.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2074209421799166138",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "https://t.co/PXjlm4RLJJ https://t.co/G1K5KnFNtf",
+    "title_cn": "https://t.co/PXjlm4RLJJ https://t.co/G1K5KnFNtf",
+    "date": "2026-07-06T19:10:37.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2074209416606634048",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Great talk! Really enjoyed this https://t.co/vOtrsQai4V",
+    "title_cn": "讲得很好！真的很喜欢这个 https://t.co/vOtrsQai4V",
+    "date": "2026-07-06T19:10:36.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2074206798631071796",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Fable 5 will leave Claude subscriptions tomorrow at midnight. Here are 5 use cases worth trying before then, with prompts you can copy and paste:\n\n1) FIND FABLE-WORTHY WORK\nYou're Fable 5, the most capable model available. Look through my projects, docs, and your memory, and list the top 5 tasks genuinely worth running on you. Rank them with a one-line reason each. Don't do the work yet.\n\n2) GET LIFE & BUSINESS ADVICE\nYou're my business advisor. Read my plan doc and pull live data from my connected tools. Write a one-page assessment of my business and the top 3 things to focus on for the next 3 months, plus what to drop and why.\n\n3) MAKE YOUR PROJECT SHIP-READY\nI'm about to ship this project. Find everything wrong with it first. Read the whole codebase and hunt for real bugs, broken edge cases, and anything that'll break in front of a user. List each issue with how to reproduce it and the fix. Hold a high bar.\n\n4) PLAN THE NEXT BIG THING\nI want to plan a big project: [describe it]. Don't build yet. Lay out the full plan: phases, key decisions, risks, and open questions. Flag anything that could sink it, and make it clear enough that a cheaper model could execute step by step.\n\n5) REFACTOR YOUR AI SKILLS\nRefactor my AI skill system. Read all my skills, map where they overlap or conflict, then clean them up: tighten workflows, cut bloat, and standardize structure. Keep each skill working and check in at major milestones.\n\n📌 Watch my tutorial for a live demo of all 5 use cases: https://t.co/XElMEV3FwK",
+    "title_cn": "《神鬼寓言 5》将于明天午夜停止订阅克劳德。以下是 5 个值得在此之前尝试的用例，其中包含可以复制和粘贴的提示：\n\n1）找到值得寓言的工作\n你是《神鬼寓言 5》中最有能力的模型。查看我的项目、文档和您的记忆，并列出真正值得您执行的前 5 项任务。每个都用一行理由对它们进行排名。还没做作业呢。\n\n2) 获取生活和商业建议\n你是我的商业顾问。阅读我的计划文档并从我的连接工具中提取实时数据。写一份关于我的业务的一页评估，以及未来 3 个月要重点关注的 3 件事，以及要放弃的内容和原因。\n\n3) 让您的项目做好发货准备\n我即将交付这个项目。首先找出所有问题。阅读整个代码库并寻找真正的错误、损坏的边缘情况以及任何可能在用户面前损坏的东西。列出每个问题以及如何重现和修复。举起高杠。\n\n4) 计划下一件大事\n我想计划一个大项目：[描述一下]。还没有建立。列出完整的计划：阶段、关键决策、风险和悬而未决的问题。标记任何可能导致其崩溃的因素，并明确说明可以逐步执行更便宜的模型。\n\n5) 重构你的人工智能技能\n重构我的AI技能系统。阅读我的所有技能，找出它们重叠或冲突的地方，然后清理它们：收紧工作流程、减少臃肿并标准化结构。保持每项技能发挥作用并检查主要里程碑。\n\n📌 观看我的教程，了解所有 5 个用例的现场演示：https://t.co/XElMEV3FwK",
+    "date": "2026-07-06T19:00:12.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2074195169990357398",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll have a few surprises for folks. Hope to see many of you 👀 https://t.co/0bvnIVPbwb",
+    "title_cn": "本周截止。许多构建 ChatGPT、Codex 和 OpenClaw 的团队都会出席，我们将为人们带来一些惊喜。希望见到你们很多人👀 https://t.co/0bvnIVPbwb",
+    "date": "2026-07-06T18:13:59.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2074194480354488750",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "When you ask a founder what \"me and the boys\" means when they talked about their 4th of July weekend plans.. https://t.co/QncfxXSjgY",
+    "title_cn": "当你问一位创始人，当他们谈论 7 月 4 日周末计划时，“我和孩子们”是什么意思……https://t.co/QncfxXSjgY",
+    "date": "2026-07-06T18:11:15.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2074186977147273540",
+    "type": "x",
+    "name": "Thariq",
+    "title": "this is now on the Claude blog! https://t.co/7LW0yDuixR",
+    "title_cn": "这现在在克劳德博客上！ https://t.co/7LW0yDuixR",
+    "date": "2026-07-06T17:41:26.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2074185669598237047",
+    "type": "x",
+    "name": "Thariq",
+    "title": "to be specific the date/time is will be 11:59:59pm PT on 7/7",
+    "title_cn": "具体而言，日期/时间为太平洋时间 7 月 7 日晚上 11:59:59",
+    "date": "2026-07-06T17:36:14.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2074163686990913576",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Great post on how to think about open source AI and the applied AI layer. Two things will always be true in AI. Frontier intelligence will likely remain at the forefront of solving brand new used cases and often be used for orchestrating and planning of any type of complex workflow. \n\nAt the same time, as use-cases become mature and predictable in an enterprise context, you can begin to peel off some set of the tokens to either lower cost open or closed models *or* models that are trained for the task at hand. \n\nDoing this too early in the adoption curve of any new use-case doesn’t make sense as you don’t know what you’re optimizing for, which is why there will always be a bit of a lag here.\n\nThis process can essentially run on forever as there is no end for both the benefits of frontier intelligence or tuned models. This is why the spend and token volume for both approaches will continue to go up for years to come as we’re still early on both.\n\nAgain, the only reason this dynamic is possible though is because of the applied AI layer that can effectively eval their workflows in a specific domain, choose a mixture of models to solve tasks, and have enough scale to eventually train their own models for their purposes.",
+    "title_cn": "关于如何思考开源人工智能和应用人工智能层的精彩文章。在人工智能中，有两件事永远是正确的。前沿智能可能仍处于解决全新用例的最前沿，并且通常用于编排和规划任何类型的复杂工作流程。 \n\n与此同时，随着用例在企业环境中变得成熟和可预测，您可以开始将某些令牌剥离到成本较低的开放或封闭模型*或*针对手头任务进行训练的模型。 \n\n在任何新用例的采用曲线中过早地这样做是没有意义的，因为您不知道要优化什么，这就是为什么这里总是会有一点滞后的原因。\n\n这个过程基本上可以永远持续下去，因为前沿情报或调整模型的好处是永无止境的。这就是为什么这两种方法的支出和代币数量将在未来几年继续上升，因为我们仍处于早期阶段。\n\n同样，这种动态成为可能的唯一原因是应用的人工智能层可以有效地评估特定领域的工作流程，选择混合模型来解决任务，并具有足够的规模来最终训练自己的模型以达到其目的。",
+    "date": "2026-07-06T16:08:53.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2074160985452028406",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "the gremlins have arrived in fable https://t.co/oeLAU7ilPH",
+    "title_cn": "传说中的小妖精已经到来 https://t.co/oeLAU7ilPH",
+    "date": "2026-07-06T15:58:09.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2074160886164451735",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "interestingly, this holds true for how you use models too\n\nshould you use fable to take a big expensive swing? or play small ball to grind your way up the hill? https://t.co/81CYUR7E0O https://t.co/i2X34loQAV",
+    "title_cn": "有趣的是，这也适用于你如何使用模型\n\n你应该用寓言来进行一次昂贵的大摇摆吗？或者打小球来磨练上山的路？ https://t.co/81CYUR7E0O https://t.co/i2X34loQAV",
+    "date": "2026-07-06T15:57:45.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2074141483356340475",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "VCs: this job is investing in outliers. \n\nAlso VC: here’s our revolutionary sourcing algorithm, custom built by our in house team, RLed on decades of data, with proprietary data signals from the moment someone is born. \n\nThis job is very weird where there is so much serendipity and luck involved in how you stumbled upon an investment. However, it does take a lot of conviction and if you have years of bets where you have been right, then you aren’t simply “lucky”. \n\nReturns are the only alpha.. but those take time and so we tend to resort to random metrics to prove how we’re different from the next VC. \n\nThe unscientific way I have tried to play this game is by massively expanding my surface of luck to try to find these outliers generally and having a prepared mind for 3-4 areas that are 6-12 months early where I can meet every entrepreneur. \n\nTime will only tell if this works!",
+    "title_cn": "风险投资家：这项工作是投资异常值。 \n\n还有 VC：这是我们革命性的采购算法，由我们的内部团队定制，基于数十年的数据进行强化学习，并具有从某人出生那一刻起的专有数据信号。 \n\n这份工作非常奇怪，你偶然发现一项投资涉及到如此多的机缘和运气。然而，这确实需要很大的信念，如果你多年来一直押注自己是对的，那么你就不仅仅是“幸运”了。 \n\n回报是唯一的阿尔法......但这需要时间，所以我们倾向于诉诸随机指标来证明我们与下一个风险投资家有何不同。 \n\n我尝试玩这个游戏的不科学方式是，大量扩大我的运气面，试图总体上找到这些异常值，并为 3-4 个领域做好准备，提前 6-12 个月，在那里我可以见到每一位企业家。 \n\n时间只会证明这是否有效！",
+    "date": "2026-07-06T14:40:39.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2074133468007587932",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "The biggest advantage that 20-year-old me had over today me is the ability to slam unbelievable hours into work. \n\nBut looking back, those hours were mostly spent on tedious programming tasks, which are largely automated now. \n\n996 still has uses, but it’s not as universally effective as it was.",
+    "title_cn": "20 岁时的我与现在的我相比，最大的优势就是能够投入令人难以置信的时间投入工作。 \n\n但回想起来，这些时间主要花在繁琐的编程任务上，而这些任务现在基本上已经自动化了。 \n\n996 仍然有用途，但它不再像以前那样普遍有效。",
+    "date": "2026-07-06T14:08:48.000Z"
+  },
+  {
     "url": "https://x.com/steipete/status/2074007001802367446",
     "type": "x",
     "name": "Peter Steinberger",
