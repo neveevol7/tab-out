@@ -126,7 +126,7 @@
       "stars": "33k",
       "growth": "🔺9592",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": "5",
@@ -273,5 +273,5 @@
       "description_cn": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
     }
   ],
-  "updated_at": "2026-07-08T10:22:01.550507"
+  "updated_at": "2026-07-08T14:22:08.615269"
 }
