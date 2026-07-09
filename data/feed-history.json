@@ -48,6 +48,326 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2075103845114663325",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "You know OpenAI is cooking when the sushi and tacos orders pile at the entrance of the office at 11pm. \n\nBizarrely we need to eat to cook.",
+    "title_cn": "晚上 11 点，当寿司和炸玉米饼订单堆积在办公室入口处时，您就知道 OpenAI 正在做饭。 \n\n奇怪的是我们需要吃饭才能做饭。",
+    "date": "2026-07-09T06:24:44.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2075080984211624154",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "When do we stop comparing autonomous agents to hand-written code? You don’t see compilers comparing to engineers hand-writing assembly. https://t.co/YQBIPn8Eux",
+    "title_cn": "我们什么时候停止将自主代理与手写代码进行比较？你看不到编译器与工程师手写汇编的比较。 https://t.co/YQBIPn8Eux",
+    "date": "2026-07-09T04:53:54.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2075073587015516228",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The latest AI models being dropped are getting insanely good handling complex knowledge worker tasks, and especially dealing with sophisticated domains of work like legal, professional services, healthcare, and more. Grok 4.5 is another great entry here, especially on cost + performance. \n\nAs models get much better at coding, math, reasoning, and are trained on a variety of key verticals, we’re going to see more leaps in what you can do with enterprise data and documents.",
+    "title_cn": "最新推出的人工智能模型在处理复杂的知识工作者任务方面表现得非常出色，尤其是处理法律、专业服务、医疗保健等复杂的工作领域。 Grok 4.5 是另一个很棒的条目，特别是在成本+性能方面。 \n\n随着模型在编码、数学、推理方面变得越来越好，并且在各种关键垂直领域进行训练，我们将看到您可以在企业数据和文档方面实现更多飞跃。",
+    "date": "2026-07-09T04:24:30.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2075068286107316317",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "what a good video https://t.co/QXVRAqWeAq",
+    "title_cn": "多好的视频啊 https://t.co/QXVRAqWeAq",
+    "date": "2026-07-09T04:03:26.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2075063511290662996",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "tbh i dont think sol gets that many dates either https://t.co/s0EESA6c3D",
+    "title_cn": "老实说，我认为 sol 也没有那么多约会 https://t.co/s0EESA6c3D",
+    "date": "2026-07-09T03:44:28.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2075048072837734448",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "it surely doesnt https://t.co/SVQZYR1pyg",
+    "title_cn": "它肯定不会 https://t.co/SVQZYR1pyg",
+    "date": "2026-07-09T02:43:07.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2075046949896736835",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "OpenAI hired me, not OpenClaw.\nThe OpenClaw Foundation is independent, with sponsors rather than owners - and, for the first time, a full-time team keeping the claw alive and stable. 🦞\n\nCouldn’t have done it without Dave and the team. Kudos! https://t.co/u0ZXGwydxw",
+    "title_cn": "OpenAI 雇用了我，而不是 OpenClaw。\nOpenClaw 基金会是独立的，有赞助商而不是所有者，并且第一次有一个全职团队来保持爪子的活力和稳定。 🦞\n\n如果没有戴夫和他的团队，我们不可能做到这一点。荣誉！ https://t.co/u0ZXGwydxw",
+    "date": "2026-07-09T02:38:40.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2075033190708961675",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Polished is getting correlated with slop faster than you can imagine..\n\nMy take on why we’re going to see a major reversion to being raw and human 🫀 https://t.co/pCRzA4EGjq",
+    "title_cn": "抛光与坡度的相关性比您想象的要快。\n\n我对为什么我们将看到原始和人性的重大回归的看法🫀 https://t.co/pCRzA4EGjq",
+    "date": "2026-07-09T01:43:59.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2075018147330232707",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "AI will make all software Native.\n\nUncompromising performance and platform affinity. https://t.co/aYQ7ViNnDJ",
+    "title_cn": "人工智能将使所有软件变得原生。\n\n毫不妥协的性能和平台亲和力。 https://t.co/aYQ7ViNnDJ",
+    "date": "2026-07-09T00:44:12.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2075004775436005687",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Talked to a super agent-pilled founder. He bought Codex Max for all team members, and everybody pretty much gets all work done thru talking to their Codex all day\n\nThe side effect: people stopped talking to each other. Meetings are cancelled, collaboration is minimal, and team culture got worse\n\nSo much of enterprise AI usage is single-player now. What do we risk sacrificing when team members all talk to their agents instead of each other?\n\nWe need to move beyond human-human collaboration AND beyond human-agent collaboration to human-human-agent collaboration",
+    "title_cn": "与一位拥有超级经纪人的创始人进行了交谈。他为所有团队成员购买了 Codex Max，每个人几乎都通过整天与 Codex 交谈来完成所有工作\n\n副作用：人们不再互相交谈。会议被取消，协作很少，团队文化变得更糟\n\n现在企业人工智能的大部分使用都是单人游戏。当团队成员都与他们的代理而不是彼此交谈时，我们可能会牺牲什么？\n\n我们需要超越人与人的协作，超越人与智能体的协作，转向人与人与智能体的协作",
+    "date": "2026-07-08T23:51:04.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2075003156745089264",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Should we add CAD 3D modeling to Replit? https://t.co/5NsKXGDuxw",
+    "title_cn": "我们应该将 CAD 3D 建模添加到 Replit 中吗？ https://t.co/5NsKXGDuxw",
+    "date": "2026-07-08T23:44:38.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2075003007520096416",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I really really wish Codex were better at frontend design.\n\nThis is the single thing that's preventing me from using it more frequently",
+    "title_cn": "我真的非常希望 Codex 在前端设计方面做得更好。\n\n这是阻止我更频繁地使用它的唯一原因",
+    "date": "2026-07-08T23:44:03.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2074998060162375832",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "How to grow on X without producing slop\n\nX is a party, not a stage! https://t.co/pI8h5ImOda",
+    "title_cn": "如何在 X 上生长而不产生残渣\n\nX是派对，不是舞台！ https://t.co/pI8h5ImOda",
+    "date": "2026-07-08T23:24:23.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2074997911348244930",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "This is pretty epic https://t.co/ktxH05b32i",
+    "title_cn": "这是相当史诗般的 https://t.co/ktxH05b32i",
+    "date": "2026-07-08T23:23:48.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2074997571563479143",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Here's what happened when I ran /checkup https://t.co/W6thoLW6rm",
+    "title_cn": "这是我运行 /checkup https://t.co/W6thoLW6rm 时发生的情况",
+    "date": "2026-07-08T23:22:27.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2074997570317779038",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to the latest version\n6. Enable auto mode by default\n7. Pre-approve frequently denied read-only commands\n\n.. And a few other goodies.\n\n/checkup confirms with you before making any changes. Enjoy!",
+    "title_cn": "克劳德代码中的新增内容：/checkup\n\n运行 /checkup 到：\n\n1. 清理未使用的技能/MCP/插件并保存上下文\n2. 将本地 CLAUDE.md 与签入的 CLAUDE.md 进行重复数据删除\n3. 将根 CLAUDE.md 分解为嵌套的 CLAUDE.md 的 + 技能\n4. 关闭慢钩子\n5. 将您的克劳德代码更新到最新版本\n6.默认启用自动模式\n7. 预先批准经常被拒绝的只读命令\n\n..还有其他一些好东西。\n\n/checkup 在进行任何更改之前与您确认。享受！",
+    "date": "2026-07-08T23:22:27.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2074993112217461020",
+    "type": "x",
+    "name": "Thariq",
+    "title": "this should be a huge update in your model of software engineering: rewrites can be good, cheap and fast\n\nof course most apps are not as testable and verifiable as Bun, but the models will continue to get better at filling those gaps https://t.co/LjygnPM31O",
+    "title_cn": "这应该是你的软件工程模型的一个巨大更新：重写可以是好的、便宜的和快速的\n\n当然，大多数应用程序并不像 Bun 那样可测试和可验证，但模型将继续更好地填补这些空白 https://t.co/LjygnPM31O",
+    "date": "2026-07-08T23:04:44.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2074984078580031803",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "https://t.co/g5XCqu3Asd",
+    "title_cn": "https://t.co/g5XCqu3Asd",
+    "date": "2026-07-08T22:28:50.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2074979504741929018",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I can finally talk about this.\n\nI've been playing with GTA 6 for about a month now.\n\nIt's pretty great, arguably even better than GTA 5.",
+    "title_cn": "我终于可以谈论这个了。\n\n我玩《GTA 6》已经大约一个月了。\n\n它非常棒，甚至可以说比 GTA 5 还要好。",
+    "date": "2026-07-08T22:10:39.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2074973836966334668",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "What do they want? An SF Public Bank staffed by cronies of absentee SF Supervisor Jackie Fielder\n\nShould they get it? Absolutely not. It'll be a tremendous grift mill robbing the city blind. https://t.co/3Z9xf5OGz6",
+    "title_cn": "他们想要什么？一家 SF 公共银行，由缺席的 SF 主管 Jackie Fielder 的亲信担任工作人员\n\n他们应该得到它吗？绝对不是。这将是一个巨大的诈骗工厂，盲目地抢劫这座城市。 https://t.co/3Z9xf5OGz6",
+    "date": "2026-07-08T21:48:08.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2074969319042363808",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Here's an example of agents using nameplate to provide additional context when user input is needed. https://t.co/2djfP65LZq https://t.co/xTjwFn5iu1",
+    "title_cn": "以下是代理在需要用户输入时使用铭牌提供附加上下文的示例。 https://t.co/2djfP65LZq https://t.co/xTjwFn5iu1",
+    "date": "2026-07-08T21:30:11.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2074967404212298072",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "HE DID IT FOLKS https://t.co/I4LIWpiH2e",
+    "title_cn": "他做到了，伙计们 https://t.co/I4LIWpiH2e",
+    "date": "2026-07-08T21:22:34.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2074960512966648106",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "That moment when there's only 7 matches left in the world cup ugh",
+    "title_cn": "世界杯只剩7场比赛的那一刻 ug",
+    "date": "2026-07-08T20:55:11.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2074953690876612764",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "I am so excited to see what he does with his content after this drop. The stakes have been raised https://t.co/a2NG7FUpHZ",
+    "title_cn": "我很高兴看到他在这次发布后如何处理他的内容。赌注已提高 https://t.co/a2NG7FUpHZ",
+    "date": "2026-07-08T20:28:05.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2074953099748450346",
+    "type": "x",
+    "name": "Swyx",
+    "title": "one detail i enjoyed about @theo's keynote is in a world of claudeslopped thin color border \"professional\" looking slides, his went for the hand drawn @excalidraw /@tldraw look which immediately conveys humanity, thoughtfulness, parsimonious concision over badly rewarded verbosity.\n\nfable could never",
+    "title_cn": "我喜欢 @theo 主题演讲的一个细节，那就是克劳德斯洛普的薄色边框“专业”外观幻灯片的世界，他采用了手绘的 @excalidraw /@tldraw 外观，它立即传达了人性、深思熟虑、简洁的简洁而不是冗长的内容。\n\n寓言永远不可能",
+    "date": "2026-07-08T20:25:44.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2074951992884244606",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "the start of a new era\n\ntry Grok 4.5 in Cursor and let us know how it feels! https://t.co/GMQiu1CQ3Q",
+    "title_cn": "新时代的开始\n\n在 Cursor 中尝试 Grok 4.5，让我们知道它的感觉！ https://t.co/GMQuiu1CQ3Q",
+    "date": "2026-07-08T20:21:20.000Z"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2074925531519468012",
+    "type": "x",
+    "name": "Cat Wu",
+    "title": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-player Claude Tag. Then, we're going deep on how Claude Tag actually works.\n\nAI used to finish your sentence. Then, it wrote entire features. Now, Claude Tag can monitor your channels, do proactive work for you, the whole team can steer it, and it remembers what you told it last week.\n\nRegister: https://t.co/D8Lz61BXn4",
+    "title_cn": "太平洋时间明天上午 10 点，我将主持一场现场演练，介绍我们如何从单人 Claude Code 发展到多人 Claude Tag。然后，我们将深入了解 Claude Tag 的实际工作原理。\n\nAI用来完成你的句子。然后，它编写了整个功能。现在，Claude Tag 可以监控您的渠道，为您做主动的工作，整个团队都可以引导它，并且它会记住您上周告诉它的内容。\n\n注册：https://t.co/D8Lz61BXn4",
+    "date": "2026-07-08T18:36:11.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2074923615817200085",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "This is how you wanna talk with your claw. https://t.co/vr4bzn1yJ7",
+    "title_cn": "这就是你想用爪子说话的方式。 https://t.co/vr4bzn1yJ7",
+    "date": "2026-07-08T18:28:34.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2074920996201796067",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Grok 4.5 now available to all Vercel customers https://t.co/AwObgo6KRu",
+    "title_cn": "Grok 4.5 现已向所有 Vercel 客户开放 https://t.co/AwObgo6KRu",
+    "date": "2026-07-08T18:18:10.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2074919183947808881",
+    "type": "x",
+    "name": "Swyx",
+    "title": "most agent labs are shy about acknowledging chinese model use because they need to sell to gov/defense\n\ncog team did the hard part to productionize:\n1. build a multilingual propaganda &amp; censorship eval \n2. successfully correct for it in posttraining\n3. serve at 1000 tok/s cheaply https://t.co/Av85Bh4zUf https://t.co/w59YVAWtTr",
+    "title_cn": "大多数特工实验室都不愿承认中国模型的使用，因为他们需要向政府/国防部出售产品\n\ncog 团队完成了生产化的困难部分：\n1.建立多语种宣传推广体系审查制度评估 \n2.在训练后成功纠正它\n3. 便宜地以 1000 tok/s 的速度提供服务 https://t.co/Av85Bh4zUf https://t.co/w59YVAWtTr",
+    "date": "2026-07-08T18:10:58.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2074908816274034896",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "This also has been the World Cup of AI content going from slop to “wait, this kinda slaps” https://t.co/VfFc6LLUOD",
+    "title_cn": "这也是人工智能内容世界杯从马虎到“等等，这有点打脸”的过程 https://t.co/VfFc6LLUOD",
+    "date": "2026-07-08T17:29:46.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2074907752829223043",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Important Product Marketing lesson! You’re writing a story to transmit to your audience, but also for your audience to transmit to their audience. \n\nPMM &gt; Sales &gt; Customer\nPMM &gt; Customer &gt; Peer\nPMM &gt; User &gt; Buyer\nPMM &gt; Champion &gt; Org https://t.co/cVsidZKJcO",
+    "title_cn": "重要的产品营销课程！你写的故事是为了传达给你的观众，也是为了让你的观众传达给他们的观众。 \n\nPMM>销售额>客户\nPMM>客户>同行\nPMM>用户>买家\nPMM>冠军>组织 https://t.co/cVsidZKJcO",
+    "date": "2026-07-08T17:25:32.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2074901281466896694",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "I watched Glenngarry Glenn Ross again recently, and the Alec Baldwin bit that struck me wasn’t “always be closing” — \n\nit was [First place gets a car, second place gets steak knives, third place is fired]\n\nPower law in action!",
+    "title_cn": "我最近又看了一次《格伦加里·格伦·罗斯》，亚历克·鲍德温给我留下深刻印象的部分并不是“总是在结束”—— \n\n原来是【第一名有车，第二名有牛排刀，第三名被解雇】\n\n幂律在起作用！",
+    "date": "2026-07-08T16:59:49.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2074892952233705956",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Don't waste the moment. Be maximally ambitious.\n\n@southpkcommons Founder Fellowship apps due Aug 2.\nhttps://t.co/FBvQqpUnTh",
+    "title_cn": "不要浪费这一刻。要有最大的野心。\n\n@southpkcommons 创始人奖学金应用程序将于 8 月 2 日到期。\nhttps://t.co/FBvQqpUnTh",
+    "date": "2026-07-08T16:26:44.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2074892507306238235",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Every founder I meet worries about missing this moment.\n\nThe best worry about wasting it. There’s a difference.\n\nIt’s a waste to ignore how much the world has changed. It’s a waste to think you can capture value with pure software the same as 5 years ago.\n\nIt’s a waste to build something small.\n\nWe have seen the shift slowly and then very quickly at @southpkcommons.\n\nHere’s who we want in the Founder Fellowship now: hardware tinkerers, mad scientists, obsessives, biohackers, people who build nuclear reactors in their basements.\n\nPeople who want to get their hands dirty and touch grass and atoms.\n\nIf you are only building software, then please (for your own sake!) have a thesis that all your friends laugh at you about. Heresy is the price of ambition.\n\nThen put yourself in the right environment to maximize your ambition.\n\n(Apply by August 2nd)",
+    "title_cn": "我遇到的每一位创始人都担心错过这一刻。\n\n最担心的是浪费它。这是有区别的。\n\n忽视世界已经发生了多大的变化是一种浪费。如果你认为可以像 5 年前一样通过纯软件获取价值，那就太浪费了。\n\n建造一些小东西是一种浪费。\n\n我们在@southpkcommons 看到了这种缓慢而快速的转变。\n\n以下是我们现在想要加入创始人团契的人：硬件修补匠、疯狂科学家、痴迷者、生物黑客、在地下室建造核反应堆的人。\n\n想要亲自动手接触草和原子的人。\n\n如果您只是构建软件，那么请（为了您自己的利益！）写一篇让您所有的朋友嘲笑您的论文。异端是野心的代价。\n\n然后将自己置于正确的环境中，以最大限度地发挥你的抱负。\n\n（8月2日前申请）",
+    "date": "2026-07-08T16:24:58.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2074885402918601082",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "We were resetting last week. This week we are SHIPPING. Tune in for the livestream at 10am. https://t.co/ycWcTI3xSD",
+    "title_cn": "我们上周正在重置。本周我们正在发货。请收看上午 10 点的直播。 https://t.co/ycWcTI3xSD",
+    "date": "2026-07-08T15:56:44.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2074882061869961585",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "if you want to do this, we'll drop a prompt and an open-source repo for @every subs on friday:\n\nhttps://t.co/9wRhOCUCAk",
+    "title_cn": "如果您想这样做，我们将在周五为 @every subs 发布一个提示和一个开源存储库：\n\nhttps://t.co/9wRhOCUCAk",
+    "date": "2026-07-08T15:43:27.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2074878958525657452",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "The pendulum swing of developers between Codex and Claude Code models is insane to see as a neutral.. \n\nEvery week “we’re so dead, we’re back again”. \n\nBlessed to be the beneficiary of these amazing teams pushing each other 💥",
+    "title_cn": "开发人员在 Codex 和 Claude Code 模型之间摇摆不定，将其视为中立。 \n\n每周“我们死了，我们又回来了”。 \n\n很幸运成为这些相互推动的出色团队的受益者💥",
+    "date": "2026-07-08T15:31:07.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2074874713143460150",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The blissful sound of all the pieces of the agent stack clicking together. ht @nishimiya. This will power my personal productivity agents! https://t.co/BRenj3pXog",
+    "title_cn": "特工堆栈的所有部件组合在一起发出幸福的声音。 ht@nishimiya。这将为我的个人生产力代理提供动力！ https://t.co/BRenj3pXog",
+    "date": "2026-07-08T15:14:15.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2074847444823674883",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "What's something that you're surprised @GeminiApp can't do well, and we should have fixed a long time ago?",
+    "title_cn": "有什么事情让您感到惊讶@GeminiApp 做得不好，而我们早就应该修复了？",
+    "date": "2026-07-08T13:25:54.000Z"
+  },
+  {
     "url": "https://x.com/garrytan/status/2074750229044502663",
     "type": "x",
     "name": "Garry Tan",
