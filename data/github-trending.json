@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": "18.4k",
-      "growth": "🔺3477",
+      "stars": "20.5k",
+      "growth": "🔺2102",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "description_cn": "基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。"
     },
     {
       "rank": "2",
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "stars": "75.7k",
-      "growth": "🔺2054",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "description_cn": "AI 编码代理的生产级工程技能。"
-    },
-    {
-      "rank": "3",
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": "13.3k",
-      "growth": "🔺1705",
+      "stars": "14.3k",
+      "growth": "🔺1055",
       "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "description_cn": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
     },
     {
-      "rank": "4",
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "stars": "39.9k",
-      "growth": "🔺1205",
-      "description": "The open-source voice synthesis studio",
-      "description_cn": "开源语音合成工作室"
-    },
-    {
-      "rank": "5",
+      "rank": "3",
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "79.1k",
-      "growth": "🔺1176",
+      "stars": "80k",
+      "growth": "🔺995",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "4",
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": "76.7k",
+      "growth": "🔺975",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "description_cn": "AI 编码代理的生产级工程技能。"
+    },
+    {
+      "rank": "5",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "15.9k",
+      "growth": "🔺901",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
       "rank": "6",
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "stars": "81.1k",
-      "growth": "🔺883",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars": "14.9k",
+      "growth": "🔺710",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
       "rank": "7",
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars": "15k",
-      "growth": "🔺878",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "stars": "81.8k",
+      "growth": "🔺691",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
     },
     {
       "rank": "8",
       "name": "x4gKing/X4G",
       "url": "https://github.com/x4gKing/X4G",
-      "stars": "3.3k",
-      "growth": "🔺850",
+      "stars": "3.9k",
+      "growth": "🔺638",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "stars": "6.6k",
-      "growth": "🔺652",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "54.4k",
+      "growth": "🔺600",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
     },
     {
       "rank": "10",
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "53.8k",
-      "growth": "🔺643",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "description_cn": "让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。"
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "stars": "7.1k",
+      "growth": "🔺594",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "description_cn": "这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
     }
   ],
-  "updated_at": "2026-07-10T23:00:49.367923"
+  "updated_at": "2026-07-11T02:53:36.393214"
 }
