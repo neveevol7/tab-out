@@ -162,7 +162,7 @@
       "stars": "56.5k",
       "growth": "🔺4638",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。"
+      "description_cn": "在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。令牌减少 60-95%，答案相同。库、代理、MCP 服务器。"
     },
     {
       "rank": "9",
@@ -273,5 +273,5 @@
       "description_cn": "🪨 当很少的代币可以做戏时为什么要使用大量的代币 — Claude Code 技能通过像穴居人一样说话来减少 65% 的代币"
     }
   ],
-  "updated_at": "2026-07-12T09:53:24.691083"
+  "updated_at": "2026-07-12T11:13:11.556282"
 }
