@@ -48,6 +48,94 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/swyx/status/2076155833428431012",
+    "type": "x",
+    "name": "Swyx",
+    "title": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:\n\n- humans who can wield coding agents well*\n- coding agents breaking containment to all other knowledge work\n\nas the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.\n\nwhat happened to coding isnt the exception; it’s the herald.\n\n*aka AI Engineers",
+    "title_cn": "如果您仅了解杰文斯悖论主要是关于代理工程时代的软件需求，那么在以下条件下您可能无法完全内化杰文斯悖论的影响：\n\n- 能够很好地运用编码剂的人类*\n- 编码代理打破了对所有其他知识工作的遏制\n\n随着劳动效率的提高/知识工作的单位成本大幅下降，对总工作和更好知识的需求会上升，而不是下降。\n\n编码发生的事情也不例外；这是先驱者。\n\n*又名人工智能工程师",
+    "date": "2026-07-12T04:04:58.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2076151956440261008",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Easy money (Swiss francs)",
+    "title_cn": "轻松赚钱（瑞士法郎）",
+    "date": "2026-07-12T03:49:34.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076151105080447404",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "The score is 3 vs 1 but imo this was a very mixed performance from Argentina.\n\nNot sure how they’ll do against England.",
+    "title_cn": "比分是 3 对 1，但在我看来，这是阿根廷队的一场非常复杂的表现。\n\n不确定他们在对阵英格兰时会表现如何。",
+    "date": "2026-07-12T03:46:11.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2076150076087611433",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Argentina has the mandate of heaven.. what a strike by Alvarez. \n\nEngland vs. Argentina\n\nFrance vs. Spain\n\nPure cinema 💥",
+    "title_cn": "阿根廷拥有上天的授权……阿尔瓦雷斯的进球多么精彩。 \n\n英格兰 vs 阿根廷\n\n法国 vs 西班牙\n\n纯粹的电影院💥",
+    "date": "2026-07-12T03:42:05.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2076145711922696371",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT 5.6 Sol is  \n\n✅Fast and token efficient\n✅Hardcore at back-end dev\n✅Great at front-end\n✅Does not use useEffect everywhere \n\nWhat is next?",
+    "title_cn": "在不同的时间，您抱怨速度、代码混乱、前端质量……随着每个版本的发布，我们都在改进，GPT 5.6 Sol 是  \n\n✅快速且高效\n✅后端开发的硬核\n✅擅长前端\n✅不要到处使用useEffect \n\n接下来是什么？",
+    "date": "2026-07-12T03:24:45.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076143769192484900",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "They’re playing so badly even up one man",
+    "title_cn": "即使是一个人，他们也打得很糟糕",
+    "date": "2026-07-12T03:17:02.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2076141940484010189",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+    "title_cn": "阿根廷队在对阵世界排名第64的球队时表现不佳，差点被世界排名第26的球队淘汰，现在他们在加时赛中对阵世界排名第19的球队，球队的球员只剩下10人。",
+    "date": "2026-07-12T03:09:46.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076132077054095751",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Well shit",
+    "title_cn": "好吧，狗屎",
+    "date": "2026-07-12T02:30:34.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2076130810143367453",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Ok 5.6 Sol is very good at front end 👌 https://t.co/vubmHarGCG",
+    "title_cn": "Ok 5.6 Sol 前端非常好👌 https://t.co/vubmHarGCG",
+    "date": "2026-07-12T02:25:32.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2076119366647894371",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.\n\nStep 1: Install CLIProxyAPI\nStep 2: Connect\nStep 3: Define following alias and enjoy claudex\n\n```\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=false \\\nclaude --model gpt-5.6-sol'\n```\n\nIf this gets blocked, I owe you a reset.",
+    "title_cn": "如果您还没有足够的勇气安装 Codex 应用程序，您可以留在橙色螃蟹面前并将其指向 GPT 5.6 Sol。需要 5 分钟。感谢 Theo 解释了完成此任务的方法之一。\n\n第 1 步：安装 CLIProxyAPI\n第 2 步：连接\n第3步：定义以下别名并享受claudex\n\n````\n别名 claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=假 \\\n克劳德——型号 gpt-5.6-sol'\n````\n\n如果这被阻止了，我欠你一个重置。",
+    "date": "2026-07-12T01:40:04.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2076116544980214164",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.\n\nWhy is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.\n\nBecause software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. \n\nBut because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. \n\nThe same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.",
+    "title_cn": "人工智能本应取代的工作正在经历与预期相反的结果。软件职位发布的速度超过了其他领域。\n\n这是为什么？如果你降低了具有大量用例的产品的生产成本，人们就会想要生产更多的产品。我们在工业世界中不断看到这种情况，现在我们终于在知识工作中看到了它。\n\n由于现在软件的单位成本要低得多，因此人们对它的需求要大得多。因此，我们开始将软件用于所有新事物，人和公司比以往任何时候都启动了更多的软件项目。 \n\n但由于这项工作本身并不是完全自动化的（并且可能不会像我们所看到的那样），您仍然需要了解这些系统的人员来维护代码、决定构建什么、长期运行它、更新它等等。这一切都需要人们去做工作。 \n\n同样的事情也将发生在许多其他领域，我们降低了以前极其稀缺的工作领域的生产成本。代理会造成比替代更多的丰富。",
+    "date": "2026-07-12T01:28:51.000Z"
+  },
+  {
     "url": "https://x.com/petergyang/status/2076112137475506378",
     "type": "x",
     "name": "Peter Yang",
@@ -152,6 +240,22 @@
     "date": "2026-07-11T16:46:22.000Z"
   },
   {
+    "url": "https://x.com/sama/status/2075983427019612242",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+    "title_cn": "有很多基准测试表明 5.6 sol 是目前世界上最好的模型，但最可靠的判断方法是 Elon 又对我着迷了",
+    "date": "2026-07-11T16:39:53.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2075982820322025788",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "30% of the cost was on fable at these levels of usage? https://t.co/KzFoHj7cB4",
+    "title_cn": "在这些使用水平下，30% 的成本是在传说中吗？ https://t.co/KzFoHj7cB4",
+    "date": "2026-07-11T16:37:28.000Z"
+  },
+  {
     "url": "https://x.com/garrytan/status/2075975184293765564",
     "type": "x",
     "name": "Garry Tan",
@@ -182,6 +286,22 @@
     "title": "CEQA kills thousands of units of housing every year in San Francisco, here's just one example https://t.co/DfZe836WOU",
     "title_cn": "CEQA 每年在旧金山毁掉数千套住房，这只是一个例子 https://t.co/DfZe836WOU",
     "date": "2026-07-11T14:07:34.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2075944103867830352",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "If you want to supercharge building in California again, you're going to need to repeal and reform CEQA\n\nMillions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today. https://t.co/TE4s7Dz7jD",
+    "title_cn": "如果你想再次加强加州的建筑，你将需要废除并改革 CEQA\n\n每年有数百万套住房通过 CEQA 被封锁。住房应该按权利建造，而不是像今天那样需要审查。 https://t.co/TE4s7Dz7jD",
+    "date": "2026-07-11T14:03:38.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2075933358660730901",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "So much could go wrong\n\nBut the interesting question is always: what happens if things go right?",
+    "title_cn": "很多事情都可能出错\n\n但有趣的问题始终是：如果一切顺利的话会发生什么？",
+    "date": "2026-07-11T13:20:56.000Z"
   },
   {
     "url": "https://x.com/zarazhangrui/status/2075930909669515753",
