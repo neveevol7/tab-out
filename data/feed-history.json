@@ -48,6 +48,310 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/steipete/status/2076923300593422560",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "I moved our maintainer agent to the cloud and they are fighting already. https://t.co/LKq0st8sns",
+    "title_cn": "我将我们的维护代理移至云端，他们已经在战斗了。 https://t.co/LKq0st8sns",
+    "date": "2026-07-14T06:54:36.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2076917691139674373",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "We shipped! iOS and Android apps also got updates and they look great.\n\nHad to bump Node to keep things smooth, if the autoupdater doesn't work, run the web installer and it'll take care of that for you. https://t.co/682E3TMKN5",
+    "title_cn": "我们发货了！ iOS 和 Android 应用程序也得到了更新，而且看起来很棒。\n\n必须修改 Node 才能保持一切顺利，如果自动更新程序不起作用，请运行 Web 安装程序，它会为您解决这个问题。 https://t.co/682E3TMKN5",
+    "date": "2026-07-14T06:32:19.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2076907789763621237",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Tomorrow might be 8M active user celebration day. Just saying",
+    "title_cn": "明天可能是 800 万活跃用户庆祝日。只是说",
+    "date": "2026-07-14T05:52:58.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2076907304897974775",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Our code https://t.co/MfiTND4bSA https://t.co/cian9Vyrmi",
+    "title_cn": "我们的代码 https://t.co/MfiTND4bSA https://t.co/cian9Vyrmi",
+    "date": "2026-07-14T05:51:03.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076897407439454577",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": ".@nikitabier is it possible to find accounts that just instantly reply to posts from bigger accounts?\n\nThose are usually AI bots worth banning? I block a bunch every week.",
+    "title_cn": ".@nikitabier 是否有可能找到可以立即回复大帐户帖子的帐户？\n\n这些通常是值得禁止的人工智能机器人？我每周都会屏蔽一堆。",
+    "date": "2026-07-14T05:11:43.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076894908712108433",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Love the man but this isn’t a small tweak I only see neutrals now 😂\n\nNot sure this will last tbh better enjoy it while we can! https://t.co/UxjkKyo7FH",
+    "title_cn": "爱这个男人，但这不是一个小调整，我现在只看到中性色😂\n\n不确定这会持续多久，趁我们还可以的时候更好地享受它！ https://t.co/UxjkKyo7FH",
+    "date": "2026-07-14T05:01:47.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2076894390375903517",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "At the risk of losing friends:\n\nSinglethreads: Flowers on sushi?\nBenu: Thousand year egg I can buy from Chinese grocery store\nCalifornios: Ok this was good but I had better food in Mexico\nBirdsong: I remember this one fondly when they had 1 star",
+    "title_cn": "冒着失去朋友的风险：\n\n单线程：寿司上有花？\n贝努：我可以从中国杂货店买到千年蛋\nCalifornios：好吧，这很好，但我在墨西哥吃过更好的食物\nBirdsong：当他们获得 1 颗星时，我深情地记得这个",
+    "date": "2026-07-14T04:59:44.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2076894197488226531",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Build your dreams",
+    "title_cn": "建立你的梦想",
+    "date": "2026-07-14T04:58:58.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2076894071323537898",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "ChatGPT Work presents https://t.co/pY5Vei9OIz",
+    "title_cn": "ChatGPT 工作呈现 https://t.co/pY5Vei9OIz",
+    "date": "2026-07-14T04:58:28.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2076886451455992249",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "\"stress test\" is a good prompt. https://t.co/9LmKxFqmPc https://t.co/kqNbsm2PgM",
+    "title_cn": "“压力测试”是一个很好的提示。 https://t.co/9LmKxFqmPc https://t.co/kqNbsm2PgM",
+    "date": "2026-07-14T04:28:11.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2076882332821373381",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "A few thoughts on what we will see in AI structurally for the foreseeable future:\n\n* Frontier intelligence continues unabated and pushes the industry forward continuously. The top labs will continue to buy the best and the most data, build the most compute, be at the forefront of improved training breakthroughs, and so on. A few different approaches stratify the market on pricing and capability, but overall competitive pressure brings down pricing on a per task basis. That said, we just ask more from the models over time - as one thing gets cheaper, we just use more - so frontier spend and use remains robust. \n\n* Open weights rapidly absorbs frontier breakthroughs (and drives other breakthrough directions given the constraints), offering both lower cost intelligence and the ability to be post trained for specific workflows and domains. This creates a healthy counter balance to the frontier as you can run models “at cost” on a hyperscaler at any time, and tune models just for your tasks.\n\n* The Applied AI layer has a huge opportunity to combine frontier intelligence with open or cheap closed models to orchestrate workflows in any given domain. Due to evals, deep domain context, being trusted with enterprise data and workflows, this layer can maximize performance and cost combination. The applied AI layer will also often have their own RLed models especially for high volume, predictable tasks in their systems.\n\n* Individual enterprises will generally focus on their enterprise context, making sure they can get any AI system the right data and information to work with, in a continuously improving way. Some will go off and train their own models for specific areas of work (large banks, pharma, etc.) where they can get real alpha from doing so given the many tradeoffs, but most will spend energy on making sure they can get all of the gains from AI breakthroughs on their data and workflows.\n\nNet net: even though some of this gets framed as zero sum, there’s just a ton of opportunity for all layers of the stack and approaches.",
+    "title_cn": "关于在可预见的未来我们将在人工智能结构中看到的一些想法：\n\n* 前沿情报持续不减，推动行业不断向前发展。顶级实验室将继续购买最好和最多的数据，构建最多的计算，处于改进培训突破的最前沿，等等。有几种不同的方法根据定价和功能对市场进行分层，但总体竞争压力会降低每个任务的定价。也就是说，随着时间的推移，我们只是对模型提出更多要求——随着一种东西变得更便宜，我们只是使用更多——因此前沿支出和使用仍然强劲。 \n\n* 开放权重快速吸收前沿突破（并在限制条件下推动其他突破方向），提供较低成本的情报以及针对特定工作流程和领域进行后期培训的能力。这为前沿创造了一个健康的平衡，因为您可以随时在超大规模上“以成本”运行模型，并根据您的任务调整模型。\n\n* 应用人工智能层有巨大的机会将前沿智能与开放或廉价的封闭模型相结合，以协调任何给定领域的工作流程。由于评估、深层领域上下文以及企业数据和工作流程的信任，该层可以最大限度地提高性能和成本组合。应用的人工智能层通常也有自己的强化学习模型，特别是对于系统中的大量、可预测的任务。\n\n* 个体企业通常会关注其企业环境，确保他们能够以持续改进的方式为任何人工智能系统提供正确的数据和信息来使用。有些人会针对特定的工作领域（大型银行、制药公司等）训练自己的模型，考虑到许多权衡，他们可以从中获得真正的阿尔法，但大多数人会花精力确保他们能够从数据和工作流程上的人工智能突破中获得所有收益。\n\nNet net：尽管其中一些被认为是零和，但堆栈和方法的所有层都存在大量机会。",
+    "date": "2026-07-14T04:11:49.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2076878668149002669",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Btw this was one-shot by fable with a voice prompt while driving on the way to SF with some steering and edits obviously https://t.co/kxk1WgR7eV",
+    "title_cn": "顺便说一句，这是寓言中的一次拍摄，在前往旧金山的路上有语音提示，并进行了一些转向和编辑显然https://t.co/kxk1WgR7eV",
+    "date": "2026-07-14T03:57:15.000Z"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2076867882894684314",
+    "type": "x",
+    "name": "Cat Wu",
+    "title": "Artifacts just got an upgrade! https://t.co/zbSVpoRCXh",
+    "title_cn": "神器刚刚升级！ https://t.co/zbSVpoRCXh",
+    "date": "2026-07-14T03:14:24.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2076862290985730481",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "The 3 levels of AI adoption for organizations\n\nMost companies are at level 2 https://t.co/jtS5kYk7qd",
+    "title_cn": "组织采用人工智能的 3 个级别\n\n大多数公司处于 2 级 https://t.co/jtS5kYk7qd",
+    "date": "2026-07-14T02:52:11.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2076860600035184700",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "@ashebytes https://t.co/7kBRXVbBPV",
+    "title_cn": "@ashebytes https://t.co/7kBRXVbBPV",
+    "date": "2026-07-14T02:45:27.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2076860372993388663",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Back in March I recorded a 45-min conversation (outdoors!) with @ashebytes on building in public, growing my audience on X (without the slop), and my thoughts on vibe coding\n\nWatch it here ⬇️ https://t.co/gwsecsdsy7",
+    "title_cn": "早在 3 月份，我就与 @ashebytes 录制了一段 45 分钟的对话（在户外！），内容涉及公共建设、在 X 上增加受众（不包括任何内容）以及我对氛围编码的想法\n\n在这里观看⬇️ https://t.co/gwsecsdsy7",
+    "date": "2026-07-14T02:44:33.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2076839463410671637",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Here’s a great post on driving down costs, while maintaining high performance, with frontier intelligence as a manager and lower cost models for the workhorse tasks. This will be the template for what model routing looks like in the future.\n\n“We started this experiment expecting to measure how much Fable’s 2x premium would increase cost. We were surprised to find that Fable’s effective delegation actually decreased cost overall. It specified constraints and outcomes instead of spelling out the implementation, gave feedback instead of making fixes itself, and in most cases never touched the code at all. These are the habits of a good manager.”\n\nThe industry is increasingly figuring out what it looks like to mix models together to be able to get targeted performance levels and optimal cost structures. \n\nOf course, the only way to get this is to have a deep understanding of the business problem you’re trying to solve and how to effectively route work to different models. If you’re in the applied layer - whether it’s customer support, legal, finance, or coding - this is how your harness will become a core area of differentiation.",
+    "title_cn": "这是一篇关于降低成本的好文章，同时保持高性能，以前沿智能作为管理者，并以较低的成本模型来完成主力任务。这将成为未来模型路由的模板。\n\n“我们开始这个实验的目的是衡量《神鬼寓言》的 2 倍溢价会增加多少成本。我们惊讶地发现《神鬼寓言》的有效授权实际上降低了总体成本。它指定了约束和结果，而不是详细说明实施情况，提供反馈而不是自行修复，并且在大多数情况下根本不触及代码。这些是优秀管理者的习惯。”\n\n业界越来越多地弄清楚如何将模型混合在一起以获得目标性能水平和最佳成本结构。 \n\n当然，实现这一目标的唯一方法是深入了解您要解决的业务问题以及如何有效地将工作路由到不同的模型。如果您处于应用层（无论是客户支持、法律、财务还是编码），那么您的安全带将成为差异化的核心领域。",
+    "date": "2026-07-14T01:21:28.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2076832040155271202",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@mattpocockuk @trq212 what other people are recommending to use\n\nhttps://t.co/ZBlZuVruZk",
+    "title_cn": "@mattpocockuk @trq212 其他人推荐使用什么\n\nhttps://t.co/ZBlZuVruZk",
+    "date": "2026-07-14T00:51:58.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2076824870072238299",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+    "title_cn": "“困难的问题很好，但前提是我们认为你有足够的资格，不会默默地降级你，甚至根本无法获得访问权”",
+    "date": "2026-07-14T00:23:29.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2076824686307271125",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something https://t.co/4AVBA93Z27",
+    "title_cn": "我认为这是讽刺，一直在寻找拼写为 c1audeai 或其他内容的句柄 https://t.co/4AVBA93Z27",
+    "date": "2026-07-14T00:22:45.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2076823209589313910",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "still sorta breaks my brain to see our models be good at design finally",
+    "title_cn": "看到我们的模型最终擅长设计，我还是有点伤脑筋",
+    "date": "2026-07-14T00:16:53.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2076821102194721167",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "I don't know if I am using Codex or ChatGPT (wtf) \n\nBut I do know that I am asking a AGI LEVEL coding agent:\n\n\"What necklaces does Benson Boone wear? (for my daughter) https://t.co/ctFiYytqiE",
+    "title_cn": "我不知道我使用的是 Codex 还是 ChatGPT（wtf） \n\n但我确实知道我在问 AGI LEVEL 编码代理：\n\n“本森·布恩戴什么项链？（给我女儿）https://t.co/ctFiYytqiE",
+    "date": "2026-07-14T00:08:30.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2076817174073880957",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The two most popular https://t.co/99eEa13mZ3 features so far have been:\n\n1️⃣ The ease of use / filesystem API\n2️⃣ Observability \n\nWe’re doubling down on both! https://t.co/1h3HCYiIar",
+    "title_cn": "到目前为止，两个最受欢迎的 https://t.co/99eEa13mZ3 功能是：\n\n1️⃣ 易用性/文件系统API\n2️⃣ 可观察性 \n\n我们在这两方面都加倍努力！ https://t.co/1h3HCYiIar",
+    "date": "2026-07-13T23:52:54.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2076811977918484795",
+    "type": "x",
+    "name": "Swyx",
+    "title": "where i'm currently at for Big Boy projects:\n\n- sol ultra to plan\n- fable 5 to critique\n- sonnet 5/terra ultra/swe 1.7 to ultracode/slop cannon\n- devin review to review (using kakuna)\n\n~always use a variant of @mattpocockuk's grill-me or @trq212's interview-me to elicit decisions upfront",
+    "title_cn": "我目前正在做的 Big Boy 项目：\n\n- sol ultra 计划\n- 寓言5批评\n- sonnet 5/terra ultra/swe 1.7 至 ultracode/slop cannon\n- devin 审查审查（使用 kakuna）\n\n~总是使用 @mattpocockuk 的 Grill-me 或 @trq212 的 Interview-me 的变体来提前做出决定",
+    "date": "2026-07-13T23:32:15.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2076809831328157758",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@resend AGAIN. TODAY.\n\nat this point if i get a text from my mom i expect codex to ask for a resend api key in order to read it https://t.co/iuSjlT3HCI",
+    "title_cn": "@再次发送。今天。\n\n此时，如果我收到妈妈发来的短信，我希望 Codex 要求重新发送 api 密钥才能读取它 https://t.co/iuSjlT3HCI",
+    "date": "2026-07-13T23:23:43.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2076790799011131735",
+    "type": "x",
+    "name": "Thariq",
+    "title": "This makes artifacts much more expressive and can be combined in creative ways. \n\nOne of my favorites is to create a dashboard for a project in Claude Tag that can be edited by others or by my local Claude Code sessions. https://t.co/xud1a7M27D",
+    "title_cn": "这使得工件更具表现力，并且可以以创造性的方式组合。 \n\n我最喜欢的事情之一是在 Claude Tag 中为项目创建一个仪表板，可以由其他人或我本地的 Claude Code 会话进行编辑。 https://t.co/xud1a7M27D",
+    "date": "2026-07-13T22:08:06.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2076786138195595704",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Powerful building block for autonomous, self-optimizing websites and applications.\n\nGive agents the ability to set up and tune experiments with feature flags. https://t.co/wUgpE3lqTF",
+    "title_cn": "用于自主、自我优化的网站和应用程序的强大构建块。\n\n使代理能够使用功能标志设置和调整实验。 https://t.co/wUgpE3lqTF",
+    "date": "2026-07-13T21:49:34.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2076783865528516971",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "This becomes much more apparent once you examine the jobs of people with “designer” in their title outside of software! https://t.co/Vmt4wUkQBw",
+    "title_cn": "一旦你检查了软件之外头衔中带有“设计师”的人的工作，这一点就会变得更加明显！ https://t.co/Vmt4wUkQBw",
+    "date": "2026-07-13T21:40:32.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2076776777884811671",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Built using @tryramp CLI (thx @zack_field) &amp; @claudeai Fable. \n\nRepo link here: https://t.co/2vWqJzELoi\n\nFully open source so feel free to fork away or make improvements!",
+    "title_cn": "使用@tryramp CLI (thx @zack_field) &amp; 构建@claudeai寓言。 \n\n回购链接在这里：https://t.co/2vWqJzELoi\n\n完全开源，因此请随意分叉或进行改进！",
+    "date": "2026-07-13T21:12:23.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2076776737074184661",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Getting realtime progress updates on my model training runs. \n\nThis feels like early vibe coding except it’s making personal models. https://t.co/NBFr2sVJT5",
+    "title_cn": "获取模型训练运行的实时进度更新。 \n\n这感觉就像早期的氛围编码，只不过它是在制作个人模型。 https://t.co/NBFr2sVJT5",
+    "date": "2026-07-13T21:12:13.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2076775924650107151",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "So @tryramp's core mission is \"save money AND time\", but I was still spending time categorizing & adding receipts to my expenses.. at least till I discovered their CLI. \n\nIntroducing the Ramp-Autofill skill ✍️\n\n> finds receipts automatically from your iMessage & Gmail. if it's in a link, it'll use playwright to convert the web page into a pdf and attach to the receipt automatically.\n\n> fills in memos on who you were meeting using your google calendar events.\n\n> understands your style of writing memos and categorization required by your organization by reviewing past transactions. it will then auto categorize all the missing transactions. \n\n> verifies it's work, flags any discrepancies and makes it easy to run as a scheduled job so you never have to look at expenses again.\n\nSimple drop in for Claude Code (read what Fable thinks) - used it over the weekend to get through the last 60 days of expenses - fully open source!",
+    "title_cn": "所以@tryramp 的核心使命是“省钱又省时间”，但我仍然花时间对我的开支进行分类和添加收据.. 至少在我发现他们的 CLI 之前是这样。 \n\n介绍斜坡自动填充技能✍️\n\n> 自动查找来自您的 iMessage 和 Gmail 的收据。如果它在链接中，它会使用 playwright 将网页转换为 pdf 并自动附加到收据。\n\n> 使用 Google 日历活动填写有关您会见的人的备忘录。\n\n> 通过回顾过去的交易，了解您的组织所需的备忘录写作风格和分类。然后它会自动对所有丢失的交易进行分类。 \n\n> 验证其工作，标记任何差异，并使其可以轻松地作为预定作业运行，这样您就不必再次查看费用。\n\n简单地访问 Claude Code（阅读《寓言》的想法） - 周末使用它来支付过去 60 天的费用 - 完全开源！",
+    "date": "2026-07-13T21:08:59.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2076764958579446006",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The biggest challenge right now with the topic of every enterprise having their own model is that your most valuable information and insights are not only always changing, but they’re often your most sensitive information. \n\nYour most sensitive information can’t be packed into a model usually because it contains data that not everyone gets to have access to, and you can’t keep your security layer inside the model or an agent.\n\nI think there are going to be 100X more use cases for custom trained models, especially inside of domain-focused products, but training a model per enterprise is going to be a lot harder than it looks.",
+    "title_cn": "目前最大的挑战是每个企业都有自己的模型，您最有价值的信息和见解不仅总是在变化，而且往往是您最敏感的信息。 \n\n您最敏感的信息通常无法打包到模型中，因为它包含并非每个人都可以访问的数据，并且您无法将安全层保留在模型或代理内。\n\n我认为定制训练模型的用例将会增加 100 倍，特别是在以领域为中心的产品中，但为每个企业训练一个模型将比看起来要困难得多。",
+    "date": "2026-07-13T20:25:25.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2076713720731042174",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "“Open-weight models ran 29% of gateway tokens, up from 11% in April”",
+    "title_cn": "“开放权重模型运行了 29% 的网关代币，高于 4 月份的 11%”",
+    "date": "2026-07-13T17:01:49.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2076713700942295226",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "works on Xteink X3 + X4\nask Cursor to flash it for you\nhttps://t.co/s9NcKfZHwu",
+    "title_cn": "适用于 Xteink X3 + X4\n让 Cursor 为你闪烁\nhttps://t.co/s9NcKfZHwu",
+    "date": "2026-07-13T17:01:44.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2076713481177374749",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Chinese room btw https://t.co/4zlXNiDtFm",
+    "title_cn": "中国房间顺便说一句 https://t.co/4zlXNiDtFm",
+    "date": "2026-07-13T17:00:52.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2076713331113734641",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "built a custom e-reader firmware with Cursor, hardware hacking is fun!\n\nmade for:\n– beautiful latin + CJK typography\n– vertical layout, line breaking, large character sets (縱書．禁則)\n– syncs books + progress with ryOS\n– speedy rendering + caching https://t.co/KROZbIU47e",
+    "title_cn": "用 Cursor 构建自定义电子阅读器固件，硬件黑客很有趣！\n\n为：\n– 漂亮的拉丁文+中日韩版式\n– 垂直布局、换行、大字符集（纵书．禁则）\n– 与 ryOS 同步书籍 + 进度\n– 快速渲染+缓存 https://t.co/KROZbIU47e",
+    "date": "2026-07-13T17:00:16.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2076689062921150479",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "super stoked for jenny to join and lead our team 💛\n\nmakes me really happy for the team, and personally excited to regain the focus and mental space to dream big again https://t.co/ovBaMWZN25",
+    "title_cn": "对于珍妮加入并领导我们的团队感到非常兴奋💛\n\n让我为团队感到非常高兴，并且个人很高兴能够重新获得焦点和精神空间，再次实现更大的梦想 https://t.co/ovBaMWZN25",
+    "date": "2026-07-13T15:23:50.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2076587412516421945",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Era of the Gentleman Scientist is so back https://t.co/WNLzo4Pg9g",
+    "title_cn": "绅士科学家的时代又回来了 https://t.co/WNLzo4Pg9g",
+    "date": "2026-07-13T08:39:54.000Z"
+  },
+  {
     "url": "https://x.com/steipete/status/2076553742883930455",
     "type": "x",
     "name": "Peter Steinberger",
