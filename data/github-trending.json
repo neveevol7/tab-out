@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars": "71.2k",
-      "growth": "🔺2210",
-      "description": "The open-source CapCut alternative",
-      "description_cn": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": "2",
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": "8k",
-      "growth": "🔺1984",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": "3",
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "stars": "87.6k",
-      "growth": "🔺1505",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": "4",
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": "17.6k",
-      "growth": "🔺979",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "description_cn": "OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。"
-    },
-    {
-      "rank": "5",
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "stars": "14.2k",
-      "growth": "🔺933",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "description_cn": "包含 433 项健身练习的综合数据集。每个条目包括名称、类别、目标肌肉群、设备、说明、缩略图和动画视频。"
-    },
-    {
-      "rank": "6",
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "83.9k",
-      "growth": "🔺916",
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": "16k",
+      "growth": "🔺4159",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "7",
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars": "23.6k",
-      "growth": "🔺843",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "description_cn": "“Vibe-Trading：您的个人交易代理”"
+      "rank": "2",
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": "8.6k",
+      "growth": "🔺3359",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
-      "rank": "8",
+      "rank": "3",
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars": "12k",
+      "growth": "🔺1317",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "description_cn": "用于从流数据重建场景的前馈 3D 基础模型"
+    },
+    {
+      "rank": "4",
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "stars": "90.1k",
+      "growth": "🔺1268",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+    },
+    {
+      "rank": "5",
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "11.9k",
+      "growth": "🔺1265",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": "6",
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "stars": "74.7k",
+      "growth": "🔺894",
+      "description": "The open-source CapCut alternative",
+      "description_cn": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": "7",
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "stars": "19.8k",
-      "growth": "🔺758",
+      "stars": "21.1k",
+      "growth": "🔺614",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": "8",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": "85.2k",
+      "growth": "🔺565",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
       "rank": "9",
-      "name": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "stars": "52.2k",
-      "growth": "🔺740",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "description_cn": "一个简单、轻量级的 PowerShell 脚本，允许您删除预安装的应用程序、禁用遥测以及执行各种其他更改以整理和自定义您的 Windows 体验。 Win11Debloat 适用于 Windows 10 和 Windows 11。"
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "27.3k",
+      "growth": "🔺492",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description_cn": "《DeepTutor：Agent-原生个性化学习助手》"
     },
     {
       "rank": "10",
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "stars": "5.8k",
-      "growth": "🔺648",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "description_cn": "成为一名出色的 AI/ML 研究工程师"
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "stars": "17.6k",
+      "growth": "🔺489",
+      "description": "agent multiplexer that lives in your terminal.",
+      "description_cn": "位于您终端中的代理多路复用器。"
     }
   ],
   "weekly": [
@@ -189,7 +189,7 @@
       "stars": "37.1k",
       "growth": "🔺4744",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道，52种工具，500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
+      "description_cn": "世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。"
     },
     {
       "rank": "12",
@@ -273,5 +273,5 @@
       "description_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     }
   ],
-  "updated_at": "2026-07-17T22:52:39.603011"
+  "updated_at": "2026-07-18T02:45:27.251983"
 }
