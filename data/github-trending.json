@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "stars": "16k",
-      "growth": "🔺4159",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "stars": "3.6k",
+      "growth": "🔺3632",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "description_cn": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
     },
     {
       "rank": "2",
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "stars": "8.6k",
-      "growth": "🔺3359",
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "stars": "18.5k",
+      "growth": "🔺2493",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "3",
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "stars": "12k",
-      "growth": "🔺1317",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "description_cn": "用于从流数据重建场景的前馈 3D 基础模型"
-    },
-    {
-      "rank": "4",
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "stars": "90.1k",
-      "growth": "🔺1268",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
-    },
-    {
-      "rank": "5",
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": "11.9k",
-      "growth": "🔺1265",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
-    },
-    {
-      "rank": "6",
-      "name": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "stars": "74.7k",
-      "growth": "🔺894",
-      "description": "The open-source CapCut alternative",
-      "description_cn": "开源 CapCut 替代方案"
-    },
-    {
-      "rank": "7",
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars": "21.1k",
-      "growth": "🔺614",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": "8",
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "85.2k",
-      "growth": "🔺565",
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "stars": "9.7k",
+      "growth": "🔺1100",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "4",
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "12.8k",
+      "growth": "🔺903",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+    },
+    {
+      "rank": "5",
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars": "12.7k",
+      "growth": "🔺770",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "description_cn": "用于从流数据重建场景的前馈 3D 基础模型"
+    },
+    {
+      "rank": "6",
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "stars": "90.8k",
+      "growth": "🔺761",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+    },
+    {
+      "rank": "7",
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "stars": "75.3k",
+      "growth": "🔺645",
+      "description": "The open-source CapCut alternative",
+      "description_cn": "开源 CapCut 替代方案"
+    },
+    {
+      "rank": "8",
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "21.7k",
+      "growth": "🔺642",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
+    },
+    {
       "rank": "9",
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": "27.3k",
-      "growth": "🔺492",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "description_cn": "《DeepTutor：Agent-原生个性化学习助手》"
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": "42.6k",
+      "growth": "🔺590",
+      "description": "The open-source voice synthesis studio",
+      "description_cn": "开源语音合成工作室"
     },
     {
       "rank": "10",
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "stars": "17.6k",
-      "growth": "🔺489",
-      "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "位于您终端中的代理多路复用器。"
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "stars": "9.3k",
+      "growth": "🔺495",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
     }
   ],
-  "updated_at": "2026-07-18T22:53:33.209384"
+  "updated_at": "2026-07-19T03:15:18.481526"
 }
