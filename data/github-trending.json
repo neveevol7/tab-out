@@ -7,7 +7,7 @@
       "stars": "3.6k",
       "growth": "🔺3632",
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-      "description_cn": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。 One command: /council"
+      "description_cn": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
     },
     {
       "rank": "2",
@@ -79,7 +79,7 @@
       "stars": "43.2k",
       "growth": "🔺574",
       "description": "The open-source voice synthesis studio",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源语音合成工作室"
     },
     {
       "rank": "10",
@@ -252,7 +252,7 @@
       "stars": "9.3k",
       "growth": "🔺2404",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "19",
@@ -273,5 +273,5 @@
       "description_cn": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
     }
   ],
-  "updated_at": "2026-07-21T23:00:18.235360"
+  "updated_at": "2026-07-22T02:53:56.221761"
 }
