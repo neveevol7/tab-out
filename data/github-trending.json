@@ -7,7 +7,7 @@
       "stars": "3.6k",
       "growth": "🔺3632",
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-      "description_cn": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一条命令：/council"
+      "description_cn": "18 个人工智能角色仔细考虑了您在多个 LLM 提供商中最艰难的决定。亚里士多德、费曼、卡尼曼、托瓦尔兹等——具有真正模型多样性的结构化多轮审议。一个命令：/council"
     },
     {
       "rank": "2",
@@ -273,5 +273,5 @@
       "description_cn": "Claude Code 和 AI 代理的营销技巧。 CRO、文案、SEO、分析和增长工程。"
     }
   ],
-  "updated_at": "2026-07-22T23:07:58.207580"
+  "updated_at": "2026-07-23T03:15:17.331796"
 }
