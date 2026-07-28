@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "stars": "11.6k",
-      "growth": "🔺2104",
-      "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
-    },
-    {
-      "rank": "2",
       "name": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
-      "stars": "4.7k",
-      "growth": "🔺1350",
+      "stars": "8.5k",
+      "growth": "🔺3774",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "2",
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "32k",
+      "growth": "🔺3403",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "description_cn": "蓝牙网状聊天、IRC 氛围"
+    },
+    {
       "rank": "3",
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars": "29.9k",
-      "growth": "🔺1257",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars": "14.5k",
+      "growth": "🔺2923",
+      "description": "A hive mind communication platform",
+      "description_cn": "蜂巢思维交流平台"
     },
     {
       "rank": "4",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "3.4k",
-      "growth": "🔺1002",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "description_cn": "最适合您和您的 AI 代理并行工作的浏览器。"
-    },
-    {
-      "rank": "5",
-      "name": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "stars": "4.9k",
-      "growth": "🔺725",
-      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-      "description_cn": "Instatic 是一个现代的自托管视觉 CMS - 1 分钟内即可运行"
-    },
-    {
-      "rank": "6",
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "stars": "28.9k",
-      "growth": "🔺675",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
-    },
-    {
-      "rank": "7",
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "stars": "19.7k",
-      "growth": "🔺672",
+      "stars": "22.6k",
+      "growth": "🔺2861",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "description_cn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
+      "rank": "5",
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "stars": "32k",
+      "growth": "🔺2135",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+    },
+    {
+      "rank": "6",
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "5.4k",
+      "growth": "🔺1981",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "description_cn": "最适合您和您的 AI 代理并行工作的浏览器。"
+    },
+    {
+      "rank": "7",
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": "14.6k",
+      "growth": "🔺1817",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_cn": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
+    },
+    {
       "rank": "8",
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": "17.6k",
-      "growth": "🔺626",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "30.7k",
+      "growth": "🔺1772",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
       "rank": "9",
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "stars": "95.7k",
-      "growth": "🔺584",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "stars": "78.9k",
+      "growth": "🔺1406",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description_cn": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
     },
     {
       "rank": "10",
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "stars": "70.5k",
-      "growth": "🔺543",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "description_cn": "用于定制 Claude AI 工作流程的精彩 Claude 技能、资源和工具的精选列表"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "51.4k",
+      "growth": "🔺1362",
+      "description": "The design language that makes your AI harness better at design.",
+      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
     }
   ],
-  "updated_at": "2026-07-27T23:05:14.319776"
+  "updated_at": "2026-07-28T02:45:59.389796"
 }
