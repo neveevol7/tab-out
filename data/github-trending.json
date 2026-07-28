@@ -88,7 +88,7 @@
       "stars": "51.4k",
       "growth": "🔺1362",
       "description": "The design language that makes your AI harness better at design.",
-      "description_cn": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
     }
   ],
   "weekly": [
@@ -216,7 +216,7 @@
       "stars": "7.9k",
       "growth": "🔺3465",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
+      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": "15",
@@ -273,5 +273,5 @@
       "description_cn": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
     }
   ],
-  "updated_at": "2026-07-28T14:15:05.827021"
+  "updated_at": "2026-07-28T17:38:00.789446"
 }
