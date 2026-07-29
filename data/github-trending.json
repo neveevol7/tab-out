@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "stars": "8.5k",
-      "growth": "🔺3774",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "2",
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "stars": "32k",
-      "growth": "🔺3403",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "description_cn": "蓝牙网状聊天、IRC 氛围"
-    },
-    {
-      "rank": "3",
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "stars": "14.5k",
-      "growth": "🔺2923",
-      "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
-    },
-    {
-      "rank": "4",
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "stars": "22.6k",
-      "growth": "🔺2861",
+      "stars": "24.3k",
+      "growth": "🔺1674",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "description_cn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
-      "rank": "5",
+      "rank": "2",
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": "9.9k",
+      "growth": "🔺1479",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "3",
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "12.5k",
+      "growth": "🔺1278",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
+      "rank": "4",
       "name": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars": "32k",
-      "growth": "🔺2135",
+      "stars": "33k",
+      "growth": "🔺999",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
     },
     {
-      "rank": "6",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "5.4k",
-      "growth": "🔺1981",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "description_cn": "最适合您和您的 AI 代理并行工作的浏览器。"
-    },
-    {
-      "rank": "7",
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "stars": "14.6k",
-      "growth": "🔺1817",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "description_cn": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
-    },
-    {
-      "rank": "8",
+      "rank": "5",
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "stars": "30.7k",
-      "growth": "🔺1772",
+      "stars": "31.7k",
+      "growth": "🔺994",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "description_cn": "Orca 是与一组并行代理一起工作的 ADE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。"
     },
     {
+      "rank": "6",
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "11.9k",
+      "growth": "🔺983",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
+    },
+    {
+      "rank": "7",
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "33k",
+      "growth": "🔺982",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "description_cn": "蓝牙网状聊天、IRC 氛围"
+    },
+    {
+      "rank": "8",
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars": "15.3k",
+      "growth": "🔺839",
+      "description": "A hive mind communication platform",
+      "description_cn": "蜂巢思维交流平台"
+    },
+    {
       "rank": "9",
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "stars": "78.9k",
-      "growth": "🔺1406",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "description_cn": "AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "52.2k",
+      "growth": "🔺787",
+      "description": "The design language that makes your AI harness better at design.",
+      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
     },
     {
       "rank": "10",
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "stars": "51.4k",
-      "growth": "🔺1362",
-      "description": "The design language that makes your AI harness better at design.",
-      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": "15.4k",
+      "growth": "🔺783",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_cn": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
     }
   ],
-  "updated_at": "2026-07-28T23:02:40.379541"
+  "updated_at": "2026-07-29T02:53:11.396239"
 }
