@@ -48,6 +48,286 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/zarazhangrui/status/2083084770763002350",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "When managers ask me how to train their nontechnical team on AI, my advice is always the same: run an install party\n\nEveryone brings a laptop & you install the agents right there on their machines & get them to complete a meaningful task on the spot. Skip the abstract talk. Once it's installed, people start talking to the agent and learning from each other\n\nThe setup is 80% the barrier",
+    "title_cn": "当经理问我如何培训他们的非技术团队进行人工智能培训时，我的建议总是一样的：举办安装派对\n\n每个人都带着一台笔记本电脑，您可以在他们的机器上安装代理，并让他们当场完成有意义的任务。跳过抽象的谈话。安装后，人们开始与代理交谈并互相学习\n\n设置是 80% 的障碍",
+    "date": "2026-07-31T06:58:05.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2083073422410821846",
+    "type": "x",
+    "name": "Swyx",
+    "title": "protip:  if you can distil models, you can also distil agent harnesses",
+    "title_cn": "专业提示：如果您可以提取模型，那么您也可以提取代理线束",
+    "date": "2026-07-31T06:13:00.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2083064467383013569",
+    "type": "x",
+    "name": "Swyx",
+    "title": "you know if we all just gave all this money to the\n@waybackmachine\nthey would be funded for all time and we'd reduce a lot of duplicate work and bot traffic lol",
+    "title_cn": "你知道如果我们把所有这些钱都捐给\n@waybackmachine\n他们将一直得到资助，我们会减少大量重复工作和机器人流量，哈哈",
+    "date": "2026-07-31T05:37:25.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2083053369351090254",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "The day we develop really good models. There will be signs.\n\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.\n\nThese kinds of things.",
+    "title_cn": "我们开发出非常好的模型的那一天。会有迹象。\n\n尽管负载不断增加，可靠性却不断提高。效率突然提高。事情变得越来越快。重置。\n\n诸如此类的事情。",
+    "date": "2026-07-31T04:53:19.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2083048892405604681",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "What should we improve on Codex to improve the everyday experience? Nothing too small",
+    "title_cn": "我们应该对 Codex 进行哪些改进来改善日常体验？没什么太小",
+    "date": "2026-07-31T04:35:31.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2083039973666644039",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Leopold could really have used Preseen's risk forecasting!\n\n@AskPreseen has been in private beta for the last few weeks and a number of the world's leading quant/hedge funds are using it to prevent getting blown up.",
+    "title_cn": "Leopold 真的可以使用 Preseen 的风险预测！\n\n@AskPreseen 在过去几周一直处于私人测试阶段，许多世界领先的量化/对冲基金正在使用它来防止被炸毁。",
+    "date": "2026-07-31T04:00:05.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2083039683932532956",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Anthropic got jelly that only OpenAI's agent was doing bad shit.",
+    "title_cn": "Anthropic 很惊讶，只有 OpenAI 的代理在做坏事。",
+    "date": "2026-07-31T03:58:56.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2083034412598579403",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Sandboxes are hard.\n\nWith all the “AI escaping  sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes.\n\nAt Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two. \n\nMain advice: Assume zero-days exist — because they do — and think in layers of protection in a zero-trust framework.\n\nMore here: https://t.co/3XGY0a1p3P",
+    "title_cn": "沙箱很难。\n\n面对所有“人工智能逃离沙箱”，人们很容易想到“哇，人工智能太可怕了”，但大多数人工智能公司和最近的“沙箱提供商”都在犯非常基本的错误。\n\n在 Replit，我们自 2016 年以来一直在运行沙箱，并成为世界上每一个黑客和国家行为者的攻击目标。所以我们学到了一两件事。 \n\n主要建议：假设零日存在——因为它们确实存在——并在零信任框架中考虑多层保护。\n\n更多信息请参见：https://t.co/3XGY0a1p3P",
+    "date": "2026-07-31T03:37:59.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2083019629379612728",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "GCC changed their policy and is blank out rejecting LLM-based code. How would they even proof that? Silly. https://t.co/6KVn3UyFwR",
+    "title_cn": "GCC 改变了他们的政策，并且完全拒绝拒绝基于 LLM 的代码。他们如何证明这一点？愚蠢的。 https://t.co/6KVn3UyFwR",
+    "date": "2026-07-31T02:39:14.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2083016652032188669",
+    "type": "x",
+    "name": "Swyx",
+    "title": "verbalizing one of those aha moments i had that seems retroactively pretty obvious:\n\nif you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you can then also reuse for the agent side inference.\n\nwe do know that the labs do use third party search providers, but clearly this is one of those things where developing more and more of your own 1P equivalents is both a competitive advantage and an adversarial target for AEO Batesian Mimicry* that you will not want to share.\n\n* https://t.co/Wa5fMP8bvO",
+    "title_cn": "用语言描述我所经历的那些恍然大悟的时刻之一，回想起来似乎非常明显：\n\n如果你优先考虑预训练数据质量，而 commoncrawl 对你来说不够好，那么无论如何你都必须构建一个全网抓取工具，如果你想保持它最新，你必须有索引，很快你就会发现自己已经构建了一个完全私有的 Google 低频克隆作为预训练的侧面项目，然后你也可以将其重新用于代理端推理。\n\n我们确实知道实验室确实使用第三方搜索提供商，但显然，开发越来越多的您自己的 1P 等效项既是一种竞争优势，也是您不想分享的 AEO Batesian Mimicry* 的敌对目标。\n\n* https://t.co/Wa5fMP8bvO",
+    "date": "2026-07-31T02:27:25.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2083008981770047782",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Cool https://t.co/vFCh9wN1qV",
+    "title_cn": "酷 https://t.co/vFCh9wN1qV",
+    "date": "2026-07-31T01:56:56.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2082997703458570412",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The takeaway from this incident should not be that AI is scary. It should be that getting security right is incredibly important in the era of agents. \n\nGiven the right tools and task, agents will do whatever it takes to get the job done, assuming enough compute. Thus, a misconfigured system - or something you thought was locked down but wasn’t - will become a risk vector. \n\nThe core implications are less about the trust and safety of AI itself, but instead the work it’s going to take from enterprises to make sure they harden their environments. Lots of real work ahead for most organizations on this front.",
+    "title_cn": "从这一事件中得出的结论不应该是人工智能是可怕的。应该说，在特工时代，确保安全是非常重要的。 \n\n有了正确的工具和任务，代理将尽一切努力来完成工作，前提是有足够的计算能力。因此，配置错误的系统 - 或者您认为已锁定但并未锁定的系统 - 将成为风险向量。 \n\n其核心影响并不是人工智能本身的信任和安全，而是企业为确保强化环境而需要做的工作。大多数组织在这方面还有大量实际工作要做。",
+    "date": "2026-07-31T01:12:07.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2082997561955090564",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "So call me crazy but I  feel like we could solve this by just not prompting the models to do cyber crime https://t.co/2NbADDBfli",
+    "title_cn": "所以说我疯了，但我觉得我们可以通过不提示模型进行网络犯罪来解决这个问题 https://t.co/2NbADDBfli",
+    "date": "2026-07-31T01:11:33.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2082992228214149470",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "@VminVsky @AskPreseen More on the future of forecasting:\nhttps://t.co/lVelXtOcNf",
+    "title_cn": "@VminVsky @AskPreseen 更多关于预测的未来：\nhttps://t.co/lVelXtOcNf",
+    "date": "2026-07-31T00:50:21.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2082981910209540352",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Benefits all https://t.co/kjU4uju1bY",
+    "title_cn": "惠及所有人 https://t.co/kjU4uju1bY",
+    "date": "2026-07-31T00:09:21.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2082980019316642103",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Replit Design from brochures! https://t.co/IdVyIgo475",
+    "title_cn": "复制小册子的设计！ https://t.co/IdVyIgo475",
+    "date": "2026-07-31T00:01:51.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2082975074534219919",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+    "title_cn": "如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。\n\n在此加入 110,000 多名订阅者：\nhttps://t.co/yz9xcsfrhF",
+    "date": "2026-07-30T23:42:12.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2082951867336962538",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Hit 1M followers\n\nThanks everyone \n\nDon’t LARP https://t.co/y5S2mfXCkO",
+    "title_cn": "粉丝数达到 100 万\n\n谢谢大家 \n\n不要 LARP https://t.co/y5S2mfXCkO",
+    "date": "2026-07-30T22:09:59.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2082939418315198522",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "BC is beautiful https://t.co/xoNC9G40jr",
+    "title_cn": "BC 很美丽 https://t.co/xoNC9G40jr",
+    "date": "2026-07-30T21:20:31.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2082926031543967896",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "My new favorite:\n\nGemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor\n\nZero editing or copy-pasting required\n\nGet it for free: https://t.co/Gr3KIsVhrc https://t.co/rXLLysJME5",
+    "title_cn": "我的新最爱：\n\nGemini Mac 应用程序 ➔ 按住 Fn ➔ 说话 ➔ 直接在光标处显示干净、优美的文本\n\n需要零编辑或复制粘贴\n\n免费获取：https://t.co/Gr3KIsVhrc https://t.co/rXLLysJME5",
+    "date": "2026-07-30T20:27:19.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2082911418349920617",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The cost of AI - normalized for the type of task - coming down is one of the most important factors in being able to drive further AI diffusion in the economy.\n\nThe general trend we should expect is that frontier AI models will continue to become more capable, and will look very expensive because the tasks that they can take on are more advanced. \n\nThen, shortly after, AI models will get more efficient or competition will drive more aggressive pricing dynamics, thus reducing the cost per task for anything other than the peak of the frontier.\n\nThis cycle will continue over and over again, which ultimately leads to tasks becoming cheaper on a like for like basis. And by doing so you will get even more AI adoption because now AI is more affordable for a wider variety of use-cases.",
+    "title_cn": "人工智能成本（根据任务类型标准化）的下降是能够推动人工智能在经济中进一步扩散的最重要因素之一。\n\n我们应该预期的总体趋势是，前沿人工智能模型将继续变得更加强大，并且看起来非常昂贵，因为它们可以承担更先进的任务。 \n\n然后，不久之后，人工智能模型将变得更加高效，或者竞争将推动更激进的定价动态，从而降低除前沿峰值之外的任何任务的成本。\n\n这个循环将一遍又一遍地持续下去，最终导致任务在同类基础上变得更便宜。通过这样做，您将获得更多的人工智能采用，因为现在人工智能对于更广泛的用例来说更加经济实惠。",
+    "date": "2026-07-30T19:29:15.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2082907703735730609",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "This conversation with Sanjit Biswas of @Samsara about physical AI is also available on Spotify, Apple Podcasts and here on YouTube: \n\nhttps://t.co/TbpjTjpzBe",
+    "title_cn": "与 @Samsara 的 Sanjit Biswas 关于物理 AI 的对话也可在 Spotify、Apple 播客和 YouTube 上观看： \n\nhttps://t.co/TbpjTjpzBe",
+    "date": "2026-07-30T19:14:29.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2082907699646173484",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "The biggest physical AI deployment nobody talks about: my conversation with Sanjit Biswas, CEO of @Samsara (NYSE: $IOT) about AI that sees 99% of US roads every day, and agents that act in the real world.\n\n00:00: Intro\n01:16 What is physical AI?\n03:04 From IoT dashboards to agentic action\n04:36 Why physical AI is harder than software AI\n06:07 Safety, cybersecurity, and real-world consequences\n07:11 What Samsara does\n08:22 $2B ARR, 25 trillion data points and 380k crashes\n09:44 How AI can prevent road accidents\n11:28 From an MIT research project to Meraki\n13:42 Learning physical operations from scratch\n15:42 Samsara’s stack: sensors, intelligence, and action\n16:39 Inside Samsara’s industrial asset trackers\n18:36 Bluetooth, battery life, and connected infrastructure\n19:49 A disposable tracking device built like a sticker\n21:08 Vehicle gateways and engine diagnostics\n22:16 How AI dash cams coach drivers in real time\n23:28 Turning the dash cam into an AI interface\n24:49 Organizing physical-world data in the cloud\n26:32 Selling AI to traditional industries\n27:52 Is Samsara’s real-world data its AI moat?\n29:22 The network effects of covering 99% of U.S. roads\n31:23 Edge AI versus cloud AI\n32:35 The models running inside Samsara’s devices\n33:52 Generative AI and video reasoning\n35:57 Which AI models does Samsara use?\n36:50 Inside Samsara Agent Studio\n37:56 How an AI warranty agent works\n38:50 Starting with practical, lower-risk automation\n40:10 Combining agents, workflows, rules, and guardrails\n42:07 What today’s AI agents still cannot do\n43:07 AI ride-alongs and the future of driver coaching\n45:17 Is workplace AI becoming Big Brother?\n46:27 How cameras can protect and exonerate drivers\n48:48 When AI becomes the judge of your work\n50:37 Robots, humanoids, and mixed human-machine fleets\n53:19 Samsara’s role in autonomous operations\n54:50 How quickly will autonomous trucking arrive\n56:32 AI data centers and America’s infrastructure boom\n58:16 Should lawyers become plumbers? Demand for tradespeople",
+    "title_cn": "没人谈论的最大的物理人工智能部署：我与@Samsara（纽约证券交易所股票代码：$IOT）首席执行官桑吉特·比斯瓦斯（Sanjit Biswas）谈论每天覆盖美国 99% 道路的人工智能以及在现实世界中行动的代理。\n\n00:00：介绍\n01:16 什么是物理人工智能？\n03:04 从物联网仪表板到代理行动\n04:36 为什么物理人工智能比软件人工智能更难\n06:07 安全、网络安全和现实世界的后果\n07:11 轮回做什么\n08:22 2B 美元 ARR、25 万亿数据点和 38 万次崩溃\n09:44 人工智能如何预防道路事故\n11:28 从 MIT 研究项目到 Meraki\n13:42 从头开始学习物理操作\n15:42 Samsara 的堆栈：传感器、智能和行动\n16:39 Samsara 工业资产追踪器内部\n18:36 蓝牙、电池寿命和互联基础设施\n19:49 像贴纸一样的一次性跟踪设备\n21:08 车辆网关和发动机诊断\n22:16 人工智能行车记录仪如何实时指导驾驶员\n23:28 将行车记录仪变成人工智能界面\n24:49 在云端组织物理世界数据\n26:32 向传统行业推销人工智能\n27:52 轮回的现实世界数据是它的人工智能护城河吗？\n29:22 覆盖美国99%道路的网络效应\n31:23 边缘人工智能与云人工智能\n32:35 Samsara 设备内运行的模型\n33:52 生成式人工智能和视频推理\n35:57 Samsara使用哪些AI模型？\n36:50 轮回特工工作室内\n37:56 人工智能保修代理如何运作\n38:50 从实用、风险较低的自动化开始\n40:10 结合代理、工作流程、规则和护栏\n42:07 今天的人工智能代理仍然不能做什么\n43:07 人工智能同行和驾驶员教练的未来\n45:17 职场人工智能正在成为老大哥吗？\n46:27 摄像头如何保护司机并为其开脱\n48:48 当人工智能成为你工作的评判者\n50:37 机器人、类人机器人和混合人机舰队\n53:19 Samsara 在自主运营中的作用\n54:50 自动卡车运输多久才能到来\n56:32 人工智能数据中心和美国的基础设施繁荣\n58:16 律师应该成为水管工吗？对商人的需求",
+    "date": "2026-07-30T19:14:28.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2082881415478415682",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Getting some great feedback on my latest tutorial on how to use Claude to design and build a full-stack app end to end.\n\n📌 Watch it here: https://t.co/u6roGLgYu5 https://t.co/hCNn6QOlt4 https://t.co/Dl9Iu4fqne",
+    "title_cn": "关于如何使用 Claude 端到端设计和构建全栈应用程序的最新教程获得了一些很好的反馈。\n\n📌 在这里观看：https://t.co/u6roGLgYu5 https://t.co/hCNn6QOlt4 https://t.co/Dl9Iu4fqne",
+    "date": "2026-07-30T17:30:02.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2082881262679642281",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "good job little bro https://t.co/wZnUUUxqbW",
+    "title_cn": "干得好，小兄弟 https://t.co/wZnUUUxqbW",
+    "date": "2026-07-30T17:29:25.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2082880884525482061",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "we want to offer the best price/intelligence tradeoff at every level",
+    "title_cn": "我们希望在各个级别提供最佳的价格/情报权衡",
+    "date": "2026-07-30T17:27:55.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2082880720989532597",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence https://t.co/erC6u4VoDR",
+    "title_cn": "今日大幅降价：\n\n*GPT-5.6 Luna 下降 80%，现在每百万输入代币 0.20 美元，每百万输出 1.20 美元\n*GPT-5.6 Terra 下降 20%，至 2 美元/12 美元\n*GPT-5.6 Sol 在 API 中获得快速模式，速度提高 2.5 倍，价格提高 2 倍，智能相同 https://t.co/erC6u4VoDR",
+    "date": "2026-07-30T17:27:16.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2082876367629381719",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We just shaved off up to ~𝟽𝚜 of the end-to-end CLI → Live URL deploy process for many apps.\n\nThis is specially cool when you consider you can integrate all of Vercel's infra via CLI/MCP/API and build your own custom software factory on top.\n\nMy DMs are open if you're building an agent or platform that builds and deploys software autonomously.",
+    "title_cn": "我们刚刚为许多应用程序节省了约𝟽𝚜的端到端 CLI → Live URL 部署过程。\n\n当您考虑可以通过 CLI/MCP/API 集成 Vercel 的所有基础设施并在其上构建您自己的自定义软件工厂时，这特别酷。\n\n如果您正在构建能够自主构建和部署软件的代理或平台，我的 DM 是开放的。",
+    "date": "2026-07-30T17:09:58.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2082864391519682993",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Elons law strikes again! https://t.co/V9EpSUgRfl",
+    "title_cn": "埃隆定律再次来袭！ https://t.co/V9EpSUgRfl",
+    "date": "2026-07-30T16:22:23.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2082862319265050962",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "be careful of leverage folks! https://t.co/5olQh36ese",
+    "title_cn": "大家要小心杠杆！ https://t.co/5olQh36ese",
+    "date": "2026-07-30T16:14:09.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2082856252888211851",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "If Situational Awareness was blindsided, the AI naming curse strikes again. https://t.co/TJEYdhmbv0",
+    "title_cn": "如果态势感知出其不意，人工智能命名诅咒将再次袭来。 https://t.co/TJEYdhmbv0",
+    "date": "2026-07-30T15:50:02.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2082843026716766356",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "We're going to host Evan Barker at an upcoming @garryslist event in San Francisco\n\nIn SF, we were able to vote out the DSA\n\nWe must pass this markdown skill file on to every other blue city https://t.co/AodfrHRiYN",
+    "title_cn": "我们将在旧金山即将举行的 @garryslist 活动中接待 Evan Barker\n\n在 SF，我们能够投票否决 DSA\n\n我们必须将此 Markdown 技能文件传递给其他所有蓝色城市 https://t.co/AodfrHRiYN",
+    "date": "2026-07-30T14:57:29.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2082841035093467229",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure.\n\nAnyone can now build software by just prompting @grok. Hit 🌐 Publish and ship to 1 user or 1 billion. Games, websites, internal apps, personal software… just @grok it. https://t.co/09mvSHqJWv",
+    "title_cn": "Grok Build 应用程序 (*.𝚐𝚛𝚘𝚔.𝚖𝚎) 由 @vercel 托管和 CDN 基础设施提供支持。\n\n现在任何人都可以通过提示@grok 来构建软件。点击 🌐 发布并发送给 1 位用户或 10 亿人。游戏、网站、内部应用程序、个人软件……只需 @grok it。 https://t.co/09mvSHqJWv",
+    "date": "2026-07-30T14:49:34.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2082780247125103071",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "It was fun touching grass for two weeks, but now back to work 🫡 \n\nIn NJ the next two days to hang with @DaltonMillsAI, and NY from August 1st - 5th. \n\nIf you are truly building your life’s work (don’t need to be a founder), I’d love to hang out!",
+    "title_cn": "两周的接触草地很有趣，但现在又回去工作了🫡 \n\n接下来的两天在新泽西州与@DaltonMillsAI 一起，在纽约州则从 8 月 1 日到 5 日。 \n\n如果你真正在打造你一生的事业（不需要成为创始人），我很乐意出去玩！",
+    "date": "2026-07-30T10:48:01.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2082737900706234429",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "How I expect her to react when I say I managed to secure a $2M allocation in the highest valuation tranche of the $800M pre-pre-seed of [new neo-lab] at a $10B valuation  https://t.co/0yBQfDrdK7",
+    "title_cn": "当我说我设法以 100 亿美元的估值在 [new neo-lab] 的 8 亿美元预种子中的最高估值部分中获得 200 万美元的分配时，我希望她有何反应 https://t.co/0yBQfDrdK7",
+    "date": "2026-07-30T07:59:45.000Z"
+  },
+  {
     "url": "https://x.com/zarazhangrui/status/2082705944782520462",
     "type": "x",
     "name": "Zara Zhang",
