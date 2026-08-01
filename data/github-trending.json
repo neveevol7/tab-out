@@ -34,7 +34,7 @@
       "stars": "13.6k",
       "growth": "🔺1089",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "5",
@@ -56,15 +56,6 @@
     },
     {
       "rank": "7",
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "stars": "14.1k",
-      "growth": "🔺796",
-      "description": "Coding Agent Harness",
-      "description_cn": "编码剂线束"
-    },
-    {
-      "rank": "8",
       "name": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "stars": "8.6k",
@@ -73,13 +64,22 @@
       "description_cn": "使用开源模型构建本地语音代理"
     },
     {
-      "rank": "9",
+      "rank": "8",
       "name": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "stars": "18.6k",
       "growth": "🔺758",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "description_cn": "Claude Cowork 的开源替代方案（由 opencode 提供支持）"
+    },
+    {
+      "rank": "9",
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "stars": "11.7k",
+      "growth": "🔺748",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "description_cn": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
     },
     {
       "rank": "10",
@@ -273,5 +273,5 @@
       "description_cn": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
     }
   ],
-  "updated_at": "2026-07-31T23:04:23.637272"
+  "updated_at": "2026-08-01T03:17:38.177236"
 }
