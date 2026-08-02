@@ -153,7 +153,7 @@
       "stars": "95.7k",
       "growth": "🔺4906",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。一张图中的应用程序代码+数据库架构+基础设施。"
+      "description_cn": "AI 编码助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何代码、SQL 架构、R 脚本、shell 脚本、文档、论文、图像或视频文件夹转换为可查询的知识图谱。应用程序代码 + 数据库架构 + 基础设施在一张图中。"
     },
     {
       "rank": "8",
@@ -273,5 +273,5 @@
       "description_cn": "轻松安全地将东西从一台计算机发送到另一台计算机 :crocodile: :package:"
     }
   ],
-  "updated_at": "2026-08-02T10:00:25.251515"
+  "updated_at": "2026-08-02T11:24:22.113075"
 }
