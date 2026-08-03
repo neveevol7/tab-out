@@ -79,7 +79,7 @@
       "stars": "56.6k",
       "growth": "🔺1140",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有根据的摘要"
+      "description_cn": "AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要"
     },
     {
       "rank": "10",
@@ -207,7 +207,7 @@
       "stars": "53.7k",
       "growth": "🔺4088",
       "description": "The design language that makes your AI harness better at design.",
-      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
+      "description_cn": "使您的 AI 线束在设计上更加出色的设计语言。"
     },
     {
       "rank": "14",
@@ -252,7 +252,7 @@
       "stars": "12.5k",
       "growth": "🔺3590",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "description_cn": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
+      "description_cn": "系统交易的精彩库、软件包、策略、书籍、博客、教程的精选列表。"
     },
     {
       "rank": "19",
@@ -273,5 +273,5 @@
       "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-03T21:06:42.075802"
+  "updated_at": "2026-08-03T23:04:15.840646"
 }
