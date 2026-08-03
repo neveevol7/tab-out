@@ -48,6 +48,214 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/swyx/status/2084171901451268599",
+    "type": "x",
+    "name": "Swyx",
+    "title": "haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes 10 yrs of your life making you feel like you are doing something when you are not\n\nhttps://t.co/u5gJ2pYin3",
+    "title_cn": "还没见过这个人的完整周期，但是这个地方绝对可以折磨你，浪费你十年的生命，让你感觉自己在做某事，而实际上你并没有这样做\n\nhttps://t.co/u5gJ2pYin3",
+    "date": "2026-08-03T06:57:58.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2084156733027701164",
+    "type": "x",
+    "name": "Swyx",
+    "title": "in prep for our computer use pod, gonna store a running list of codex cua wow moments. \n\n here it is dealing with support chat for me to escalate for faster resolution\n\nthese humans have no idea they are talking to a bot\n\nsupport guy tried to say its our fault, bot replied with complete receipts lmao",
+    "title_cn": "在为我们的计算机使用 pod 做准备时，将存储 Codex cua wow 时刻的运行列表。 \n\n 这里正在处理支持聊天，以便我升级以获得更快的解决方案\n\n这些人不知道他们正在与机器人交谈\n\n支持人员试图说这是我们的错，机器人回复了完整的收据 lmao",
+    "date": "2026-08-03T05:57:41.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2084155512573288478",
+    "type": "x",
+    "name": "Swyx",
+    "title": "@akshaynathan_ @AriX live now! https://t.co/I7vcXbQEqf",
+    "title_cn": "@akshaynathan_ @AriX 现在直播！ https://t.co/I7vcXbQEqf",
+    "date": "2026-08-03T05:52:50.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2084144207254663417",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "if you haven’t read War and Peace or some of the historical accounts of this like With Napoleon in Russia, you should https://t.co/SNCbN1wCg6",
+    "title_cn": "如果您还没有读过《战争与和平》或一些类似的历史记录，例如《拿破仑在俄罗斯》，您应该 https://t.co/SNCbN1wCg6",
+    "date": "2026-08-03T05:07:55.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2084065527081980285",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Went to a community center in Canada and it has a full swimming pool, jacuzzi, sauna, and even lazy river.\n\nIn the most expensive Bay Area neighborhoods, the community center is just a fancy building with empty rooms that you can rent.",
+    "title_cn": "去了加拿大的一个社区中心，那里有一个完整的游泳池、按摩浴缸、桑拿房，甚至还有漂流河。\n\n在湾区最昂贵的社区，社区中心只是一栋豪华建筑，里面有空房间可供出租。",
+    "date": "2026-08-02T23:55:16.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2084060157085143512",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "PS: we've obviously had agents for a while. In fact, we had too many. Teams and individuals at Vercel started building and deploying agents. Dozens of them.\n\nUsing a web analogy, that'd be like every agent having its own domain name. Not a good UX. I just want ${company}⁠.com!\n\n@𝚟 solved that problem for us. It's both an agent and a router. It has sub-agents, skills, and it knows how to delegate work to other agents.\n\nAnother analogy is that it's a bit like a \"monolith\" or \"monorepo\", but you have the escape hatch of \"proxying\" to another agent over the network when needed. Again, not unlike how routing on the internet evolved at scale.\n\nAnd yes, there's also the occasional purpose-built agent that people address directly. The analogy would be subdomain.⁠company.⁠com. Some agents deserve their own \"front doors\", but I don't think there should be too many.\n\nAnd when in doubt, just @𝚟.",
+    "title_cn": "PS：我们显然已经有代理了一段时间了。事实上，我们拥有的太多了。 Vercel 的团队和个人开始构建和部署代理。有几十个。\n\n使用网络类比，这就像每个代理都有自己的域名。不是一个好的用户体验。我只想要 ${company}⁠.com！\n\n@𝚟 为我们解决了这个问题。它既是代理又是路由器。它有子代理、技能，并且知道如何将工作委派给其他代理。\n\n另一个类比是，它有点像“整体”或“monorepo”，但您可以在需要时通过网络“代理”到另一个代理。同样，这与互联网上路由的大规模发展没有什么不同。\n\n是的，偶尔还有人们直接联系的专门代理。类比是 subdomain.⁠company.⁠com。有些代理商应该有自己的“前门”，但我认为不应该有太多。\n\n如果有疑问，只需@𝚟。",
+    "date": "2026-08-02T23:33:56.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2084042561690456157",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We built an agent that powers our company's internal operations called @𝚟.\n\nEvery day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.\n\nOne can extrapolate to the day AI agents run entire companies from here. It's an expert in finance, comms, docs, marketing, engineering, business analytics. It's seeded by the skills we gave it and we update, but it's also constantly improving.\n\nIt already keeps memories and personalized workflows and schedules on a per-user basis. For example, I knew skills⁠.sh hit 1M skills and I shared this on these forums because I asked @𝚟 to periodically check and remind me.\n\nIt's powered by and is also the basis for the design of @evedev_. We built this, it works fantastically well, we think every company should have it.\n\nBefore you @ me, I know you could also do this by picking your 'BigAI slack integration' du jour. But that's not your agent, that's their agent. If agents become the foundation of (and even synonymous with) modern companies, you being in complete control, from source → runtime → data → token, seems like a pretty big deal to me.",
+    "title_cn": "我们建立了一个为公司内部运营提供支持的代理，名为@𝚟。\n\n现在，Vercel 的每项日常工作都涉及@𝚟。它在日常互动和代币使用方面都呈指数级增长。\n\n人们可以从这里推断人工智能代理管理整个公司的那一天。它是金融、通信、文档、营销、工程、业务分析方面的专家。它是由我们赋予它的技能播种的，我们不断更新，但它也在不断改进。\n\n它已经为每个用户保留了记忆以及个性化的工作流程和时间表。例如，我知道 Skills⁠.sh 达到了 1M 技能，我在这些论坛上分享了这一点，因为我要求 @𝚟 定期检查和提醒我。\n\n它由 @evedev_ 提供支持，也是其设计的基础。我们构建了这个，它运行得非常好，我们认为每个公司都应该拥有它。\n\n在你@我之前，我知道你也可以通过选择你的“BigAI slack 集成”来做到这一点。但这不是你的经纪人，而是他们的经纪人。如果代理成为现代公司的基础（甚至是同义词），那么你完全控制从源→运行时→数据→令牌，对我来说似乎是一件大事。",
+    "date": "2026-08-02T22:24:01.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2084038453831020916",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. \n\nwe tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. \n\nyou are no longer required, and you had no say in the matter. it's a kind of death.\n\nhowever, agency ruptures with AI seem to follow a predictable pattern:\n\n- Initial agency rupture. Here you see the AI doing what you used to do, and you see only the AI. In your perception of reality the AI is highlighted, and the human work around getting the AI to do the thing, is invisible. you can see this in the way we use language: \"AI solved XYZ Erdos Problem\" is another way to say we're in the initial rupture phase.\n\n- Seeing human scaffolding. After a little bit of experience with the model and its new capibility—programming, writing, math, etc—we start to see the edges of what's possible with the model. Here, instead of just seeing the AI doing the task, we start to see the scaffolding required by you and other humans on either end to make sure the model does its work. At this stage, the scaffolding can feel like a secondary part of the work, but it is work nonetheless. We begin to say things like, \"The AI is prompting me\", or \"My job is just to babysit Claude.\" \n\n- Agency reconstruction. After a long enough time with the model at its current level of capability, we start to reconstruct a new sense of agency that centers our own role in the work being done, and makes the model's contribution mostly invisible. It is now a tool, it fast-forwards you through the boring or repetitive parts of the work, and what used to seem like scaffolding now seems like the actual work itself—the interesting part. You've had enough experience with the scaffolding to see its nuances, and how hard it is to get the model to reliably output high quality work. (As part of this, your conception of what quality work is changes—the floor is raised, and so is the ceiling.)\n\nYou can tell you're at this point because you stop saying \"The AI did this\" and just say, \"I did this\" and the fact that you used AI is implied. For example, it would be weird for me to talk to someone @every and ask them if the AI built the most recent feature of a product. Of course it did! But we're so used to the capability that it becomes invisible, and we re-center ourselves and our own conception of agency.\n\nMy theory is that the ability to metabolize agency ruptures and turn them into playfulness, and curiosity is a good leading indicator for whether you're a person who likes and excels in the new AI economy or not.  \n\nEach time capabilities jump, you get new ruptures for existing fields touched by AI. And you get new ruptures for naive populations (like mathemeticians) who until recently hadn't been affected.\n\nif you know what the cycle looks like, it makes it much easier to ride it without freaking out. i think most people @every are naturally good at this",
+    "title_cn": "当你体验到一个语言模型正在执行一项任务，以前每一步都需要你，而现在则不需要，这就是巨大的机构断裂。 \n\n我们倾向于将自己与我们的任务、我们的产出等同起来，而这种破裂类似于你的身份和自我意识的丧失。 \n\n你不再被需要，你在这件事上没有发言权。这是一种死亡。\n\n然而，机构与人工智能的决裂似乎遵循一种可预测的模式：\n\n- 最初的机构破裂。在这里你看到人工智能正在做你以前做的事情，而你只看到人工智能。在你对现实的感知中，人工智能是突出的，而人类让人工智能做事的工作是看不见的。你可以从我们使用语言的方式中看到这一点：“人工智能解决了 XYZ 鄂尔多斯问题”是说我们正处于初始破裂阶段的另一种方式。\n\n- 看到人类脚手架。在对模型及其新功能（编程、写作、数学等）有了一些经验后，我们开始看到该模型的可能性。在这里，我们不只是看到人工智能执行任务，而是开始看到你和其他人在两端所需的脚手架，以确保模型完成其工作。在这个阶段，脚手架可能感觉像是工作的次要部分，但它仍然是工作。我们开始说“人工智能正在提示我”，或者“我的工作只是照顾克劳德”。 \n\n- 机构重建。在模型处于当前的能力水平上经过足够长的时间后，我们开始重建一种新的代理意识，将我们自己的角色集中在正在完成的工作中，并使模型的贡献基本上不可见。它现在是一种工具，它可以让你快速完成工作中无聊或重复的部分，而以前看起来像脚手架的东西现在看起来就像是实际的工作本身——有趣的部分。您已经拥有足够的脚手架经验，可以了解其细微差别，以及让模型可靠地输出高质量工作有多么困难。 （作为其中的一部分，你对高质量工作的概念发生了变化——地板提高了，天花板也提高了。）\n\n你可以看出你现在已经到了这一点，因为你不再说“人工智能做了这个”，而是说“我做了这个”，并且暗示了你使用人工智能的事实。例如，对我来说，与某人 @every 交谈并询问他们人工智能是否构建了产品的最新功能会很奇怪。当然是这样！但我们已经习惯了这种能力，以至于它变得无形，我们重新以我们自己和我们自己的代理概念为中心。\n\n我的理论是，代谢代理破裂并将其转化为乐趣和好奇心的能力是一个很好的领先指标，可以判断你是否是一个喜欢新人工智能经济并在新人工智能经济中表现出色的人。  \n\n每次能力跳跃，人工智能触及的现有领域都会出现新的断裂。对于直到最近才受到影响的天真的人群（例如数学家）来说，你会遇到新的破裂。\n\n如果你知道自行车是什么样子，骑起来就容易多了，而且不会惊慌失措。我认为大多数人@every 天生就擅长于此",
+    "date": "2026-08-02T22:07:41.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2084024211539116466",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "if ought implies can, and technology reshapes the field of human abilities—then technology reshapes oughts. \n\nwe should expect AI to fundamentally change our moral intuitions at the same time as it changes our abilities",
+    "title_cn": "如果“应该”意味着“可以”，而技术重塑了人类能力领域——那么技术就重塑了“应该”。 \n\n我们应该期望人工智能在改变我们的能力的同时，也能从根本上改变我们的道德直觉",
+    "date": "2026-08-02T21:11:05.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2084017252152856716",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Woah https://t.co/d20LLYD88E",
+    "title_cn": "哇 https://t.co/d20LLYD88E",
+    "date": "2026-08-02T20:43:26.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2083978109376987365",
+    "type": "x",
+    "name": "Thariq",
+    "title": "i think there are lots of parallels to what happened with chess",
+    "title_cn": "我认为与国际象棋发生的事情有很多相似之处",
+    "date": "2026-08-02T18:07:54.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2083977795290734975",
+    "type": "x",
+    "name": "Thariq",
+    "title": "you can already see Jevons paradox at work in mathematics\n\nthere is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels\n\ndemand for people who think and know about math will go up",
+    "title_cn": "你已经可以看到杰文斯悖论在数学中的作用\n\n发生了更多的事情，更容易理解，数学家有更多的时间在更高的抽象层次上与我们讨论\n\n对思考和了解数学的人的需求将会增加",
+    "date": "2026-08-02T18:06:39.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2083976289485230449",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "That's a fairly new kind of spam. https://t.co/nwdRM5e7Hv https://t.co/7hXqYZnanw",
+    "title_cn": "这是一种相当新型的垃圾邮件。 https://t.co/nwdRM5e7Hv https://t.co/7hXqYZnanw",
+    "date": "2026-08-02T18:00:40.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2083969120270450911",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+    "title_cn": "人工智能本身就很酷。但掌握+创造力+人工智能达到了一个完全不同的水平。不要让任何人阻止您追求卓越和工艺。继续研究刀片。",
+    "date": "2026-08-02T17:32:11.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2083968605432267139",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "One of the biggest benefits of Hermes is that it builds its own skills to help you get work done.\n\nBut I had to ask @karan4d, @NousResearch co-founder: \"How does Hermes avoid slop while doing this?\"\n\nHere's his response:\n\n\"Hermes Curator [a background task] runs inside your agent and cleans up your skills and memory on a schedule, asking: Where's the slop, and where can I make it more efficient?\n\nAnd because it's open source, you can hand it your own definition of slop and it rewrites its own cleanup loop your way.\"\n\n📌 Watch the full episode here: https://t.co/3E7IC0TzNr",
+    "title_cn": "Hermes 最大的好处之一是它可以培养自己的技能来帮助您完成工作。\n\n但我不得不问 @karan4d，@NousResearch 联合创始人：“Hermes 在这样做时如何避免溢出？”\n\n这是他的回应：\n\n“Hermes Curator（后台任务）在你的代理内部运行，按计划清理你的技能和记忆，并询问：污水在哪里，我可以在哪里提高效率？\n\n而且因为它是开源的，您可以将自己的溢出定义交给它，它会按照您的方式重写自己的清理循环。”\n\n📌 在这里观看完整剧集：https://t.co/3E7IC0TzNr",
+    "date": "2026-08-02T17:30:08.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2083965372747882741",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability. \n\nMath, cyber, and code -while being insanely hard and high value fields- have the benefit of being able to be tested that it’s correct objectively. This has two immediate benefits: the training of the models offers clearer reward signals, and then the running of the models allows you to know that it’s working properly because you can test the results in a scalable way.\n\nConversely, in other domains of work, there’s much less instant verifiability. Which legal clauses your client will agree to, what marketing campaign to run with based on changing sentiment, which message your sales prospect will want to hear, what financial targets and budget to set for a business, and so on. \n\nAll of these domains have changing internal and external factors, they don’t have “one right answer”, they rely on the opinions and risk levels of the operators, they’re highly sensitive to getting the right input context first, and in many cases the right answer can’t even be known for quite some time after the model generates the results.\n\nThe implications of this distinction are that -even as model capability continues to increase exponentially- there will be a lot done at the applied AI layer than just the the model itself, and much of the processes themselves will even need to change over time to get the full gains from automation. We may even need all new capabilities to be able to “test” knowledge work over time as we have had with software.",
+    "title_cn": "我们将面临一种奇怪的动态，即世界上一些“最困难”的工作实际上首先倾向于自动化，特别是因为它的可验证性。 \n\n数学、网络和代码虽然是极其困难和高价值的领域，但其好处是能够客观地测试其正确性。这有两个直接的好处：模型的训练提供了更清晰的奖励信号，然后模型的运行让您知道它正在正常工作，因为您可以以可扩展的方式测试结果。\n\n相反，在其他工作领域，即时验证性要少得多。您的客户会同意哪些法律条款，根据不断变化的情绪开展哪些营销活动，您的销售潜在客户希望听到哪些信息，为企业设定哪些财务目标和预算等等。 \n\n所有这些领域都有不断变化的内部和外部因素，它们没有“一个正确的答案”，它们依赖于操作者的意见和风险水平，它们对首先获得正确的输入上下文高度敏感，并且在许多情况下，甚至在模型生成结果后的相当长一段时间内都无法知道正确的答案。\n\n这种区别的含义是，即使模型能力继续呈指数级增长，应用人工智能层也会做很多工作，而不仅仅是模型本身，而且许多流程本身甚至需要随着时间的推移而改变，才能从自动化中获得全部收益。我们甚至可能需要所有新功能来随着时间的推移“测试”知识工作，就像我们对软件所做的那样。",
+    "date": "2026-08-02T17:17:17.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2083957110711386439",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Growth is good\n\nAI will create unimaginable economic growth and that is the best white pill https://t.co/wdR7nHuWJD https://t.co/30xeF2N8hO",
+    "title_cn": "成长性好\n\n人工智能将创造难以想象的经济增长，这是最好的白色药丸 https://t.co/wdR7nHuWJD https://t.co/30xeF2N8hO",
+    "date": "2026-08-02T16:44:27.000Z"
+  },
+  {
+    "url": "https://x.com/karpathy/status/2083948654377996480",
+    "type": "x",
+    "name": "Andrej Karpathy",
+    "title": "More on the pelican on the bicycle test from @simonw:\nhttps://t.co/OXmtODyTKj\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nhttps://t.co/w3Nctc888d\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+    "title_cn": "更多关于 Pelican 自行车测试的信息来自 @simonw：\nhttps://t.co/OXmtODyTKj\n\n我在这里上传了源代码，因此可以在浏览器中播放、可分叉等。\nhttps://t.co/w3Nctc888d\n\n请留意《GTA 霍比屯》在 GTA VI 之前掉落的内容 :)",
+    "date": "2026-08-02T16:10:51.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2083947480136421384",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Personality matters! A smart friend that's annoying to talk to is no good. https://t.co/QMkhu1mSxl https://t.co/Kswxq1NiYs",
+    "title_cn": "性格很重要！一个聪明的朋友，如果和他说话很烦人，那就不好了。 https://t.co/QMkhu1mSxl https://t.co/Kswxq1NiYs",
+    "date": "2026-08-02T16:06:11.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2083939454017053179",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "my early mentors were these apps, especially Rdio, Mailbox, and Apple\n\nthey made new patterns that made software feel simpler and intuitive to touch\n\nas we leave the world of apps behind, what parts of software will remain visible, and how could it feel? https://t.co/6QYLpjcund",
+    "title_cn": "我早期的导师是这些应用程序，尤其是 Rdio、Mailbox 和 Apple\n\n他们创造了新的模式，使软件触感更简单、直观\n\n当我们把应用程序的世界抛在脑后时，软件的哪些部分仍然可见，它的感觉如何？ https://t.co/6QYLpjcund",
+    "date": "2026-08-02T15:34:18.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2083936067355635948",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "You can watch the games live on the website. Mf is playing 3 concurrent games rn https://t.co/J1a4ij9J07",
+    "title_cn": "您可以在网站上观看比赛直播。 Mf 正在玩 3 个并发游戏 rn https://t.co/J1a4ij9J07",
+    "date": "2026-08-02T15:20:50.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2083926395403821427",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. \n\n1253 Elo: https://t.co/W3qp1Z1i7I https://t.co/WwPOjDggU1",
+    "title_cn": "我的法学硕士国际象棋引擎现在在 LiChess 上自主地与人和机器人进行真正的游戏。 \n\n第1253章",
+    "date": "2026-08-02T14:42:24.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2083925904598733088",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Warm NYC nights are magic 🪄 https://t.co/KGpckLDaAo",
+    "title_cn": "温暖的纽约之夜是神奇的🪄 https://t.co/KGpckLDaAo",
+    "date": "2026-08-02T14:40:27.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2083923385193828612",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The sense of wonder disappeared right at the moment the amount of wonder is going parabolic https://t.co/p56UMAFiZq",
+    "title_cn": "当奇迹的数量呈抛物线式增长时，奇迹感就消失了 https://t.co/p56UMAFiZq",
+    "date": "2026-08-02T14:30:27.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2083920039208693996",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Everyone mistakes the map for the territory\n\nMeritocracy is that the territory matters more than the map\n\nAnd in markets the outcome is the territory: did you make something people want? https://t.co/wOTHnKqk7Y",
+    "title_cn": "每个人都把地图误认为是领土\n\n精英主义是领土比地图更重要\n\n在市场中，结果就是领域：你制造了人们想要的东西吗？ https://t.co/wOTHnKqk7Y",
+    "date": "2026-08-02T14:17:09.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2083873335998333227",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side..\n\n1) VC has effectively fully become vibes capital. The market reality at the early-mid stage is completely divorced from fundamentals. I can go longer with even a resemblance of a straight face predict what happens to a company when they go to fund raise. \n\nSome rounds are insanely wild with nothing to show, some rounds that seem like a sure shot are struggling to raise the capital they need. If you’re the “in vogue sector”, you’ll be just fine. This has been happening for some while but it’s fully banana town now. And unlike most who think a correction happens I think this continues for 12-18 months (dry powder, AI tailwind) minimum. The most common phrase in VC land right now is “you gotta play the game on the field”. This is a spiral that continues to keep the volatility and prices high. \n\n2) Whereas on the public markets it’s also equally bananas. It used to be in the meme stock era that you’d see daily swings of >5% (+\\-). But now even trillion dollar stocks are not immune to swinging that much based on vibes and model releases. Memory and the KOSPI index are recent examples and this will happen to other sectors soon. Rotations are getting faster and faster.\n\nIn the long run, the same fundamentals of building a great company with control of your own destiny (profitable, clean cap table etc) will end up just working out fine. But in the short term, in this vortex of hyper competition where capital is needed as a weapon, you should make sure you understand what’s going on before you dip your toes in the capital markets. \n\nNo matter what it’ll be interesting to see how this shakes out when we look back in this era. Obligatory happy to chat if helpful!",
+    "title_cn": "我们生活在一个多么狂野的世界啊。我最近写了一篇关于 A 轮挤压的文章。以下是我在投资方面看到的其他内容。\n\n1）VC实际上已经完全成为共鸣资本。早中期的市场现实完全脱离了基本面。即使是板着脸，我也能更长时间地预测一家公司在融资时会发生什么。 \n\n有些回合非常疯狂，没有什么可展示的，有些回合看起来很有把握，却在努力筹集所需的资金。如果你是“时尚界”，那就没问题了。这种情况已经发生有一段时间了，但现在这里完全是香蕉城了。与大多数认为会发生修正的人不同，我认为这种情况至少会持续 12-18 个月（干粉，人工智能顺风）。现在VC界最常见的一句话是“你必须在场上玩游戏”。这是一个螺旋式的循环，继续使波动性和价格保持在高位。 \n\n2）而在公开市场上，它也同样是香蕉。过去在 meme 股票时代，你会看到每日波动 >5% (+\\-)。但现在，即使是价值数万亿美元的股票也无法避免因氛围和模型发布而产生如此大的波动。内存和 KOSPI 指数是最近的例子，这种情况很快就会发生在其他行业。旋转速度越来越快。\n\n从长远来看，建立一家掌控自己命运的伟大公司的基本原则（盈利、干净的股权结构表等）最终会很好地发挥作用。但从短期来看，在这个需要资本作为武器的激烈竞争漩涡中，你应该确保在涉足资本市场之前了解正在发生的事情。 \n\n无论如何，当我们回顾这个时代时，看看它会如何发展将会很有趣。如果有帮助的话，很乐意聊天！",
+    "date": "2026-08-02T11:11:34.000Z"
+  },
+  {
     "url": "https://x.com/steipete/status/2083759812970786997",
     "type": "x",
     "name": "Peter Steinberger",
