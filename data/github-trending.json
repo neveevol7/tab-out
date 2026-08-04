@@ -70,7 +70,7 @@
       "stars": "21.7k",
       "growth": "🔺1460",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
@@ -207,7 +207,7 @@
       "stars": "53.7k",
       "growth": "🔺4088",
       "description": "The design language that makes your AI harness better at design.",
-      "description_cn": "使您的 AI 线束在设计上更加出色的设计语言。"
+      "description_cn": "设计语言可以让您的 AI 线束更好地进行设计。"
     },
     {
       "rank": "14",
@@ -273,5 +273,5 @@
       "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-04T06:30:22.350402"
+  "updated_at": "2026-08-04T10:42:20.317212"
 }
