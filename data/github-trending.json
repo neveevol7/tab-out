@@ -16,7 +16,7 @@
       "stars": "9.8k",
       "growth": "🔺1837",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": "3",
@@ -61,7 +61,7 @@
       "stars": "48.1k",
       "growth": "🔺1133",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
     },
     {
       "rank": "8",
@@ -162,7 +162,7 @@
       "stars": "17.4k",
       "growth": "🔺5089",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
     },
     {
       "rank": "9",
@@ -216,7 +216,7 @@
       "stars": "56.8k",
       "growth": "🔺3967",
       "description": "12 Weeks, 24 Lessons, AI for All!",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "12 周，24 节课，全民人工智能！"
     },
     {
       "rank": "15",
@@ -270,8 +270,8 @@
       "stars": "13.3k",
       "growth": "🔺3359",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-05T02:46:08.636979"
+  "updated_at": "2026-08-05T06:31:03.709280"
 }
