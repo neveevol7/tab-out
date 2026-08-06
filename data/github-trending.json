@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "stars": "17.7k",
-      "growth": "🔺2258",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "description_cn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "rank": "2",
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "9.8k",
-      "growth": "🔺1837",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
-    },
-    {
-      "rank": "3",
-      "name": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "stars": "11k",
-      "growth": "🔺1793",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "4",
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": "13.3k",
-      "growth": "🔺1369",
+      "stars": "14.9k",
+      "growth": "🔺1629",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "description_cn": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
+      "rank": "2",
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "stars": "6k",
+      "growth": "🔺1584",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "3",
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "11.3k",
+      "growth": "🔺1477",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+    },
+    {
+      "rank": "4",
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "19k",
+      "growth": "🔺1316",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "description_cn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
       "rank": "5",
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "stars": "28.2k",
-      "growth": "🔺1367",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "description_cn": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars": "16.9k",
+      "growth": "🔺595",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "6",
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "stars": "4.5k",
-      "growth": "🔺1291",
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "stars": "11.6k",
+      "growth": "🔺594",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "7",
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "stars": "48.1k",
-      "growth": "🔺1133",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "description_cn": "开源人工智能渗透测试工具，用于查找并修复应用程序的漏洞。"
-    },
-    {
-      "rank": "8",
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "stars": "61.6k",
-      "growth": "🔺1021",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "description_cn": "12 周，24 节课，全民人工智能！"
-    },
-    {
-      "rank": "9",
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": "95.8k",
-      "growth": "🔺995",
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "stars": "3.4k",
+      "growth": "🔺525",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "8",
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "stars": "19.7k",
+      "growth": "🔺510",
+      "description": "Edit videos with coding agents",
+      "description_cn": "使用编码代理编辑视频"
+    },
+    {
+      "rank": "9",
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "17.2k",
+      "growth": "🔺505",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+    },
+    {
       "rank": "10",
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "stars": "39.5k",
-      "growth": "🔺873",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "8.7k",
+      "growth": "🔺364",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "description_cn": "最适合您和您的 AI 代理并行工作的浏览器。"
     }
   ],
   "weekly": [
@@ -99,7 +99,7 @@
       "stars": "20.3k",
       "growth": "🔺10780",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "2",
@@ -216,7 +216,7 @@
       "stars": "56.8k",
       "growth": "🔺3967",
       "description": "12 Weeks, 24 Lessons, AI for All!",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "12 周，24 节课，全民人工智能！"
     },
     {
       "rank": "15",
@@ -243,7 +243,7 @@
       "stars": "20.6k",
       "growth": "🔺3609",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
     },
     {
       "rank": "18",
@@ -273,5 +273,5 @@
       "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-05T23:02:50.806415"
+  "updated_at": "2026-08-06T02:49:11.459772"
 }
