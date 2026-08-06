@@ -99,7 +99,7 @@
       "stars": "20.3k",
       "growth": "🔺10780",
       "description": "A hive mind communication platform",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "蜂巢思维交流平台"
     },
     {
       "rank": "2",
@@ -252,7 +252,7 @@
       "stars": "12.5k",
       "growth": "🔺3590",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "description_cn": "一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。"
+      "description_cn": "系统交易的精彩库、软件包、策略、书籍、博客、教程的精选列表。"
     },
     {
       "rank": "19",
@@ -273,5 +273,5 @@
       "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-06T02:49:11.459772"
+  "updated_at": "2026-08-06T06:34:16.733348"
 }
