@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "stars": "10.7k",
-      "growth": "🔺2909",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "stars": "8.5k",
+      "growth": "🔺2213",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "2",
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": "17.4k",
-      "growth": "🔺1242",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "description_cn": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "stars": "12k",
+      "growth": "🔺1297",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "3",
       "name": "cloudflare/computer",
       "url": "https://github.com/cloudflare/computer",
-      "stars": "5.5k",
-      "growth": "🔺816",
+      "stars": "6.5k",
+      "growth": "🔺1027",
       "description": "Give your agent a computer 👾",
       "description_cn": "给你的代理人一台电脑👾"
     },
     {
       "rank": "4",
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "13k",
-      "growth": "🔺709",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "18.1k",
+      "growth": "🔺723",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "description_cn": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
       "rank": "5",
       "name": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "stars": "18.2k",
-      "growth": "🔺693",
+      "stars": "18.8k",
+      "growth": "🔺606",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "6",
-      "name": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "stars": "3.3k",
-      "growth": "🔺587",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "description_cn": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
-    },
-    {
-      "rank": "7",
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": "18.1k",
-      "growth": "🔺409",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
-    },
-    {
-      "rank": "8",
       "name": "FareedKhan-dev/kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stars": "3.2k",
-      "growth": "🔺408",
+      "stars": "3.7k",
+      "growth": "🔺499",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "7",
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "10.6k",
+      "growth": "🔺465",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+    },
+    {
+      "rank": "8",
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "13.4k",
+      "growth": "🔺440",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+    },
+    {
       "rank": "9",
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "stars": "19.6k",
-      "growth": "🔺387",
-      "description": "Why is this running?",
-      "description_cn": "这是为什么运行？"
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "18.5k",
+      "growth": "🔺388",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "10",
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "stars": "7.4k",
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "stars": "2.5k",
       "growth": "🔺343",
-      "description": "---",
-      "description_cn": null
+      "description": "self-hosted, distributed Durable Objects",
+      "description_cn": "自托管、分布式持久对象"
     }
   ],
   "weekly": [
@@ -117,7 +117,7 @@
       "stars": "36.9k",
       "growth": "🔺8312",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "description_cn": "永远不要停止编码。免费 AI 网关：一个端点、231 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "4",
@@ -144,7 +144,7 @@
       "stars": "15.2k",
       "growth": "🔺5618",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
@@ -273,5 +273,5 @@
       "description_cn": "让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。"
     }
   ],
-  "updated_at": "2026-08-08T22:32:21.390426"
+  "updated_at": "2026-08-09T01:57:50.894469"
 }
