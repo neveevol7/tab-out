@@ -48,6 +48,310 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/swyx/status/2087045848022843451",
+    "type": "x",
+    "name": "Swyx",
+    "title": "gpt luna max vs claude fable ultracode \n\nsent \"pls build a mostly faithful clone of grok imagine with open models via fal\"\n\ni woke up to these two and assumed fable was left and luna was right\n\ni was wrong... it was the other way!!\n\nobjectively, fable did the better visual clone. but luna somehow understood intent better and created the more USABLE clone given my open model bent.",
+    "title_cn": "GPT Luna Max VS 克劳德寓言 UltraCode \n\n发送“请通过 fal 使用开放模型构建一个最忠实的 grok Imagine 克隆”\n\n我醒来看到这两个人，以为寓言是左边，卢娜是右边\n\n我错了……是相反的！！\n\n客观地讲，《寓言》在视觉克隆方面做得更好。但卢娜以某种方式更好地理解了意图，并根据我的开放模型倾向创建了更可用的克隆。",
+    "date": "2026-08-11T05:18:00.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2087017780617126075",
+    "type": "x",
+    "name": "Swyx",
+    "title": "btw pdb envs have an experimental AFS clone support that basically does what all of you are suggesting but runtime agnostic and language agnostic\n\nhttps://t.co/SiFupvsIm8\n\nwe shall replace git by making every single command \"agent native\"",
+    "title_cn": "顺便说一句，pdb envs 有一个实验性的 AFS 克隆支持，基本上可以完成你们所有人的建议，但与运行时和语言无关\n\nhttps://t.co/SiFupvsIm8\n\n我们将通过使每个命令都成为“代理本机”来取代 git",
+    "date": "2026-08-11T03:26:28.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2087015462014197906",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Are they going to send this to China too? https://t.co/uDui5DGmMD",
+    "title_cn": "他们也要把这个寄到中国吗？ https://t.co/uDui5DGmMD",
+    "date": "2026-08-11T03:17:15.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2087009941806797206",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. \n\nThis is very important because it opens up AI adoption in a range of scenarios that weren’t viable before. Models can be deployed on prem or in the cloud on private infra, which means use-cases in highly regulated domains can be opened up.\n\nYou can also now post-train a frontier class model on specific vertical use-cases that need extra levels of performance for their tasks, like in legal, healthcare, and other spaces. You also ensure sovereignty in case any models ever get pulled from the marketplace, which gives users more confidence in deploying in certain mission critical areas.\n\nAll of this is great news for the applied AI layer, because this is where you can route work to different model families based on the task at hand. Great time to building at the harness layer given the options available now.\n\nAnd closed frontier models will still be heavily used both due to simplicity and because you tend to need a mix of capability level for any hard problem, but having open weights in the mix helps defray costs and provides more flexibility. Great news all around.",
+    "title_cn": "如果你三个月前告诉某人，一家美国公司发布的具有前沿级能力的模型将作为开放重量提供，他们不会相信。 \n\n这非常重要，因为它开启了人工智能在一系列以前不可行的场景中的采用。模型可以部署在本地或私有基础设施的云中，这意味着可以开放高度监管领域的用例。\n\n您现在还可以针对特定垂直用例对前沿类模型进行后训练，这些用例需要额外的性能水平来完成其任务，例如在法律、医疗保健和其他领域。您还可以确保主权，以防任何模型从市场上撤下，这使用户更有信心在某些关键任务领域进行部署。\n\n所有这些对于应用 AI 层来说都是好消息，因为您可以在此处根据手头的任务将工作路由到不同的模型系列。考虑到现在可用的选项，是在线束层进行构建的好时机。\n\n由于简单性和您往往需要混合能力级别来解决任何难题，封闭边界模型仍将被大量使用，但在混合中使用开放权重有助于支付成本并提供更大的灵活性。到处都是好消息。",
+    "date": "2026-08-11T02:55:19.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2087006417509405084",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Funny how that headline is about OpenClaw and not Claude. As if the harness could meaningfully prevent a determined user. https://t.co/aMbeif6Bhy",
+    "title_cn": "有趣的是，这个标题是关于 OpenClaw 而不是 Claude。就好像安全带可以有效地阻止坚定的用户一样。 https://t.co/aMbeif6Bhy",
+    "date": "2026-08-11T02:41:19.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2086980465534345677",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "bruh, you’re like a dude wearing full camo in downtown nyc. you are the watermark.\n\nthat’s the load-bearing part and is worth sitting with. https://t.co/hXh8jQNEGu",
+    "title_cn": "布鲁赫，你就像一个在纽约市中心穿着全套迷彩服的家伙。你就是水印。\n\n这是承重部分，值得坐下来。 https://t.co/hXh8jQNEGu",
+    "date": "2026-08-11T00:58:11.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2086972933566857393",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week.",
+    "title_cn": "所有付费 ChatGPT Work 和 Codex 用户的使用限制已重置。祝大家星期一快乐。希望这是美妙的一周。",
+    "date": "2026-08-11T00:28:16.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2086972802457063486",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Hi.\n\nIt is done. https://t.co/JRYltKvT0v",
+    "title_cn": "你好。\n\n完成了。 https://t.co/JRYltKvT0v",
+    "date": "2026-08-11T00:27:44.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2086965425968148806",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel.\n\n“Did you deepsec it?”\n“@𝚟 can you deepsec”\n“/𝚍𝚎𝚎𝚙𝚜𝚎𝚌”\n\nIt’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠 but for the security of your code. Must have in your software factory.",
+    "title_cn": "该工具对于网络安全防御工作变得非常有价值，以至于它已成为 Vercel 中的一个动词。\n\n“你对它进行了深度加密吗？”\n“@𝚟 你能深度安全吗”\n“/𝚍𝚎𝚎𝚙𝚜𝚎𝚌”\n\n有点像/𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌 𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠但为了你的代码的安全。您的软件工厂中必须有。",
+    "date": "2026-08-10T23:58:26.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2086962980235939920",
+    "type": "x",
+    "name": "Swyx",
+    "title": "worktrees must die\n\nthis is 20GB of repeated node_modules lol https://t.co/tyvbt1WVJm",
+    "title_cn": "工作树必须死\n\n这是 20GB 的重复 node_modules 哈哈 https://t.co/tyvbt1WVJm",
+    "date": "2026-08-10T23:48:43.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2086962743111016840",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Was so fun to speak to the @speedrun @a16z startups while enjoying ▲ 🍵. Great founders and great vibes https://t.co/09k8SXGOxe",
+    "title_cn": "在享受 ▲ 🍵 的同时与 @speedrun @a16z 初创公司交谈真是太有趣了。伟大的创始人和伟大的氛围 https://t.co/09k8SXGOxe",
+    "date": "2026-08-10T23:47:46.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2086957346576626116",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "co-sign https://t.co/zMA6WgGz1N",
+    "title_cn": "联合签名 https://t.co/zMA6WgGz1N",
+    "date": "2026-08-10T23:26:19.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2086946535716393209",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Vercel Sandbox isolates both ① compute and ② network.\n\nKimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①.\n\nOpenAI's escape was on ② the network path to Artifactory. Our egress firewall is now free so everyone can constrain misbehaving agents' network activity further.\n\n¹ \"in our early experiments with traditional container-based sandbox runtimes, we observed several kernel\npanics and deadlocks caused by unintended agent operations.\" \n🔗 github⁠.com/MoonshotAI/Kimi-K3/blob/master/k3_tech_report.pdf\n\n² \"to gain Internet access, the models identified and exploited a previously unknown zero-day vulnerability in Artifactory⁠, a package registry cache proxy\"\n🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/",
+    "title_cn": "Vercel Sandbox 隔离了 ① 计算和 ② 网络。\n\nKimi 的论文表明，基于容器的隔离对于前沿模型来说是不够的。 Vercel Sandbox 使用强大的 microVM 隔离来解决①问题。\n\nOpenAI 的逃亡是在通往 Artifactory 的网络路径上。我们的出口防火墙现在是免费的，因此每个人都可以进一步限制行为不当的代理的网络活动。\n\n¹“在我们对传统的基于容器的沙箱运行时的早期实验中，我们观察到了几个内核\n由意外的代理操作引起的恐慌和僵局。” \n🔗 github⁠.com/MoonshotAI/Kimi-K3/blob/master/k3_tech_report.pdf\n\n²“为了获得互联网访问权限，模型识别并利用了 Artifactory（一个包注册表缓存代理）中先前未知的零日漏洞”\n🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/",
+    "date": "2026-08-10T22:43:22.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2086945175709114841",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "https://t.co/MEKI8f3uah",
+    "title_cn": "https://t.co/MEKI8f3uah",
+    "date": "2026-08-10T22:37:58.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2086938582825173277",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Must be load-bearing. https://t.co/9Jq3gslbx7",
+    "title_cn": "必须是承重的。 https://t.co/9Jq3gslbx7",
+    "date": "2026-08-10T22:11:46.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2086936798710923603",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We love to test new ideas, get quick feedback from you, and learn. With this, we've gathered so many great insights from our Portraits experiment and are concluding it on September 14.\n\nWe’ll be taking what we learned about expert-grounded AI and weaving it into other Google products.\n\nThank you for experimenting with us. Stay tuned for what's next and keep trying out our other experiments at https://t.co/TcBfiPohNK",
+    "title_cn": "我们喜欢测试新想法、快速获得您的反馈并学习。至此，我们从肖像实验中收集到了许多重要的见解，并将于 9 月 14 日结束。\n\n我们将把我们所学到的基于专家的人工智能的知识融入到其他谷歌产品中。\n\n感谢您与我们一起进行实验。请继续关注接下来的内容，并继续尝试我们的其他实验：https://t.co/TcBfiPohNK",
+    "date": "2026-08-10T22:04:40.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2086931649938522329",
+    "type": "x",
+    "name": "Thariq",
+    "title": "I see parallels with game design, it's nice that anyone can make a basic game, but I am most excited for expert game designers to be able to make a game more quickly than once every 5-10 years",
+    "title_cn": "我看到了游戏设计的相似之处，很高兴任何人都可以制作基本游戏，但我最兴奋的是专业游戏设计师能够比每 5-10 年一次更快地制作游戏",
+    "date": "2026-08-10T21:44:13.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2086931648898342914",
+    "type": "x",
+    "name": "Thariq",
+    "title": "both of these skills require deep technical expertise and intuition\n\nI hope the end result is that we remain deeply technical but make faster progress on important problems",
+    "title_cn": "这两项技能都需要深厚的技术专业知识和直觉\n\n我希望最终的结果是我们保持深厚的技术性，但在重要问题上取得更快的进展",
+    "date": "2026-08-10T21:44:13.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2086931647468097932",
+    "type": "x",
+    "name": "Thariq",
+    "title": "I think this shows 2 key skills w/ AI\n\n1) compute allocation - for most jobs there's not a list of \"X most important problems\", you have to decide what problems are worth it\n\n2) thought partnership - @__alpoge__ had to really dig into and understand the proof to know it was real https://t.co/rft0EKhr0u",
+    "title_cn": "我认为这显示了人工智能的 2 个关键技能\n\n1）计算分配 - 对于大多数工作来说，没有“X个最重要的问题”的列表，你必须决定哪些问题值得\n\n2）思想伙伴关系 - @__alpoge__ 必须真正深入研究并理解证据才能知道它是真实的 https://t.co/rft0EKhr0u",
+    "date": "2026-08-10T21:44:12.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2086928383884353700",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Ok here's a more specific request - anyone follow me who works at @BCCancer? https://t.co/iFSoMqLVB2",
+    "title_cn": "好的，这是一个更具体的请求 - 有人关注我在 @BCCancer 工作的人吗？ https://t.co/iFSoMqLVB2",
+    "date": "2026-08-10T21:31:14.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2086909974668784113",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "been deep down this rabbit hole at the intersection of AI and consumer experiences recently:\n\nHow do you develop a theory of why someone did something, rather than just a history of what they did?\n\nConsumer products have a mix of explicit signals from search/chat and implicit signals from what you watch, skip, linger on, revisit.\n\nunderstanding what those signals actually mean requires reasoning about context - what’s happening in someone’s life, what’s happening in the world, and how their interests are evolving over time.\n\nand doing this in a near real-time manner for billion user consumer experiences is a whole other challenge.",
+    "title_cn": "最近，我们深陷人工智能和消费者体验交叉点的兔子洞：\n\n你如何发展一个关于某人为什么做某事的理论，而不仅仅是他们所做事情的历史？\n\n消费产品混合了来自搜索/聊天的显式信号和来自您观看、跳过、停留、重访的隐式信号。\n\n要理解这些信号的实际含义，需要对背景进行推理——某人的生活中正在发生什么，世界上正在发生什么，以及他们的兴趣如何随着时间的推移而演变。\n\n以近乎实时的方式为十亿用户提供消费者体验是另一个挑战。",
+    "date": "2026-08-10T20:18:05.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2086897516289909034",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "bought everyone on my team a Wispr mic. \n\nthe cacophony of clickety-clacks from mechanical keyboards has now been replaced by an opera of creepy whispers. \n\nI don’t know which is worse. https://t.co/J8AMVv50To",
+    "title_cn": "给我团队的每个人都买了一把 Wispr 麦克风。 \n\n机械键盘发出的刺耳的咔哒声现在已经被令人毛骨悚然的低语歌剧所取代。 \n\n我不知道哪个更糟糕。 https://t.co/J8AMVv50To",
+    "date": "2026-08-10T19:28:35.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2086892614628811143",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "putting this in fable’s context next time i give it a hard task https://t.co/ztMaw8p9u3",
+    "title_cn": "下次我给它一个艰巨的任务时，把它放在寓言的背景中 https://t.co/ztMaw8p9u3",
+    "date": "2026-08-10T19:09:06.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2086892203918381388",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "prompting pro tip: gas up your unreleased frontier model and it may accomplish heretofore impossible tasks https://t.co/ek28ga0xsl",
+    "title_cn": "提示专业提示：为您未发布的前沿模型加油，它可以完成迄今为止不可能完成的任务 https://t.co/ek28ga0xsl",
+    "date": "2026-08-10T19:07:28.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2086891169217122586",
+    "type": "x",
+    "name": "Claude",
+    "title": "We're making Claude Sonnet 5's introductory pricing permanent.\n\nWe launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged. https://t.co/9IpRB4Y4ZD",
+    "title_cn": "我们将永久保留 Claude Sonnet 5 的介绍性定价。\n\n我们于 6 月推出了 Sonnet 5，截至 8 月 31 日，每百万输入代币 2 美元，每百万输出代币 10 美元，并且该价格将保持不变。 https://t.co/9IpRB4Y4ZD",
+    "date": "2026-08-10T19:03:21.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2086886467855396940",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/xWaXyqC7Rj",
+    "title_cn": "https://t.co/xWaXyqC7Rj",
+    "date": "2026-08-10T18:44:41.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2086886466303463849",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/SA7fayDwBu",
+    "title_cn": "https://t.co/SA7fayDwBu",
+    "date": "2026-08-10T18:44:40.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2086886464281788518",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "The most ambitious founders are building bigger than ever before.\n\nMy conversation with @tbpn on what's next for @spc https://t.co/MKfPUCkqmQ",
+    "title_cn": "最雄心勃勃的创始人正在建设比以往任何时候都更大的建筑。\n\n我与 @tbpn 关于 @spc 下一步的对话 https://t.co/MKfPUCkqmQ",
+    "date": "2026-08-10T18:44:40.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2086882606638153882",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Big Data era: \"our data science models work great, the problem is the underlying data\"\n\nModern data stack era:  \"our dashboards work great, the problem is the underlying data\"\n\nGen AI era: our chatbot works great, the problem is the underlying data\n\nAgentic AI era: \"our agents work great, the problem is the underlying data\"",
+    "title_cn": "大数据时代：“我们的数据科学模型效果很好，问题在于底层数据”\n\n现代数据堆栈时代：“我们的仪表板运行良好，问题在于底层数据”\n\nGen AI时代：我们的聊天机器人运行良好，问题在于底层数据\n\n代理AI时代：“我们的代理工作得很好，问题在于底层数据”",
+    "date": "2026-08-10T18:29:20.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2086881528282587524",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "please consider using our models to help defend your systems https://t.co/oqs3qfWmtN",
+    "title_cn": "请考虑使用我们的模型来帮助保护您的系统 https://t.co/oqs3qfWmtN",
+    "date": "2026-08-10T18:25:03.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2086874565909815403",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Cybersecurity is changing rapidly. \n\nTo help accelerate defense, we are broadening access to frontier cyber capabilities through the new Daybreak Blue & Red access tiers and are introducing a new model GPT-5.6-Cyber.\n\nIf you don't know where to start, a good step is to contact one of our partners who can use our latest cyber models to help you find issues, patch them quickly, do pentesting, etc.",
+    "title_cn": "网络安全正在迅速变化。 \n\n为了帮助加速防御，我们正在通过新的黎明蓝和红访问层扩大对前沿网络能力的访问，并推出新模型 GPT-5.6-Cyber​​。\n\n如果您不知道从哪里开始，最好的一步是联系我们的合作伙伴之一，他们可以使用我们最新的网络模型来帮助您发现问题、快速修补问题、进行渗透测试等。",
+    "date": "2026-08-10T17:57:23.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2086855369972937106",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "YC is the YC for hard tech https://t.co/95jkBHwVLG",
+    "title_cn": "YC 是硬科技的 YC https://t.co/95jkBHwVLG",
+    "date": "2026-08-10T16:41:06.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2086854498639822942",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "i left Cursor.\n\nafter 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer.\n\ni’m leaving with gratitude, but also with the feeling that i need a different rhythm.\n\nslower time. different weather. more culture, aliveness, and humans in the everyday.\n\nAsia feels like the right place to begin again.\n\nto stay grounded, experience life more fully, and build freely.\n\ni’ll share what i find along the way!",
+    "title_cn": "我离开了光标。\n\n在旧金山的科技泡沫中待了 10 年之后，Cursor 感觉自己就像那个世界中最敏锐的版本——快速、激烈、雄心勃勃，充满了试图拉近未来的人们。\n\n我带着感激之情离开，但也感觉我需要不同的节奏。\n\n较慢的时间。不同的天气。日常生活中更多的文化、活力和人类。\n\n亚洲似乎是重新开始的正确地点。\n\n脚踏实地，更充分地体验生活，自由地建造。\n\n我会分享我一路上发现的东西！",
+    "date": "2026-08-10T16:37:39.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2086838277701882031",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "At the AGI Bar in Beijing, you can get free, unlimited DeepSeek tokens. Customers vibe code while sipping on beers with names like “AGI bubble”\n\nYou can also buy a “Drinking Plan” which gives you free beer for the whole year \n\nA screen displays job roles at AI companies https://t.co/Wlcu6lYc1q",
+    "title_cn": "在北京的AGI酒吧，您可以免费获得无限量的DeepSeek代币。顾客一边喝着“AGI bubble”等名字的啤酒，一边感受代码\n\n您还可以购买“畅饮计划”，全年免费啤酒 \n\n屏幕显示人工智能公司的工作角色 https://t.co/Wlcu6lYc1q",
+    "date": "2026-08-10T15:33:11.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2086835963331060181",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Vote overwhelmingly in favor of people who want to build housing and the politicians will fix the policy really quickly\n\nYIMBY was invented in SF https://t.co/WUsUtZCo0y",
+    "title_cn": "以压倒性多数投票支持想要建造住房的人，政客们将很快修正政策\n\nYIMBY 是在旧金山发明的 https://t.co/WUsUtZCo0y",
+    "date": "2026-08-10T15:23:59.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2086824976800436676",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end:\n\n1. The first step is to map the actual workflow.\n\nIdentify where work starts, which systems hold context, what actions complete the job, what “done” means, and where a person needs to review. For example, if work starts in Slack, make Slack the on-ramp instead of forcing users to use a separate chatbot.\n\n2. Give agents tools to find context instead of stuffing context into the prompt.\n\nFrom Jacob: “Give it as little instruction as possible. Give it the tools to load context. Don’t give it context.” Start small, then let the agent pull only the instructions and data it needs for the current task.\n\n3. Start with one frequent job, then expand based on real usage.\n\nLinear’s first production workflow turned sales notes and Slack discussions into issues. The team launched it quietly, watched how people used it, and built the next workflows based on real user behavior instead of a grand spec that covered all possible use cases.\n\n4. Start with the strongest model until the workflow works.\n\nJacob: “We tend to throw the biggest model on it until we know that it’s working well.” Once you have clear success criteria and evals, test smaller models on narrow jobs. Cost optimization should come after a quality baseline.\n\n5. Turn every real failure into either an eval or a product task.\n\nLinear created two feedback loops from real usage. If the agent had the right tools but behaved badly, the team added that exact case to its evals. If the agent lacked the required tool, it reported the gap so the system could add it to an existing issue for the team to investigate.\n\n📌 Watch the full episode for the complete walkthrough: https://t.co/wmw8vvjvv0",
+    "title_cn": "我从 @Linear 的 @thenanyu 和 @delashum 得到的关于如何端到端构建出色的生产代理的 5 个最大收获：\n\n1. 第一步是绘制实际工作流程。\n\n确定工作从哪里开始，哪些系统保存上下文，哪些操作完成工作，“完成”意味着什么，以及人员需要检查的地方。例如，如果工作在 Slack 中开始，请将 Slack 作为入口，而不是强迫用户使用单独的聊天机器人。\n\n2. 为客服人员提供查找上下文的工具，而不是将上下文填充到提示中。\n\n来自 Jacob：“给它尽可能少的指令。给它加载上下文的工具。不要给它上下文。”从小处开始，然后让代理仅提取当前任务所需的指令和数据。\n\n3. 从一项常用作业开始，然后根据实际使用情况进行扩展。\n\nLinear 的第一个生产工作流程将销售说明和 Slack 讨论变成了问题。该团队悄悄推出了它，观察人们如何使用它，并根据真实的用户行为构建下一个工作流程，而不是涵盖所有可能用例的宏大规范。\n\n4. 从最强的模型开始，直到工作流程正常运行。\n\n雅各布：“我们倾向于在上面放置最大的模型，直到我们知道它运行良好为止。”一旦您有了明确的成功标准和评估，就可以在狭窄的工作中测试较小的模型。成本优化应该在质量基线之后进行。\n\n5. 将每一次真正的失败转化为评估或产品任务。\n\nLinear 根据实际使用情况创建了两个反馈循环。如果代理拥有正确的工具但表现不佳，团队会将这种具体情况添加到评估中。如果代理缺少所需的工具，它会报告差距，以便系统可以将其添加到现有问题中，供团队调查。\n\n📌 观看完整剧集以了解完整演练：https://t.co/wmw8vvjvv0",
+    "date": "2026-08-10T14:40:20.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2086802472950239618",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. \n\nThis will continue to help drive down the cost of intelligence, it allows companies to run models as they see fit, as well as allows them to post train their own models for specific use-cases to get better performance gains in their domain. And provides a realistic option for those previously closed off from OSS models.\n\nThis is broadly net positive for AI - even frontier closed models - because it helps drive further diffusion of AI. Big moment in the AI race.",
+    "title_cn": "Meta 以开放权重形式发布 Muse Spark 1.2 是一件“非常”大事。美国现在终于对公开重量级人工智能竞赛做出了回应。 \n\n这将继续帮助降低情报成本，它允许公司按照他们认为合适的方式运行模型，并允许他们针对特定用例对自己的模型进行后期训练，以便在其领域获得更好的性能提升。并为那些以前与 OSS 模型隔绝的人提供了一个现实的选择。\n\n这对人工智能（甚至是前沿封闭模型）来说总体上是积极的，因为它有助于推动人工智能的进一步传播。人工智能竞赛的重要时刻。",
+    "date": "2026-08-10T13:10:55.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2086758509979316423",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "A great way to learn design:\nGive Codex a well-designed website, ask it to analyze what makes the design great, then ask it to take a complete screenshot of the website & add annotations on the image that breaks down why the design works\n\nLearning from examples is always better than learning from theory!\n\nAnd using the annotation method means you don't have to constantly switch between reading the analysis and viewing the artifact",
+    "title_cn": "学习设计的好方法：\n给 Codex 一个设计良好的网站，要求它分析设计的出色之处，然后要求它拍摄网站的完整屏幕截图，并在图像上添加注释，以解释设计的工作原理\n\n从例子中学习总是比从理论中学习更好！\n\n使用注释方法意味着您不必在阅读分析和查看工件之间不断切换",
+    "date": "2026-08-10T10:16:13.000Z"
+  },
+  {
     "url": "https://x.com/swyx/status/2086700857358450853",
     "type": "x",
     "name": "Swyx",
