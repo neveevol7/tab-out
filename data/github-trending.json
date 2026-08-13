@@ -198,7 +198,7 @@
       "stars": "30.3k",
       "growth": "🔺3504",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "description_cn": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "13",
@@ -273,5 +273,5 @@
       "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-13T20:48:03.831955"
+  "updated_at": "2026-08-13T22:45:58.606768"
 }
