@@ -52,7 +52,7 @@
       "stars": "15.4k",
       "growth": "🔺566",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "7",
@@ -135,7 +135,7 @@
       "stars": "34.7k",
       "growth": "🔺5601",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
       "rank": "6",
@@ -270,8 +270,8 @@
       "stars": "8.5k",
       "growth": "🔺2213",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-14T14:54:20.409544"
+  "updated_at": "2026-08-14T16:56:38.787275"
 }
