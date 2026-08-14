@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": "9.7k",
-      "growth": "🔺3039",
+      "stars": "13.9k",
+      "growth": "🔺4211",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "description_cn": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
     },
     {
       "rank": "2",
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "stars": "14.8k",
-      "growth": "🔺871",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
-    },
-    {
-      "rank": "3",
       "name": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
-      "stars": "5.6k",
-      "growth": "🔺826",
+      "stars": "6.5k",
+      "growth": "🔺865",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
+      "rank": "3",
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "stars": "2.5k",
+      "growth": "🔺856",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "description_cn": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+    },
+    {
       "rank": "4",
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars": "4.8k",
+      "growth": "🔺704",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+    },
+    {
+      "rank": "5",
       "name": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc",
-      "stars": "15k",
-      "growth": "🔺694",
+      "stars": "15.6k",
+      "growth": "🔺616",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "5",
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "15k",
-      "growth": "🔺335",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
-    },
-    {
       "rank": "6",
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": "20k",
-      "growth": "🔺315",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "stars": "15.4k",
+      "growth": "🔺566",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "7",
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": "11.7k",
-      "growth": "🔺280",
+      "stars": "12k",
+      "growth": "🔺349",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": "8",
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stars": "5.1k",
-      "growth": "🔺264",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "15.3k",
+      "growth": "🔺298",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": "9",
-      "name": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "stars": "4.4k",
-      "growth": "🔺236",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "description_cn": "适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "11.7k",
+      "growth": "🔺285",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": "10",
-      "name": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "stars": "12.4k",
-      "growth": "🔺222",
-      "description": "Build local voice agents with open-source models",
-      "description_cn": "使用开源模型构建本地语音代理"
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": "5.4k",
+      "growth": "🔺277",
+      "description": "---",
+      "description_cn": null
     }
   ],
   "weekly": [
@@ -171,7 +171,7 @@
       "stars": "18.8k",
       "growth": "🔺4054",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -198,7 +198,7 @@
       "stars": "30.3k",
       "growth": "🔺3504",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "使用单个 4GB GPU 进行 AirLLM 70B 推理"
     },
     {
       "rank": "13",
@@ -273,5 +273,5 @@
       "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-13T22:45:58.606768"
+  "updated_at": "2026-08-14T02:10:54.523971"
 }
