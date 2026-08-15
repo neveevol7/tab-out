@@ -70,7 +70,7 @@
       "stars": "12.5k",
       "growth": "🔺456",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
@@ -135,7 +135,7 @@
       "stars": "34.7k",
       "growth": "🔺5601",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "description_cn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 着）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "6",
@@ -153,7 +153,7 @@
       "stars": "25.3k",
       "growth": "🔺5010",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "8",
@@ -273,5 +273,5 @@
       "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
     }
   ],
-  "updated_at": "2026-08-15T10:25:44.283236"
+  "updated_at": "2026-08-15T12:42:05.695588"
 }
