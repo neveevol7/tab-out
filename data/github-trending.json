@@ -7,7 +7,7 @@
       "stars": "17k",
       "growth": "🔺3120",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
     },
     {
       "rank": "2",
@@ -43,7 +43,7 @@
       "stars": "5.5k",
       "growth": "🔺663",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "6",
@@ -61,7 +61,7 @@
       "stars": "15.9k",
       "growth": "🔺492",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "8",
@@ -144,7 +144,7 @@
       "stars": "13.4k",
       "growth": "🔺5486",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": "7",
@@ -171,7 +171,7 @@
       "stars": "18.8k",
       "growth": "🔺4054",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -234,7 +234,7 @@
       "stars": "33.1k",
       "growth": "🔺2406",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "description_cn": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
+      "description_cn": "DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定性进行设计 - 让它运行。"
     },
     {
       "rank": "17",
@@ -252,7 +252,7 @@
       "stars": "19.7k",
       "growth": "🔺2268",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "description_cn": "开源且免费——经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道 + LLM Agent、精确的行级注释、内置微调规则集（NPE、线程安全、XSS、SQL 注入）、OpenAI 和 Anthropic 兼容。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "19",
@@ -270,8 +270,8 @@
       "stars": "8.5k",
       "growth": "🔺2213",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-15T01:23:20.332967"
+  "updated_at": "2026-08-15T02:54:16.430605"
 }
