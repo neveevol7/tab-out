@@ -234,7 +234,7 @@
       "stars": "33.1k",
       "growth": "🔺2406",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "description_cn": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
+      "description_cn": "DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定性进行设计 - 让它运行。"
     },
     {
       "rank": "17",
@@ -273,5 +273,5 @@
       "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-15T06:42:29.536317"
+  "updated_at": "2026-08-15T08:32:37.560216"
 }
