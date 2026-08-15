@@ -48,6 +48,262 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2088500028721832432",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier?",
+    "title_cn": "本周法典为您解决了哪些难题？您从哪里向其他人学习如何突破前沿？",
+    "date": "2026-08-15T05:36:23.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2088493756391768252",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Looking for a quick restaurant reservation is now super easy in ChatGPT. Together with a bunch more ships https://t.co/8AN0GbFMy3",
+    "title_cn": "现在，在 ChatGPT 中寻找快速餐厅预订变得非常简单。与更多船只一起 https://t.co/8AN0GbFMy3",
+    "date": "2026-08-15T05:11:28.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2088489059115270532",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Cursor’s impact on AI product culture is underrated.\n\nfor a while, ai products were stuck in the chatbot phase and was searching for a product meta to piggyback off of. \n\nit was then that “cursor for x” came along and inspired a whole new product pattern. https://t.co/8ZBgFRqVLJ",
+    "title_cn": "Cursor 对人工智能产品文化的影响被低估了。\n\n有一段时间，人工智能产品陷入了聊天机器人阶段，正在寻找可以利用的产品元。 \n\n就在那时，“cursor for x”出现并激发了一种全新的产品模式。 https://t.co/8ZBgFRqVLJ",
+    "date": "2026-08-15T04:52:48.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2088486859244741020",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI state. https://t.co/BjpJL1qFSR https://t.co/09wZoz7X0J",
+    "title_cn": "在我们共享的 AGENTS MD 文件中添加了一条简短说明，用于将视频上传到每个更改 UI 状态的 PR。 https://t.co/BjpJL1qFSR https://t.co/09wZoz7X0J",
+    "date": "2026-08-15T04:44:04.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2088485865194750150",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Maa Tujhe salaam 🇮🇳",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "date": "2026-08-15T04:40:07.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2088476232933577124",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. \n\nMost people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitive and somewhat saturated space when they really got going.\n\nMultiple mental models shattered near instantly. The market sizes for agentic coding was far larger than most realized. There was actually tons and tons of room to innovate between the user and the underlying model, and even on the model itself.\n\nCursor provided out the applied AI playbook by figuring out the right product shape for agentic coding work, acting as a neutral layer between models and the workflows, post training models for the areas that make most sense to drive down costs or improve performance, building out the right infra stack for the relevant workflows, building out a strong category-aligned GTM motion, and more.\n\nGreat set of lessons for anyone doing applied AI right now. We’re going to see a lot more of these.",
+    "title_cn": "惊人的结果。 Cursor 完美地执行了应用的人工智能策略。 \n\n大多数人完全低估了人工智能编码的市场规模。历史上最大的开发工具退出金额约为数十亿美元。当他们真正开始行动时，人们已经认为这是一个竞争激烈且有些饱和的领域。\n\n多种思维模式几乎瞬间崩溃。代理编码的市场规模远远大于大多数人的认识。实际上，用户和底层模型之间，甚至模型本身，都有大量的创新空间。\n\nCursor 提供了应用人工智能手册，为代理编码工作找出正确的产品形状，充当模型和工作流程之间的中立层，为最能降低成本或提高性能的领域提供后训练模型，为相关工作流程构建正确的基础设施堆栈，构建强大的类别对齐 GTM 运动等等。\n\n对于现在从事应用人工智能的人来说，这是一套很棒的课程。我们将会看到更多这样的情况。",
+    "date": "2026-08-15T04:01:50.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2088473882357530979",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "We moved the team over to build openclaw with openclaw. \nBeing able to share agent sessions as URLs is a superpower. https://t.co/peCQydXWyc",
+    "title_cn": "我们将团队转移到用 openclaw 来构建 openclaw。 \n能够以 URL 的形式共享代理会话是一项超能力。 https://t.co/peCQydXWyc",
+    "date": "2026-08-15T03:52:30.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088461657311785236",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "There’s no force in tech as destructive as the PM promo packet",
+    "title_cn": "没有任何科技力量能像 PM 促销包那样具有破坏性",
+    "date": "2026-08-15T03:03:55.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2088440618196607061",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Three pros of monthly walks with @JustJake..\n\n1) his ability to articulate how every piece of infra will evolve is next to none. i’ve been proven wrong a few times already. \n\n2) the velocity of this company is just batshit insane and again just mogs his own high lofty goals. \n\n3) he walks at an insane speed and gets me 10k steps for free.",
+    "title_cn": "每月与@JustJake 散步的三个优点..\n\n1）他阐明每一个基础设施将如何演变的能力是无与伦比的。我已经被证明错了几次了。 \n\n2）这家公司的发展速度实在是太疯狂了，而且再次辜负了他自己的崇高目标。 \n\n3) 他以疯狂的速度行走，免费让我走 10k 步。",
+    "date": "2026-08-15T01:40:19.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2088425380130783287",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "when everyone can build with ai, your differentiators are product sense, domain knowledge, distribution, execution. https://t.co/qO8hGmsY07",
+    "title_cn": "当每个人都可以使用人工智能进行构建时，您的优势就在于产品意识、领域知识、分发和执行。 https://t.co/qO8hGmsY07",
+    "date": "2026-08-15T00:39:46.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2088420395670184238",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "All the opponents are helping YIMBYs make a comprehensive list of California laws that need to be repealed https://t.co/R5p7AgJCTp",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "date": "2026-08-15T00:19:57.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2088388714351518130",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Even if you don’t plan on publishing to the App Store, building personal apps via TestFlight is really great. https://t.co/SLco60a3RZ",
+    "title_cn": "即使您不打算发布到 App Store，通过 TestFlight 构建个人应用程序也确实很棒。 https://t.co/SLco60a3RZ",
+    "date": "2026-08-14T22:14:04.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2088388000267002195",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "The most surprising thing about using GStack pre-Fable 5 and after is now for many one-way-door questions you might get back in Claude Code, you can actually just say \"Take all recommendations\" and be happy",
+    "title_cn": "使用 GStack Pre-Fable 5 及之后的最令人惊讶的事情是，现在对于您可能会在 Claude Code 中遇到的许多单向问题，您实际上可以只说“接受所有建议”并感到高兴",
+    "date": "2026-08-14T22:11:14.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2088383794013470812",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.'\n\nThat's how Paoli and Wynwood became New York and Geneva.\" https://t.co/U9PPNUwkJE",
+    "title_cn": "“史蒂夫·乔布斯走过来说，城市名称的字体还不错，但‘至少称它们为世界级城市’。”\n\n这就是保利和温伍德成为纽约和日内瓦的原因。” https://t.co/U9PPNUwkJE",
+    "date": "2026-08-14T21:54:31.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2088381680478540096",
+    "type": "x",
+    "name": "Swyx",
+    "title": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically\n\nthe M in their $188B series M stands for \"we are going to kill so many meetings\" https://t.co/sQsoPICYzT https://t.co/JAE86kHe2f",
+    "title_cn": "@databricks“ipo is lava”筹款成为模因的原因是这样的，但讽刺的是\n\n$188B 系列中的 M 代表“我们将取消如此多的会议” https://t.co/sQsoPICYzT https://t.co/JAE86kHe2f",
+    "date": "2026-08-14T21:46:07.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2088358628000768263",
+    "type": "x",
+    "name": "Swyx",
+    "title": "ask away https://t.co/GExUalUexr",
+    "title_cn": "问走 https://t.co/GExUalUexr",
+    "date": "2026-08-14T20:14:31.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2088351343434138111",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "/goal may not be the MOST token efficient thing, but it's a thing of beauty to see it one-shot an extremely detailed spec (with generous CLI tools) in 14h.. https://t.co/VJ996PIL32",
+    "title_cn": "/goal 可能不是最高效的代币，但看到它在 14 小时内一次性完成极其详细的规范（使用慷慨的 CLI 工具）是一件很美妙的事情。 https://t.co/VJ996PIL32",
+    "date": "2026-08-14T19:45:34.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2088344782821326980",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "3.7 Flash is in the @GeminiApp https://t.co/txm3fI0wZo",
+    "title_cn": "3.7 Flash在@GeminiApp https://t.co/txm3fI0wZo",
+    "date": "2026-08-14T19:19:30.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088335744909619230",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "AI is not \"jagged\" it is just AI-shaped. \n\nThat's like saying dogs are \"jagged\" because they are similar, superior, or inferior compared to humans when it comes to specific tasks.",
+    "title_cn": "人工智能并不是“锯齿状”的，它只是人工智能形状的。 \n\n这就像说狗是“锯齿状”的，因为在执行特定任务时，它们与人类相似、优于或劣于人类。",
+    "date": "2026-08-14T18:43:35.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2088323451132199338",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Vercel is the fastest [AI Gateway] infrastructure in the world https://t.co/AdxxRBdgvt",
+    "title_cn": "Vercel 是世界上最快的 [AI 网关] 基础设施 https://t.co/AdxxRBdgvt",
+    "date": "2026-08-14T17:54:44.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2088323186819539041",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "The evolution of a workday:\n\nBefore AI: \n[decision] [process] [process] [decision] [process] [process] [process]\n10pm: still going\n\nWith AI: \n[decision] [decision] [decision] [decision] [decision]\n3pm: [brain empty] [need coffee] [staring at wall]",
+    "title_cn": "工作日的演变：\n\n人工智能出现之前： \n[决定][过程][过程][决定][过程][过程][过程]\n晚上10点：继续\n\n有了人工智能： \n[决定][决定][决定][决定][决定]\n下午3点：[脑子空空][需要咖啡][盯着墙壁]",
+    "date": "2026-08-14T17:53:41.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2088322211241447801",
+    "type": "x",
+    "name": "Swyx",
+    "title": "AIE NYC CFP wave 1 acceptances are being finalized today. last day to get in for wave 1!\n\nhttps://t.co/ldei0UywCk\n\nour NYC event last year was the most successful summit we've ever had. excited to head back to 🗽 bigger and better than ever - note the special requirements for our mainstage finance keynotes",
+    "title_cn": "AIE NYC CFP 第 1 波录取将于今天最终确定。参加第一波的最后一天！\n\nhttps://t.co/ldei0UywCk\n\n去年我们在纽约举行的活动是我们举办过的最成功的峰会。很高兴回到🗽比以往任何时候都更大、更好 - 请注意我们主舞台财务主题演讲的特殊要求",
+    "date": "2026-08-14T17:49:48.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2088307370787328223",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!):\n\n@PomellibyGoogle - build captivating marketing campaigns tailored to your brand and your business at scale\n\n@FlowbyGoogle - craft visual stories that channel your imagination and draw the attention of your audience",
+    "title_cn": "在实验室里，我们总是在修补🧪——从已经完成的实验到仍在酝酿中的实验，我们将最好的人工智能模型带给各类用户。尝试一下这两个（如果你还没有尝试过！）：\n\n@PomellibyGoogle - 大规模打造适合您的品牌和业务的引人入胜的营销活动\n\n@FlowbyGoogle - 制作视觉故事来引导您的想象力并吸引观众的注意力",
+    "date": "2026-08-14T16:50:50.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2088298533912989736",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Some people are using AI in ways that make everyone around them feel slightly behind.\n\nWe want those people at Thesis: 2027.\n\nIf a person comes to mind—an executive, a builder, a creative—nominate them. We’ve reserved free tickets for our favorite nominees.\n\nhttps://t.co/ModuXIMpdY",
+    "title_cn": "有些人使用人工智能的方式让周围的每个人都感觉有点落后。\n\n我们希望这些人参与论文：2027。\n\n如果你想到一个人——高管、建设者、创意者——提名他们。我们为我们最喜​​欢的提名者预留了免费门票。\n\nhttps://t.co/ModuXIMpdY",
+    "date": "2026-08-14T16:15:43.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2088294414255112329",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Making steam engines more efficient increased coal demand.\n\nHigher-level languages made programming easier and resulted in far more software being built.\n\nSpreadsheets made financial analysis cheaper and resulted in businesses doing far more analysis.\n\nWhen the cost and complexity of a task falls, new use cases become economically viable.\n\nAI + software engineering will likely follow the same pattern: far more software solving far more problems, including problems that were previously economically unviable.",
+    "title_cn": "提高蒸汽机的效率增加了煤炭需求。\n\n高级语言使编程变得更加容易，并导致构建更多的软件。\n\n电子表格使财务分析变得更加便宜，并导致企业进行更多的分析。\n\n当任务的成本和复杂性下降时，新的用例在经济上变得可行。\n\n人工智能+软件工程可能会遵循相同的模式：更多的软件解决更多的问题，包括以前在经济上不可行的问题。",
+    "date": "2026-08-14T15:59:21.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2088290208911675761",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "One of the things we think about a lot @spc is that as investors we must deeply embody the traits we look for in founders.\n\n@evantana  doesn't like to talk about himself...but it is one of the great joys (and privileges) of my life to work with someone as driven, talented and curious as him to build SPC for many years and decades to come.",
+    "title_cn": "@spc，我们经常思考的一件事是，作为投资者，我们必须深入体现我们在创始人身上寻找的特质。\n\n@evantana 不喜欢谈论自己……但与像他这样有干劲、有才华和好奇心的人一起工作，在未来的许多年和几十年里建立 SPC，是我一生中最大的乐趣（和特权）之一。",
+    "date": "2026-08-14T15:42:39.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088278730808426900",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "If you believe your colleagues are smart, their ideas didn't come from nowhere. There's something motivating them that gets to a real problem, or is likely interesting to think about.\n\nSome of the most interesting things we've shipped are fusions of multiple ideas or several derivatives away from the original concept.",
+    "title_cn": "如果你相信你的同事很聪明，那么他们的想法就不是凭空而来的。有一些东西可以激励他们解决真正的问题，或者思考起来可能很有趣。\n\n我们发布的一些最有趣的东西是多种想法的融合或几种远离原始概念的衍生产品。",
+    "date": "2026-08-14T14:57:02.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2088270756043993503",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "not really \n\nyou can be an AI-native rocketship without being in a permanent fundraising situation and in a constant death match with other rocketships to capture customers, sacrificing gross margin\n\nbut the rules for building a company like that are very different https://t.co/gP6IVRx2ib",
+    "title_cn": "不是真的 \n\n你可以成为一艘人工智能原生火箭飞船，而不必处于永久筹款的情况，并与其他火箭飞船不断进行死亡竞赛来吸引客户，从而牺牲毛利率\n\n但建立这样的公司的规则是非常不同的 https://t.co/gP6IVRx2ib",
+    "date": "2026-08-14T14:25:21.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2088261701028503965",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest ways to make your products look good in any setting.\n\nWith this launch, turn those amazing photoshoots into short videos or gifs with that same ease! https://t.co/cH3AAkQgsL",
+    "title_cn": "Pomelli 是我们在 Google 实验室进行的实验，受到越来越多小型企业的欢迎。为什么？这是让您的产品在任何环境下都美观的最简单方法之一。\n\n通过此次发布，您可以同样轻松地将那些令人惊叹的照片变成短视频或 GIF！ https://t.co/cH3AAkQgsL",
+    "date": "2026-08-14T13:49:22.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2088261100202868768",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I was curious how X is fighting AI slop, so I looked at its open-source algorithm.\n\nIt has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts, quote-post behavior, timing, and normal browsing or dwell between actions.\n\nThe model is trained to recognize patterns such as:\n\n→ TWEET_CREATE_BURST\n→ QUOTE_TWEET_SPAMMER\n→ CONTENT_AMPLIFIER\n\nA high score on the above can feed into an account challenge but doesn't seem to downrank the slop posts themselves.\n\nI think the gap here is that the model doesn’t read the actual post content.\n\nSo a sophisticated AI content mill can still post slop all day long:\n\n1. Find viral posts\n2. Quote tweet with the same template each time: hook → numbers → backstory → takeaway\n3. Repeat 10+ times a day across unrelated topics\n\nIf @X doesn't want to become like LinkedIn, I think it should consider looking at accounts that repeatedly turn unrelated viral posts into the same templated quote tweet slop at high volume.\n\nRight now the guardrails above are too easy to bypass.",
+    "title_cn": "我很好奇 X 如何对抗 AI 溢出，所以我查看了它的开源算法。\n\n它有一个名为 TweetSpamBot 的行为模型，可以分析多达 512 个最近的帐户操作，查看诸如发帖爆发、引用帖子行为、时间安排以及正常浏览或操作之间停留等信号。\n\n该模型经过训练可以识别以下模式：\n\n→ TWEET_CREATE_BURST\n→ QUOTE_TWEET_SPAMMER\n→ 内容放大器\n\n上述高分可能会引发帐户挑战，但似乎不会降低垃圾帖子本身的排名。\n\n我认为这里的差距是模型没有读取实际的帖子内容。\n\n因此，复杂的人工智能内容工厂仍然可以整天发布内容：\n\n1. 查找病毒式帖子\n2.每次引用推文时都使用相同的模板：hook→numbers→backstory→takeaway\n3.每天针对不相关的主题重复10次以上\n\n如果 @X 不想变得像 LinkedIn 那样，我认为它应该考虑查看那些反复将不相关的病毒式帖子变成大量相同模板引用推文的帐户。\n\n现在上面的护栏太容易绕过了。",
+    "date": "2026-08-14T13:46:58.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2088259247184507170",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "This fix addresses #6 in https://t.co/5PFi8qXzjF",
+    "title_cn": "此修复解决了 https://t.co/5PFi8qXzjF 中的#6",
+    "date": "2026-08-14T13:39:37.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2088246494885302639",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "the list of people who applied to this event over the list 24 hours is incredible, i can’t wait to get everyone in one room \n\nif you’re a business interested in being part of this event DM @itsbdell https://t.co/9huAwWNnzz",
+    "title_cn": "24 小时内申请参加此活动的人员名单令人难以置信，我迫不及待地想让每个人都在一个房间里 \n\n如果您是有兴趣参加此活动的企业，请私信@itsbdell https://t.co/9huAwWNnzz",
+    "date": "2026-08-14T12:48:56.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2088133823619895712",
     "type": "x",
     "name": "Thibault Sottiaux",
