@@ -79,7 +79,7 @@
       "stars": "16.2k",
       "growth": "🔺350",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "10",
@@ -234,7 +234,7 @@
       "stars": "33.1k",
       "growth": "🔺2406",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "description_cn": "DeepSeek-适用于您终端的本机 AI 编码代理。围绕前缀缓存稳定性进行设计 - 使其保持运行。"
+      "description_cn": "DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定性进行设计 - 让它运行。"
     },
     {
       "rank": "17",
@@ -270,8 +270,8 @@
       "stars": "8.5k",
       "growth": "🔺2213",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     }
   ],
-  "updated_at": "2026-08-16T08:33:15.118578"
+  "updated_at": "2026-08-16T10:26:13.084334"
 }
