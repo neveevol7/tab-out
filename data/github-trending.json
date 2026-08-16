@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": "17k",
-      "growth": "🔺3120",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "description_cn": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
-    },
-    {
-      "rank": "2",
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": "7.7k",
-      "growth": "🔺2461",
+      "stars": "9.6k",
+      "growth": "🔺1841",
       "description": "No description available.",
       "description_cn": ""
     },
     {
+      "rank": "2",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": "18.4k",
+      "growth": "🔺1426",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "description_cn": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
+    },
+    {
       "rank": "3",
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "stars": "7.4k",
-      "growth": "🔺986",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "10.8k",
+      "growth": "🔺553",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "description_cn": "最适合您和您的 AI 代理并行工作的浏览器。"
     },
     {
       "rank": "4",
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "stars": "7.2k",
-      "growth": "🔺671",
-      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "description_cn": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+      "name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "stars": "13.4k",
+      "growth": "🔺503",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "description_cn": "OpenSandbox是一个面向AI应用的通用沙箱平台，为编码代理、GUI代理、代理评估、AI代码执行和强化学习等场景提供多语言SDK、统一沙箱API和Docker/Kubernetes运行时。"
     },
     {
       "rank": "5",
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
-      "stars": "5.5k",
-      "growth": "🔺663",
+      "stars": "6k",
+      "growth": "🔺482",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "6",
-      "name": "lightningpixel/modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "stars": "5.9k",
-      "growth": "🔺512",
-      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "description_cn": "使用本地 AI 从图像生成 3D 模型的桌面应用程序 — 完全在您的 GPU 上运行"
-    },
-    {
-      "rank": "7",
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "stars": "15.9k",
-      "growth": "🔺492",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
-    },
-    {
-      "rank": "8",
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": "12.5k",
-      "growth": "🔺456",
+      "stars": "12.9k",
+      "growth": "🔺460",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
+      "rank": "7",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "stars": "7.9k",
+      "growth": "🔺431",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
+    },
+    {
+      "rank": "8",
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "stars": "7.6k",
+      "growth": "🔺407",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "description_cn": "开源全合一 AI 代理工作区。使用共享内存在您的工具（100 多个集成 + MCP）、应用程序、浏览器和文件中运行任何代理 - Claude Code、Codex。内置模型或 BYOK。"
+    },
+    {
       "rank": "9",
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "stars": "3k",
-      "growth": "🔺436",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "description_cn": "Macro 是一个面向团队的统一工作空间：电子邮件、聊天、文档、任务、代理、呼叫和 CRM — 通过共享 AI 内存 @ 链接在一起。"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "stars": "16.2k",
+      "growth": "🔺350",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
     },
     {
       "rank": "10",
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "stars": "16.1k",
-      "growth": "🔺433",
-      "description": "---",
-      "description_cn": null
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "stars": "17.6k",
+      "growth": "🔺289",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     }
   ],
   "weekly": [
@@ -270,8 +270,8 @@
       "stars": "8.5k",
       "growth": "🔺2213",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "description_cn": "一个自我改进的 RLM 代理，用于编码工作流程和长时间运行的自主任务。"
     }
   ],
-  "updated_at": "2026-08-15T22:25:11.027591"
+  "updated_at": "2026-08-16T01:34:28.702372"
 }
