@@ -48,6 +48,190 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/amasad/status/2088867492907327573",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
+    "title_cn": "“人工智能在结构上集中权力”的论点是因为它目前对计算的需求很大，这一论点忽略了 125 年来计算性价比的超指数增长。 \n\n算法的改进和硬件效率的持续提高意味着没有理由假设 AGI 级功能始终需要数据中心来运行。\n\n缩放定律不是物理定律。它们只是针对特定架构、目标、数据集等观察到的经验关系。改变这些因素中的任何一个，你都会得到不同的缩放曲线。 \n\n如果大脑有任何指导作用，那么真正的通用人工智能可能会非常高效。事实上，当前的缩放法则可能是一个错误，而不是一个功能。它显示了我们迄今为止发现的机器学习算法的效率有多低。",
+    "date": "2026-08-16T05:56:34.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2088866513008873560",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "On tokens and prices per token.\n\nI said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.\n\nImagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn't actually care about the number of slices you just ate.\n\nI know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That's a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn't really tell this story.\n\nEven correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.\n\nThat's all. May the tokens flow.",
+    "title_cn": "关于代币和每个代币的价格。\n\n我说过我会写更多相关内容，所以这里是：OpenAI 令牌！=另一个模型的令牌。我们以每百万代币的美元价格来比较人工智能价格，就好像代币是一个标准化单位，比如克或千瓦时。事实并非如此。不同的模型使用不同数量的代币来使用和生成完全相同的文本，这意味着每个代币的价格较低并不一定意味着费用较低。\n\n想象一下两个相同的披萨。一份切成8片，每片2美元。另一种则切成 16 片，每片 1.25 美元。第二个地方的广告是更便宜的切片，但整个披萨的价格是 20 美元，而不是 16 美元。真糟糕……你的胃实际上并不关心你刚刚吃了多少片。\n\n我知道你现在很饿，但回到代币。在一项涵盖英语、技术、多语言和数字文本的小型比较中，我们用于 GPT-5.6 Sol 的标记生成器使用了 766 个标记，而 Claude Opus 5 估计使用了 1,170 个标记。这是一个非常显着的差异，标记数量减少了约 34.5%。您可以获得完全相同的文本，但需要支付所有这些额外的代币。每个代币的价格并不能真正说明这个问题。\n\n即使纠正分词器差异也忽略了更重要的一点。真正重要的是每个成功结果的价格，为此您可以使用基准作为起点，但实际上您必须尝试并根据自己的用例进行衡量。\n\n就这样。愿代币流动。",
+    "date": "2026-08-16T05:52:40.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2088850995430477882",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?",
+    "title_cn": "如果您有一家公司并且仍然使用 Opus 而不是 Sol，为什么呢？价格对你来说不重要吗？有什么事情可以说服你改变？",
+    "date": "2026-08-16T04:51:00.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2088838302367732178",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Recursive self improvement https://t.co/wOqa7mW997",
+    "title_cn": "递归自我提升 https://t.co/wOqa7mW997",
+    "date": "2026-08-16T04:00:34.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088811172090769461",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "These two were ahead of their time https://t.co/adjYZkvCM1",
+    "title_cn": "这两个人领先于他们的时代 https://t.co/adjYZkvCM1",
+    "date": "2026-08-16T02:12:46.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088810666958196988",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL",
+    "title_cn": "这也是我的梦想。我想整天坐在公园里和朋友们一起记录内容……然后让一群代理将这些内容转化为行动和工作软件。 https://t.co/V9SzxqFEnL",
+    "date": "2026-08-16T02:10:45.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088808413744558266",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Watches https://t.co/pbushpJPOH",
+    "title_cn": "手表 https://t.co/pbushpJPOH",
+    "date": "2026-08-16T02:01:48.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2088801077659635715",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Impressive https://t.co/fv5zyLbPNt",
+    "title_cn": "令人印象深刻 https://t.co/fv5zyLbPNt",
+    "date": "2026-08-16T01:32:39.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2088780884048552202",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Dario should tweet more https://t.co/N29v9simn6",
+    "title_cn": "达里奥应该发更多推文 https://t.co/N29v9simn6",
+    "date": "2026-08-16T00:12:25.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2088773343629750535",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? \n\nThe connector doesn't work and I can't even login to X on the cloud computer. \n\nAm I doing something wrong? https://t.co/O5OI9OhETb",
+    "title_cn": "我是 Grok Bot 的粉丝，但 @X 是它应该有权访问的 #1 差异化数据源，但它似乎不起作用？ \n\n连接器不起作用，我什至无法登录云计算机上的 X。 \n\n我做错了什么吗？ https://t.co/O5OI9OhETb",
+    "date": "2026-08-15T23:42:27.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2088772605323214999",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I 100% agree with Dario that using AI to cure diseases (and speeding up the regulatory approval of AI breakthroughs in healthcare) could bring 10x the benefit to humanity as everything else combined. https://t.co/1CkVwkyxtW",
+    "title_cn": "我 100% 同意 Dario 的观点，即使用人工智能来治疗疾病（并加快医疗保健领域人工智能突破的监管批准）可以为人类带来 10 倍于其他所有因素总和的利益。 https://t.co/1CkVwkyxtW",
+    "date": "2026-08-15T23:39:31.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2088757738037989755",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
+    "title_cn": "我认为人们没有意识到 React 的成功有多少实际上是 @shadcn 带来的。\n\n我曾经将 React 称为真正的“成人乐高积木”。但实际上它更多的是对砖块几何形状的描述。规格。\n\nShadcn 是人们真正想要从 React 中得到的。可重复使用且可调的高质量组件。这是一个伪图书馆。有代码，但它实际上意味着被消化到您的上下文窗口中并重新混合。",
+    "date": "2026-08-15T22:40:26.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2088755688361378082",
+    "type": "x",
+    "name": "Swyx",
+    "title": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.",
+    "title_cn": "如果你没有生活在科技泡沫中，一般来说，我对顶级人士真正见面/认识的频率如此之低感到惊讶。作为一个局外人，我可能会假设每个人都在秘密光明会群组聊天中。这些确实存在，但只是短暂的例外，而不是规则。你在主要头条新闻中看到的几乎就是他们也看到的。我想解释这一点的一种方式也很简单，大多数努力仍然是在做工作而不是在叙述或八卦上。至少对我来说，这确实让我在职业生涯中感到非常放心。",
+    "date": "2026-08-15T22:32:17.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2088734739893293175",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "America turned 250 years old earlier this year. \n\nIndia turns 80 today...80 years young.\n\nBuilding countries is really hard. 80 years in...America was struggling with a civil war.\n\nIndians should be damn proud of the country they have built. \n\nLike America, India wants more. She wants to be better and stronger and more successful. She will get there.",
+    "title_cn": "今年早些时候，美国迎来了 250 岁生日。 \n\n印度今天 80 岁了……年轻了 80 岁。\n\n建设国家确实很难。 80 年来……美国一直在内战中挣扎。\n\n印度人应该为他们建立的国家感到自豪。 \n\n和美国一样，印度想要更多。她想要变得更好、更强、更成功。她会到达那里。",
+    "date": "2026-08-15T21:09:03.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2088725514542575903",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Incredible things are happening at OpenAI right now. Energy is high.",
+    "title_cn": "OpenAI 现在正在发生令人难以置信的事情。能量很高。",
+    "date": "2026-08-15T20:32:23.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2088721024825344289",
+    "type": "x",
+    "name": "Thariq",
+    "title": "https://t.co/KynBYnZeSi",
+    "title_cn": "https://t.co/KynBYnZeSi",
+    "date": "2026-08-15T20:14:33.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2088721023223132213",
+    "type": "x",
+    "name": "Thariq",
+    "title": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work.\n\nI made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM",
+    "title_cn": "没有质量损失的水印有点不直观，感觉不应该起作用。\n\n我和 Claude 一起制作了这个工件，以帮助我了解它是如何工作的，并分享以防它有帮助。 https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM",
+    "date": "2026-08-15T20:14:33.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2088716743615352963",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Last week I’m sitting across a stealth portfolio founder working in a deeply unsexy space (at least from Bay Area standards)..\n\nThey’re lamenting about how how some of the critical contracts and partnerships that would give them credibility (and revenue and network effects) are basically stuck at the 1-yard line. This is a massively fragmented market. And this is btw just straight up pure bureaucracy. The champions, terms and everything is lined up. It’s purely a win win situation but summer and one random clause is the issue. And, it might cause them to not reach their ambitious timelines. \n\nAnd I’m sitting there smiling and eventually laughing and at some point they ask what’s funny. I tell them “do you know how long it’ll take anyone to do the same thing as you” - and this is with leverage and relationships that they already have. \n\nAnd, this in the short term is painful but in the long term becomes such a strong moat. That they’ll look back and laugh why they were worried about a few days when in the long term this is what will make them one of the biggest companies in the world. \n\nUnnecessary and 996 performative pain is not the moat. But building entrenched software and relationships that take a lot of pain is a moat :)",
+    "title_cn": "上周，我坐在一位秘密投资组合创始人的对面，他在一个非常不性感的空间工作（至少从湾区的标准来看）。\n\n他们感叹一些赋予他们可信度（以及收入和网络效应）的关键合同和合作伙伴关系基本上停留在 1 码线。这是一个高度分散的市场。顺便说一句，这就是纯粹的官僚机构。冠军、条款和一切都已排好。这纯粹是双赢的局面，但夏季和一个随机条款是问题所在。而且，这可能会导致他们无法达到雄心勃勃的时间表。 \n\n我坐在那里微笑着，最后笑了起来，有时他们会问有什么好笑的。我告诉他们“你知道别人要花多长时间才能做和你一样的事情吗”——这是利用他们已经拥有的影响力和关系。 \n\n而且，这在短期内是痛苦的，但从长远来看会成为一条如此坚固的护城河。当他们回顾过去时，会笑为什么他们会担心几天，而从长远来看，这将使他们成为世界上最大的公司之一。 \n\n不必要的和996表演性的痛苦不是护城河。但是，建立根深蒂固的软件和关系需要付出很多痛苦，这是一条护城河:)",
+    "date": "2026-08-15T19:57:32.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2088710566689018103",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "There is no longer an excuse for B2B software to have such poor UX.\n\nThanks to AI, every software product can and should be as easy to use as the best consumer software.",
+    "title_cn": "B2B 软件不再有理由拥有如此糟糕的用户体验。\n\n得益于人工智能，每个软件产品都可以而且应该像最好的消费软件一样易于使用。",
+    "date": "2026-08-15T19:33:00.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2088661047913914847",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Whitepill timeline cleanser: \n\nProgress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. \n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
+    "title_cn": "Whitepill 时间线清洁剂： \n\n进步和丰富看起来就像农作物的产量创纪录，逐年向上和向右发展。这是市场和技术几千年来共同作用的产物。 \n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
+    "date": "2026-08-15T16:16:13.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2088642982614651196",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe",
+    "title_cn": "还有其他人的 Codex Desktop 应用程序在聊天时出错吗？ https://t.co/raNUNTPqbe",
+    "date": "2026-08-15T15:04:26.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2088629172512195035",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "This is remarkably well done.\n\nAnd of course featuring our very own @shreepoorna365.\n\nLet's go. https://t.co/UacgWndqL4",
+    "title_cn": "这一点做得非常好。\n\n当然还有我们自己的@shreepoorna365。\n\n我们走吧。 https://t.co/UacgWndqL4",
+    "date": "2026-08-15T14:09:34.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2088626815166464507",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.\n\nI particularly loved watching him demo how he creates YouTube thumbnails with AI:\n\n1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.\n\n2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.\n\nHonestly, you have to watch the workflow to see how crazy it is.\n\n📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0",
+    "title_cn": "明天，我很高兴能与 @rileybrown 分享新的一集，讲述他如何使用 Codex 来运营他的整个内容业务。\n\n我特别喜欢看他演示如何使用 AI 创建 YouTube 缩略图：\n\n1. 他使用 Codex 在他的利基市场中找到 100 个表现最好的缩略图，并将它们添加到 Paper 画布中。\n\n2. 他使用 Paper 将这些缩略图与自己的照片混合搭配，直到创造出他满意的东西。\n\n老实说，你必须观察工作流程才能知道它有多疯狂。\n\n📌 订阅即可获取明天的完整剧集：https://t.co/NSTj7ijxE0",
+    "date": "2026-08-15T14:00:12.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2088500028721832432",
     "type": "x",
     "name": "Thibault Sottiaux",
