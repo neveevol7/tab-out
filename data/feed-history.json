@@ -48,6 +48,182 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/swyx/status/2089221797254459822",
+    "type": "x",
+    "name": "Swyx",
+    "title": "5 years later and most of the best players here have been bought https://t.co/SemLNVzXXx https://t.co/Ow9t5om5zd",
+    "title_cn": "5 年后，这里大多数最好的球员都被收购了 https://t.co/SemLNVzXXx https://t.co/Ow9t5om5zd",
+    "date": "2026-08-17T05:24:26.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2089212708621291766",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "What are your favorite technical papers that you have read end to end this year? \n\nAnd separately what are the most riveting reads (scifi ideally) that I should read this year?\n\nI try to parallelize both to keep things interesting 😅",
+    "title_cn": "今年您从头到尾读过的最喜欢的技术论文是什么？ \n\n另外，今年我应该阅读的最引人入胜的读物（最好是科幻小说）是什么？\n\n我尝试将两者并行化以使事情变得有趣😅",
+    "date": "2026-08-17T04:48:20.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2089209131391729763",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Pretty good way to think about the value of AI agents and where the opportunity lies. You have a technology that will tirelessly do all the things that you could never fully do before. Not because you didn’t want to or it wasn’t valuable, but because it was just not even remotely practical.\n\nThe upside with AI is to think about everything you can now throw intelligence at that won’t give up and what would the returns be. \n\nYou just couldn’t possibly find every security vulnerability in your codebase, because you couldn’t simulate every risk vector. You couldn’t read every contract or document to process the data and capture it to query later. You couldn’t comb through your customer base and look for every relevant data point for doing upsells. And so on. \n\nThis is a pretty clear way to think about how to deploy AI to get real gains, but also where the startup opportunities are as well. Go after the markets where more compute on a problem will qualitatively change what customers can now do in that domain.",
+    "title_cn": "这是思考人工智能代理的价值和机会所在的好方法。你拥有一种技术，可以不知疲倦地完成所有你以前无法完全完成的事情。不是因为你不想或者它没有价值，而是因为它根本不实用。\n\n人工智能的好处是思考你现在可以投入智能的一切，并且不会放弃，以及回报是什么。 \n\n您不可能找到代码库中的每个安全漏洞，因为您无法模拟每个风险向量。您无法阅读每个合同或文档来处理数据并捕获它以供以后查询。您无法梳理客户群并寻找用于追加销售的每个相关数据点。等等。 \n\n这是一种非常清晰的方式来思考如何部署人工智能以获得真正的收益，同时也是创业机会所在。追求对某个问题进行更多计算将会从质上改变客户现在在该领域可以做的事情的市场。",
+    "date": "2026-08-17T04:34:07.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2089205978877268334",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I want to use this feature but I'm paranoid that it'll eat up all my tokens. Is it pretty token efficient? https://t.co/zjNnpGb4tJ",
+    "title_cn": "我想使用这个功能，但我担心它会耗尽我所有的代币。它的令牌效率很高吗？ https://t.co/zjNnpGb4tJ",
+    "date": "2026-08-17T04:21:35.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2089182111282729470",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "How do I set up this thing to work across all apps not just codex? https://t.co/2N2odVoXix",
+    "title_cn": "我如何设置这个东西以适用于所有应用程序而不仅仅是 Codex？ https://t.co/2N2odVoXix",
+    "date": "2026-08-17T02:46:45.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2089179650891432270",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "https://t.co/BaVgd3k0dc",
+    "title_cn": "https://t.co/BaVgd3k0dc",
+    "date": "2026-08-17T02:36:58.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2089154019885490449",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Was wondering what this new icon in my menu bar is that I didn't enable and that loaded a slow html box.\n\nTime for Chrome Lite? https://t.co/4Q64q7vdfl",
+    "title_cn": "想知道我的菜单栏中的这个新图标是什么，我没有启用它，并且加载了一个缓慢的 html 框。\n\n是时候使用 Chrome Lite 了吗？ https://t.co/4Q64q7vdfl",
+    "date": "2026-08-17T00:55:07.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2089149255382438340",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Codex\n\n✅ Almost 100% reliable\n✅ Occasional resets\n✅ Open-source\n✅ (will have Astra) https://t.co/DxNdAgpag5",
+    "title_cn": "法典\n\n✅ 几乎100%可靠\n✅ 偶尔重置\n✅ 开源\n✅（将有 Astra）https://t.co/DxNdAgpag5",
+    "date": "2026-08-17T00:36:11.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2089146409152872764",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Moving house, and I’m finally ready to let these old friends go https://t.co/UoTPwoe8sU",
+    "title_cn": "搬家了，我终于准备好让这些老朋友走了 https://t.co/UoTPwoe8sU",
+    "date": "2026-08-17T00:24:53.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2089143488696705077",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "GPT-5.6 Sol 1M in Codex. This used to only work for API keys, but we just flipped the switch and works for usage through ChatGPT accounts now too. \n\nThe same warning applies, there is a reason the current context length is the default, we have tuned it to ~perfection. But you do you!",
+    "title_cn": "Codex 中的 GPT-5.6 Sol 1M。过去，这仅适用于 API 密钥，但我们只是翻转了开关，现在也可以通过 ChatGPT 帐户使用。 \n\n同样的警告也适用，当前上下文长度是默认值是有原因的，我们已将其调整到完美。但你就是你！",
+    "date": "2026-08-17T00:13:16.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2089127868903375257",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "i am also skeptical of the centralization of power hypothesis\n\nit comes from Lewis Mumford in 1964 who argued:\n\n\"from late Neolithic times in the Near East, right down to our own day, two technologies have recurrently existed side by side: one authoritarian, the other democratic, the first system-centered, immensely powerful, but inherently unstable, the other man-centered, relatively weak, but resourceful and durable.\"\n\nthis echoes around the valley. peter thiel said in 2018, \"crypto is libertarian and AI is communist\"\n\ncertainly today, it seems like we're on track for AI to look more centralized. if you are a hardcore AGI person you believe this will continue. but we're also seeing a resurgence of fine tuning models for specific purposes. and as amjad says, the human brain provides very good evidence for the benefits of decentralization. we just may not see it yet because we're still in the hyperliterate  \"bee\" or \"ant\" days of AI\n\ni'd be surprised if the optimal design continues to be maximally centralized",
+    "title_cn": "我也对权力集中假说持怀疑态度\n\n它来自 Lewis Mumford 在 1964 年提出的观点：\n\n“从近东新石器时代晚期，一直到我们今天，两种技术反复并存：一种是专制的，另一种是民主的，第一种以制度为中心，非常强大，但本质上不稳定，另一种以人为中心，相对较弱，但足智多谋且持久。”\n\n这在山谷周围回响。 Peter Thiel 在 2018 年表示，“加密货币是自由主义的，人工智能是共产主义的”\n\n当然，今天，我们似乎正在让人工智能看起来更加中心化。如果你是 AGI 的铁杆人士，你相信这种情况将会持续下去。但我们也看到了针对特定目的的微调模型的复兴。正如阿姆贾德所说，人脑为去中心化的好处提供了非常好的证据。我们可能还看不到它，因为我们仍处于人工智能的超级“蜜蜂”或“蚂蚁”时代\n\n如果最优设计继续最大限度地集中，我会感到惊讶",
+    "date": "2026-08-16T23:11:12.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2089126690043916495",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We ran evals on GLM 5.3 cybersecurity capabilities. It's the new open frontier.\n\nGiven its lower costs, I expect this to be a boon for defensive security work. e.g., it means you can run https://t.co/KwrlahlCiK at least 3× more often! https://t.co/aCQDMoxAXI",
+    "title_cn": "我们对 GLM 5.3 网络安全功能进行了评估。这是新的开放前沿。\n\n鉴于其成本较低，我预计这将有利于防御安全工作。例如，这意味着您可以运行 https://t.co/KwrlahlCiK 的频率至少提高 3 倍！ https://t.co/aCQDMoxAXI",
+    "date": "2026-08-16T23:06:31.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2089121597017759800",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "used fable to vibe code an app that visualizes and groups everyone who applied to come to Thesis \n\nwe live in incredible times where detailed understanding of each of your customers—and how they cluster together in groups—is possible with very little effort https://t.co/UBkHaDIDhK",
+    "title_cn": "使用寓言来振动编码一个应用程序，该应用程序可以可视化并分组所有申请参加论文的人 \n\n我们生活在一个令人难以置信的时代，只需很少的努力就可以详细了解每个客户以及他们如何聚集在一起 https://t.co/UBkHaDIDhK",
+    "date": "2026-08-16T22:46:17.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2089111410219556916",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Damn nevermind https://t.co/h94Zwu2yio",
+    "title_cn": "该死的没关系 https://t.co/h94Zwu2yio",
+    "date": "2026-08-16T22:05:48.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2089085004966207679",
+    "type": "x",
+    "name": "Thariq",
+    "title": "it says a lot that the creators of three of the most iconic web frameworks: django (@simonw), flask (@mitsuhiko) and rails (@dhh) were so AI pilled so early",
+    "title_cn": "它充分说明了三个最具标志性的 Web 框架的创建者：django (@simonw)、flask (@mitsuhiko) 和 Rails (@dhh) 这么早就被 AI 抛弃了",
+    "date": "2026-08-16T20:20:53.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2089082893804896524",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Here is how to enable a 1M-token context window in Codex for GPT-5.6 Sol. \n\nEven though we have tuned the context limit in Codex to be set optimally when it comes to performance and cost, this is a common ask, so here it is documented.\n\nA larger context window lets Codex retain more code, tool output, and conversation history before summarizing older material. You need a model that supports it. And GPT-5.6 Sol, for example, has a documented 1,050,000-token window. \n\nOpen ~/.codex/config.toml and add or update these settings at the top level, before any [section] headers:\n\n```\nmodel = \"gpt-5.6-sol\"\nmodel_context_window = 1000000\nmodel_auto_compact_token_limit = 900000\n```\n\nThe first setting selects the model. The second tells Codex to use a one-million-token context budget. The third starts automatic history compaction around 900,000 tokens, leaving some headroom. Restart Codex client and start a new session after saving. \n\nTo try the configuration for a single CLI session without changing your defaults:\n\n```\ncodex -m gpt-5.6-sol \\\n  -c model_context_window=1000000 \\\n  -c model_auto_compact_token_limit=900000\n```\n\nHave fun, but also know that we tuned the default carefully!",
+    "title_cn": "以下是如何在 Codex 中为 GPT-5.6 Sol 启用 1M 令牌上下文窗口。 \n\n尽管我们已经在性能和成本方面调整了 Codex 中的上下文限制以实现最佳设置，但这是一个常见问题，因此在此记录下来。\n\n更大的上下文窗口让 Codex 在总结旧材料之前保留更多代码、工具输出和对话历史记录。您需要一个支持它的模型。例如，GPT-5.6 Sol 有一个记录的 1,050,000 个代币窗口。 \n\n打开 ~/.codex/config.toml 并在顶层的任何 [section] 标题之前添加或更新这些设置：\n\n````\n型号 =“gpt-5.6-sol”\n模型上下文窗口 = 1000000\nmodel_auto_compact_token_limit = 900000\n````\n\n第一个设置选择模型。第二个告诉 Codex 使用一百万个代币的上下文预算。第三个启动大约 900,000 个代币的自动历史压缩，留出一些空间。保存后重新启动 Codex 客户端并启动新会话。 \n\n要尝试单个 CLI 会话的配置而不更改默认值：\n\n````\ncodex-m gpt-5.6-sol \\\n  -c model_context_window=1000000 \\\n  -c model_auto_compact_token_limit=900000\n````\n\n玩得开心，但也要知道我们仔细调整了默认值！",
+    "date": "2026-08-16T20:12:29.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2089069905375351169",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "18x improvement in intelligence per joule in 16 months. https://t.co/lP62kI5rpr https://t.co/LAPXQHLgxJ",
+    "title_cn": "16 个月内每焦耳智力提高 18 倍。 https://t.co/lP62kI5rpr https://t.co/LAPXQHLgxJ",
+    "date": "2026-08-16T19:20:53.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2089022997407686663",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "the more you earn, the more you crave the things money can’t buy.",
+    "title_cn": "你赚的越多，你就越渴望金钱买不到的东西。",
+    "date": "2026-08-16T16:14:29.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2089012934953599263",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Everyone go follow this guy on instagram, he's amazing https://t.co/zSIaTRCjpf",
+    "title_cn": "每个人都去 Instagram 上关注这个人，他太棒了 https://t.co/zSIaTRCjpf",
+    "date": "2026-08-16T15:34:30.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2089012811007688746",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "There's nothing more conservative than a liberal with a house. https://t.co/GshcvD1duN",
+    "title_cn": "没有什么比拥有房子的自由主义者更保守的了。 https://t.co/GshcvD1duN",
+    "date": "2026-08-16T15:34:00.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2088995821056659901",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types. \n\nAnd what the top 10% is doing today may easily be what the top 50% is doing in 3 years from now, at least in terms of token volume if not in dollars. This is why there’s still so much opportunity right now in the diffusion of AI in the enterprise.\n\nEspecially as token costs come down, we will throw larger portions of work at agents. They’ll be scanning all our code for security issues, testing all of our software, writing coding for much larger projects, processing nearly all data, and much more. So this trend has no end in sight.",
+    "title_cn": "人工智能支出还远远没有达到极限。显然，这些数据主要针对以工程为中心的公司，排名前 1% 的公司每名员工每月在人工智能上的支出为 7,500 美元，排名前 10% 的公司每月花费 660 美元。但持续指数增长的总体趋势正在所有类型的公司中出现。 \n\n排名前 10% 的人今天所做的事情很可能就是未来 3 年内排名前 50% 的人所做的事情，至少在代币交易量方面（如果不是以美元计算的话）。这就是为什么目前人工智能在企业中的传播仍然有如此多的机会。\n\n特别是随着代币成本的下降，我们将把更多的工作交给代理商。他们将扫描我们所有的代码是否存在安全问题，测试我们所有的软件，为更大的项目编写代码，处理几乎所有数据等等。所以这种趋势看不到尽头。",
+    "date": "2026-08-16T14:26:30.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2088978519594352875",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "History rhymes \n\nhttps://t.co/zy7sAmH9Hn https://t.co/vZTsJrH4x3",
+    "title_cn": "历史韵律 \n\nhttps://t.co/zy7sAmH9Hn https://t.co/vZTsJrH4x3",
+    "date": "2026-08-16T13:17:45.000Z"
+  },
+  {
     "url": "https://x.com/amasad/status/2088867492907327573",
     "type": "x",
     "name": "Amjad Masad",
