@@ -43,7 +43,7 @@
       "stars": "6k",
       "growth": "🔺482",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "stars": "12.9k",
       "growth": "🔺460",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": "7",
@@ -61,7 +61,7 @@
       "stars": "7.9k",
       "growth": "🔺431",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": "8",
@@ -171,7 +171,7 @@
       "stars": "21.8k",
       "growth": "🔺2991",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
@@ -189,7 +189,7 @@
       "stars": "12.9k",
       "growth": "🔺2374",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": "12",
@@ -216,7 +216,7 @@
       "stars": "25.1k",
       "growth": "🔺2330",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "15",
@@ -261,7 +261,7 @@
       "stars": "17.6k",
       "growth": "🔺1794",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "20",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-17T03:02:29.114811"
+  "updated_at": "2026-08-17T04:45:30.735220"
 }
