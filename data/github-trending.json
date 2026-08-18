@@ -79,7 +79,7 @@
       "stars": "13.8k",
       "growth": "🔺888",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
@@ -108,7 +108,7 @@
       "stars": "16.2k",
       "growth": "🔺7747",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "3",
@@ -117,7 +117,7 @@
       "stars": "7.9k",
       "growth": "🔺5369",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "4",
@@ -162,7 +162,7 @@
       "stars": "29.4k",
       "growth": "🔺3529",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "位于您终端中的代理多路复用器。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
@@ -216,7 +216,7 @@
       "stars": "25.1k",
       "growth": "🔺2330",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "description_cn": "Claude Code、Cursor、Codex 的防 AI 设计技巧。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "15",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-18T20:27:17.866618"
+  "updated_at": "2026-08-18T22:26:48.542016"
 }
