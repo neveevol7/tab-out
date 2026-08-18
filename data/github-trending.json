@@ -108,7 +108,7 @@
       "stars": "16.2k",
       "growth": "🔺7747",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "3",
@@ -171,7 +171,7 @@
       "stars": "21.8k",
       "growth": "🔺2991",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-18T14:36:12.918692"
+  "updated_at": "2026-08-18T16:34:43.718332"
 }
