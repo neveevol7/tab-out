@@ -70,7 +70,7 @@
       "stars": "7.1k",
       "growth": "🔺1075",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "9",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-18T02:58:06.979643"
+  "updated_at": "2026-08-18T04:37:52.720004"
 }
