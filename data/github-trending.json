@@ -108,7 +108,7 @@
       "stars": "16.2k",
       "growth": "🔺7747",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。"
     },
     {
       "rank": "3",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-18T16:34:43.718332"
+  "updated_at": "2026-08-18T18:41:33.743995"
 }
