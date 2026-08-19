@@ -43,7 +43,7 @@
       "stars": "2.6k",
       "growth": "🔺695",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": "6",
@@ -171,7 +171,7 @@
       "stars": "21.8k",
       "growth": "🔺2991",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-19T02:59:56.546052"
+  "updated_at": "2026-08-19T04:39:53.627959"
 }
