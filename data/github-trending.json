@@ -180,7 +180,7 @@
       "stars": "35.8k",
       "growth": "🔺2612",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
     },
     {
       "rank": "11",
@@ -234,7 +234,7 @@
       "stars": "15.7k",
       "growth": "🔺2221",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": "17",
@@ -252,7 +252,7 @@
       "stars": "6k",
       "growth": "🔺1849",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "19",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-20T02:59:02.092805"
+  "updated_at": "2026-08-20T04:39:52.455108"
 }
