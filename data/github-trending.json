@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": "13.5k",
-      "growth": "🔺1977",
+      "stars": "15.1k",
+      "growth": "🔺1545",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "yjh051108/dsh-routing-suite",
-      "url": "https://github.com/yjh051108/dsh-routing-suite",
-      "stars": "6k",
-      "growth": "🔺1512",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": "10k",
+      "growth": "🔺1228",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "3",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": "8.8k",
-      "growth": "🔺1273",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": "15.2k",
+      "growth": "🔺812",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": "14.4k",
-      "growth": "🔺1131",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "stars": "15.6k",
+      "growth": "🔺694",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "description_cn": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
     },
     {
       "rank": "5",
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars": "2.6k",
+      "growth": "🔺642",
+      "description": "local multi-agent harness",
+      "description_cn": "本地多智能体利用"
+    },
+    {
+      "rank": "6",
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "2.6k",
-      "growth": "🔺695",
+      "stars": "3.2k",
+      "growth": "🔺553",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
-      "rank": "6",
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "stars": "9.8k",
-      "growth": "🔺649",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
       "rank": "7",
-      "name": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "stars": "6.1k",
-      "growth": "🔺557",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "description_cn": "时空可组合性元框架"
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "stars": "9.5k",
+      "growth": "🔺519",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": "8",
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "stars": "8.9k",
-      "growth": "🔺473",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "3.6k",
+      "growth": "🔺498",
+      "description": "Cursor plugin specification and official plugins",
+      "description_cn": "光标插件规范和官方插件"
     },
     {
       "rank": "9",
-      "name": "zhu1090093659/dsh-web-ui",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "stars": "4.6k",
-      "growth": "🔺472",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "stars": "19.8k",
+      "growth": "🔺444",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description_cn": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
     },
     {
       "rank": "10",
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "stars": "19.3k",
-      "growth": "🔺401",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "stars": "10.1k",
+      "growth": "🔺357",
+      "description": "---",
+      "description_cn": null
     }
   ],
   "weekly": [
@@ -117,7 +117,7 @@
       "stars": "7.9k",
       "growth": "🔺5369",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": "4",
@@ -171,7 +171,7 @@
       "stars": "21.8k",
       "growth": "🔺2991",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -180,7 +180,7 @@
       "stars": "35.8k",
       "growth": "🔺2612",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "description_cn": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "11",
@@ -207,7 +207,7 @@
       "stars": "29.5k",
       "growth": "🔺2331",
       "description": "Skills for Design Engineers.",
-      "description_cn": "设计工程师的技能。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "14",
@@ -261,7 +261,7 @@
       "stars": "17.6k",
       "growth": "🔺1794",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "20",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-19T22:27:18.824852"
+  "updated_at": "2026-08-20T01:23:24.705558"
 }
