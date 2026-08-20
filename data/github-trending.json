@@ -171,7 +171,7 @@
       "stars": "21.8k",
       "growth": "🔺2991",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "将任何技术书籍 PDF 转换为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "10",
@@ -207,7 +207,7 @@
       "stars": "29.5k",
       "growth": "🔺2331",
       "description": "Skills for Design Engineers.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "设计工程师的技能。"
     },
     {
       "rank": "14",
@@ -234,7 +234,7 @@
       "stars": "15.7k",
       "growth": "🔺2221",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "17",
@@ -252,7 +252,7 @@
       "stars": "6k",
       "growth": "🔺1849",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "19",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "给你的代理人一台电脑👾"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-20T01:23:24.705558"
+  "updated_at": "2026-08-20T02:59:02.092805"
 }
