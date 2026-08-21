@@ -162,7 +162,7 @@
       "stars": "29.4k",
       "growth": "🔺3529",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "位于您终端中的代理多路复用器。"
     },
     {
       "rank": "9",
@@ -180,7 +180,7 @@
       "stars": "35.8k",
       "growth": "🔺2612",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "description_cn": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "11",
@@ -198,7 +198,7 @@
       "stars": "20.8k",
       "growth": "🔺2331",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "13",
@@ -261,7 +261,7 @@
       "stars": "17.6k",
       "growth": "🔺1794",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "20",
@@ -273,5 +273,5 @@
       "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-21T03:05:15.809564"
+  "updated_at": "2026-08-21T04:41:03.459354"
 }
