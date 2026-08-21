@@ -4,17 +4,17 @@
       "rank": "1",
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": "15.1k",
-      "growth": "🔺1545",
+      "stars": "16.4k",
+      "growth": "🔺1329",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": "10k",
-      "growth": "🔺1228",
+      "name": "s1dashu/ip-as-logo-skill",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": "3k",
+      "growth": "🔺967",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -22,73 +22,73 @@
       "rank": "3",
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": "15.2k",
-      "growth": "🔺812",
+      "stars": "16k",
+      "growth": "🔺779",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "stars": "15.6k",
-      "growth": "🔺694",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "description_cn": "基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定"
+      "name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "stars": "5.1k",
+      "growth": "🔺655",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "5",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": "10.6k",
+      "growth": "🔺596",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "6",
+      "name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "stars": "11k",
+      "growth": "🔺591",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "7",
+      "name": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "stars": "13.4k",
+      "growth": "🔺471",
+      "description": "绘制好看的地图海报的 Python 库。该项目可以将 OpenStreetMap 的地图数据绘制成漂亮的地图海报，上手简单可自定义填充颜色。",
+      "description_cn": "绘制好看的地图海报的 Python 库。该项目可以将 OpenStreetMap 的地图数据绘制成漂亮的地图海报，上手简单可自定义填充颜色。"
+    },
+    {
+      "rank": "8",
       "name": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars": "2.6k",
-      "growth": "🔺642",
+      "stars": "3.1k",
+      "growth": "🔺460",
       "description": "local multi-agent harness",
       "description_cn": "本地多智能体利用"
     },
     {
-      "rank": "6",
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "3.2k",
-      "growth": "🔺553",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
-    },
-    {
-      "rank": "7",
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "stars": "9.5k",
-      "growth": "🔺519",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
-    },
-    {
-      "rank": "8",
+      "rank": "9",
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
-      "stars": "3.6k",
-      "growth": "🔺498",
+      "stars": "4k",
+      "growth": "🔺373",
       "description": "Cursor plugin specification and official plugins",
       "description_cn": "光标插件规范和官方插件"
     },
     {
-      "rank": "9",
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "stars": "19.8k",
-      "growth": "🔺444",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "description_cn": "LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD 缓存 - 从 macOS 菜单栏进行管理"
-    },
-    {
       "rank": "10",
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "stars": "10.1k",
-      "growth": "🔺357",
-      "description": "---",
-      "description_cn": null
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": "3.5k",
+      "growth": "🔺328",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     }
   ],
   "weekly": [
@@ -180,7 +180,7 @@
       "stars": "35.8k",
       "growth": "🔺2612",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "DeepTutor：终身个性化辅导。 https://deeptutor.info/。"
     },
     {
       "rank": "11",
@@ -189,7 +189,7 @@
       "stars": "12.9k",
       "growth": "🔺2374",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "12",
@@ -198,7 +198,7 @@
       "stars": "20.8k",
       "growth": "🔺2331",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "13",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-20T22:30:26.203375"
+  "updated_at": "2026-08-21T01:27:23.806991"
 }
