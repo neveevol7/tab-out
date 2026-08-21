@@ -88,7 +88,7 @@
       "stars": "3.5k",
       "growth": "🔺328",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     }
   ],
   "weekly": [
@@ -153,7 +153,7 @@
       "stars": "21.9k",
       "growth": "🔺3791",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
       "rank": "8",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-21T16:37:51.003921"
+  "updated_at": "2026-08-21T18:39:58.468145"
 }
