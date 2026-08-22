@@ -48,6 +48,278 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/levie/status/2091038566260539574",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domain. \n\nAs intelligence becomes too cheap to meter, then the big opportunity is driving diffusion of AI into the economy. \n\nThis is a great time to be applied AI company because there’s an incredible amount of innovation and competition acting as a tailwind to your own progress. Huge moment for startups right now that can take advantage of this.",
+    "title_cn": "目前人工智能的进步速度不同于科技史上的任何其他时期。在类似的任务基础上，模型变得越来越便宜，能力更强，速度更快，而且几乎在每个领域都在深入。 \n\n随着智能变得过于廉价而无法计量，巨大的机遇正在推动人工智能向经济领域的扩散。 \n\n现在是应用人工智能公司的好时机，因为有大量的创新和竞争可以成为你自己进步的顺风车。对于初创企业来说，现在是一个可以利用这一点的重要时刻。",
+    "date": "2026-08-22T05:43:38.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2091033630147854385",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those users as hitting the cache consistently is an important component of being efficient.\n\nWe are investigating and will have an update tomorrow.",
+    "title_cn": "法典中速率限制的更新。我们确实看到，对于某些用户来说，本周的缓存命中率比前几周的稳定状态更差。这可以解释这些用户的使用量消耗得更快，因为一致地访问缓存是提高效率的重要组成部分。\n\n我们正在调查，并将于明天发布最新消息。",
+    "date": "2026-08-22T05:24:01.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2091000431996473688",
+    "type": "x",
+    "name": "Swyx",
+    "title": "🌍🔫👩‍🚀 https://t.co/23FdI9i5JY",
+    "title_cn": "🌍🔫👩‍🚀 https://t.co/23FdI9i5JY",
+    "date": "2026-08-22T03:12:06.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2090964822422949999",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "The banked reset has landed, I repeat, the banked reset has landed. Have an amazing weekend. https://t.co/s9FYCLNYKz",
+    "title_cn": "银行重置已经落地，我重复一遍，银行重置已经落地。祝你周末愉快。 https://t.co/s9FYCLNYKz",
+    "date": "2026-08-22T00:50:36.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2090953806624489501",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs\nTest it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
+    "title_cn": "https://t.co/G0UyDr4xgg 现在支持您的@Grok &amp;法典潜艇\n在沙箱上进行测试。即时安装：https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
+    "date": "2026-08-22T00:06:50.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2090948945753076141",
+    "type": "x",
+    "name": "Swyx",
+    "title": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
+    "title_cn": "我认为很容易说“模拟是一种新的缩放法则”并将其视为营销夸张，但在这次采访的中间，你可以听到我从有点废话到非常非常严肃。 \n\n我迟到了 2 年，但终于明白为什么 @karpathy 和 @drfeifei 支持 @joon_s_pk @msbernst @percyliang 等人 - Smallville 当时的商业应用为零，但如果你认真对待 RSI，从自动化越来越多的 ML 研究和 AI 工程的模型来看，最后一个*障碍是模拟人类和人类反馈，而 Simile 显然是做到这一点的团队，即使在现在，也已经在财富 100 强中找到了 PMF早期阶段。\n\n我从来没有这么高兴过犯了这么大的错误。\n\n*或倒数第二个！ :) 更多关于科学播客的内容",
+    "date": "2026-08-21T23:47:31.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2090947196107764189",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
+    "title_cn": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。",
+    "date": "2026-08-21T23:40:34.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2090946181564440727",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "dropping new skill brb https://t.co/JuKdTVVNzW https://t.co/yFq6bGpckM",
+    "title_cn": "放弃新技能 brb https://t.co/JuKdTVVNzW https://t.co/yFq6bGpckM",
+    "date": "2026-08-21T23:36:32.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2090936583814025417",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records? \n\nI can't recommend this to anyone until this is figured out. Thanks @clairevo for spotting this. https://t.co/J2qhYVqwxN",
+    "title_cn": "嘿，本能，在未经我许可的情况下索引和保留我的电子邮件并且不让我从您的记录中删除它们，这不是很酷吗？ \n\n在弄清楚这一点之前，我不能向任何人推荐这个。感谢@clairevo 发现了这一点。 https://t.co/J2qhYVqwxN",
+    "date": "2026-08-21T22:58:23.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2090930137885774324",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "How to build great evals - part 5\n\nStop dumbing down the results from your beautiful, complex eval suite into one single score. This often happens because some senior wants a simplified number to make decisions. Happened to us in the early days of Gemini.\n\nAnd I see it happening with a lot of teams.\n\nThis is the tyranny of the average.\nAI systems do not have a simple dimension of quality.\n\nImagine a model that goes from:\n85% -> 89% on simple summarization\n80% -> 85% on basic factual QA\n70% -> 63% on complex financial analysis\n\nA single score obscures the fact that the model got worse on your frontier use case.\n\nThe immediate reaction to this is to come up with a weighted score. The problem with this is that you have  created false, mathematical procession around a judgment call.\n\nSo what should you do?\n- keep a prioritized list of your evals per the ladder we discussed in part 4 yesterday.\n- get people who can look at the details and don’t look for abstracted simplicity.\n- Understand all the critical eval results in depth, where they fail, where they shine and make a decision on whether your new AI system is better or worse for your users.\n\nNext post tomorrow!\n\nDrop your eval questions below and I will answer in future posts.\n\nShare this with your teammates. And your managers who run from complexity.",
+    "title_cn": "如何构建出色的评估 - 第 5 部分\n\n不要再将美丽、复杂的评估套件的结果简化为一个分数。这种情况经常发生，因为一些高层想要一个简化的数字来做出决定。双子座早期就发生在我们身上。\n\n我看到很多团队都在发生这种情况。\n\n这就是平均数的暴政。\n人工智能系统没有简单的质量维度。\n\n想象一个模型：\n简单总结 85% -> 89%\n基本事实 QA 为 80% -> 85%\n70% -> 63% 进行复杂的财务分析\n\n单个分数掩盖了模型在您的前沿用例上变得更糟的事实。\n\n对此的直接反应是得出加权分数。这样做的问题在于，你围绕判断调用创建了错误的数学过程。\n\n那么你应该做什么呢？\n- 根据我们昨天在第 4 部分中讨论的阶梯保留一份评估的优先级列表。\n- 寻找能够关注细节而不是追求抽象简单性的人。\n- 深入了解所有关键的评估结果，它们在哪里失败，哪里表现出色，并决定您的新人工智能系统对您的用户来说是更好还是更差。\n\n明天下一篇文章！\n\n将您的评估问题放在下面，我将在以后的帖子中回答。\n\n与您的队友分享此信息。还有那些逃避复杂性的经理。",
+    "date": "2026-08-21T22:32:47.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2090922626890031428",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "🤯 https://t.co/EMs2gQfNMB",
+    "title_cn": "🤯 https://t.co/EMs2gQfNMB",
+    "date": "2026-08-21T22:02:56.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2090908959590740033",
+    "type": "x",
+    "name": "Swyx",
+    "title": "i have another saas to kill\n\n(will share results of Kill My SaaS 1 next week!!) https://t.co/zS59XXgYDG https://t.co/nj2Fluq947",
+    "title_cn": "我还有另一个 SaaS 需要消灭\n\n（下周将分享 Kill My SaaS 1 的结果！！） https://t.co/zS59XXgYDG https://t.co/nj2Fluq947",
+    "date": "2026-08-21T21:08:37.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2090898421108605078",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
+    "title_cn": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门” https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
+    "date": "2026-08-21T20:26:45.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2090890394880155888",
+    "type": "x",
+    "name": "Thariq",
+    "title": "I like to use this for explainers and diving into a problem, e.g.\n\n/eli5 how does this module work\n\n/eli5 why did we make this tradeoff\n\n/eli5 what caused this incident",
+    "title_cn": "我喜欢用它来解释并深入研究问题，例如\n\n/eli5 这个模块是如何工作的\n\n/eli5 为什么我们要做出这样的权衡\n\n/eli5 是什么原因导致了这起事件",
+    "date": "2026-08-21T19:54:51.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2090889728719777952",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Hate to say it but the luxury belief industrial complex is alive and well https://t.co/gudazm9X0I",
+    "title_cn": "不想这么说，但奢华信仰工业综合体仍然充满生机 https://t.co/gudazm9X0I",
+    "date": "2026-08-21T19:52:12.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2090884855798407576",
+    "type": "x",
+    "name": "Thariq",
+    "title": "debating whether we should make it an official plugin, but you can try installing it here to try with these commands:\n\nclaude plugin marketplace add anthropics/claude-plugins-community\n\nclaude plugin install eli5@claude-community",
+    "title_cn": "争论我们是否应该将其设为官方插件，但您可以尝试在此处安装它以尝试使用以下命令：\n\n克劳德插件市场添加 anthropics/claude-plugins-community\n\n克劳德插件安装 eli5@claude-community",
+    "date": "2026-08-21T19:32:51.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2090884854590382515",
+    "type": "x",
+    "name": "Thariq",
+    "title": "a skill people at Anthropic have been using a lot recently: ELI5\n\n/eli5 &lt;what you want explained&gt;\n\n\"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words\" https://t.co/OZqzjAyFdT",
+    "title_cn": "Anthropic 的人们最近经常使用的一项技能：ELI5\n\n/eli5 <你想要解释什么>\n\n“就像我是一个对这个主题一无所知的人一样，使用带有大图片和很少文字的 HTML 工件进行解释” https://t.co/OZqzjAyFdT",
+    "date": "2026-08-21T19:32:50.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2090884422178627624",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "This is still SO underrated btw..\n\nMy daughter just started kindergarten. The daily meal is on a random website with weird unstructured data.\n\nAsked Claude Code to find the API through network requests, which turned out to be luckily unauthenticated. It figured out the right format and give it to our existing Hermes bot.\n\nSo now every morning our Home bot tells us what's for breakfast & lunch so we can pack food accordingly!",
+    "title_cn": "顺便说一句，这仍然被低估了..\n\n我女儿刚上幼儿园。每日膳食是在一个随机网站上进行的，其中包含奇怪的非结构化数据。\n\n要求 Claude Code 通过网络请求找到 API，结果幸运的是未经过身份验证。它找出了正确的格式并将其提供给我们现有的 Hermes 机器人。\n\n所以现在每天早上我们的家庭机器人都会告诉我们早餐和午餐吃什么，这样我们就可以相应地包装食物！",
+    "date": "2026-08-21T19:31:07.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2090870362007281984",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "VC each time a company they passed on at the seed does another huge round  https://t.co/bD8vo0eQUo",
+    "title_cn": "每次他们在种子轮上放弃的公司都会进行另一轮巨额风险投资 https://t.co/bD8vo0eQUo",
+    "date": "2026-08-21T18:35:15.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2090860697504653480",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "gang gang https://t.co/Vo13R60q6P",
+    "title_cn": "时间时间 https://t.co/Vo13R60q6P",
+    "date": "2026-08-21T17:56:51.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2090859831964152283",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "I take my \"walks in the park\" seriously, rain or shine..\n\nNew episode with @toddsaunders dropping next week 👀 https://t.co/ZKgGowTvYm",
+    "title_cn": "我认真对待我的“公园散步”，无论风雨无阻。\n\n@toddsaunders 的新剧集将于下周推出 👀 https://t.co/ZKgGowTvYm",
+    "date": "2026-08-21T17:53:24.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2090858571613470919",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens. https://t.co/cpZMKv6XVN",
+    "title_cn": "观看这一切的展开真是太疯狂了。我们针对 https://t.co/bnjggVrBDj 循环运行 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌，直到达到 100/100。\n\n它使我们缩小了很多差距。我们努力确保标准是高质量的并且值得您花时间和精力。代币。 https://t.co/cpZMKv6XVN",
+    "date": "2026-08-21T17:48:24.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2090856968407978031",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Our Python team is making rapid progress https://t.co/91E442WbNu",
+    "title_cn": "我们的 Python 团队正在快速进步 https://t.co/91E442WbNu",
+    "date": "2026-08-21T17:42:02.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2090852320128938319",
+    "type": "x",
+    "name": "Claude",
+    "title": "It's one of several steps to bring frontier capability to more defenders: we’re working with partners to integrate Mythos 5 into their security products and services, our new Defender Advantage Fund provides $35M in credits for open-source security, and we’re expanding our Cyber Verification Program in the coming weeks. Read more: https://t.co/xgu4d9yrwm",
+    "title_cn": "这是为更多防御者带来前沿能力的几个步骤之一：我们正在与合作伙伴合作，将 Mythos 5 集成到他们的安全产品和服务中，我们新的防御者优势基金为开源安全提供 3500 万美元的积分，并且我们将在未来几周内扩展我们的网络验证计划。了解更多：https://t.co/xgu4d9yrwm",
+    "date": "2026-08-21T17:23:33.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2090852318527033804",
+    "type": "x",
+    "name": "Claude",
+    "title": "Suggested patches open in Claude Code on the web, using the models your team already uses. These updates are part of our work to give defenders greater access to Mythos results without requiring direct access to the model: the model runs behind the scan and returns findings only. Scans are billed as standard token usage under your existing plan.",
+    "title_cn": "建议的补丁会在网络上的 Claude Code 中打开，使用您的团队已使用的模型。这些更新是我们工作的一部分，旨在让防御者能够更好地访问 Mythos 结果，而无需直接访问模型：模型在扫描后面运行并仅返回结果。根据您现有的计划，扫描将按照标准令牌使用量进行计费。",
+    "date": "2026-08-21T17:23:33.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2090852316328902930",
+    "type": "x",
+    "name": "Claude",
+    "title": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix.",
+    "title_cn": "GitHub 存储库中的 Point Claude Security 和 Mythos 扫描漏洞，跟踪跨文件的数据并推理组件如何交互。每个发现都会返回 CWE 类别、置信度和严重性评级以及建议的修复方案。",
+    "date": "2026-08-21T17:23:33.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2090846057408483668",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "https://t.co/OqZzvddSs4",
+    "title_cn": "https://t.co/OqZzvddSs4",
+    "date": "2026-08-21T16:58:40.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2090845035537522925",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "You can just make money from your phone! https://t.co/9NL6ypxNaW",
+    "title_cn": "你只需用手机就能赚钱！ https://t.co/9NL6ypxNaW",
+    "date": "2026-08-21T16:54:37.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2090814910720835633",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Instinct is very well done.\n\nI'm particularly impressed by how smooth the onboarding experience is to connect iMessages, Google Workspace, and my MCPs. The best builder prioritize onboarding and new user needs :)\n\nInstinct also feels more proactive than some of the other assistants - it'll suggest things it can do right away after connecting a MCP.\n\nHowever, I can't see myself doing real work with Instinct since it's all just in one thread. This is the same issue I have with @bot, the UX is very clean but often I want to have multiple threads going with the same bot.\n\nI think I'll use Instinct more as an assistant for random chores and tasks.\n\nFor actual work, I'm still sticking to ChatGPT Work and Codex.\n\nP.S. I asked Instinct if I have any invites to give out and it says invites are paused, so don't ask me for any (yet) 🙂",
+    "title_cn": "《本能》做得非常好。\n\n连接 iMessage、Google Workspace 和我的 MCP 的流畅入门体验给我留下了特别深刻的印象。最好的构建者优先考虑新手入门和新用户需求:)\n\nInstinct 也比其他一些助手更主动 - 它会在连接 MCP 后立即建议可以执行的操作。\n\n然而，我看不到自己用 Instinct 做真正的工作，因为这一切都只是在一个线程中。这与我在 @bot 上遇到的问题相同，用户体验非常干净，但通常我希望多个线程与同一个机器人一起使用。\n\n我想我会更多地使用本能作为随机杂务和任务的助手。\n\n对于实际工作，我仍然坚持使用 ChatGPT Work 和 Codex。\n\n附：我问 Instinct 是否有任何邀请可以发出，它说邀请已暂停，所以不要向我索要任何邀请（还）",
+    "date": "2026-08-21T14:54:54.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2090814576270975265",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Full episode with @RamaswmySridhar at @spc https://t.co/DiSoqgRUcc",
+    "title_cn": "@RamaswmySridhar 的完整剧集，@spc https://t.co/DiSoqgRUcc",
+    "date": "2026-08-21T14:53:35.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2090814574400307585",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "The frontier model race is just getting started. https://t.co/uONWFGa9SC https://t.co/coKzjpfqZ8",
+    "title_cn": "前沿模型竞赛才刚刚开始。 https://t.co/uONWFGa9SC https://t.co/coKzjpfqZ8",
+    "date": "2026-08-21T14:53:34.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2090801607894344047",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "This is a UC Berkeley CS professor 😳 https://t.co/I1YBnMTiDC",
+    "title_cn": "这是加州大学伯克利分校的计算机科学教授 😳 https://t.co/I1YBnMTiDC",
+    "date": "2026-08-21T14:02:03.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2090797527222439998",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Asian American erasure, example #107492 https://t.co/f9UlZlaSqL",
+    "title_cn": "亚裔美国人擦除，例如#107492 https://t.co/f9UlZlaSqL",
+    "date": "2026-08-21T13:45:50.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2090702627206214081",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Show up every day\nAlways be launching\nAnd don't be afraid of repeating yourself, over and over and over again https://t.co/Da13FQmYmv",
+    "title_cn": "每天都会出现\n始终在启动\n不要害怕一遍又一遍地重复自己 https://t.co/Da13FQmYmv",
+    "date": "2026-08-21T07:28:44.000Z"
+  },
+  {
     "url": "https://x.com/swyx/status/2090678390575513991",
     "type": "x",
     "name": "Swyx",
