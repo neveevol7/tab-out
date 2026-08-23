@@ -48,6 +48,158 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2091407991736332689",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Update on rate limits in Codex. \n\nWe’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.\n\nAs part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.\n\nSee you then.",
+    "title_cn": "法典中速率限制的更新。 \n\n我们发现 (a) 在多次压缩的长时间会话中使用图像时效率低下 (b) 计算机历史记录中 p95+ 使用率较高 (c) 旨在生成对话标题的功能比预期消耗了更多的使用量。我们有一个老虎团队来梳理所有事情并明天修复运输问题。我们还发现了一种完全无关的新颖方法来显着提高效率，我们将在下周进行研究。\n\n作为明天修复的一部分，我们还将全面重置所有付费订阅的使用情况。\n\n到时候见。",
+    "date": "2026-08-23T06:11:36.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2091403643815604629",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Few things:\n1) These are Twitter DMs. I try to be helpful to as many cold DMs as I can. This one shouldn’t have passed the bar. \n\n2) Doxxing someone is not my style. I hope they learned their lesson. \n\n3) I can’t stress enough how important it is to find the right people to take advice from. It boils my blood to see many talented young people who actually have substance play these stupid games.",
+    "title_cn": "几件事：\n1) 这些是 Twitter 私信。我尽力为尽可能多的冷漠的私信提供帮助。这个不应该通过标准。 \n\n2）人肉搜索别人不是我的风格。我希望他们吸取教训。 \n\n3）找到合适的人听取建议是多么重要，我怎么强调都不为过。看到许多有才华、有实质内容的年轻人玩这些愚蠢的游戏，我感到热血沸腾。",
+    "date": "2026-08-23T05:54:19.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2091381756012511244",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd",
+    "title_cn": "孩子们，我不知道你得到了什么建议，但是激怒投资者，然后向他们发送安全文件来电汇你的钱，这并不是投资的方式。 https://t.co/MSXm6S85Vd",
+    "date": "2026-08-23T04:27:21.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2091379220257603593",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing \n\nBut when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it’s even decreased)\n\nThis is why I’m seeing more and more talented people leave large companies. (The only exceptions are probably top AI labs like OpenAI/Anthropic)",
+    "title_cn": "有一种现象是，有才华的人在做自己的事情时可以通过人工智能实现 10 倍的潜力 \n\n但当同一个人进入一个大组织时，他们的潜力最多会增加20%（有时甚至会减少）\n\n这就是为什么我看到越来越多的人才离开大公司。 （唯一的例外可能是 OpenAI/Anthropic 等顶级人工智能实验室）",
+    "date": "2026-08-23T04:17:16.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2091361962068254840",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "we’re hiring @every!\n\nhttps://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z",
+    "title_cn": "我们正在招聘@every！\n\nhttps://t.co/UVzy1MRevu https://t.co/QLoIrG8K5Z",
+    "date": "2026-08-23T03:08:42.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2091359223368315050",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models.\n\nThe far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. \n\nThis will be a huge space over time because you can’t automate what you can’t assess the progress on. Enterprises will not be able to go just on vibes.",
+    "title_cn": "人工智能扩散受到良好评估的限制比大多数人意识到的要大得多。您在每个模型发布中看到的那种评估非常有用，但只能告诉您一般人工智能进展的情况和模型的相对能力水平。\n\n随着时间的推移，更大的空间是对企业所做的所有主要工作流程的评估，具体到个别公司的具体情况。 \n\n随着时间的推移，这将是一个巨大的空间，因为你无法自动化你无法评估进度的事情。企业不能只靠氛围来发展。",
+    "date": "2026-08-23T02:57:49.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2091346778746757204",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "A week has 7 days\n\nThat means 7 ships https://t.co/DFGoTnEy5G",
+    "title_cn": "一周有7天\n\n这意味着 7 艘船 https://t.co/DFGoTnEy5G",
+    "date": "2026-08-23T02:08:22.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Everyone who’s ahead in using AI thinks they’re behind",
+    "title_cn": "每个在人工智能应用方面领先的人都认为自己落后了",
+    "date": "2026-08-23T01:34:58.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2091338152791474331",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.",
+    "title_cn": "人工智能可以做很多奇妙的事情，实现很多愿望，但我们只有一个地球，一个加利福尼亚，一个巴塔哥尼亚，一个门多萨。美国和阿根廷是两个最自由的国家，也恰好拥有最美丽的土地和地理。我很长🇺🇸🇦🇷。我们来得太早了",
+    "date": "2026-08-23T01:34:05.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091331251211059468",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you care about your privacy:\n\n1. Go to https://t.co/yICN6WAe9R in Chrome\n2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser\n3. Then pick the ones you want to remove and tell AI to do it\n\nJust disconnected half the apps that should no longer have my Google info.",
+    "title_cn": "如果您关心自己的隐私：\n\n1. 在 Chrome 中访问 https://t.co/yICN6WAe9R\n2. 在 Codex 或 Claude Code 中运行此提示并告诉它您的浏览器中有一个打开的选项卡\n3.然后选择你想要删除的并告诉AI去做\n\n刚刚断开了一半不应再包含我的 Google 信息的应用程序。",
+    "date": "2026-08-23T01:06:40.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2091278899711967441",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Part 1\nhttps://t.co/9PCxjUITL6\n\nPart 2\nhttps://t.co/oMkXFWt9m7\n\nPart 3\nhttps://t.co/dwQ8cOzIrR\n\nPart 4\nhttps://t.co/NeaJzD7dry\n\nPart 5\nhttps://t.co/G0R7ZlEVDt",
+    "title_cn": "第 1 部分\nhttps://t.co/9PCxjUITL6\n\n第2部分\nhttps://t.co/oMkXFWt9m7\n\n第三部分\nhttps://t.co/dwQ8cOzIrR\n\n第 4 部分\nhttps://t.co/NeaJzD7dry\n\n第五部分\nhttps://t.co/G0R7ZlEVDt",
+    "date": "2026-08-22T21:38:38.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2091278653435072523",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "How to build great evals - part 6\n\nHill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.\n\nThis could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.\n\nThe actual work boils down to better harnesses and model selection through methods like prompt eng, context eng, memory, post training, deterministic old school code etc.\n\nYour failure mode taxonomy (from part 3) is a good compass for where your product struggles and needs some love.\n\nE.g. maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. hill climbing here involves context eng to give it the right tools at the right stage and iterate until you get it to good.\n\nOr take the cost reduction goal..\nI’ve written about how I advise launching your product with the best model first. Get the quality as high as you can. Once you know users love the experience, hill climb to get similar quality with a smaller, cheaper, faster model. Same methods - harness, models.\n\nThe important thing is to have evals that tell you whether you are actually moving in the right direction.\n\nMore tomorrow. \n\nSend this to your teammates!\n\nDrop your questions in the comments and I will answer in future posts.",
+    "title_cn": "如何构建出色的评估 - 第 6 部分\n\n在评估上爬山只是一种奇特的说法：选择一个重要的维度并对其进行优化。\n\n这可以根据高价值用户旅程的最新生产数据来提高现有功能的质量，扩展到相邻的用例，降低成本或延迟。\n\n实际工作归结为通过提示工程、上下文工程、记忆、后期训练、确定性老式代码等方法更好地利用和模型选择。\n\n您的故障模式分类（来自第 3 部分）是一个很好的指南针，可以帮助您了解您的产品在哪里遇到困难并需要一些关爱。\n\n例如。也许工具调用失败是您最常见的问题。你深入研究后发现，你在上下文中塞满了 20 个工具，而每项任务实际上只需要 3-5 个。这里的爬山涉及上下文工程，在正确的阶段为其提供正确的工具并进行迭代，直到达到最佳状态。\n\n或者以降低成本为目标..\n我已经写过我如何建议首先推出最佳型号的产品。获得尽可能高的质量。一旦您知道用户喜欢这种体验，就可以通过更小、更便宜、更快的型号来获得类似的质量。相同的方法 - 线束、模型。\n\n重要的是要有评估来告诉你是否真的在朝着正确的方向前进。\n\n明天还有更多。 \n\n将此信息发送给您的队友！\n\n在评论中留下您的问题，我将在以后的帖子中回答。",
+    "date": "2026-08-22T21:37:39.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2091265836719956474",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "cc @windows https://t.co/jwb1iekgRg",
+    "title_cn": "抄送@windows https://t.co/jwb1iekgRg",
+    "date": "2026-08-22T20:46:43.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2091263423359389951",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB",
+    "title_cn": "旧金山是地球上的天堂 https://t.co/NqAfgzAnTB",
+    "date": "2026-08-22T20:37:08.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091239339204415969",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I’m working on a new AI skill. \n\nIt’s called /fuck-cancer\n\nGoal is to help patients and their family navigate this whole process and stay informed. \n\nWhat should I include in it?",
+    "title_cn": "我正在研究一项新的人工智能技能。 \n\n这叫/他妈的癌症\n\n目标是帮助患者及其家人顺利完成整个过程并随时了解情况。 \n\n我应该在其中包含什么？",
+    "date": "2026-08-22T19:01:26.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2091220881590927441",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "We complain about slop at X, but LinkedIn has stooped to unimaginable levels of slop 🤮 https://t.co/ULMk7CdxGL https://t.co/MP3lxxhTQ5",
+    "title_cn": "我们抱怨 X 的不当行为，但 LinkedIn 已经堕落到难以想象的程度 🤮 https://t.co/ULMk7CdxGL https://t.co/MP3lxxhTQ5",
+    "date": "2026-08-22T17:48:05.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2091217410615644349",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "“Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP",
+    "title_cn": "“很快”原来是3个月。 https://t.co/LC19TuXUuP",
+    "date": "2026-08-22T17:34:18.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091187611507499321",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scroll down to Data Privacy.\n\nKudos to the Instinct team for listening and shipping this quickly. \n\nI will always say it like it is, especially when it comes to privacy & trust.",
+    "title_cn": "如果您转到 https://t.co/iZVklVswyI 并向下滚动到“数据隐私”，您现在似乎可以删除外部数据（例如我的 36 条 Gmail 记录）。\n\n感谢 Instinct 团队的倾听和快速发布。 \n\n我总是会这样说，尤其是在隐私和信任方面。",
+    "date": "2026-08-22T15:35:53.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2091162447029608735",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "agent native ftw https://t.co/C1mGoNcXpO",
+    "title_cn": "代理本机 ftw https://t.co/C1mGoNcXpO",
+    "date": "2026-08-22T13:55:53.000Z"
+  },
+  {
     "url": "https://x.com/levie/status/2091038566260539574",
     "type": "x",
     "name": "Aaron Levie",
