@@ -7,7 +7,7 @@
       "stars": "13.7k",
       "growth": "🔺979",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": "2",
@@ -88,7 +88,7 @@
       "stars": "3.6k",
       "growth": "🔺253",
       "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地多智能体利用"
     }
   ],
   "weekly": [
@@ -153,7 +153,7 @@
       "stars": "21.9k",
       "growth": "🔺3791",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。"
     },
     {
       "rank": "8",
@@ -162,7 +162,7 @@
       "stars": "29.4k",
       "growth": "🔺3529",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "位于您终端中的代理多路复用器。"
     },
     {
       "rank": "9",
@@ -270,8 +270,8 @@
       "stars": "8.2k",
       "growth": "🔺1746",
       "description": "Give your agent a computer 👾",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "给你的代理人一台电脑👾"
     }
   ],
-  "updated_at": "2026-08-23T01:36:20.594263"
+  "updated_at": "2026-08-23T03:05:08.724890"
 }
