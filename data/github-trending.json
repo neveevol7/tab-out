@@ -29,6 +29,15 @@
     },
     {
       "rank": "4",
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "stars": "17.1k",
+      "growth": "🔺429",
+      "description": "来自浙大 LLM 课程的开源教材，系统讲解 Transformer、预训练、对齐、推理优化、评测等内容。配合代码示例与实验，可用于学习构建 LLM 的完整技术栈。",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "5",
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "stars": "11.5k",
@@ -37,7 +46,7 @@
       "description_cn": ""
     },
     {
-      "rank": "5",
+      "rank": "6",
       "name": "mahlernim/google-timeline-visualizer",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "stars": "2.5k",
@@ -46,7 +55,7 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": "6",
+      "rank": "7",
       "name": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "stars": "19.7k",
@@ -55,7 +64,7 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": "7",
+      "rank": "8",
       "name": "s1dashu/ip-as-logo-skill",
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "stars": "3.8k",
@@ -64,7 +73,7 @@
       "description_cn": ""
     },
     {
-      "rank": "8",
+      "rank": "9",
       "name": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "stars": "4.6k",
@@ -73,205 +82,196 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": "9",
+      "rank": "10",
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars": "8.6k",
       "growth": "🔺258",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "10",
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars": "3.6k",
-      "growth": "🔺253",
-      "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "weekly": [
     {
       "rank": "1",
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "stars": "18.3k",
+      "growth": "🔺12488",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "2",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": "11.5k",
+      "growth": "🔺8534",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "3",
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": "17k",
+      "growth": "🔺7438",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "4",
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": "18.4k",
-      "growth": "🔺11796",
+      "stars": "25.4k",
+      "growth": "🔺6969",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": "2",
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "stars": "16.2k",
-      "growth": "🔺7747",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "3",
-      "name": "semantica-agi/semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "stars": "7.9k",
-      "growth": "🔺5369",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "4",
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "stars": "25.5k",
-      "growth": "🔺4372",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
       "rank": "5",
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": "9.6k",
-      "growth": "🔺4302",
+      "name": "yjh051108/dsh-routing-suite",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stars": "6.6k",
+      "growth": "🔺3840",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "stars": "16.3k",
-      "growth": "🔺4255",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "stars": "32.4k",
+      "growth": "🔺3540",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stars": "21.9k",
-      "growth": "🔺3791",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "stars": "7.1k",
+      "growth": "🔺3076",
+      "description": "Meta-Framework of Spatiotemporal Composability",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "8",
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "stars": "29.4k",
-      "growth": "🔺3529",
-      "description": "agent multiplexer that lives in your terminal.",
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "stars": "28.2k",
+      "growth": "🔺2836",
+      "description": "Beautiful, Modern & Opinionated Linux",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "stars": "21.8k",
-      "growth": "🔺2991",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": "30.6k",
+      "growth": "🔺2815",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": "35.8k",
-      "growth": "🔺2612",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars": "8.6k",
+      "growth": "🔺2557",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "11",
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "stars": "12.9k",
-      "growth": "🔺2374",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "12",
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": "20.8k",
-      "growth": "🔺2331",
+      "stars": "23.2k",
+      "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
+      "rank": "12",
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "stars": "10.2k",
+      "growth": "🔺2360",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
       "rank": "13",
-      "name": "emilkowalski/skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "stars": "29.5k",
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": "4.1k",
       "growth": "🔺2331",
-      "description": "Skills for Design Engineers.",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "14",
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "stars": "25.1k",
-      "growth": "🔺2330",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars": "24.1k",
+      "growth": "🔺2285",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "15",
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "stars": "27.6k",
-      "growth": "🔺2283",
-      "description": "A hive mind communication platform",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "16",
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "15.7k",
-      "growth": "🔺2221",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "17",
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stars": "5.7k",
-      "growth": "🔺2039",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "18",
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "stars": "6k",
-      "growth": "🔺1849",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "19",
       "name": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "stars": "17.6k",
-      "growth": "🔺1794",
+      "stars": "19.7k",
+      "growth": "🔺2193",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
+      "rank": "16",
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "stars": "10.6k",
+      "growth": "🔺2179",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "17",
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "stars": "29.7k",
+      "growth": "🔺2146",
+      "description": "A hive mind communication platform",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "18",
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "stars": "31.6k",
+      "growth": "🔺2118",
+      "description": "agent multiplexer that lives in your terminal.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "19",
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "15k",
+      "growth": "🔺2105",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
       "rank": "20",
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "stars": "8.2k",
-      "growth": "🔺1746",
-      "description": "Give your agent a computer 👾",
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "stars": "31.6k",
+      "growth": "🔺2017",
+      "description": "Skills for Design Engineers.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-23T22:24:49.106140"
+  "updated_at": "2026-08-24T01:27:34.645901"
 }
