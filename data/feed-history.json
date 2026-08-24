@@ -48,6 +48,142 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/garrytan/status/2091742825042030681",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+    "title_cn": "预测：记录系统将需要成为人工智能的工具或代理的面部替代品",
+    "date": "2026-08-24T04:22:06.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2091696412744700268",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Mother in law is visiting from India..\n\nWants to do serendipitous date night with her grand daughter. \n\nRealized she didn’t sign up for roaming and we need a way to communicate. \n\nI get a data eSIM in under three minutes and she’s connected. \n\nWhat a wonderful world we live in 🤗\n\n(real ones know this would historically be a trip to the store or calling the carrier for an extra line that I need to cancel in a month)",
+    "title_cn": "婆婆从印度来访..\n\n想和她的孙女进行一次偶然的约会之夜。 \n\n意识到她没有注册漫游，我们需要一种沟通方式。 \n\n我在三分钟内获得了数据 eSIM 卡，并且她已连接。 \n\n我们生活在一个多么美好的世界🤗\n\n（真正的人知道这在历史上是一次去商店或打电话给运营商以获得额外的线路，我需要在一个月内取消）",
+    "date": "2026-08-24T01:17:41.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2091688655828246890",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
+    "title_cn": "周日好。重置已传播到帐户，并且我们对昨天提到的我们发现的问题的使用情况进行了一些修复。您应该感受到积极的差异。明天还会有更多内容，我们会继续沟通。 https://t.co/6mgUetJnhg",
+    "date": "2026-08-24T00:46:51.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2091684812012875981",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "How to build great evals - part 7.\n\nThe Goldilocks principle for eval construction.\n\nYour evals should measure at the level of the various jobs to be done, not just the final answer.\n\nE.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most common mistake I see is teams create a golden set of right answers and check if the agent recommended the \"right” stock.\n\nThe problem here is that there are probably a bunch of meaningful jobs that happened before this recommendation. E.g.\n\n1/ Understanding the client: their portfolio, risk tolerance, investment horizon, goals, constraints\n\n2/ Gather evidence: latest data points on the different stock stocks, the sectors, macro environment, Fed policy, recent and upcoming news events\n\n3/ Analyze the data: revenue growth, valuation guidance, growth projections and produce a narrower number of candidate stocks\n\n4/ Make a recommendation: stock ticker name, bid/sell price, timeframe\n\nEach of these is a stage and produces an intermittent output. Each of them can (and maybe should have) their own eval so you can diagnose issues.\n\nIf the final recommendation is wrong, a well designed eval set would tell you:\nClient understanding : 92%,\nEvidence extraction : 92%,\nData analysis: 70%\nRecommendation: 75%\n\nNow you know where to go dig. And you might go, man the data analysis step is too complex and I need to break it down into a set of jobs to be done, and construct eval sets for them.\n\nNot too granular. Not too coarse. Just right.\nMake your eval set as granular as you need to diagnose and act.\n\nDrop your eval questions in the comments and I will answer in future posts.\n\nShare this with your teammates!\n\nSee you tomorrow.",
+    "title_cn": "如何构建出色的评估 - 第 7 部分。\n\n评估构造的金发姑娘原则。\n\n您的评估应该衡量要完成的各种工作的水平，而不仅仅是最终答案。\n\n例如。考虑财务分析代理。它的最终输出是股票推荐。我看到的最常见的错误是团队创建了一组黄金正确答案，并检查代理是否推荐了“正确”的股票。\n\n这里的问题是，在这个建议之前可能发生了很多有意义的工作。例如。\n\n1/ 了解客户：他们的投资组合、风险承受能力、投资期限、目标、限制\n\n2/ 收集证据：不同股票、行业、宏观环境、美联储政策、近期和即将发生的新闻事件的最新数据点\n\n3/分析数据：收入增长、估值指导、增长预测并产生较少数量的候选股票\n\n4/ 提出建议：股票代码名称、买入/卖出价格、时间范围\n\n其中每一个都是一个阶段并产生间歇性输出。他们每个人都可以（也许应该有）自己的评估，以便您可以诊断问题。\n\n如果最终的建议是错误的，精心设计的评估集会告诉您：\n客户理解度：92%，\n证据提取：92%，\n数据分析：70%\n推荐度：75%\n\n现在您知道该去哪里挖掘了。你可能会说，数据分析步骤太复杂了，我需要将其分解为一组要完成的工作，并为它们构建评估集。\n\n不太细化。不太粗糙。正好。\n根据诊断和行动的需要，让您的评估集更加精细。\n\n在评论中留下您的评估问题，我将在以后的帖子中回答。\n\n与您的队友分享！\n\n明天见。",
+    "date": "2026-08-24T00:31:35.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2091671326897713424",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Intelligence is getting cheaper.\n\n@OpenAI Sol's price reductions & discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model.\n\nThis shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly.\n\n② If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins. \n\nIt's no wonder the router space has heated up… gateways are inevitable.",
+    "title_cn": "情报变得越来越便宜。\n\n@OpenAI Sol 对 Vercel AI Gateway 的降价和折扣使 Sol 成为我们增长最快的前沿模型。\n\n这表明①对智能的需求是高度弹性的：随着推理成本的下降，使用量迅速增长。\n\n② 如果您不使用网关，您就会错过这种令人难以置信的价格波动，这会降低您的运营成本并增加您的利润。 \n\n难怪路由器领域已经升温……网关是不可避免的。",
+    "date": "2026-08-23T23:38:00.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2091650136506327253",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "cli is nice, having UI visualizations and your team where you work is nicer. https://t.co/OFmkkkq6l5",
+    "title_cn": "cli 很好，有 UI 可视化，而且你工作的团队也更好。 https://t.co/OFmkkkq6l5",
+    "date": "2026-08-23T22:13:48.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2091639468935831910",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "I added the rotation USB protocol to https://t.co/kyF8ap5Pq6 and told my claw to look around- now it's having fun with my 360 webcam.",
+    "title_cn": "我将旋转 USB 协议添加到 https://t.co/kyF8ap5Pq6 并告诉我的爪子环顾四周 - 现在它正在享受我的 360 度网络摄像头带来的乐趣。",
+    "date": "2026-08-23T21:31:24.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091631590799737306",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I've been working with Char, my (human!) assistant from @oceanstalent for 6 months.\n\nI think the best assistants today need to know how to work with AI agents.\n\nChar uses Claude Code and Codex to help me run podcast post-production, draft show notes, and make clips. He's made copies of my AI skills and tailored them for his own workflows over time.\n\nIf you want to hire vetted, AI-fluent operators who can help you run your business, check out Oceans at https://t.co/kKx6GaKTqw\n\n#sponsored",
+    "title_cn": "我已经和 @oceanstalent 的我的（人类！）助理 Char 一起工作了 6 个月了。\n\n我认为当今最好的助手需要知道如何与人工智能代理合作。\n\nChar 使用 Claude Code 和 Codex 帮助我进行播客后期制作、起草节目笔记和制作剪辑。随着时间的推移，他复制了我的人工智能技能，并根据自己的工作流程进行了定制。\n\n如果您想聘请经过审查、精通人工智能的操作员来帮助您运营业务，请查看 Oceans：https://t.co/kKx6GaKTqw\n\n#赞助",
+    "date": "2026-08-23T21:00:06.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2091597222987383155",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "https://t.co/BNr8qU8a6e",
+    "title_cn": "https://t.co/BNr8qU8a6e",
+    "date": "2026-08-23T18:43:32.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2091596272654582062",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "leaving\n\nleaving is the process from fullness into emptiness\n\nfrom the familiar circle of life\nthe routines undone\nthe streets i knew by heart\nthe people i kept meeting\nthe names and labels that had gathered on my skin\n\ntoward a place entirely unknown\nwhere a new life waits to be written\n\nbefore i go\ni take out everything i had hidden in my heart\nand say goodbye to it\npiece by piece\n\nmemory rises\nand feeling rises with it\n\none by one\ni empty the rooms within me\nuntil i am almost as i was when i first arrived\nunfurnished\nunclaimed\nopen\n\nwhat remains is a blankness\nechoing with my fear of loneliness\nmy longing for freedom\nand the questions i still cannot answer\n\nwhat is freedom\nwhat is happiness\n\nwhen i first came here\ni was drifting in a river\ncarried by the current\nthinking only of making things\n\nnow i have to place my own hands on the helm\n\nno longer mistaking the waves for fate\nor the shore for salvation\n\ni will miss the days i lived here\n\nbut i must learn again\nhow to sleep inside loneliness\nhow to eat inside uncertainty\nhow to recognize desire in the blank\n\nand through the act of leaving\nturn freedom from an idea\ninto a life i practice every day",
+    "title_cn": "离开\n\n离开是从充实到空虚的过程\n\n从熟悉的生活圈子\n例行公事被取消\n我熟记于心的街道\n我不断见到的人\n聚集在我皮肤上的名字和标签\n\n前往一个完全未知的地方\n新的生活等待书写\n\n在我走之前\n我把藏在心里的一切都拿出来\n并对它说再见\n一点一点\n\n记忆力上升\n感觉随之上升\n\n一一\n我清空我内心的房间\n直到我几乎和刚来时一样\n不带家具的\n无人认领的\n打开\n\n剩下的就是一片空白\n与我对孤独的恐惧相呼应\n我对自由的向往\n以及我仍然无法回答的问题\n\n什么是自由\n什么是幸福\n\n当我第一次来这里时\n我在河里漂流\n电流所携带的\n只想着制造东西\n\n现在我必须亲自掌舵\n\n不再把波浪误认为是命运\n或是拯救的彼岸\n\n我会怀念我住在这里的日子\n\n但我必须再次学习\n如何在孤独中入睡\n如何在不确定的情况下吃饭\n如何识别空白中的欲望\n\n并通过离开的行为\n将自由从想法转变为自由\n融入我每天练习的生活",
+    "date": "2026-08-23T18:39:46.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091586298779955512",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "There are two types of AI evals - tops down and bottoms up.\n\nFrom @sh_reya:\n\n“Think of top-down as: If you’re in a vacuum, just given the task description, what would you come up with? Claude does a very good job of helping you with these top-down evals.\n\nBottom-up evals are the other half. When you look at lots and lots of sample outputs, what is your gut feedback that you want externalized into evals? “Claude is very, very bad at coming up with bottom-up evals. That’s all you.”\n\n📌 Watch the full episode here: https://t.co/BuTklgfbr4",
+    "title_cn": "AI 评估有两种类型：自上而下和自下而上。\n\n来自@sh_reya：\n\n“将自上而下想象为：如果你处于真空中，仅给出任务描述，你会想出什么？克劳德在帮助你进行这些自上而下的评估方面做得非常好。\n\n自下而上的评估是另一半。当您查看大量样本输出时，您希望将哪些直觉反馈具体化为评估？ “克劳德非常非常不擅长提出自下而上的评估。这就是你的全部。”\n\n📌 在这里观看完整剧集：https://t.co/BuTklgfbr4",
+    "date": "2026-08-23T18:00:08.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2091583525661384813",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
+    "title_cn": "我们扩展𝚏𝚡的理念：开放协议。\n∙ MCP（modelcontextprotocol⁠.io）\n∙ 技能 (agentskills⁠.io)\n∙ 插件 (agent-plugins⁠.org)\n\n最好的一个是 Unix：\n\n① 做好一件事，通过调用其他程序来组合的小程序。\n\n② 𝚕𝚒𝚋𝚏𝚡 可以嵌入到更复杂的程序中。您应该能够构建自己的 CLI、后台代理、软件工厂。本地或云。",
+    "date": "2026-08-23T17:49:06.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2091581575108653374",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure",
+    "title_cn": "2026 年是公司开始认真关注模型效率和可靠性的一年，因为它已成为关键的基础设施",
+    "date": "2026-08-23T17:41:21.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2091580656598102047",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "I’m good to retire now https://t.co/YjTjVxlKvN",
+    "title_cn": "我很高兴现在退休 https://t.co/YjTjVxlKvN",
+    "date": "2026-08-23T17:37:42.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2091559951739277451",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Also every other category of software https://t.co/OYC8Ss5zld",
+    "title_cn": "还有所有其他类别的软件 https://t.co/OYC8Ss5zld",
+    "date": "2026-08-23T16:15:26.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2091529714104168870",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you enjoyed this episode, I highly recommend Shreya and Hamel's industry-leading AI evals course.\n\nIt has 4.7 stars with 900 reviews, which is almost unheard of on Maven.\n\nThe next cohort starts on 9/5 and you can get 25% off with this link: https://t.co/K7nu51cgOo\n\nCheck it out and get your company to expense it if you can!",
+    "title_cn": "如果您喜欢本集，我强烈推荐 Shreya 和 Hamel 的业界领先的人工智能评估课程。\n\n它有 4.7 星和 900 条评论，这在 Maven 上几乎是闻所未闻的。\n\n下一批将于 9 月 5 日开始，您可以通过此链接获得 25% 的折扣：https://t.co/K7nu51cgOo\n\n检查一下，如果可以的话，让你的公司承担费用！",
+    "date": "2026-08-23T14:15:17.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2091413240337326588",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Meant 2pm obviously",
+    "title_cn": "显然是指下午2点",
+    "date": "2026-08-23T06:32:27.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2091407991736332689",
     "type": "x",
     "name": "Thibault Sottiaux",
