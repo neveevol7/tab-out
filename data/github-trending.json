@@ -79,7 +79,7 @@
       "stars": "11.6k",
       "growth": "🔺458",
       "description": "Self-hosted deployment platform",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "自托管部署平台"
     },
     {
       "rank": "10",
@@ -88,7 +88,7 @@
       "stars": "4.1k",
       "growth": "🔺440",
       "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地多智能体利用"
     }
   ],
   "weekly": [
@@ -189,7 +189,7 @@
       "stars": "23.2k",
       "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "12",
@@ -207,7 +207,7 @@
       "stars": "4.1k",
       "growth": "🔺2331",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "14",
@@ -225,7 +225,7 @@
       "stars": "19.7k",
       "growth": "🔺2193",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "16",
@@ -243,7 +243,7 @@
       "stars": "29.7k",
       "growth": "🔺2146",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "18",
@@ -252,7 +252,7 @@
       "stars": "31.6k",
       "growth": "🔺2118",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "位于您终端中的代理多路复用器。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "19",
@@ -273,5 +273,5 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-25T16:40:09.543565"
+  "updated_at": "2026-08-25T18:42:12.598833"
 }
