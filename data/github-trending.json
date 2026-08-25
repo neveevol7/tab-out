@@ -79,7 +79,7 @@
       "stars": "11.6k",
       "growth": "🔺458",
       "description": "Self-hosted deployment platform",
-      "description_cn": "自托管部署平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
@@ -88,7 +88,7 @@
       "stars": "4.1k",
       "growth": "🔺440",
       "description": "local multi-agent harness",
-      "description_cn": "本地多智能体利用"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "weekly": [
@@ -189,7 +189,7 @@
       "stars": "23.2k",
       "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "12",
@@ -273,5 +273,5 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-25T18:42:12.598833"
+  "updated_at": "2026-08-25T20:32:05.646582"
 }
