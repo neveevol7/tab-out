@@ -7,7 +7,7 @@
       "stars": "17.4k",
       "growth": "🔺2071",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
       "rank": "2",
@@ -34,7 +34,7 @@
       "stars": "16.4k",
       "growth": "🔺628",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": "5",
@@ -52,7 +52,7 @@
       "stars": "3.3k",
       "growth": "🔺438",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
     },
     {
       "rank": "7",
@@ -79,7 +79,7 @@
       "stars": "4.4k",
       "growth": "🔺323",
       "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地多智能体利用"
     },
     {
       "rank": "10",
@@ -153,7 +153,7 @@
       "stars": "7.1k",
       "growth": "🔺3076",
       "description": "Meta-Framework of Spatiotemporal Composability",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "时空可组合性元框架"
     },
     {
       "rank": "8",
@@ -162,7 +162,7 @@
       "stars": "28.2k",
       "growth": "🔺2836",
       "description": "Beautiful, Modern & Opinionated Linux",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": "9",
@@ -171,7 +171,7 @@
       "stars": "30.6k",
       "growth": "🔺2815",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
     },
     {
       "rank": "10",
@@ -198,7 +198,7 @@
       "stars": "10.2k",
       "growth": "🔺2360",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": "13",
@@ -207,7 +207,7 @@
       "stars": "4.1k",
       "growth": "🔺2331",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
     },
     {
       "rank": "14",
@@ -216,7 +216,7 @@
       "stars": "24.1k",
       "growth": "🔺2285",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "15",
@@ -252,7 +252,7 @@
       "stars": "31.6k",
       "growth": "🔺2118",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "位于您终端中的代理多路复用器。"
     },
     {
       "rank": "19",
@@ -270,8 +270,8 @@
       "stars": "31.6k",
       "growth": "🔺2017",
       "description": "Skills for Design Engineers.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "设计工程师的技能。"
     }
   ],
-  "updated_at": "2026-08-26T19:49:08.173917"
+  "updated_at": "2026-08-26T22:53:51.752063"
 }
