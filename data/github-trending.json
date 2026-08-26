@@ -189,7 +189,7 @@
       "stars": "23.2k",
       "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "12",
@@ -273,5 +273,5 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-26T08:48:15.342987"
+  "updated_at": "2026-08-26T10:37:44.276609"
 }
