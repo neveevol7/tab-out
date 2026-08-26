@@ -4,44 +4,44 @@
       "rank": "1",
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "stars": "15.4k",
-      "growth": "🔺2721",
+      "stars": "17.4k",
+      "growth": "🔺2071",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "2",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "15.7k",
-      "growth": "🔺2016",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "16.1k",
+      "growth": "🔺812",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "3",
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": "19.6k",
-      "growth": "🔺1376",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "11.4k",
+      "growth": "🔺713",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "4",
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stars": "17.9k",
-      "growth": "🔺867",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "stars": "16.4k",
+      "growth": "🔺628",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "5",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": "12.2k",
-      "growth": "🔺732",
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "stars": "3.9k",
+      "growth": "🔺483",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -49,45 +49,45 @@
       "rank": "6",
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
-      "stars": "2.8k",
-      "growth": "🔺652",
+      "stars": "3.3k",
+      "growth": "🔺438",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
-      "name": "MengTo/threeui",
-      "url": "https://github.com/MengTo/threeui",
-      "stars": "3.4k",
-      "growth": "🔺559",
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": "12.6k",
+      "growth": "🔺396",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "8",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "13.2k",
-      "growth": "🔺478",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": "18.2k",
+      "growth": "🔺383",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "stars": "11.6k",
-      "growth": "🔺458",
-      "description": "Self-hosted deployment platform",
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars": "4.4k",
+      "growth": "🔺323",
+      "description": "local multi-agent harness",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars": "4.1k",
-      "growth": "🔺440",
-      "description": "local multi-agent harness",
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "stars": "17.5k",
+      "growth": "🔺274",
+      "description": "来自浙大 LLM 课程的开源教材，系统讲解 Transformer、预训练、对齐、推理优化、评测等内容。配合代码示例与实验，可用于学习构建 LLM 的完整技术栈。",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
@@ -273,5 +273,5 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-25T22:30:21.049867"
+  "updated_at": "2026-08-26T01:34:19.055540"
 }
