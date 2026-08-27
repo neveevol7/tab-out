@@ -7,7 +7,7 @@
       "stars": "17.5k",
       "growth": "🔺1413",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": "2",
@@ -273,5 +273,5 @@
       "description_cn": "设计工程师的技能。"
     }
   ],
-  "updated_at": "2026-08-27T08:19:35.791544"
+  "updated_at": "2026-08-27T20:13:05.876363"
 }

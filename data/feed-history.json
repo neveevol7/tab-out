@@ -32,6 +32,22 @@
     "date": "Jun 08, 2026"
   },
   {
+    "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "Claude in Chrome is generally available ",
+    "title_cn": "Chrome 中的 Claude 已全面可用",
+    "date": "Aug 26, 2026"
+  },
+  {
+    "url": "https://claude.com/blog/cowork-built-in-browser",
+    "type": "blog",
+    "name": "Claude Blog",
+    "title": "Claude gets its own browser in Cowork",
+    "title_cn": "Claude 在 Cowork 中拥有自己的浏览器",
+    "date": "Aug 26, 2026"
+  },
+  {
     "url": "https://claude.com/blog/connectors-for-everyday-life",
     "type": "blog",
     "name": "Claude Blog",
@@ -46,6 +62,262 @@
     "title": "Built-in memory for Claude Managed Agents",
     "date": "Apr 23, 2026",
     "title_cn": "Claude Managed Agents 的内置内存"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2092862554632826968",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow and dust it up",
+    "title_cn": "年老的好处是，我感觉自己已经20年没有按下重置按钮了。我很好奇明天能否找到它并把它掸掉",
+    "date": "2026-08-27T06:31:31.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2092829981885796800",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Who should I tag for @X bugs now that @nikitabier has retired?",
+    "title_cn": "既然 @nikitabier 已经退休，我应该为谁标记 @X 错误？",
+    "date": "2026-08-27T04:22:05.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2092822007843061823",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "codex' visualization feature got really good. https://t.co/Ik65LULsY2",
+    "title_cn": "Codex 的可视化功能非常好。 https://t.co/Ik65LULsY2",
+    "date": "2026-08-27T03:50:24.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2092808287280329097",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Truly a win-win-win:\n\n* NVIDIA is officially the center of open source AI w/ Nemotron and now HF\n\n* Hugging Face scores huge + gets the perfect home (no more nagging re business model!)\n\n* Open source AI wins!\n\nMassive congrats to friends @ClementDelangue, @Thom_Wolf (+ @ctnzr!)",
+    "title_cn": "真正实现三赢：\n\n* NVIDIA 正式成为使用 Nemotron 和现在的 HF 的开源 AI 中心\n\n* 拥抱脸得分巨大+获得完美的家（不再有烦人的商业模式！）\n\n* 开源人工智能获胜！\n\n热烈祝贺朋友@ClementDelangue、@Thom_Wolf (+ @ctnzr！)",
+    "date": "2026-08-27T02:55:52.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2092790875978162378",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+    "title_cn": "@ChatGPT 如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。\n\n在此加入 110,000 多名订阅者：\nhttps://t.co/yz9xcsfrhF",
+    "date": "2026-08-27T01:46:41.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2092789702940340369",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Only thing linear is missing is a sauna perk wdyt @karrisaarinen 😅",
+    "title_cn": "唯一缺少的线性就是桑拿福利 wdyt @karrisaarinen 😅",
+    "date": "2026-08-27T01:42:01.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2092774923320369394",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Most PR teams at large companies exist in order to block real marketing and branding \n\nIt’s so ironic that a function designed to enhance a company’s brand ends up being antithetical to it https://t.co/vuL0pkC3cK",
+    "title_cn": "大多数大公司的公关团队的存在是为了阻止真正的营销和品牌推广 \n\n具有讽刺意味的是，旨在提升公司品牌的功能最终却与之相反 https://t.co/vuL0pkC3cK",
+    "date": "2026-08-27T00:43:18.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2092773720112988366",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "When it comes to AI writing, many people seem to apply a double standard to the effect of “it’s fine if I use it; it’s not fine if YOU use it”",
+    "title_cn": "在AI写作方面，很多人似乎采取双重标准，“我用就可以，你用就不行”。",
+    "date": "2026-08-27T00:38:31.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2092756702349398036",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days",
+    "title_cn": "就完成的工作而言，在 OpenAI 工作几周就像在其他公司工作几年一样。几天之内你会变老多少？",
+    "date": "2026-08-26T23:30:54.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2092756144447983619",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "THEY DID IT FOLKS https://t.co/67ogquTD3g",
+    "title_cn": "他们做到了，伙计们 https://t.co/67ogquTD3g",
+    "date": "2026-08-26T23:28:41.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2092756010280853815",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "maybe it is a bubble? https://t.co/ZJP249nWRN",
+    "title_cn": "也许这是一个泡沫？ https://t.co/ZJP249nWRN",
+    "date": "2026-08-26T23:28:09.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2092755574563741871",
+    "type": "x",
+    "name": "Claude",
+    "title": "If you prefer to work in your own browser where you're already signed in, Claude in Chrome is now generally available on all paid plans. It remains your default if you already use it: https://t.co/4fDkGrY6YR",
+    "title_cn": "如果您更喜欢在已登录的自己的浏览器中工作，Chrome 中的 Claude 现在可在所有付费计划中使用。如果您已经使用它，它仍然是您的默认值：https://t.co/4fDkGrY6YR",
+    "date": "2026-08-26T23:26:25.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2092755573183828193",
+    "type": "x",
+    "name": "Claude",
+    "title": "There's nothing to install. Claude's browser is built into the desktop app and stays separate from your own browser and logins.\n\nRolling out over the next week on the desktop app for all paid plans: https://t.co/w4Ja60vZu6",
+    "title_cn": "没有什么可安装的。克劳德的浏览器内置于桌面应用程序中，与您自己的浏览器和登录保持独立。\n\n下周将在所有付费计划的桌面应用程序上推出：https://t.co/w4Ja60vZu6",
+    "date": "2026-08-26T23:26:24.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2092755571455758427",
+    "type": "x",
+    "name": "Claude",
+    "title": "Claude now has its own built-in browser in Cowork.\n\nWhen your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job. https://t.co/yHDOTRQZ12",
+    "title_cn": "Claude 现在在 Cowork 中拥有自己的内置浏览器。\n\n当您的任务涉及网站时，Cowork 的侧面板中会打开一个浏览器，Claude 会进行导航、填写表格并完成工作。 https://t.co/yHDOTRQZ12",
+    "date": "2026-08-26T23:26:24.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2092748226701210023",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "https://t.co/LECRNMF863",
+    "title_cn": "https://t.co/LECRNMF863",
+    "date": "2026-08-26T22:57:13.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2092735785460277627",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "So cool. Global compute at your (agents') fingertips.\n\nMultiple regions, failover, up to 10,000 concurrent sandboxes &amp; 5,000 vCPUs/min ramp by default, with more regions to come 🫪 https://t.co/d5RUqFDtiz https://t.co/j3wezkZM4B",
+    "title_cn": "太酷了。全球计算触手可及。\n\n多个区域、故障转移、最多 10,000 个并发沙箱和默认情况下，每分钟增加 5,000 个 vCPU，未来还会有更多区域 🫪 https://t.co/d5RUqFDtiz https://t.co/j3wezkZM4B",
+    "date": "2026-08-26T22:07:47.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2092733018838290817",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "i think we should do another party for our next model release, the 5.5 party was a lot of fun.\n\nwhat would make the next one awesome?",
+    "title_cn": "我认为我们应该为下一个模型发布举办另一场聚会，5.5 聚会非常有趣。\n\n什么会让下一个变得很棒？",
+    "date": "2026-08-26T21:56:47.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2092729394565657010",
+    "type": "x",
+    "name": "Thariq",
+    "title": "We're seeing several of our customers be targeted by fraudulent requests and glad for all the work Stripe is doing to help them.\n\nStill a lot of work to do, these sort of attacks hurt everyones ability to provide usage to legitimate users. https://t.co/51HHI9mwI4",
+    "title_cn": "我们看到一些客户成为欺诈请求的目标，我们很高兴 Stripe 为帮助他们所做的一切工作。\n\n还有很多工作要做，此类攻击损害了每个人向合法用户提供使用的能力。 https://t.co/51HHI9mwI4",
+    "date": "2026-08-26T21:42:23.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2092726934216343739",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Ah yes, the rule of 2.5 https://t.co/WWnnWBT2iu",
+    "title_cn": "啊，是的，2.5 的规则 https://t.co/WWnnWBT2iu",
+    "date": "2026-08-26T21:32:36.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2092712656096358527",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "this is a good report about a bad thing: https://t.co/j21E754kP3",
+    "title_cn": "这是关于坏事的好报告：https://t.co/j21E754​​kP3",
+    "date": "2026-08-26T20:35:52.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2092702955292230100",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "Yesterday, at Box we reported our Q2 results with revenue of $321.1 million for the quarter, up 9%, or 11% in constant currency (our highest constant-currency growth rate in 14 quarters), and we raised our full-year revenue target to $1.290 billion. Overall, this growth is being driven by the demand we're seeing from enterprises aiming to get the most out of their enterprise content and transform in the era of AI.\n\nAs I shared on our earnings call, during the quarter I spoke with many enterprise technology leaders who highlighted their primary goals and challenges in implementing AI. One of the most common topics is how enterprises can get the right context to AI agents, as well as tap into the full value of their unstructured data, in a secure and governed way.\n\nThe world’s most advanced superintelligence is only as useful as the underlying enterprise knowledge it has access to. Agents need access to the critical information that makes up the bulk of corporate knowledge --like contracts, research materials, financial documents, marketing assets, product roadmap information, and so on-- most of which lives within an enterprise’s unstructured data.\n\nWe've long been able to query, calculate, and automate work that deals with structured data; but the vast majority of data in an enterprise is unstructured, often in the form of our enterprise content. Instead of sitting on millions or hundreds of millions of files they know very little about, companies can now use AI agents to ask questions about this data, mine it all for intelligence, and automate nearly any workflow that involves this enterprise content.\n\nThe technology leaders I'm talking to are also recognizing that as AI model capabilities advance across AI labs --like OpenAI, Anthropic, SpaceXAI, Meta, Google, NVIDIA, and a variety of open-weight providers-- they will need applied AI platforms that can bring the full power of these models to their processes. And with AI token usage continuing to grow exponentially, the ability to draw the right cost-performance mix becomes essential. Rather than migrating data and workflows into separate systems to unlock AI's benefits, enterprises need the ability to swap models or agents on their workflows and information at any time.\n\nFinally, as we saw with the recent OpenAI Hugging Face incident, enterprises will increasingly need platforms that can securely protect their corporate data and ensure that neither humans nor agents can get access to information they shouldn’t have access to. As external AI agents interact with enterprise data, enterprises will need platforms that offer robust guardrails, comprehensive audit logs, and real-time security alerts to ensure content remains protected and governed at all times.\n\nGiven all of these dynamics, there's going to be a tremendous amount of opportunity for various plays to bring intelligence to the critical workflows inside of enterprises at the applied AI layer. At Box. we're focused on building the leading intelligent content management platform to empower enterprises to transform how they work with their unstructured data at scale. And we're looking forward to partnering with all of the other companies bringing intelligence into organizations as well.",
+    "title_cn": "昨天，Box 公布了第二季度业绩，该季度收入为 3.211 亿美元，增长 9%，按固定汇率计算增长 11%（我们 14 个季度以来最高的固定汇率增长率），并将全年收入目标提高至 12.90 亿美元。总体而言，这种增长是由我们看到的企业需求推动的，这些企业旨在充分利用其企业内容并在人工智能时代进行转型。\n\n正如我在财报电话会议上分享的那样，在本季度，我与许多企业技术领导者进行了交谈，他们强调了他们在实施人工智能方面的主要目标和挑战。最常见的主题之一是企业如何为人工智能代理提供正确的上下文，并以安全且受管控的方式充分利用其非结构化数据的价值。\n\n世界上最先进的超级智能的有用性取决于它所获取的基础企业知识。代理需要访问构成大部分企业知识的关键信息，例如合同、研究材料、财务文档、营销资产、产品路线图信息等，其中大部分存在于企业的非结构化数据中。\n\n我们长期以来一直能够查询、计算和自动化处理结构化数据的工作；但企业中的绝大多数数据都是非结构化的，通常以我们企业内容的形式存在。公司现在可以使用人工智能代理来询问有关这些数据的问题，挖掘所有数据以获取情报，并自动化涉及此企业内容的几乎所有工作流程，而不是坐拥数百万或数亿个他们知之甚少的文件。\n\n与我交谈的技术领导者也认识到，随着人工智能实验室（如 OpenAI、Anthropic、SpaceXAI、Meta、Google、NVIDIA 和各种开放权重提供商）人工智能模型功能的进步，他们将需要应用人工智能平台，将这些模型的全部功能带入他们的流程中。随着人工智能代币的使用持续呈指数级增长，制定正确的性价比组合的能力变得至关重要。企业不需要将数据和工作流程迁移到单独的系统中来释放人工智能的优势，而是需要能够随时交换工作流程和信息上的模型或代理。\n\n最后，正如我们在最近的 OpenAI Hugging Face 事件中看到的那样，企业将越来越需要能够安全保护其公司数据并确保人类和代理都无法访问他们不应访问的信息的平台。随着外部人工智能代理与企业数据交互，企业将需要提供强大护栏、全面审计日志和实时安全警报的平台，以确保内容始终受到保护和管理。\n\n考虑到所有这些动态，各种游戏将有大量机会将智能引入应用人工智能层的企业内部关键工作流程。在盒子里。我们专注于构建领先的智能内容管理平台，帮助企业改变大规模处理非结构化数据的方式。我们期待与所有其他公司合作，将智能带入组织。",
+    "date": "2026-08-26T19:57:19.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2092696449616376140",
+    "type": "x",
+    "name": "Thariq",
+    "title": "this was my change, excited to roll it out\n\nClaude now has a SendFeedback tool so instead of you guys having to hit /feedback and write up a report, you can just tell Claude to draft and approve it\n\nthe feedback helps us improve and understand problems, so it's very appreciated https://t.co/8IhMwspobv",
+    "title_cn": "这是我的改变，很高兴能推出它\n\n克劳德现在有一个 SendFeedback 工具，所以你们不必点击 /feedback 并撰写报告，您可以告诉克劳德起草并批准它\n\n反馈有助于我们改进和理解问题，因此非常感谢 https://t.co/8IhMwspobv",
+    "date": "2026-08-26T19:31:28.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2092688916969095587",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Fun to be in the guest chair (vs host), for once.  Chatted with Dan Nathan about:\n\n* why the best venture firm in the world might be NVIDIA \n* the \"hyper power law\"\n* why apps are becoming labs faster than labs are becoming apps\n* RSI and \"building God\"\n* AI bubble vs.duration mismatch concern\n* Learning to stop underestimating China",
+    "title_cn": "第一次担任嘉宾（相对于主持人）很有趣。  与 Dan Nathan 聊天：\n\n* 为什么世界上最好的风险投资公司可能是 NVIDIA \n*“超幂定律”\n* 为什么应用程序成为实验室的速度比实验室成为应用程序的速度还要快\n* RSI和“建筑之神”\n* AI泡沫与持续时间不匹配的担忧\n* 学会停止低估中国",
+    "date": "2026-08-26T19:01:32.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2092686463859126492",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "Codex native apps are here! https://t.co/OMjAee4xYx",
+    "title_cn": "Codex 本机应用程序就在这里！ https://t.co/OMjAee4xYx",
+    "date": "2026-08-26T18:51:47.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2092679292064768288",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/ntdG1iX6kz",
+    "title_cn": "https://t.co/ntdG1iX6kz",
+    "date": "2026-08-26T18:23:17.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2092679288869019700",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "The AI frontier will be determined by post-training.\n\n@DeepCogito is a post-training research lab. \n\nToday they’re announcing their $43M Series A.\n\nTheir research focuses on large-scale reinforcement learning and recursive self-improvement. \n\nThe core method is iterated distillation and amplification (IDA). \n\nThey’ve already proven the method in public for models from 3B to 600B+ parameters.\n\nWe met @drishanarora and @dhruvmalrana in March 2024 as Founder Fellows at @spc. They've known each other for 14 years. \n\nWe’re excited to support the team working on the frontier of intelligence alongside @benchmark, @TQVentures, @Atreidesmgmt, @nexusvp, and @zscaler. \n\nMore on why we invested below.",
+    "title_cn": "人工智能前沿将由训练后确定。\n\n@DeepCogito 是一个培训后研究实验室。 \n\n今天，他们宣布了 4300 万美元的 A 轮融资。\n\n他们的研究重点是大规模强化学习和递归自我改进。 \n\n核心方法是迭代蒸馏和放大（IDA）。 \n\n他们已经公开证明了该方法适用于 3B 至 600B+ 参数的模型。\n\n我们于 2024 年 3 月以 @spc 的创始人研究员身份认识了@drishanarora 和 @dhruvmalrana。他们已经认识14年了。 \n\n我们很高兴能够与 @benchmark、@TQVentures、@Atreidesmgmt、@nexusvp 和 @zscaler 一起支持致力于情报前沿的团队。 \n\n下面详细介绍了我们投资的原因。",
+    "date": "2026-08-26T18:23:17.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2092674125529743864",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "scrum https://t.co/Qf26uRCN5q",
+    "title_cn": "scrum https://t.co/Qf26uRCN5q",
+    "date": "2026-08-26T18:02:46.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2092673092103688348",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "I am upset because the terrible comms has caused @gruber to lose his mind about watermarking and make @ditheringfm unlistenable for like 2 full episodes",
+    "title_cn": "我很沮丧，因为糟糕的通讯让 @gruber 对水印失去了理智，并使 @ditheringfm 听不到完整的 2 集",
+    "date": "2026-08-26T17:58:39.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2092658681947246868",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Interesting https://t.co/U8kB6SPjjM",
+    "title_cn": "有趣https://t.co/U8kB6SPjjM",
+    "date": "2026-08-26T17:01:24.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2092636264902148262",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "definite golden age for polymaths and philosophers (luckily, a good antidote for epistemic despair) \n\nincredible time https://t.co/LvFaal4txH",
+    "title_cn": "博学者和哲学家的明确黄金时代（幸运的是，这是认识绝望的良药） \n\n难以置信的时光 https://t.co/LvFaal4txH",
+    "date": "2026-08-26T15:32:19.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2092621371914482026",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI.\n\nMuch like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security posture with human-in-the-loop, or run in crons.\n\nWho would have thunk CLIs would save the world 😁 https://t.co/xuVkD7KlHp https://t.co/SS4rnLhVep",
+    "title_cn": "我们不仅提供了一个很酷的安全仪表板，还提供了 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI。\n\n与 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 非常相似，您可以要求代理通过人机交互来改善您的安全状况，或者在 cron 中运行。\n\n谁会认为 CLI 会拯救世界 😁 https://t.co/xuVkD7KlHp https://t.co/SS4rnLhVep",
+    "date": "2026-08-26T14:33:08.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2092614266818064389",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Experimenting with multiplayer AI https://t.co/USWItAK4Xw",
+    "title_cn": "尝试多人 AI https://t.co/USWItAK4Xw",
+    "date": "2026-08-26T14:04:54.000Z"
   },
   {
     "url": "https://x.com/swyx/status/2092492963435946494",
