@@ -2,19 +2,19 @@
   "daily": [
     {
       "rank": "1",
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "stars": "17.5k",
-      "growth": "🔺1413",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "stars": "3.3k",
+      "growth": "рҹ”ә421",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "stars": "16.2k",
-      "growth": "🔺1059",
+      "name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "stars": "11.3k",
+      "growth": "рҹ”ә387",
       "description": "No description available.",
       "description_cn": ""
     },
@@ -22,73 +22,73 @@
       "rank": "3",
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "11.9k",
-      "growth": "🔺478",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "免费开源 macOS 菜单栏工具包。"
+      "stars": "12.2k",
+      "growth": "рҹ”ә364",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "16.8k",
-      "growth": "🔺452",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "stars": "16.5k",
+      "growth": "рҹ”ә349",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "5",
-      "name": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "stars": "4.8k",
-      "growth": "🔺409",
-      "description": "local multi-agent harness",
-      "description_cn": "本地多智能体利用"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "5.7k",
+      "growth": "рҹ”ә303",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "stars": "2.9k",
-      "growth": "🔺388",
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "stars": "17.1k",
+      "growth": "рҹ”ә299",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "7",
-      "name": "marin-community/marin",
-      "url": "https://github.com/marin-community/marin",
-      "stars": "2.4k",
-      "growth": "🔺346",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "description_cn": "用于基础模型研究和开发的开源框架。"
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": "13.2k",
+      "growth": "рҹ”ә256",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "8",
-      "name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "stars": "3.1k",
-      "growth": "🔺335",
-      "description": "Your own search engine",
-      "description_cn": "您自己的搜索引擎"
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "stars": "2.7k",
+      "growth": "рҹ”ә245",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "stars": "3.6k",
-      "growth": "🔺322",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "description_cn": "Apache Maka（孵化）是本地优先的 AI 代理工作区。模型消息、工具调用、工具结果、权限决策和终止事件都记录为仅附加日志。"
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "stars": "3.3k",
+      "growth": "рҹ”ә238",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "10",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": "12.9k",
-      "growth": "🔺293",
-      "description": "---",
-      "description_cn": null
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "14k",
+      "growth": "рҹ”ә232",
+      "description": "No description available.",
+      "description_cn": ""
     }
   ],
   "weekly": [
@@ -171,7 +171,7 @@
       "stars": "30.6k",
       "growth": "🔺2815",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
     },
     {
       "rank": "10",
@@ -243,7 +243,7 @@
       "stars": "29.7k",
       "growth": "🔺2146",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "18",
@@ -273,5 +273,5 @@
       "description_cn": "设计工程师的技能。"
     }
   ],
-  "updated_at": "2026-08-27T20:13:05.876363"
+  "updated_at": "2026-08-28T06:00:40.539237"
 }
