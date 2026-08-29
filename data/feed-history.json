@@ -64,6 +64,246 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2093573991965557198",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Looking at the dashboard we might hit a new milestone to celebrate tomorrow. Hold on to your Codex",
+    "title_cn": "看看仪表板，我们明天可能会达到一个新的里程碑来庆祝。保留您的法典",
+    "date": "2026-08-29T05:38:31.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2093568352736436576",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment:\n\n* OSS is too far behind to catch up \n\n* The labs can’t be profitable at scale\n\n* All software will be replaced by agents\n\n* You can’t build moats on top of models\n\n* Cheaper models will mean less compute\n\n* You don’t need evals\n\n* RAG is dead \n\n* AI will decimate engineering jobs\n\n* Prompting won’t matter in the future \n\n* We’ve hit a training wall\n\n* Frontier models are too dangerous to release \n\n…and dozens and dozens more. The key here is to remain flexible in your thinking because we’re going to be in a constant state of change for a while.",
+    "title_cn": "如今，人们对人工智能的平均坚定信念最多只有 6 个月的半衰期。以下是业界已经经历过的一些，目前可能尚未达成共识：\n\n* OSS 太落后了，无法赶上 \n\n* 实验室无法大规模盈利\n\n* 所有软件均由代理商更换\n\n* 你不能在模型之上建造护城河\n\n* 更便宜的型号意味着更少的计算量\n\n* 你不需要评估\n\n*拉格死了 \n\n* 人工智能将减少工程岗位\n\n* 以后提示不再重要 \n\n* 我们在训练中遇到了困难\n\n* 前沿模型太危险，无法发布 \n\n……还有几十个。这里的关键是保持思维灵活性，因为我们将在一段时间内处于不断变化的状态。",
+    "date": "2026-08-29T05:16:06.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2093562783627620456",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "AI product building has a ~3-month playbook half-life. Here’s how to adapt.\n\nMost trad product teams are built to discover a playbook and then milk it for the next 5 years.\n\nHowever in the AI labs, we consciously throw away playbooks every few months cos we start seeing diminishing returns.\n\nHere’s what you can do as an AI builder:\n\nFocus on defining a set of meta-principles for \n1/ how you continuously learn what the market wants today and what it might want in 3 months\n2/ how you execute with extreme urgency\n\nThe specifics of 1 and 2 will vary based on your domain and product type.\nBuild a team that learns and adapts at that pace. \n\nLegacy teams are optimized for playbook milking.\n\nAI teams need to be optimized for inventing.",
+    "title_cn": "人工智能产品构建的半衰期约为 3 个月。以下是如何适应。\n\n大多数传统产品团队的建立都是为了发现一个剧本，然后在接下来的 5 年中充分利用它。\n\n然而，在人工智能实验室中，我们每隔几个月就会有意识地扔掉剧本，因为我们开始看到回报递减。\n\n作为 AI 构建者，您可以执行以下操作：\n\n专注于定义一组元原则 \n1/ 如何不断了解市场今天想要什么以及 3 个月后可能想要什么\n2/ 你如何以极度紧迫的态度执行任务\n\n1 和 2 的具体信息将根据您的域和产品类型而有所不同。\n建立一支能够以这种速度学习和适应的团队。 \n\n传统团队针对剧本挤奶进行了优化。\n\n人工智能团队需要针对发明进行优化。",
+    "date": "2026-08-29T04:53:58.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2093547793327763699",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Saw this well timed ad https://t.co/8YklrNqO8i",
+    "title_cn": "看到了这个适时的广告 https://t.co/8YklrNqO8i",
+    "date": "2026-08-29T03:54:24.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2093541555068182781",
+    "type": "x",
+    "name": "Thariq",
+    "title": "Long-time admirer of the Cursor team, few have done more to bring AI coding to the world. \n\nExcited to continue to partner with them. https://t.co/N5DdX96mg8",
+    "title_cn": "作为 Cursor 团队的长期崇拜者，很少有人在将人工智能编码推向世界方面做得更多。 \n\n很高兴继续与他们合作。 https://t.co/N5DdX96mg8",
+    "date": "2026-08-29T03:29:37.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2093533378880667787",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "You can access OpenAI models on Replit for free.\n\nOur router also makes high-end models incredibly cost-efficient.\n\nIf you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition. https://t.co/7JXaIXE2GH",
+    "title_cn": "您可以免费访问 Replit 上的 OpenAI 模型。\n\n我们的路由器还使高端型号具有令人难以置信的成本效益。\n\n如果您是一家正在寻找 Cursor 的独立、多模型替代品的企业，我们很乐意为您的过渡提供资金。 https://t.co/7JXaIXE2GH",
+    "date": "2026-08-29T02:57:08.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2093515916076343774",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give you some time to plan.\n\nMany have used the GPT models through Cursor and here are options we know should work in the future:\n\n- We will continue to allow using your own OpenAI API key and similarly will continue to provide access through our IDE extensions for Cursor.\n- We will keep working with the broadest range of tools and harnesses, some of which are OSS, but also many many closed-source ones.\n\nWe are as committed as ever to continue supporting developers and the flourishing ecosystem of tools, harnesses and products. We will also continue to invest in our own open-source initiatives and believe in broad optionality for developers.\n\nYou can read more about our decision in the blog:\nhttps://t.co/Oj76Bkc2KX",
+    "title_cn": "不幸的是，我们决定不能继续通过 Cursor 提供对我们模型的访问，并终止我们的合作伙伴关系。归根结底是信任，我们要求该政策于 11 月 12 日生效，以便您有一些时间进行计划。\n\n许多人已经通过 Cursor 使用了 GPT 模型，以下是我们知道将来应该可行的选项：\n\n- 我们将继续允许您使用自己的 OpenAI API 密钥，同样将继续通过我们的 Cursor IDE 扩展提供访问权限。\n- 我们将继续使用最广泛的工具和工具，其中一些是开源软件，但也有许多闭源工具。\n\n我们一如既往地致力于继续支持开发人员以及蓬勃发展的工具、线束和产品生态系统。我们还将继续投资于我们自己的开源计划，并相信为开发人员提供广泛的选择。\n\n您可以在博客中详细了解我们的决定：\nhttps://t.co/Oj76Bkc2KX",
+    "date": "2026-08-29T01:47:44.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2093500353849544842",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Datacenters create prosperity and good jobs https://t.co/VRt2wlIBBK https://t.co/z5pncGj26B",
+    "title_cn": "数据中心创造繁荣和良好的就业机会 https://t.co/VRt2wlIBBK https://t.co/z5pncGj26B",
+    "date": "2026-08-29T00:45:54.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2093482695838007318",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "I see the web evolving in two extremes:\n\n1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. https://t.co/0nyTRPKDEJ / threejs / typegpu are enabling this\n\n2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure, lossless signal for machines. The rise of markdown and MCP are the tip of this iceberg\n\nThe 'in between' is likely to be subsumed by agents producing just-in-time UI. When you need utilitarian content or data, it'll be generated just-in-time for you. Think of the agent as the new browser in this model.",
+    "title_cn": "我认为网络正在向两个极端发展：\n\n1️⃣超奇特的人类体验，服务于愉悦、探索、品牌、娱乐。 https://t.co/0nyTRPKDEJ / Threejs / typegpu 正在启用此功能\n\n2️⃣ 以代理为中心的内容、数据和 API。频谱的另一端：机器的纯净、无损信号。 Markdown 和 MCP 的兴起只是冰山一角\n\n“中间”很可能被包含在生成即时 UI 的代理中。当您需要实用内容或数据时，它将及时为您生成。将代理视为该模型中的新浏览器。",
+    "date": "2026-08-28T23:35:44.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2093468512459321512",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It's interesting to me to see a lot of people comment on visa stuff without actually going through it.\n\nI am a proud American citizen who has also had the following visas: F1, OPT, CPT, H1-B, EB-3 Green Card etc.\n\nI think ALL of the following things can be true:\n1/ There is abuse of the H1-B system. We should 100% stop that. It prevents legitimate use cases. I am glad the government is doing something about this.\n\n2/ We make it too hard for truly high-skilled workers to stay in the USA. It is a huge source of strength for us that the sharpest minds in the world WANT to come here. \n\n3/ In particular, high-skilled Indians have it harder than most. \n\n4/ In any country, the laws and regulations should prioritize it's own citizens.",
+    "title_cn": "我很有趣的是看到很多人在没有真正经历过签证的情况下就对它进行评论。\n\n我是一名自豪的美国公民，还拥有以下签证：F1、OPT、CPT、H1-B、EB-3 绿卡等。\n\n我认为以下所有事情都可能是真的：\n1/ H1-B 制度存在滥用行为。我们应该 100% 阻止这种情况。它阻止了合法的用例。我很高兴政府正在为此采取行动。\n\n2/ 我们让真正的高技能工人很难留在美国。世界上最敏锐的头脑都想来到这里，这对我们来说是巨大的力量源泉。 \n\n3/ 特别是，高技能的印度人比大多数人更难。 \n\n4/ 在任何国家，法律法规都应该优先考虑本国公民。",
+    "date": "2026-08-28T22:39:22.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2093463771071336497",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "MCP is growing explosively. And it's not just Vercel MCP… Look at 𝚖𝚌𝚙-𝚑𝚊𝚗𝚍𝚕𝚎𝚛 npm downloads, which you can use to implement MCP servers https://t.co/nGrblswCmK https://t.co/Ek4itRUtkI",
+    "title_cn": "MCP 呈爆炸式增长。而且不仅仅是 Vercel MCP...看看 𝚖𝚌𝚙-𝚑𝚊𝚗𝚍𝚕𝚎𝚛 npm 下载，您可以使用它来实现 MCP 服务器 https://t.co/nGrblswCmK https://t.co/Ek4itRUtkI",
+    "date": "2026-08-28T22:20:32.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2093445209766178889",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "This is true\n\nhttps://t.co/XEGzfUokJ2",
+    "title_cn": "这是真的\n\nhttps://t.co/XEGzfUokJ2",
+    "date": "2026-08-28T21:06:46.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2093443836228125151",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "An unfit SF city supervisor who has only hurt the city and its citizens has quiet quit the job to try to jump to the next rung of utter incompetence\n\nConnie Chan doesn’t deserve public office\n\nhttps://t.co/NJ1Nqma3Ec https://t.co/RepLCfbmsM",
+    "title_cn": "一位不称职的旧金山市主管，只会伤害这座城市和市民，但他已经悄悄辞去了工作，试图跳到下一个完全无能的阶层。\n\n陈康妮不配担任公职\n\nhttps://t.co/NJ1Nqma3Ec https://t.co/RepLCfbmsM",
+    "date": "2026-08-28T21:01:19.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2093434828385313068",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Growth agent is such an untapped potential. https://t.co/KTlU1FAisU",
+    "title_cn": "生长剂具有尚未开发的潜力。 https://t.co/KTlU1FAisU",
+    "date": "2026-08-28T20:25:31.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2093434101067808930",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "in AI there are no bad ideas just weak models\n\nevery idea has its day as the exponential continues",
+    "title_cn": "在人工智能中，没有坏主意，只有弱模型\n\n随着指数的不断增长，每个想法都会有它的一天",
+    "date": "2026-08-28T20:22:38.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2093429113306661121",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Fund treatment and recovery and defund nonprofits that hurt treatment and recovery with their insistence unlimited support for drug use is the only way to “help”\n\nIt’s harm acceleration https://t.co/2H6GgTzL56",
+    "title_cn": "为治疗和康复提供资金，并为那些损害治疗和康复的非营利组织提供资金，因为他们坚持对吸毒的无限支持是“帮助”的唯一途径\n\n这是伤害加速 https://t.co/2H6GgTzL56",
+    "date": "2026-08-28T20:02:49.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2093411864667656633",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "VCs: https://t.co/uAbEvzMK1N",
+    "title_cn": "风险投资：https://t.co/uAbEvzMK1N",
+    "date": "2026-08-28T18:54:16.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2093409673571631480",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "One of my favorite parts of Expert Intelligence in @Gemini_Notebook is the letter from the author, such a nice touch! https://t.co/I6iDB4hHOt",
+    "title_cn": "@Gemini_Notebook 中我最喜欢的专家智能部分之一是作者的来信，真是太好了！ https://t.co/I6iDB4hHOt",
+    "date": "2026-08-28T18:45:34.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2093396989329469505",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Whether something is slop or not has less to do with whether it's AI-generated and more to do with whether it is informed by specific, unique human experiences/perspectives\n\nThere's plenty of human-generated slop",
+    "title_cn": "某件事是否草率与它是否是人工智能生成的关系不大，而与它是否由特定的、独特的人类经验/观点影响更大有关\n\n有大量人为产生的污水",
+    "date": "2026-08-28T17:55:10.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2093387887668814214",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "There are many “easy” ways to create agents out there.\n\nBut how many that give you a Git repo where you actually *own* the entire intelligence stack? Runtime, model choice, skills, tools, connectivity, sandbox…\n\nEasiest way to start with eve: \nhttps://t.co/cUFDog6P3d https://t.co/SG8xsDPAPX",
+    "title_cn": "有许多“简单”的方法来创建代理。\n\n但有多少会给你一个 Git 存储库，让你真正“拥有”整个情报堆栈呢？运行时、模型选择、技能、工具、连接性、沙箱……\n\n从 eve 开始的最简单方法： \nhttps://t.co/cUFDog6P3d https://t.co/SG8xsDPAPX",
+    "date": "2026-08-28T17:19:00.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2093384613620252878",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Now that SF has discovered Paris, maybe it's safe to go to Japan again.",
+    "title_cn": "现在SF已经发现了巴黎，也许再去日本就安全了。",
+    "date": "2026-08-28T17:05:59.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2093379695144530313",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people.\n\nGrok Bot I think people can easily \"grok\" that it's a computer that runs in the cloud. \n\nIf you asked people to explain what the difference between ChatGPT Work and Codex is (e.g., Work can run cloud tasks but Codex cannot) or how Claude Cowork actually works I bet most people have no idea.",
+    "title_cn": "我的热门观点是，Claude Cowork 和 ChatGPT Work 是部分解决方案，而 Grok Bot 是面向非技术人员的强大 AI 代理产品的正确最终状态。\n\nGrok Bot 我认为人们可以很容易地“理解”它是一台在云中运行的计算机。 \n\n如果您要求人们解释 ChatGPT Work 和 Codex 之间的区别（例如，Work 可以运行云任务，但 Codex 不能）或 Claude Cowork 实际如何工作，我敢打赌大多数人都不知道。",
+    "date": "2026-08-28T16:46:27.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2093367245024240043",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Dear founder,\n\n1) The best pitches don’t even need to use the word “AI”. \n\n2) AI cannot be the only “why now” for your pitch. \n\nObviously it’s just me speaking, subjective to each VC etc. \n\nBut trust me, it’ll help if you get ahead of these two!",
+    "title_cn": "亲爱的创始人，\n\n1）最好的推介甚至不需要使用“AI”这个词。 \n\n2）人工智能不能成为你推销的唯一“为什么是现在”。 \n\n显然这只是我的说法，对每个风险投资人等来说都是主观的。 \n\n但相信我，如果你领先于这两个人，那将会有所帮助！",
+    "date": "2026-08-28T15:56:58.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2093354037198696932",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "What is the most ambitious task you’ve given ChatGPT Work?",
+    "title_cn": "您给 ChatGPT Work 布置的最雄心勃勃的任务是什么？",
+    "date": "2026-08-28T15:04:29.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2093348166196220398",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "unrealistic, i would never surf in a t-shirt https://t.co/dXTPaKTIC8",
+    "title_cn": "不切实际，我永远不会穿着 T 恤冲浪 https://t.co/dXTPaKTIC8",
+    "date": "2026-08-28T14:41:10.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2093347973669286146",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "WE NOW HAVE A HEAD OF EVALS\n\nthe work he's doing is honestly gamechanging. cannot wait to show it to you https://t.co/WHipOzAVMC",
+    "title_cn": "我们现在有一个评估负责人\n\n他所做的工作确实改变了游戏规则。迫不及待地想向您展示它 https://t.co/WHipOzAVMC",
+    "date": "2026-08-28T14:40:24.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2093337802113171545",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "GTA VI looks incredible",
+    "title_cn": "GTA VI 看起来不可思议",
+    "date": "2026-08-28T13:59:59.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2093333205181145372",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Bay Area put on a show last night 🌅 https://t.co/L9XJ4LpVln",
+    "title_cn": "湾区昨晚上演了一场表演🌅 https://t.co/L9XJ4LpVln",
+    "date": "2026-08-28T13:41:43.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2093317719320064164",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Question on @bot : if I sign into my actual X account on Grok Bot's virtual computer & ask it to do stuff (e.g. picking out interesting tweets from my timeline/bookmarks, helping me go through my followers list), is there a risk of my X account being banned/flagged?\n\nI have been extremely cautious when it comes to giving any agent access to my X account out of this fear; not sure if Grok Bot is any different",
+    "title_cn": "关于 @bot 的问题：如果我在 Grok Bot 的虚拟计算机上登录我的实际 X 帐户并要求它执行某些操作（例如，从我的时间线/书签中挑选有趣的推文，帮助我浏览我的关注者列表），我的 X 帐户是否存在被禁止/标记的风险？\n\n出于这种恐惧，在允许任何代理访问我的 X 帐户时，我一直非常谨慎；不确定 Grok Bot 是否有什么不同",
+    "date": "2026-08-28T12:40:10.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2093304544029463009",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "VC due diligence in a hot round  https://t.co/KVg5NQeH3i",
+    "title_cn": "一轮火热的风险投资尽职调查 https://t.co/KVg5NQeH3i",
+    "date": "2026-08-28T11:47:49.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2093207264194892263",
     "type": "x",
     "name": "Thibault Sottiaux",
