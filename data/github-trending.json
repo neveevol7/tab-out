@@ -153,7 +153,7 @@
       "stars": "7.1k",
       "growth": "🔺3076",
       "description": "Meta-Framework of Spatiotemporal Composability",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "时空可组合性元框架"
     },
     {
       "rank": "8",
@@ -162,7 +162,7 @@
       "stars": "28.2k",
       "growth": "🔺2836",
       "description": "Beautiful, Modern & Opinionated Linux",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": "9",
@@ -180,7 +180,7 @@
       "stars": "8.6k",
       "growth": "🔺2557",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
     },
     {
       "rank": "11",
@@ -189,7 +189,7 @@
       "stars": "23.2k",
       "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "12",
@@ -198,7 +198,7 @@
       "stars": "10.2k",
       "growth": "🔺2360",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
     },
     {
       "rank": "13",
@@ -216,7 +216,7 @@
       "stars": "24.1k",
       "growth": "🔺2285",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
     },
     {
       "rank": "15",
@@ -225,7 +225,7 @@
       "stars": "19.7k",
       "growth": "🔺2193",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "16",
@@ -243,7 +243,7 @@
       "stars": "29.7k",
       "growth": "🔺2146",
       "description": "A hive mind communication platform",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "蜂巢思维交流平台"
     },
     {
       "rank": "18",
@@ -252,7 +252,7 @@
       "stars": "31.6k",
       "growth": "🔺2118",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "位于您终端中的代理多路复用器。"
     },
     {
       "rank": "19",
@@ -261,7 +261,7 @@
       "stars": "15k",
       "growth": "🔺2105",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
     },
     {
       "rank": "20",
@@ -270,8 +270,8 @@
       "stars": "31.6k",
       "growth": "🔺2017",
       "description": "Skills for Design Engineers.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "设计工程师的技能。"
     }
   ],
-  "updated_at": "2026-08-28T20:01:01.506250"
+  "updated_at": "2026-08-29T03:33:59.191783"
 }
