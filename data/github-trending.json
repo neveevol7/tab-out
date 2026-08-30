@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "stars": "3.3k",
-      "growth": "рҹ”ә421",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": "12.4k",
+      "growth": "🔺1471",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": "2",
-      "name": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "stars": "11.3k",
-      "growth": "рҹ”ә387",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "stars": "3.4k",
+      "growth": "🔺790",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
     },
     {
       "rank": "3",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "12.2k",
-      "growth": "рҹ”ә364",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "14.5k",
+      "growth": "🔺522",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "4",
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "stars": "16.5k",
-      "growth": "рҹ”ә349",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "13.4k",
+      "growth": "🔺437",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "5",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "5.7k",
-      "growth": "рҹ”ә303",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "stars": "2.8k",
+      "growth": "🔺286",
+      "description": "Help AI coding agents write modern Go",
+      "description_cn": "帮助 AI 编码代理编写现代 Go"
     },
     {
       "rank": "6",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "17.1k",
-      "growth": "рҹ”ә299",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "stars": "13.5k",
+      "growth": "🔺263",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": "13.2k",
-      "growth": "рҹ”ә256",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "stars": "5.5k",
+      "growth": "🔺256",
+      "description": "local multi-agent harness",
+      "description_cn": "本地多智能体利用"
     },
     {
       "rank": "8",
-      "name": "marin-community/marin",
-      "url": "https://github.com/marin-community/marin",
-      "stars": "2.7k",
-      "growth": "рҹ”ә245",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "stars": "17.6k",
+      "growth": "🔺235",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "stars": "3.3k",
-      "growth": "рҹ”ә238",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "6.1k",
+      "growth": "🔺229",
+      "description": "Cursor plugin specification and official plugins",
+      "description_cn": "光标插件规范和官方插件"
     },
     {
       "rank": "10",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "14k",
-      "growth": "рҹ”ә232",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "stars": "5.5k",
+      "growth": "🔺206",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "description_cn": "编码代理的本地优先会话搜索、分析、见解和令牌使用统计，支持 Claude Code、Codex 和 20 多个其他代理。"
     }
   ],
   "weekly": [
@@ -126,7 +126,7 @@
       "stars": "25.4k",
       "growth": "🔺6969",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "description_cn": "Claude Code 的 29 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "5",
@@ -144,7 +144,7 @@
       "stars": "32.4k",
       "growth": "🔺3540",
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "description_cn": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
@@ -162,7 +162,7 @@
       "stars": "28.2k",
       "growth": "🔺2836",
       "description": "Beautiful, Modern & Opinionated Linux",
-      "description_cn": "美丽、现代、有主见的 Linux"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
@@ -171,7 +171,7 @@
       "stars": "30.6k",
       "growth": "🔺2815",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF · Agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
     },
     {
       "rank": "10",
@@ -216,7 +216,7 @@
       "stars": "24.1k",
       "growth": "🔺2285",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "15",
@@ -225,7 +225,7 @@
       "stars": "19.7k",
       "growth": "🔺2193",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "16",
@@ -261,7 +261,7 @@
       "stars": "15k",
       "growth": "🔺2105",
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "description_cn": "任何代理技能：通过深色/浅色主题切换和 PNG/JPEG/WebP/SVG 导出生成漂亮的架构图"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "20",
@@ -273,5 +273,5 @@
       "description_cn": "设计工程师的技能。"
     }
   ],
-  "updated_at": "2026-08-29T23:57:20.628748"
+  "updated_at": "2026-08-30T05:11:22.526246"
 }
