@@ -7,7 +7,7 @@
       "stars": "12.4k",
       "growth": "🔺1471",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "2",
@@ -16,7 +16,7 @@
       "stars": "3.4k",
       "growth": "🔺790",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "3",
@@ -34,7 +34,7 @@
       "stars": "13.4k",
       "growth": "🔺437",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "免费开源 macOS 菜单栏工具包。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "5",
@@ -43,7 +43,7 @@
       "stars": "2.8k",
       "growth": "🔺286",
       "description": "Help AI coding agents write modern Go",
-      "description_cn": "帮助 AI 编码代理编写现代 Go"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "6",
@@ -61,7 +61,7 @@
       "stars": "5.5k",
       "growth": "🔺256",
       "description": "local multi-agent harness",
-      "description_cn": "本地多智能体利用"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "8",
@@ -79,7 +79,7 @@
       "stars": "6.1k",
       "growth": "🔺229",
       "description": "Cursor plugin specification and official plugins",
-      "description_cn": "光标插件规范和官方插件"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
@@ -88,7 +88,7 @@
       "stars": "5.5k",
       "growth": "🔺206",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
-      "description_cn": "编码代理的本地优先会话搜索、分析、见解和令牌使用统计，支持 Claude Code、Codex 和 20 多个其他代理。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "weekly": [
@@ -144,7 +144,7 @@
       "stars": "32.4k",
       "growth": "🔺3540",
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "OpenViking是一个专门为AI Agent（例如openclaw）设计的开源上下文数据库。 OpenViking 通过文件系统范例统一了代理所需的上下文（内存、资源和技能）管理，从而实现了分层上下文交付和自我演化。"
     },
     {
       "rank": "7",
@@ -153,7 +153,7 @@
       "stars": "7.1k",
       "growth": "🔺3076",
       "description": "Meta-Framework of Spatiotemporal Composability",
-      "description_cn": "时空可组合性元框架"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "8",
@@ -171,7 +171,7 @@
       "stars": "30.6k",
       "growth": "🔺2815",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "description_cn": "AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
@@ -180,7 +180,7 @@
       "stars": "8.6k",
       "growth": "🔺2557",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "description_cn": "适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "11",
@@ -189,7 +189,7 @@
       "stars": "23.2k",
       "growth": "🔺2389",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "description_cn": "您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "12",
@@ -198,7 +198,7 @@
       "stars": "10.2k",
       "growth": "🔺2360",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "description_cn": "用于上下文和负责任的人工智能系统的图本机基础设施"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "13",
@@ -207,7 +207,7 @@
       "stars": "4.1k",
       "growth": "🔺2331",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "14",
@@ -225,7 +225,7 @@
       "stars": "19.7k",
       "growth": "🔺2193",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "16",
@@ -243,7 +243,7 @@
       "stars": "29.7k",
       "growth": "🔺2146",
       "description": "A hive mind communication platform",
-      "description_cn": "蜂巢思维交流平台"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "18",
@@ -252,7 +252,7 @@
       "stars": "31.6k",
       "growth": "🔺2118",
       "description": "agent multiplexer that lives in your terminal.",
-      "description_cn": "位于您终端中的代理多路复用器。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "19",
@@ -270,8 +270,8 @@
       "stars": "31.6k",
       "growth": "🔺2017",
       "description": "Skills for Design Engineers.",
-      "description_cn": "设计工程师的技能。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-08-30T05:11:22.526246"
+  "updated_at": "2026-08-30T11:32:15.067952"
 }
