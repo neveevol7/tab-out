@@ -25,7 +25,7 @@
       "stars": "14.5k",
       "growth": "🔺522",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
+      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": "4",
@@ -61,7 +61,7 @@
       "stars": "13.5k",
       "growth": "🔺263",
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "用于构建实时语音 AI 代理的框架🤖🎙️📹"
     },
     {
       "rank": "8",
@@ -88,7 +88,7 @@
       "stars": "6.1k",
       "growth": "🔺229",
       "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "光标插件规范和官方插件"
     }
   ],
   "weekly": [
@@ -126,7 +126,7 @@
       "stars": "38k",
       "growth": "🔺4176",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。"
     },
     {
       "rank": "5",
@@ -135,7 +135,7 @@
       "stars": "13.4k",
       "growth": "🔺2774",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "6",
@@ -180,7 +180,7 @@
       "stars": "22.2k",
       "growth": "🔺1878",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "11",
@@ -207,7 +207,7 @@
       "stars": "25.5k",
       "growth": "🔺1773",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "14",
@@ -243,7 +243,7 @@
       "stars": "19.2k",
       "growth": "🔺1363",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "一款隐私优先的应用程序，可从您拥有的内容中去除人工智能水印。"
     },
     {
       "rank": "18",
@@ -273,5 +273,5 @@
       "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-01T20:46:00.283591"
+  "updated_at": "2026-09-01T23:52:48.675018"
 }
