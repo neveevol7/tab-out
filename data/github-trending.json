@@ -16,7 +16,7 @@
       "stars": "3.4k",
       "growth": "🔺790",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
     },
     {
       "rank": "3",
@@ -25,7 +25,7 @@
       "stars": "14.5k",
       "growth": "🔺522",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": "4",
@@ -34,7 +34,7 @@
       "stars": "13.4k",
       "growth": "🔺437",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "5",
@@ -43,7 +43,7 @@
       "stars": "10.5k",
       "growth": "🔺330",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "命令行工具，允许从 App Store 搜索和下载 iOS、iPadOS、tvOS 和 VisionOS 的应用程序包（称为 ipa 文件）。"
     },
     {
       "rank": "6",
@@ -99,7 +99,7 @@
       "stars": "25k",
       "growth": "🔺9652",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
     },
     {
       "rank": "2",
@@ -144,7 +144,7 @@
       "stars": "22.2k",
       "growth": "🔺2434",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
     },
     {
       "rank": "7",
@@ -180,7 +180,7 @@
       "stars": "22.2k",
       "growth": "🔺1878",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "11",
@@ -216,7 +216,7 @@
       "stars": "30.4k",
       "growth": "🔺1723",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
     {
       "rank": "15",
@@ -234,7 +234,7 @@
       "stars": "5.5k",
       "growth": "🔺1399",
       "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地多智能体利用"
     },
     {
       "rank": "17",
@@ -243,7 +243,7 @@
       "stars": "19.2k",
       "growth": "🔺1363",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "一款隐私优先的应用程序，可从您拥有的内容中去除人工智能水印。"
     },
     {
       "rank": "18",
@@ -270,8 +270,8 @@
       "stars": "39k",
       "growth": "🔺1298",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-01T04:16:56.933858"
+  "updated_at": "2026-09-01T11:20:58.206257"
 }
