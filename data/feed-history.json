@@ -64,6 +64,310 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/levie/status/2095024699441119612",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "AI for cyber is about to go vertical. The models increasingly becoming insanely good at finding and exploiting vulnerabilities. Frontier models are ahead, but we’re already seeing that open weights is not far behind.\n\nMost enterprises are already inundated with cyber discoveries, so now that’s only going to multiply. Triaging and automating the fixes with more AI -along with human oversight- is essentially the only way forward. \n\nIn case you were wondering what jobs AI was going to create, it’s definitely going to great time to be in security.",
+    "title_cn": "网络人工智能即将走向垂直化。这些模型越来越擅长发现和利用漏洞。前沿模型处于领先地位，但我们已经看到开放重量也紧随其后。\n\n大多数企业已经被网络发现淹没，所以现在这种情况只会成倍增加。利用更多人工智能以及人工监督来对修复进行分类和自动化基本上是唯一的出路。 \n\n如果你想知道人工智能将创造什么工作，那么现在绝对是安全领域的好时机。",
+    "date": "2026-09-02T05:43:06.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2095002897859912044",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Terrifying.. also just the start of how leaks like this are going to get way worse 😭 https://t.co/gN8PiNCUXJ",
+    "title_cn": "可怕..也只是像这样的泄漏将变得更糟的开始 😭 https://t.co/gN8PiNCUXJ",
+    "date": "2026-09-02T04:16:28.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2094999513627025757",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "I wish every city was in Tokyo https://t.co/j1ppDGCx7p",
+    "title_cn": "我希望每个城市都在东京 https://t.co/j1ppDGCx7p",
+    "date": "2026-09-02T04:03:01.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2094999358525821099",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "fwiw I dislike having alot of random skills installed. \n\nI'm at a point where I only have about a dozen or so (mostly my own) and I regularly delete skills that I don't use anymore.\n\nAlso I try to keep all my skills as short as possible.\n\nI encourage you to do the same.",
+    "title_cn": "fwiw我不喜欢安装很多随机技能。 \n\n我现在只有大约十几个（大部分是我自己的），并且我经常删除不再使用的技能。\n\n我也尝试让我的所有技能尽可能简短。\n\n我鼓励你也这样做。",
+    "date": "2026-09-02T04:02:24.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2094995775952740795",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "While I'm cleaning up my AI skills I have a question for the experts here. Sometimes I end up in this pattern:\n\n1. I run my skill and it doesn't get it perfect in one shot\n2. I do manual iteration with AI to get it right\n3. I then ask AI something like: \"How would you update the skill so we can one-shot this?\" before reviewing and approving its edits.\n\nThe problem is AI often overfits on this one thread and over time the skill drifts. Any good solutions here?",
+    "title_cn": "当我正在清理我的人工智能技能时，我有一个问题想问这里的专家。有时我最终会陷入这种模式：\n\n1. 我运用了自己的技巧，但并没有一次性完美\n2.我使用人工智能进行手动迭代以使其正确\n3. 然后我会问人工智能这样的问题：“你会如何更新技能，这样我们就可以一次性解决这个问题？”在审查和批准其编辑之前。\n\n问题是人工智能经常在这一线程上过度拟合，并且随着时间的推移，技能会发生变化。这里有什么好的解决办法吗？",
+    "date": "2026-09-02T03:48:10.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2094987791566622971",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "If you're trying out Fable 5.1 I highly recommend running:\n\n/claude-api prompt-audit\n\non your skills. It finds a bunch of redundancies and rules to remove for the latest models.\n\nRunning it for all my skills now.",
+    "title_cn": "如果您正在尝试《神鬼寓言 5.1》，我强烈建议您运行：\n\n/claude-api 提示审核\n\n取决于你的技能。它发现了一系列要为最新模型删除的冗余和规则。\n\n现在运行它以发挥我所有的技能。",
+    "date": "2026-09-02T03:16:27.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2094973690576576675",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Great example of the immense opportunity enterprises have if they build their own post training systems, great evals and a data flywheel.\n\nI’ve worked with the Shopify ML team and they are world class. \n\nMore enterprises should be doing this. https://t.co/IzlWkndA6u",
+    "title_cn": "如果企业建立自己的岗位培训系统、出色的评估和数据飞轮，那么企业将拥有巨大的机会，这是一个很好的例子。\n\n我曾与 Shopify ML 团队合作，他们是世界一流的。 \n\n更多的企业应该这样做。 https://t.co/IzlWkndA6u",
+    "date": "2026-09-02T02:20:25.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2094945951865520458",
+    "type": "x",
+    "name": "Thariq",
+    "title": "it’s a very good model, I spent a lot of time diving into it- longer write up coming \n\nbut try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well https://t.co/MCGYQTnR0X",
+    "title_cn": "这是一个非常好的模型，我花了很多时间深入研究它——稍后会写更长的文章 \n\n但对于需要较少验证或边缘情况较少的任务，尝试以较低的工作量进行尝试，切换工作也不再破坏提示缓存 https://t.co/MCGYQTnR0X",
+    "date": "2026-09-02T00:30:11.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2094943457769099520",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Since when did this type of website design become in vogue? https://t.co/Cwnz0MhMhz",
+    "title_cn": "从什么时候开始这种类型的网站设计开始流行？ https://t.co/Cwnz0MhMhz",
+    "date": "2026-09-02T00:20:17.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2094942644497457527",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "remember when we used to have to type out low level code like this? https://t.co/h30xZEfRle",
+    "title_cn": "还记得我们以前必须输入这样的低级代码吗？ https://t.co/h30xZEfRle",
+    "date": "2026-09-02T00:17:03.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2094939684015317363",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Bullish",
+    "title_cn": "看涨",
+    "date": "2026-09-02T00:05:17.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2094934592062959832",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.\n\nOn the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.\n\nAstra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.\n\nAI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.\n\nWe have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.\n\nAn iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.\n\nSo we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.",
+    "title_cn": "整个夏天，我们一直在安全优先事项上冲刺；能力和保障措施的共同进步比以往任何时候都更加重要。我们还有更多工作要做，但已经取得了很大进展。我们也将很快推出我们的下一个型号。\n\n这里存在明显的紧张关系：一方面，Astra 非常好，我们很高兴看到人们将用它构建什么。我们为我们的工作感到自豪。\n\n另一方面，我们显然正处于一个发展阶段，我们认为需要谨慎行事，我们正在加快进度，以确保我们能够满足新能力水平所需的安全标准。\n\nAstra 已经接受了一段时间的培训，在能力和一致性方面都向前迈出了重要一步。对于之后的模型，我们一直在根据需要放慢速度，以确保我们能够在安全和对齐方面做足够的工作。\n\n人工智能变得越来越强大；没有人完全理解这样做的后果。管理向一个拥有丰富而强大的人工智能的世界的过渡，以优化人们的安全和利益，应该是世界上最重要的优先事项之一。这是 OpenAI 的首要任务。\n\n一段时间以来，我们一直生活在对进步的兴奋和焦虑之间的紧张关系中，这对我们来说仍然是不和谐的。我们知道这对其他人来说更加不和谐。然而，我们坚信世界需要了解人工智能的发展方向以及模型在现实世界中的表现。更重要的是，我们相信世界将需要一致的人工智能来管理这一转变的未来阶段。\n\n社会和技术共同发展的迭代循环将导致实现这一目标的最高机会。\n\n因此，我们希望您喜欢我们的新模型，我们希望世界继续极其认真地对待人工智能领域正在发生的事情。",
+    "date": "2026-09-01T23:45:03.000Z"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2094933602228416603",
+    "type": "x",
+    "name": "Cat Wu",
+    "title": "With Fable 5.1, our team has taken on more ambitious projects that would have previously taken months. What big bets do you want to take? \n\nAsk Fable 5.1 in Claude Code, Claude Cowork, Claude Tag to take on the task and let us know what you think! https://t.co/LCloUBWKeO",
+    "title_cn": "通过《神鬼寓言 5.1》，我们的团队承担了以前需要数月才能完成的更雄心勃勃的项目。您想下什么大赌注？ \n\n请 Claude Code、Claude Cowork、Claude Tag 中的《神鬼寓言 5.1》承担这项任务，并让我们知道您的想法！ https://t.co/LCloUBWKeO",
+    "date": "2026-09-01T23:41:07.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2094928209095872530",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "A new Claude release where one of the headline features is less annoying writing \n\nhttps://t.co/xHS4TdxaX4",
+    "title_cn": "克劳德的新版本，其中一个标题特征是不那么烦人的写作 \n\nhttps://t.co/xHS4TdxaX4",
+    "date": "2026-09-01T23:19:41.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2094928207179067682",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Like this kind of thing may seem small but makes a big difference\n\nhttps://t.co/JrAjOa8pMS",
+    "title_cn": "就像这种事情看起来很小，但影响很大\n\nhttps://t.co/JrAjOa8pMS",
+    "date": "2026-09-01T23:19:41.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2094928205753040999",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "There’s a lot of alpha in making your agents *less annoying*. If you want users to get to value they need to stop rage-quitting. \n\nI think an untapped opportunity for UX designers is to become conversation/rhetoric designers.",
+    "title_cn": "有很多阿尔法可以让你的座席“不那么烦人”。如果你想让用户获得价值，他们就需要停止愤怒戒烟。 \n\n我认为用户体验设计师尚未开发的机会是成为对话/修辞设计师。",
+    "date": "2026-09-01T23:19:40.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2094922789128196314",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "People are still sleeping on WebMCP.. \n\nYou can now give agents tool calls to interact with your website natively. Including full UI/UX support and interactive elements to build their own views.\n\nSharing a demo below that I submitted for the WebMCP challenge - see how agents can interact with the El Nino situation tracker. It creates it's own views, preserves human edits, and creates a shareable link to share with other agents (or humans). \n\nVideo and code by Codex @ChatGPT & @Railway\n\nLive at elneenyo dot com to try out today!",
+    "title_cn": "人们还在 WebMCP 上睡觉.. \n\n您现在可以向代理提供工具调用以与您的网站进行本地交互。包括完整的 UI/UX 支持和交互式元素来构建自己的视图。\n\n下面分享我为 WebMCP 挑战提交的演示 - 了解代理如何与厄尔尼诺情况跟踪器交互。它创建自己的视图，保留人工编辑，并创建可共享链接以与其他代理（或人类）共享。 \n\n视频和代码由 Codex @ChatGPT 和 @Railway 提供\n\n今天就在 elneenyo dot com 现场体验吧！",
+    "date": "2026-09-01T22:58:09.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2094901483414372716",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web\n\nWhat this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ",
+    "title_cn": "很高兴与 @tannerlinsley 及其团队合作并提供支持，他们是 React、开源和网络的拥护者\n\n这对我们的客户意味着什么：无论您选择 @nextjs 还是 @tan_stack，我们都致力于提供最优质的服务和支持。 https://t.co/9lnHQIqHxZ",
+    "date": "2026-09-01T21:33:29.000Z"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2094889286990446769",
+    "type": "x",
+    "name": "Alex Albert",
+    "title": "One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).\n\nEven if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse across industry.\n\nCompanies are giving agents more and more access to internal systems. With traditional zero data retention, there's been no way to spot patterns in what agents might be doing across sessions on these systems.\n\nEFS is ZDR++. It's ZDR built for a world with agents. A company's data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.\n\nI think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.",
+    "title_cn": "我很高兴今天在《神鬼寓言 5.1》中宣布的一项非模型内容是企业前沿保障 (EFS)。\n\n即使您不是首席执行官/首席信息安全官，这篇博文也会探讨大公司如何考虑人工智能的采用，如果您对人工智能如何在整个行业扩散感兴趣，那么了解这一点很重要。\n\n公司正在为代理商提供越来越多的内部系统访问权限。使用传统的零数据保留，无法发现代理在这些系统上的会话中可能执行的操作模式。\n\nEFS 是 ZDR++。它是 ZDR 专为有代理的世界而构建的。公司的数据保留在自己的云中，我们构建的自动监控层会向其团队标记风险模式。\n\n我认为这是代理的可观察性和风险缓解层。我的猜测是，这将成为企业在其系统上运行日益强大的人工智能的标准要求。",
+    "date": "2026-09-01T20:45:01.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2094867652573528074",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Fable 5.1 now on @vercel AI Gateway\nTry it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹",
+    "title_cn": "《神鬼寓言 5.1》现已登陆 @vercel AI Gateway\n使用 https://t.co/OL0LzGtvAw 尝试一下。每个模型都触手可及🥹",
+    "date": "2026-09-01T19:19:03.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2094864064648536068",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Last but not least, Fable 5.1 writes better and has better tone. We heard your feedback, and are actively working on reducing Claude-speak. Solid progress with 5.1, more to come.",
+    "title_cn": "最后但并非最不重要的一点是，《神鬼寓言 5.1》写得更好，语气也更好。我们听取了您的反馈，并正在积极努力减少克劳德说话。 5.1 取得了坚实的进展，未来还会有更多进展。",
+    "date": "2026-09-01T19:04:48.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2094864063478276288",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "We have been working on how often safeguards intervene. Our latest biology safeguards intervene on benign requests 85% less often than the ones we shipped with Fable 5, and Claude Code users should see around 60% fewer cyber interventions per session. Expect more improvements soon.",
+    "title_cn": "我们一直在研究保障措施干预的频率。我们最新的生物防护措施对良性请求的干预频率比《神鬼寓言 5》中的请求少 85%，而且 Claude Code 用户每次会话的网络干预次数应该减少了约 60%。期待很快会有更多改进。",
+    "date": "2026-09-01T19:04:48.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2094864062186426373",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "We have also reduced prices for Enterprise, API, and SDK customers. Cache reads on Fable 5.1 are now $0.25 per million tokens (previously: $1). Up to 38% cheaper for a typical Claude Code session.",
+    "title_cn": "我们还降低了企业、API 和 SDK 客户的价格。 《神鬼寓言 5.1》的缓存读取现在为每百万代币 0.25 美元（之前为 1 美元）。典型的 Claude Code 会话可便宜 38%。",
+    "date": "2026-09-01T19:04:47.000Z"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2094860189316899083",
+    "type": "x",
+    "name": "Alex Albert",
+    "title": "using blender headless btw",
+    "title_cn": "顺便说一句，使用无头搅拌机",
+    "date": "2026-09-01T18:49:24.000Z"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2094860187743986169",
+    "type": "x",
+    "name": "Alex Albert",
+    "title": "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. \n\nFor this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8",
+    "title_cn": "《神鬼寓言 5.1》在很多方面都是野兽，但我特别喜欢的一件事是通过代码生成视频。 \n\n对于这个，我给了它一张地产的照片。它为该地块设计了一栋房子，进行了渲染，并制作了电影演练。 https://t.co/eBIaCmaav8",
+    "date": "2026-09-01T18:49:24.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2094855479167996036",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "READ THE FABLE 5.1 VIBE CHECK ON @every \nhttps://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N",
+    "title_cn": "阅读@every 上的《寓言 5.1 氛围检查》 \nhttps://t.co/VxEDSTgqVL https://t.co/6UqJw8Z70N",
+    "date": "2026-09-01T18:30:41.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2094854526574424203",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "READ THE FULL VIBE CHECK: https://t.co/z7axZ7Sr1j",
+    "title_cn": "阅读完整的氛围检查：https://t.co/z7axZ7Sr1j",
+    "date": "2026-09-01T18:26:54.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2094851976769257770",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.\n\nOn this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.\n\nHere are a few examples of wins:\n\n* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.\n\n* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.\n\n* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.\n\nThese are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. \n\nFable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.",
+    "title_cn": "在 Box，我们一直在针对复杂的企业工作评估测试早期版本的《神鬼寓言 5.1》。对于企业中的非结构化数据任务，Fable 5.1 比 Fable 5 提升了 7 个百分点。\n\n在这次更新的测试中，我们使用 Box Agent 和 Fable 5.1 来处理各种现实世界企业场景以及金融服务、生命科学、公共部门和更多行业的文档。所有这些任务都需要高度的分析、数学、逻辑和领域知识才能成功执行。\n\n以下是一些获胜的例子：\n\n* 金融服务（+17% 改进）：根据税收调整后的利润预测，Fable 5.1 在计算纳税义务之前正确应用了资本减免； 《神鬼寓言 5》忽略了这一微妙的顺序，导致在留存收益中一直产生错误的数字。\n\n* 技术（+37% 改进）：在一项关键指标标准化不明确的成本优化分析中，《神鬼寓言 5.1》认识到了这种模糊性，计算了两种形式，并提出了正确的形式，而《神鬼寓言 5》则采用了错误的标准化。\n\n* 公共部门（+16% 改进）：在一项教育数据分析任务中，《神鬼寓言 5.1》通过完整的加权平均方法进行工作并产生正确的排名，而《神鬼寓言 5》对一个项目进行了错误分类，并在整个表格中级联错误。\n\n这些只是我们看到的一些胜利。企业中长期运行代理工作流程的能力总体大幅提升。 \n\nFable 5.1 很快就会在 Box AI Studio 中推出，用于构建具有企业内容的自定义 AI 代理。",
+    "date": "2026-09-01T18:16:46.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2094848592812917122",
+    "type": "x",
+    "name": "Claude",
+    "title": "Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.\n\nRead more: https://t.co/nfkH5hyDyO",
+    "title_cn": "《克劳德寓言 5.1》如今已随处可见。 Claude Mythos 5.1 是我们为网络防御者和生命科学家提供的模型，可通过可信访问程序获得。\n\n了解更多：https://t.co/nfkH5hyDyO",
+    "date": "2026-09-01T18:03:19.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2094848591617483020",
+    "type": "x",
+    "name": "Claude",
+    "title": "Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.\n\nOn basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.",
+    "title_cn": "最后，我们改进了保障措施。我们的网络安全保护措施现在标记良性请求的频率减少了约 60%。\n\n在基础生物学和医学问题上，我们最近将回退率降低了约 85%。",
+    "date": "2026-09-01T18:03:19.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2094848590245965931",
+    "type": "x",
+    "name": "Claude",
+    "title": "We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo",
+    "title_cn": "我们还推出了企业前沿保障 (EFS)，它为企业客户提供完全的隐私（与零数据保留相同），同时在防止敌对性使用方面仍然采用最先进的技术。 EFS 从今年秋季开始分阶段推出。 https://t.co/EMbLgL5KVo",
+    "date": "2026-09-01T18:03:18.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2094831747037085978",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Fluid is the thing that has enabled Vercel's:\n◾ Industry-leading Build performance\n◾ Sandbox reliability & massive concurrency\n◾ 30min Function durations (& soon longer)\n\nThis unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. \n\nYou already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.\n\nImagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.\n\nThe future is one global and unified compute platform, with only known physics as the limiting factor 😊",
+    "title_cn": "流体是 Vercel 得以实现的因素：\n◾ 行业领先的构建性能\n◾ 沙盒可靠性和海量并发\n◾ 30 分钟的功能持续时间（以及很快更长）\n\n这种统一使最佳 DX 成为可能。跨所有计算产品共享 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎、安全边界、网络、文件系统。 \n\n您已经在一些非常独特的 Vercel 功能中看到了这一点，例如我们的构建和功能能够参与相同的安全计算边界和配置。\n\n想象一下沙箱的相同出口防火墙功能可以防止代理逃逸，应用于您的构建、功能和服务器。\n\n未来是一个全球统一的计算平台，只有已知的物理作为限制因素😊",
+    "date": "2026-09-01T16:56:23.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2094829606855462940",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Do you want to grow massively on X? \n\nHere are the top hacks, a 🧵\n\n1) Become CEO of Apple https://t.co/WO9aMocWUY",
+    "title_cn": "您想在 X 上实现大规模增长吗？ \n\n这是最重要的黑客，🧵\n\n1) 成为苹果首席执行官 https://t.co/WO9aMocWUY",
+    "date": "2026-09-01T16:47:52.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2094826841622348106",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "https://t.co/DxRAhWI0y8",
+    "title_cn": "https://t.co/DxRAhWI0y8",
+    "date": "2026-09-01T16:36:53.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2094826808114057246",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Should we do a merch line? https://t.co/IgyRywd8yH",
+    "title_cn": "我们应该做商品线吗？ https://t.co/IgyRywd8yH",
+    "date": "2026-09-01T16:36:45.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2094817857821704659",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Self-improving products is a meta idea every company should be implementing.  \n\nSome of the core pieces you will need:\n\n1/ a crisp definition of the various metrics you care about : primary, secondary, guardrail\n\n2/ an articulation of your strategy, roadmap and metrics you care about moving the most\n\n3/ knowledge base of past product decisions and principles so the agent knows how decisions get made \n\n4/ connections to your to your internal product systems: dashboards, APIs, MCPs, and tools your agent  needs to observe and act on your product. \n\n5/ a harness built with knowledge of  your end to end product development flow. \n\nDepending on the complexity of your product, you might be able to prototype with fairly simple versions of each of the above and reuse existing swe agents.",
+    "title_cn": "自我改进产品是每个公司都应该实施的元理念。  \n\n您需要的一些核心部分：\n\n1/ 您关心的各种指标的清晰定义：主要、次要、护栏\n\n2/ 阐述您最关心的战略、路线图和指标\n\n3/ 过去产品决策和原则的知识库，以便代理知道如何做出决策 \n\n4/ 连接到您的内部产品系统：仪表板、API、MCP 以及您的代理观察您的产品并对其采取行动所需的工具。 \n\n5/ 根据端到端产品开发流程的知识构建的工具。 \n\n根据产品的复杂性，您可能能够使用上述每个版本的相当简单的版本进行原型设计，并重用现有的 swe 代理。",
+    "date": "2026-09-01T16:01:11.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2094812574395371857",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Be a person, not a persona",
+    "title_cn": "做一个人，而不是一个角色",
+    "date": "2026-09-01T15:40:12.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2094784484625531065",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Casual MG banger that started as a comment to my recent essay via *checks notes* iMessage 😂 https://t.co/t0YSIB4Ui9",
+    "title_cn": "休闲 MG 香肠，最初是通过*检查笔记* iMessage 对我最近的文章进行评论😂 https://t.co/t0YSIB4Ui9",
+    "date": "2026-09-01T13:48:35.000Z"
+  },
+  {
     "url": "https://x.com/thenanyu/status/2094659984428867901",
     "type": "x",
     "name": "Nan Yu",
