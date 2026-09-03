@@ -64,6 +64,238 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/bcherny/status/2095378890370019683",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Background computer use is underrated https://t.co/jGOvHMj8sM",
+    "title_cn": "后台计算机使用被低估 https://t.co/jGOvHMj8sM",
+    "date": "2026-09-03T05:10:32.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2095375073381318656",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "We are not recording meetings for humans anymore. Nobody reads the AI summary notes or listens back. We are capturing transcripts to feed agents.",
+    "title_cn": "我们不再为人类录制会议。没有人阅读人工智能摘要笔记或倾听。我们正在捕获转录本以供代理使用。",
+    "date": "2026-09-03T04:55:22.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2095369901137654271",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
+    "title_cn": "我认为描述 OpenAI 文化的最佳方式就是将其视为一家大型初创公司。除非您从内部看到，否则很难相信。极致的主人翁意识、关怀和节奏。",
+    "date": "2026-09-03T04:34:49.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2095367584489038044",
+    "type": "x",
+    "name": "Thariq",
+    "title": "Ah apologies, effort levels not breaking the prompt cache is live on API but not yet on Claude Code. Should be live within a day or so, will QT when it’s ready. \n\nWas OOO and did not realize this didn’t go out with the model launch.",
+    "title_cn": "抱歉，不破坏提示缓存的努力水平已在 API 上生效，但尚未在 Claude Code 上生效。应该会在一天左右的时间内上线，准备好后将进行 QT。 \n\n是 OOO，并没有意识到这并没有随着模型的发布而消失。",
+    "date": "2026-09-03T04:25:36.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2095327032141889675",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "it me https://t.co/0NgNFmgV37",
+    "title_cn": "是我 https://t.co/0NgNFmgV37",
+    "date": "2026-09-03T01:44:28.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2095320346261848169",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "many such cases https://t.co/dEwsrGSnPH",
+    "title_cn": "很多这样的案例 https://t.co/dEwsrGSnPH",
+    "date": "2026-09-03T01:17:54.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2095292377749733697",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Building housing supply needs to be a top issue for how you vote this November https://t.co/n4Su98uJYf",
+    "title_cn": "建设住房供应需要成为今年 11 月投票的首要问题 https://t.co/n4Su98uJYf",
+    "date": "2026-09-02T23:26:46.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2095291912706220410",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Replit is coming to London 🇬🇧\n\nTo celebrate Replit’s first international office in London, together with our friends @OpenAI, we're hosting a night of drinks, music, and a fireside chat with Paul Graham (@paulg).\n\nThursday, September 10th, RSVP: https://t.co/KvsS1OScca https://t.co/LQb7aSrvdj",
+    "title_cn": "Replit 即将来到伦敦🇬🇧\n\n为了庆祝 Replit 在伦敦设立第一个国际办事处，我们与我们的朋友 @OpenAI 一起举办了一个饮料、音乐之夜，并与 Paul Graham (@paulg) 进行了炉边聊天。\n\n9 月 10 日星期四，回复：https://t.co/KvsS1OScca https://t.co/LQb7aSrvdj",
+    "date": "2026-09-02T23:24:55.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2095288416292487289",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "The ChatGPT desktop app is now my main browser and my productivity has never been higher",
+    "title_cn": "ChatGPT 桌面应用程序现在是我的主要浏览器，我的工作效率从未如此高",
+    "date": "2026-09-02T23:11:01.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2095286096481665322",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "GG https://t.co/F1wjmFI5uO",
+    "title_cn": "GG https://t.co/F1wjmFI5uO",
+    "date": "2026-09-02T23:01:48.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2095276133214491086",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and Enterprise plans.",
+    "title_cn": "《神鬼寓言 5.1》使克劳德·塔格变得更加有用。在这里，它根据指标电子表格和 Slack 上的其他数据构建了最后一刻的领导力平台，发现了与数据不一致的供应商报告，并在继续之前对其进行了标记。\n\nClaude Tag 可在 Slack 中的团队和企业计划中使用。",
+    "date": "2026-09-02T22:22:13.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2095275295511281918",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Damn I'm running out of Fable limit already, anyone in the same boat?",
+    "title_cn": "该死，我已经用完了《神鬼寓言》的限制，有人有同样的情况吗？",
+    "date": "2026-09-02T22:18:53.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2095269303029244364",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "pro tip: \n\nuse your alien superintelligence to plan your next order of chocolate bars https://t.co/DvcNrTpGEc",
+    "title_cn": "专业提示： \n\n使用你的外星超级智能来计划你的下一份巧克力棒订单 https://t.co/DvcNrTpGEc",
+    "date": "2026-09-02T21:55:04.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2095260872537227585",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "It took blood, sweat, and tokens",
+    "title_cn": "它需要鲜血、汗水和代币",
+    "date": "2026-09-02T21:21:34.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2095255545594941910",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Product manager = Member of product staff\nDesigner = Member of design staff\nEngineer = Member of technical staff\n\nIs this AI making job functions more verbose? 😅\n\nIf this flattens levels and titles, I'm all for it though.\n\nIt also shows that maybe the single AI builder title that combines all functions isn't really happening, even at the best labs. People still have specialties based on what they're good at.",
+    "title_cn": "产品经理=产品人员\n设计师=设计人员\n工程师=技术人员\n\n这个人工智能是否会让工作职能变得更加冗长？ 😅\n\n如果这会使等级和头衔变得扁平化，我完全赞成。\n\n它还表明，即使在最好的实验室，也许结合所有功能的单一人工智能构建器标题并没有真正发生。人们仍然有基于他们擅长的专业。",
+    "date": "2026-09-02T21:00:24.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2095235886611050985",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Follow @eve",
+    "title_cn": "关注@eve",
+    "date": "2026-09-02T19:42:17.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2095234831013814611",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Everything is code https://t.co/TJwbjGA2RL",
+    "title_cn": "一切都是代码 https://t.co/TJwbjGA2RL",
+    "date": "2026-09-02T19:38:05.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2095234253613359200",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "This week is absolutely nuts for AI releases, and now a major new model update from Muse. We appear to be reaching escape velocity in capability progress. \n\nIf this thing gets released as open weights it completely changes the dynamic of US open weights competitiveness. https://t.co/hOG17UMECG",
+    "title_cn": "本周对于 AI 发布来说绝对是疯狂的，现在 Muse 又发布了重大的新模型更新。我们的能力进步似乎正在达到逃逸速度。 \n\n如果这个东西作为公开重量级发布，它将彻底改变美国公开重量级竞争力的动态。 https://t.co/hOG17UMECG",
+    "date": "2026-09-02T19:35:48.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2095227334534041714",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "It's actually really hard to trust these frontier labs when they say \"don't worry, we won't use your data for training\".\n\nThis is a huge reason to use OSS models.\n\nWhat a weird world. Use the 🇨🇳 models to make sure your stuff is private. \n\nAlso why it is critical to have 🇺🇸 OSS.",
+    "title_cn": "当这些前沿实验室说“别担心，我们不会使用您的数据进行训练”时，实际上很难相信他们。\n\n这是使用 OSS 模型的一个重要原因。\n\n多么奇怪的世界啊。使用 🇨🇳 模型确保您的资料是私密的。 \n\n也是为什么拥有 🇺🇸 OSS 至关重要。",
+    "date": "2026-09-02T19:08:18.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2095226835743158320",
+    "type": "x",
+    "name": "Claude",
+    "title": "Available in beta on Pro and Max plans, in the desktop app on macOS.\n\nIf you're new to computer use, turn it on in Settings → General → Computer use.\n\nHow it works, and how to use it safely: https://t.co/WTNqd5F0BG",
+    "title_cn": "在 Pro 和 Max 计划中提供测试版，并在 macOS 上的桌面应用程序中提供。\n\n如果您不熟悉计算机使用，请在“设置”→“常规”→“计算机使用”中将其打开。\n\n它的工作原理以及如何安全使用它：https://t.co/WTNqd5F0BG",
+    "date": "2026-09-02T19:06:19.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2095226833293685100",
+    "type": "x",
+    "name": "Claude",
+    "title": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else. https://t.co/AOiup03pQK",
+    "title_cn": "Claude 现在可以在 Claude Cowork 和 Claude Code 的后台使用您的计算机。\n\n让它在桌面上执行一些操作，Claude 就可以像您一样单击、键入和打开应用程序，而您则可以处理其他事情。 https://t.co/AOiup03pQK",
+    "date": "2026-09-02T19:06:19.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2095202701646995965",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "What's your California Dream?\n\nhttps://t.co/cBmqMDDHLn https://t.co/9H6eflyDT2",
+    "title_cn": "你的加州梦是什么？\n\nhttps://t.co/cBmqMDDHLn https://t.co/9H6eflyDT2",
+    "date": "2026-09-02T17:30:25.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2095192873973301601",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Too many startups are focused on solving model issues (or leveraging model capabilities) as they exist today.\n\nMuch more interesting to hav a strong POV on capabilities/issues as they will exist 1 year from today (understandably hard).",
+    "title_cn": "太多的初创公司专注于解决当今存在的模型问题（或利用模型功能）。\n\n对能力/问题有强烈的观点会更有趣，因为它们将在一年后存在（可以理解，很难）。",
+    "date": "2026-09-02T16:51:22.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2095178970912461279",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "3.8 Flash = great quality @ great price https://t.co/teErwoGZon",
+    "title_cn": "3.8 Flash = 高品质@优惠价格 https://t.co/teErwoGZon",
+    "date": "2026-09-02T15:56:07.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2095177483129917849",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
+    "title_cn": "3.8 Flash 推出到 @GeminiApp https://t.co/FItHefpEdv",
+    "date": "2026-09-02T15:50:13.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2095177204712017920",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "It's ridiculous man\n\nOpening a public bank in SF is just asking for mass fraud, especially by Jackie Fielder's incompetent DSA friends and cronies https://t.co/r1xphmRSss",
+    "title_cn": "这是个可笑的人\n\n在旧金山开设一家公共银行只会造成大规模欺诈，尤其是杰基·菲尔德 (Jackie Fielder) 无能的 DSA 朋友和亲信 https://t.co/r1xphmRSss",
+    "date": "2026-09-02T15:49:06.000Z"
+  },
+  {
+    "url": "https://x.com/realmadhuguru/status/2095174463696589223",
+    "type": "x",
+    "name": "Madhu Guru",
+    "title": "Every AI product should be working towards abstracting model choice away from users. \n\nIn any product, the intelligence is the underlying engine - all the user cares about is that the job gets done. \n\nModel picking is too much cognitive load for the user.\n\nThere have been multiple attempts to abstract model choice away from users. I think we’re finally at the point where this can work well.\n\nIt takes three things:\n\n1/ Deep understanding of the model frontier across different weight classes for your particular use cases.\n\n2/ Great evals for your workflows, so you know which models work best where.\n\n3/ A team with the talent and AI-native operating model to continuously adapt as the frontier moves.\n\nHaving worked with the Lovable team, I can say they have all three.",
+    "title_cn": "每个人工智能产品都应该致力于将模型选择从用户手中抽象出来。 \n\n在任何产品中，智能都是底层引擎——用户关心的只是工作是否完成。 \n\n模型选择对于用户来说认知负担太大。\n\n人们已经多次尝试将模型选择从用户手中抽象出来。我认为我们终于到了可以很好地发挥作用的地步了。\n\n这需要三件事：\n\n1/ 深入了解特定用例的不同权重类别的模型前沿。\n\n2/ 对您的工作流程进行出色的评估，以便您知道哪些模型在哪里最有效。\n\n3/ 一支拥有人才和人工智能原生运营模式的团队，能够随着前沿的发展不断适应。\n\n在与 Lovable 团队合作后，我可以说他们具备了这三点。",
+    "date": "2026-09-02T15:38:13.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2095168559873773970",
+    "type": "x",
+    "name": "Claude",
+    "title": "Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. \n\nApply here: https://t.co/h8X1D0TZv7 https://t.co/bPa8giOBXP",
+    "title_cn": "克劳德校园大使计划现已开放申请。今年，我们为更多学生提供了机会，为本科生、研究生和博士/博士后提供了三个途径。 \n\n在此申请：https://t.co/h8X1D0TZv7 https://t.co/bPa8giOBXP",
+    "date": "2026-09-02T15:14:45.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2095158216409911381",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "PSA: that irrational fear of opening the microwave one second before it beeps loudly so that your infant doesn’t wake up.. doesn’t leave you even when your kids grow up 😅 https://t.co/VUILoORIUC",
+    "title_cn": "PSA：在微波炉发出响亮声音之前一秒打开微波炉以免你的婴儿醒来的非理性恐惧即使在你的孩子长大后也不会离开你😅 https://t.co/VUILoORIUC",
+    "date": "2026-09-02T14:33:39.000Z"
+  },
+  {
     "url": "https://x.com/levie/status/2095024699441119612",
     "type": "x",
     "name": "Aaron Levie",
