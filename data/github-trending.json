@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST",
-      "stars": "6k",
-      "growth": "🔺3119",
+      "stars": "6.8k",
+      "growth": "🔺741",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "description_cn": "用于可测量、计算机可执行研究的自主研究系统。"
     },
@@ -13,82 +13,82 @@
       "rank": "2",
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "15.2k",
-      "growth": "🔺2871",
+      "stars": "15.9k",
+      "growth": "🔺710",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": "3",
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "stars": "5.5k",
-      "growth": "🔺2131",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": "14.4k",
+      "growth": "🔺691",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "description_cn": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": "4",
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars": "16.1k",
-      "growth": "🔺1550",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
-    },
-    {
-      "rank": "5",
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars": "6.7k",
-      "growth": "🔺1040",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-    },
-    {
-      "rank": "6",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "14.4k",
-      "growth": "🔺1000",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "免费开源 macOS 菜单栏工具包。"
-    },
-    {
-      "rank": "7",
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "17.8k",
-      "growth": "🔺945",
+      "stars": "18.4k",
+      "growth": "🔺586",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
-      "rank": "8",
+      "rank": "5",
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "stars": "8.1k",
+      "growth": "🔺519",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "description_cn": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+    },
+    {
+      "rank": "6",
       "name": "MakazhanAlpamys/Soup",
       "url": "https://github.com/MakazhanAlpamys/Soup",
-      "stars": "4.5k",
-      "growth": "🔺897",
+      "stars": "4.9k",
+      "growth": "🔺428",
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "description_cn": "从一个 YAML 微调 LLM。层流在 4 GB 笔记本电脑 GPU 上训练 8B 模型。"
     },
     {
+      "rank": "7",
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "stars": "7.1k",
+      "growth": "🔺388",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "rank": "8",
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "stars": "5.9k",
+      "growth": "🔺368",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+    },
+    {
       "rank": "9",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "18.3k",
-      "growth": "🔺746",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "16.4k",
+      "growth": "🔺261",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": "10",
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": "10.2k",
-      "growth": "🔺666",
-      "description": "---",
-      "description_cn": null
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "14.7k",
+      "growth": "🔺236",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-02T22:27:11.117140"
+  "updated_at": "2026-09-03T03:39:03.703017"
 }
