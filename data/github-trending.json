@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "stars": "6.8k",
-      "growth": "🔺741",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "description_cn": "用于可测量、计算机可执行研究的自主研究系统。"
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": "16k",
+      "growth": "🔺1616",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "description_cn": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": "2",
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "15.9k",
-      "growth": "🔺710",
+      "stars": "16.9k",
+      "growth": "🔺919",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": "3",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": "14.4k",
-      "growth": "🔺691",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "description_cn": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
+      "name": "sngyai/Sequoia",
+      "url": "https://github.com/sngyai/Sequoia",
+      "stars": "6.5k",
+      "growth": "🔺476",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "description_cn": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
     },
     {
       "rank": "4",
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "stars": "18.4k",
-      "growth": "🔺586",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "stars": "12k",
+      "growth": "🔺403",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "description_cn": "将端口号替换为稳定的、命名的本地 URL。对于人类和特工来说。"
     },
     {
       "rank": "5",
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "stars": "8.1k",
-      "growth": "🔺519",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "description_cn": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "18.8k",
+      "growth": "🔺348",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "description_cn": "用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。"
     },
     {
       "rank": "6",
-      "name": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "stars": "4.9k",
-      "growth": "🔺428",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "15k",
+      "growth": "🔺309",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "7",
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars": "7.1k",
-      "growth": "🔺388",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "stars": "9.6k",
+      "growth": "🔺304",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "description_cn": "Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的 CRM。"
     },
     {
       "rank": "8",
-      "name": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "stars": "5.9k",
-      "growth": "🔺368",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "description_cn": "类似于 netcat，但通过 Tailscale 的数据平面，没有 Tailscale 的控制平面"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "stars": "3.1k",
+      "growth": "🔺290",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "description_cn": "代理商的源头控制。使用多个编码代理，跟踪它们的更改并在一处查询它们"
     },
     {
       "rank": "9",
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars": "16.4k",
-      "growth": "🔺261",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "stars": "9.6k",
+      "growth": "🔺285",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "description_cn": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
     },
     {
       "rank": "10",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "14.7k",
-      "growth": "🔺236",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "免费开源 macOS 菜单栏工具包。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "16.6k",
+      "growth": "🔺263",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
     }
   ],
   "weekly": [
@@ -117,7 +117,7 @@
       "stars": "39k",
       "growth": "🔺4514",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
     },
     {
       "rank": "4",
@@ -162,7 +162,7 @@
       "stars": "21.8k",
       "growth": "🔺2187",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。"
     },
     {
       "rank": "9",
@@ -180,7 +180,7 @@
       "stars": "22.2k",
       "growth": "🔺1878",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
     },
     {
       "rank": "11",
@@ -207,7 +207,7 @@
       "stars": "25.5k",
       "growth": "🔺1773",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "阻止编码代理隐藏答案的技能。多动症友好的输出。"
     },
     {
       "rank": "14",
@@ -216,7 +216,7 @@
       "stars": "30.4k",
       "growth": "🔺1723",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
     {
       "rank": "15",
@@ -234,7 +234,7 @@
       "stars": "5.5k",
       "growth": "🔺1399",
       "description": "local multi-agent harness",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地多智能体利用"
     },
     {
       "rank": "17",
@@ -273,5 +273,5 @@
       "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-03T22:24:23.213624"
+  "updated_at": "2026-09-04T03:39:37.339028"
 }
