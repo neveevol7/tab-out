@@ -7,7 +7,7 @@
       "stars": "18.8k",
       "growth": "🔺1205",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": "2",
@@ -16,7 +16,7 @@
       "stars": "3.1k",
       "growth": "🔺776",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
     {
       "rank": "3",
@@ -43,7 +43,7 @@
       "stars": "17.2k",
       "growth": "🔺269",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "stars": "19.5k",
       "growth": "🔺247",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": "7",
@@ -61,7 +61,7 @@
       "stars": "15.4k",
       "growth": "🔺227",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "8",
@@ -88,7 +88,7 @@
       "stars": "13.2k",
       "growth": "🔺185",
       "description": "Stremio - Freedom to Stream",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "Stremio - 自由流媒体"
     }
   ],
   "weekly": [
@@ -108,7 +108,7 @@
       "stars": "34.6k",
       "growth": "🔺4646",
       "description": "Beautiful, Modern & Opinionated Linux",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "美丽、现代、有主见的 Linux"
     },
     {
       "rank": "3",
@@ -117,7 +117,7 @@
       "stars": "39k",
       "growth": "🔺4514",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 190,000 多名科学家使用。 165 种经过验证的现成技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Pi、Antigravity 和开放代理技能标准兼容。"
     },
     {
       "rank": "4",
@@ -144,7 +144,7 @@
       "stars": "22.2k",
       "growth": "🔺2434",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "每月 74 亿个代币。 34 个免费的法学硕士提供商。 635 个免费模型端点。所有这些都位于一个 /v1 端点以及任何自定义 OpenAI 兼容端点之后。智能路由、自动故障转移、加密密钥。仅个人实验。"
     },
     {
       "rank": "7",
@@ -162,7 +162,7 @@
       "stars": "21.8k",
       "growth": "🔺2187",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "9",
@@ -180,7 +180,7 @@
       "stars": "22.2k",
       "growth": "🔺1878",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Wand (WeMod) 应用程序的高级用户体验和互操作性扩展"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "11",
@@ -273,5 +273,5 @@
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "updated_at": "2026-09-06T16:46:06.635006"
+  "updated_at": "2026-09-06T20:10:49.056970"
 }
