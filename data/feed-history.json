@@ -64,6 +64,54 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/thsottiaux/status/2096688770523467947",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
+    "title_cn": "为了让大家校准 Astra 的推理工作，请知道 GPT-6 Astra 在低端的表现比 GPT-5.6 Sol 在高端的表现更好。\n\n如果您在 Sol 中使用了高推理能力并且感到高兴，我建议您将 Astra 的推理能力降低到低或中。",
+    "date": "2026-09-06T19:55:32.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2096612718098911590",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "“Cheating and explaining the answer [to your child] are closer than you’d think.”\n\nHere’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:\n\n→ Why better grades don’t always mean more learning\n\n→ How to help kids enjoy doing hard things vs. only trying to please adults\n\n→ Why her #1 product principle is “Never tell the learner the answer”\n\nSome quotes from Sue:\n\n“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”\n\n“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”\n\n“When building AI products, try to find areas where you have unique data that makes your product better over time.”\n\n📌 Watch the full episode: https://t.co/jzogacrhiK\n\nThanks to our sponsors:\n\n@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs\n\n@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE",
+    "title_cn": "“欺骗和[向你的孩子]解释答案比你想象的更接近。”\n\n这是我与 @brilliantorg 联合创始人 @suekhim 的新节目，他向我展示了人工智能如何帮助孩子们独立思考。我们讨论了：\n\n→ 为什么更好的成绩并不总是意味着更多的学习\n\n→ 如何帮助孩子享受做困难的事情而不是仅仅试图取悦成年人\n\n→ 为什么她的第一条产品原则是“永远不要告诉学习者答案”\n\n苏的一些引述：\n\n“使用人工智能来跳过学习就像把机械臂带到健身房来为你举重。”\n\n“学习不是为了找到答案。而是为了强化你能集中精力、奋斗、不害怕尝试新问题的那部分力量。”\n\n“在构建人工智能产品时，尝试找到拥有独特数据的领域，这些数据可以让你的产品随着时间的推移变得更好。”\n\n📌 观看整集：https://t.co/jzogacrhiK\n\n感谢我们的赞助商：\n\n@线性：现代团队的人工智能代理平台 https://t.co/tgWf9oL4bs\n\n@RiversidedotFM：用于播客和视频的一体化 AI 工作室 https://t.co/uWnS6aiMPE",
+    "date": "2026-09-06T14:53:19.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2096466888935276719",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer",
+    "title_cn": "我一直在寡妇湾睡觉，总的来说，苹果的节目比其他流媒体要好得多",
+    "date": "2026-09-06T05:13:51.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2096438571838370096",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Every tech startup logo https://t.co/52Prjggey0",
+    "title_cn": "每个科技初创公司徽标 https://t.co/52Prjggey0",
+    "date": "2026-09-06T03:21:20.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2096403459579015374",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj",
+    "title_cn": "不记得上次我们的能力有如此大的提升是什么时候了。 https://t.co/iGxVUYmGHj",
+    "date": "2026-09-06T01:01:48.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2096400749869830325",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)\n\nWill have that next week. https://t.co/lpiszOtVGP",
+    "title_cn": "距离构建我想要使用的安全带又近了一步。目前还没有云会话，目标是秒，这需要巧妙的快照。 （现在它仍然克隆新鲜的存储库，但速度不够快。）\n\n下周就会有。 https://t.co/lpiszOtVGP",
+    "date": "2026-09-06T00:51:02.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2096101429832552872",
     "type": "x",
     "name": "Thibault Sottiaux",
