@@ -43,7 +43,7 @@
       "stars": "17.2k",
       "growth": "🔺269",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     },
     {
       "rank": "6",
@@ -79,7 +79,7 @@
       "stars": "4.7k",
       "growth": "🔺197",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "description_cn": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。您可以自行报告这些问题，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
+      "description_cn": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。请随意自行举报，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
     },
     {
       "rank": "10",
@@ -273,5 +273,5 @@
       "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-06T03:41:21.038041"
+  "updated_at": "2026-09-06T08:28:38.917253"
 }
