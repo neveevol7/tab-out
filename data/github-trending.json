@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": "17.6k",
-      "growth": "🔺1592",
+      "stars": "18.8k",
+      "growth": "🔺1205",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "description_cn": "VoiceStudio 是 ElevenLabs 的开源、完全本地化替代方案 — 提供 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创建。"
     },
     {
       "rank": "2",
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "17.4k",
-      "growth": "🔺536",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": "3",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "19.2k",
-      "growth": "🔺500",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
-    },
-    {
-      "rank": "4",
       "name": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": "2.3k",
-      "growth": "🔺426",
+      "stars": "3.1k",
+      "growth": "🔺776",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "description_cn": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
     {
+      "rank": "3",
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": "17.9k",
+      "growth": "🔺538",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+    },
+    {
+      "rank": "4",
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": "10.7k",
+      "growth": "🔺296",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
       "rank": "5",
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "stars": "8.7k",
-      "growth": "🔺406",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "description_cn": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "17.2k",
+      "growth": "🔺269",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Semrush 和 Ahrefs 的开源替代品"
     },
     {
       "rank": "6",
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars": "17k",
-      "growth": "🔺351",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "stars": "19.5k",
+      "growth": "🔺247",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": "7",
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "stars": "16.1k",
-      "growth": "🔺264",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "description_cn": "AI 代理技能的安全扫描器。在安装之前检测 Claude Code、Codex 和 MCP 技能中的漏洞、恶意模式、安全风险、提示注入、数据泄露和供应链风险。"
-    },
-    {
-      "rank": "8",
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "15.2k",
-      "growth": "🔺232",
+      "stars": "15.4k",
+      "growth": "🔺227",
       "description": "Free and open-source macOS menu bar toolkit.",
       "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
+      "rank": "8",
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "stars": "6.9k",
+      "growth": "🔺212",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "description_cn": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
+    },
+    {
       "rank": "9",
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars": "7.4k",
-      "growth": "🔺168",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "stars": "4.7k",
+      "growth": "🔺197",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "description_cn": "公开利用 PoC 和漏洞研究文章的单一档案。当我发布这些内容时，还没有任何报道。您可以自行报告这些问题，如果发出了 lulz，则将获得 CVE 的荣誉。请不要滥用这些。我这样做是为了吸引人们进入这个领域，而且我一直发现这是最有效的方式。"
     },
     {
       "rank": "10",
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": "4.2k",
-      "growth": "🔺159",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "description_cn": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。"
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "stars": "13.2k",
+      "growth": "🔺185",
+      "description": "Stremio - Freedom to Stream",
+      "description_cn": "Stremio - 自由流媒体"
     }
   ],
   "weekly": [
@@ -189,7 +189,7 @@
       "stars": "17.6k",
       "growth": "🔺1866",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "⚡️Logitech Options+ 的本机、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
+      "description_cn": "⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。"
     },
     {
       "rank": "12",
@@ -273,5 +273,5 @@
       "description_cn": "您的个人人工智能超级智能。一个为你的生活建立本地优先记忆的大脑，一个代理舰队和工作流程的出色协调者，以及一个深入的研究人员。"
     }
   ],
-  "updated_at": "2026-09-05T23:38:00.429351"
+  "updated_at": "2026-09-06T03:41:21.038041"
 }
