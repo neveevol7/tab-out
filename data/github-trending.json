@@ -2,92 +2,92 @@
   "daily": [
     {
       "rank": "1",
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": "18.8k",
-      "growth": "🔺1205",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "2",
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "stars": "3.1k",
-      "growth": "🔺776",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "3",
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "17.9k",
-      "growth": "🔺538",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "4",
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": "10.7k",
-      "growth": "🔺296",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "5",
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars": "17.2k",
-      "growth": "🔺269",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "6",
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "stars": "19.5k",
-      "growth": "🔺247",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "rank": "7",
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "15.4k",
-      "growth": "🔺227",
+      "stars": "16.7k",
+      "growth": "🔺1210",
       "description": "Free and open-source macOS menu bar toolkit.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "rank": "8",
+      "rank": "2",
+      "name": "lnkiai/m3e-canvas",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "stars": "4.6k",
+      "growth": "🔺1011",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "3",
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "stars": "8.4k",
+      "growth": "🔺937",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "4",
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "stars": "18.9k",
+      "growth": "🔺931",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "5",
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "stars": "4k",
+      "growth": "🔺900",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "6",
+      "name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "stars": "3.7k",
+      "growth": "🔺885",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "rank": "7",
       "name": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
-      "stars": "6.9k",
-      "growth": "🔺212",
+      "stars": "7.8k",
+      "growth": "🔺819",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
+      "rank": "8",
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "stars": "3.4k",
+      "growth": "🔺769",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
       "rank": "9",
-      "name": "bikini/exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "stars": "4.7k",
-      "growth": "🔺197",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "stars": "5.2k",
+      "growth": "🔺503",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "10",
-      "name": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "stars": "13.4k",
-      "growth": "🔺174",
-      "description": "Stremio - Freedom to Stream",
+      "name": "zgwl/chinese-buy-us-stock-guide",
+      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+      "stars": "7k",
+      "growth": "🔺498",
+      "description": "美股指南",
       "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-07T22:37:51.146090"
+  "updated_at": "2026-09-08T03:45:35.483208"
 }
