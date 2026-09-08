@@ -25,7 +25,7 @@
       "stars": "8.4k",
       "growth": "🔺937",
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "4",
@@ -34,7 +34,7 @@
       "stars": "18.9k",
       "growth": "🔺931",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "5",
@@ -52,7 +52,7 @@
       "stars": "3.7k",
       "growth": "🔺885",
       "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "description_cn": "开源、浏览器内且无需注册的工具列表！"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "7",
@@ -61,7 +61,7 @@
       "stars": "7.8k",
       "growth": "🔺819",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "description_cn": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "rank": "8",
@@ -88,7 +88,7 @@
       "stars": "7k",
       "growth": "🔺498",
       "description": "美股指南",
-      "description_cn": "美股指南"
+      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-08T08:43:21.730872"
+  "updated_at": "2026-09-08T14:14:42.144678"
 }
