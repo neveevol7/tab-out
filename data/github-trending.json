@@ -7,7 +7,7 @@
       "stars": "16.7k",
       "growth": "🔺1210",
       "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "2",
@@ -16,7 +16,7 @@
       "stars": "4.6k",
       "growth": "🔺1011",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": "3",
@@ -25,7 +25,7 @@
       "stars": "8.4k",
       "growth": "🔺937",
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
     },
     {
       "rank": "4",
@@ -34,7 +34,7 @@
       "stars": "18.9k",
       "growth": "🔺931",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
     },
     {
       "rank": "5",
@@ -43,7 +43,7 @@
       "stars": "4k",
       "growth": "🔺900",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "stars": "3.7k",
       "growth": "🔺885",
       "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "开源、浏览器内且无需注册的工具列表！"
     },
     {
       "rank": "7",
@@ -61,7 +61,7 @@
       "stars": "7.8k",
       "growth": "🔺819",
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
     },
     {
       "rank": "8",
@@ -79,7 +79,7 @@
       "stars": "5.2k",
       "growth": "🔺503",
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "在几分钟内建立您的自主对冲基金。 AutoHedge 利用群体智能和人工智能代理的力量来自动化市场分析、风险管理和交易执行。"
     },
     {
       "rank": "10",
@@ -88,7 +88,7 @@
       "stars": "7k",
       "growth": "🔺498",
       "description": "美股指南",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "美股指南"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-08T03:45:35.483208"
+  "updated_at": "2026-09-08T08:43:21.730872"
 }
