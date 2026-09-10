@@ -64,6 +64,230 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/steipete/status/2097935551735423464",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Finally got cloud sessions working *fast* in OpenClaw.\nRemote Terminal, WebVNC and CUA for computer use. https://t.co/VwbyGV5k2p",
+    "title_cn": "终于让云会话在 OpenClaw 中“快速”运行了。\n供计算机使用的远程终端、WebVNC 和 CUA。 https://t.co/VwbyGV5k2p",
+    "date": "2026-09-10T06:29:47.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2097920810543468551",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The world is going to be using coding agents for far more than anyone would have thought before. \n\nWe’ll be building tools in all new categories, building software for companies that couldn’t afford it before, using agents to protect systems from cyber risk, automating research in life sciences, processing insane amounts of data in complex workflows, upgrading legacy systems and infrastructures, and hundreds of other use cases.\n\nIn short, by lowering the cost of code, we are going to do so much more with it. This will result in software becoming more useful and the leverage of engineers going up dramatically, which coincidentally will mean we need more of them, not fewer.",
+    "title_cn": "世界对编码代理的使用将远远超出任何人之前的想象。 \n\n我们将构建所​​有新类别的工具，为以前无力承担的公司构建软件，使用代理保护系统免受网络风险，自动化生命科学研究，在复杂的工作流程中处理大量数据，升级遗留系统和基础设施，以及数百个其他用例。\n\n简而言之，通过降低代码成本，我们将用它做更多的事情。这将导致软件变得更加有用，工程师的影响力急剧上升，这恰好意味着我们需要更多而不是更少的工程师。",
+    "date": "2026-09-10T05:31:13.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2097912273264095536",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff",
+    "title_cn": "最大的乐趣之一就是与研究人员讨论新模型的名称。他们想出了最搞笑的东西",
+    "date": "2026-09-10T04:57:17.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2097880507753382201",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Dashboards/Mini-Apps was something I pushed two months ago and now it replaced lots of custom tooling we built around OC. Everything’s a sidebar entry, a dashboard or a plugin now for our team server. https://t.co/sykNUwBqrX",
+    "title_cn": "仪表板/迷你应用程序是我两个月前推出的东西，现在它取代了我们围绕 OC 构建的许多自定义工具。现在，一切都是我们团队服务器的侧边栏条目、仪表板或插件。 https://t.co/sykNUwBqrX",
+    "date": "2026-09-10T02:51:04.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2097870497505837478",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Finally https://t.co/7cyHiAyVQO",
+    "title_cn": "最后https://t.co/7cyHiAyVQO",
+    "date": "2026-09-10T02:11:17.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2097837950612717804",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "AI Benchmarks with @Benchmark & @Vercel.\n\nIt's ① the most aptly named event in SF history and ② about one of the most important software categories of our generation.\n\nThe companies that benchmark models and guide the world towards skill, truth and efficiency.\n\nJoin us: https://t.co/9qRlfX4eGO",
+    "title_cn": "AI 基准@Benchmark 和@Vercel。\n\n这是① SF 历史上最恰当的命名事件，② 是我们​​这一代最重要的软件类别之一。\n\n这些公司对模型进行基准测试并引导世界走向技能、真理和效率。\n\n加入我们：https://t.co/9qRlfX4eGO",
+    "date": "2026-09-10T00:01:58.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2097830230899769349",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "This is brilliant. https://t.co/39dr9faUMC",
+    "title_cn": "这太棒了。 https://t.co/39dr9faUMC",
+    "date": "2026-09-09T23:31:17.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2097829053147582782",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Happy to be building here with you all. Lots to explore",
+    "title_cn": "很高兴能和大家一起在这里建设。有很多值得探索的地方",
+    "date": "2026-09-09T23:26:36.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2097828203658383674",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr",
+    "title_cn": "仅在过去 6 个月内，就有 8 次降价、取消费用和结构改进，再加上 16 种型号折扣。更多即将到来...... https://t.co/pCIUumUVEr",
+    "date": "2026-09-09T23:23:14.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2097796322145562900",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "i love looking at the @every slack https://t.co/tQU2kjg1le",
+    "title_cn": "我喜欢看 @every slack https://t.co/tQU2kjg1le",
+    "date": "2026-09-09T21:16:33.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2097776310940569783",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "Welcome, Paul.\n\nGrateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd",
+    "title_cn": "欢迎，保罗。\n\n感谢您所做的一切，以及您为人工智能安全所做的一切。很高兴再次合作。 https://t.co/k6NUqN6Lsd",
+    "date": "2026-09-09T19:57:01.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2097763574886375832",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK",
+    "title_cn": "工作和远程 Codex 线程何时会出现在移动设备上？似乎仅适用于聊天线程 https://t.co/SjpzARwZfK",
+    "date": "2026-09-09T19:06:25.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2097758891270697101",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "this is a very good and well designed report\n\nhowever, two impt assumptions in it that significantly change the analysis once you start to play with it:\n\n1. the report assumes that jobs can be decomposed into tasks\n2. the report models human tasks created by automation always as a fraction of automated tasks. in other words, the underlying assumptions is automation always reduces human labor (or at best leaves it the same)\n\ntaken in reverse order:\n\ndoes automation always reduce human work?\nin my experience, the answer is no. automation often creates multiples more work for humans. \n\ni have a full argument here (https://t.co/Lb7SUCe2pO) for why this is structurally true. but i think any honest analysis of the economic impacts of AI has to take work creation seriously. \n\ncan jobs be decomposed into tasks?\nyes, that is a useful lens. but lists of tasks is a way of looking at jobs—one that makes the question of how much of a job is automatable actually tractable. therefore, it's useful.\n\nbut this is not the full picture, it's just jobs as exposed to our method of questioning. \n\na good example: under this model, where do the new tasks come from? are they just from bosses that add a list to the task list for workers to complete? where do those tasks come from? unless you can model that well you are missing a key term in the analysis (see the first point above.)\n\nanother way of looking at this, borrowing from wittgenstein and heidegger, is that a job is a particular way of seeing and caring about the world. an editor notices things a nurse doesn’t, and vice versa. what you care about shapes what you notice, what seems worth doing, and what counts as doing it well. you can make some of that explicit as a task list. but as your tools and circumstances change, the same cares can generate entirely new tasks. that process is part of the job.\n\nthe above is completely missing from this analysis (understandably because it's, by definition, very hard to model!) \n\nbut if you take it seriously, it shoudl substantially change your perspective automation and jobs",
+    "title_cn": "这是一份非常好的、设计精良的报告\n\n然而，一旦您开始使用它，其中的两个重要假设就会显着改变分析：\n\n1. 报告假设工作可以分解为任务\n2. 报告将自动化创建的人工任务始终视为自动化任务的一部分。换句话说，基本假设是自动化总是减少人类劳动（或者最多保持不变）\n\n以相反的顺序进行：\n\n自动化总是会减少人类的工作吗？\n根据我的经验，答案是否定的。自动化常常为人类创造数倍的工作。 \n\n我在这里有一个完整的论点（https://t.co/Lb7SUCe2pO）来解释为什么这在结构上是正确的。但我认为任何对人工智能经济影响的诚实分析都必须认真对待工作创造。 \n\n工作可以分解为任务吗？\n是的，这是一个有用的镜头。但任务列表是一种看待工作的方式，它使得工作中有多少部分可以自动化的问题实际上变得容易处理。因此，它很有用。\n\n但这并不是全部情况，这只是乔布斯接受我们提问的方法。 \n\n一个很好的例子：在这个模型下，新的任务从哪里来？难道只是老板在任务清单上加了一个清单让工人去完成吗？这些任务从哪里来？除非你能很好地建模，否则你会在分析中遗漏一个关键术语（请参阅上面的第一点。）\n\n借用维特根斯坦和海德格尔的另一种看待这个问题的方式是，工作是一种看待和关心世界的特殊方式。编辑会注意到护士没有注意到的事情，反之亦然。你关心的事情决定了你注意到的事情，什么事情值得做，什么事情才算做得好。您可以将其中一些明确作为任务列表。但随着你的工具和环境发生变化，同样的关注可能会产生全新的任务。这个过程是工作的一部分。\n\n此分析中完全缺少上述内容（可以理解，因为根据定义，它很难建模！） \n\n但如果你认真对待它，它应该会大大改变你对自动化和工作的看法",
+    "date": "2026-09-09T18:47:48.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2097752790177370535",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.",
+    "title_cn": "今天早上出现了一些混乱，一些银行重置在 ChatGPT Work 和 Codex 中使用时未完全应用。在受影响的时间窗口内使用过的每个人都会收到另一封邮件和一封道歉电子邮件。",
+    "date": "2026-09-09T18:23:34.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2097738533297689012",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. \n\nYou could bring the world’s greatest superintelligence to many workflows, and still be bound by the laws of corporate physics: getting data prepared and put into a pipeline, process reengineering and change management, aligning on how the new workflow should function, and so on.\n\nEven after you solve all that, you’re still bound by the speed of the real world: waiting for a customer to respond to a proposal, getting a permit for a project, a drug discovery pipeline taking years to eventually reach the consumer, and so on. Not to mention lots of positive daily AI use-cases are entirely net neutral to GDP, at least in the near term.\n\nAI diffusion is going to be the theme of the next decade. The upside is that there’s a tremendous amount of opportunity in building the bridges between superintelligence and real-world workflows.",
+    "title_cn": "协调人工智能能力水平与 GDP 影响的方法是，人工智能的传播将需要比人们想象的更长的时间。而且它也会以难以立即在 GDP 中衡量的方式显现出来。 \n\n您可以将世界上最强大的超级智能引入许多工作流程，但仍然受到企业物理定律的约束：准备数据并将其放入管道、流程重新设计和变更管理、调整新工作流程的运作方式等等。\n\n即使解决了所有这些问题，您仍然受到现实世界速度的束缚：等待客户对提案做出回应，获得项目许可，药物发现管道需要数年时间才能最终到达消费者手中，等等。更不用说许多积极的日常人工智能用例对 GDP 完全是净中性的，至少在短期内是这样。\n\n人工智能扩散将成为下一个十年的主题。好处是，有大量机会在超级智能和现实工作流程之间建立桥梁。",
+    "date": "2026-09-09T17:26:55.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2097738051577422256",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "To anyone questioning whether VCs can be up in the middle of the night like founders, we showed great grit at the latest-ever US open finish last night #inspiring https://t.co/m90uN1V7Et",
+    "title_cn": "对于任何质疑风投能否像创始人一样在半夜起床的人来说，我们在昨晚最新的美国公开赛上表现出了极大的勇气#inspiring https://t.co/m90uN1V7Et",
+    "date": "2026-09-09T17:25:00.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2097736851872153633",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "More coming soon at SPC https://t.co/SOr7Xrr8UM",
+    "title_cn": "更多内容即将在 SPC https://t.co/SOr7Xrr8UM 上推出",
+    "date": "2026-09-09T17:20:14.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2097736850244845898",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Spots limited, RSVP here https://t.co/gmW9Zvf1up",
+    "title_cn": "名额有限，请在此回复 https://t.co/gmW9Zvf1up",
+    "date": "2026-09-09T17:20:13.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2097736847879192917",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "One of the greatest examples of human-oriented technology is @Waymo.  \n\nBut it took a long road to get here.\n\n@dmitri_dolgov joined Google's self-driving project in 2009. He's now leading Waymo as co-CEO.\n\nHe's coming by @spc this month. https://t.co/Wy8ei9Q38x",
+    "title_cn": "以人为本的技术最伟大的例子之一是@Waymo。  \n\n但到达这里却走了很长的路。\n\n@dmitri_dolgov 于 2009 年加入 Google 的自动驾驶项目。他现在担任 Waymo 联合首席执行官。\n\n他本月将通过@spc 来访。 https://t.co/Wy8ei9Q38x",
+    "date": "2026-09-09T17:20:13.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2097729250505966046",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My favorite way to test a new model's thinking abilities:\n\nAsk it for brutally honest feedback about your blind spots that are holding you back with this prompt (just paste the whole image into ChatGPT).\n\nAstra's feedback was especially blunt :)\n\n📌 Read the full post here: https://t.co/mcF7mGuVhL",
+    "title_cn": "我最喜欢测试新模型思维能力的方法：\n\n要求它提供有关您的盲点的残酷诚实的反馈，这些盲点会通过此提示阻碍您（只需将整个图像粘贴到 ChatGPT 中）。\n\nAstra 的反馈尤其直率:)\n\n📌 阅读全文：https://t.co/mcF7mGuVhL",
+    "date": "2026-09-09T16:50:01.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2097728692596486487",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Jane Kim: Big Talk, little respect for facts, outright falsehoods\n\nJane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner\n\nShe is no public servant. We should keep her out of office. \n\nhttps://t.co/ryRKwZVylb https://t.co/wdrSp3Sd15",
+    "title_cn": "Jane Kim：夸夸其谈，不尊重事实，彻头彻尾的谎言\n\n简·金 (Jane Kim) 是一名邻避者，帮助创造了旧金山末日循环，现在她失败了：她想成为加州保险专员\n\n她不是公务员。我们应该让她下台。 \n\nhttps://t.co/ryRKwZVylb https://t.co/wdrSp3Sd15",
+    "date": "2026-09-09T16:47:48.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2097726586191851790",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Introducing Apple Orbital Strike https://t.co/rlFQx2rC38",
+    "title_cn": "Apple Orbital Strike 简介 https://t.co/rlFQx2rC38",
+    "date": "2026-09-09T16:39:26.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2097719517057253527",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I instlaled @poteto's Dr Eggbot for making new Grok @bot (highly recommended!) but had to rename it to Dr Light so it doesn't become evil 😅 https://t.co/qMfmNxzOvb",
+    "title_cn": "我安装了 @poteto 的 Dr Eggbot 来制作新的 Grok @bot（强烈推荐！），但不得不将其重命名为 Dr Light，这样它就不会变得邪恶 😅 https://t.co/qMfmNxzOvb",
+    "date": "2026-09-09T16:11:21.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2097718982920855834",
+    "type": "x",
+    "name": "Claude",
+    "title": "If you're building on the Claude Platform, get listed and make it easier for our customers to buy your product: https://t.co/uZTPm62iKU",
+    "title_cn": "如果您正在 Claude 平台上进行构建，请列出并让我们的客户更轻松地购买您的产品：https://t.co/uZTPm62iKU",
+    "date": "2026-09-09T16:09:13.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2097718980437831935",
+    "type": "x",
+    "name": "Claude",
+    "title": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.\n\nEnterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.\n\nGet started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2",
+    "title_cn": "Claude Marketplace 新增内容：@CrowdStrike、@cursor_ai、@FactoryAI、@GammaApp 和 @vercel。\n\n企业现在可以利用其 Anthropic 支出承诺购买更多由 Claude 支持的产品和代理。\n\n开始使用：https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2",
+    "date": "2026-09-09T16:09:13.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2097696043492143157",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "ocarina of time remake is the best news in a long time.\n\ni will be unavailable november 5 and 6; need to find a case of mountain dew.",
+    "title_cn": "时之笛重制版是很长一段时间以来最好的消息。\n\n我将于 11 月 5 日和 6 日无法上班；需要找一例山露。",
+    "date": "2026-09-09T14:38:04.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2097695001341829212",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6",
+    "title_cn": "这会很糟糕，但我们会优先考虑为客户提供优质服务，直到我们能够重新掌控一切。 https://t.co/Qi5ssKJic6",
+    "date": "2026-09-09T14:33:56.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2097599758391255259",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "Idea is easy\nConviction is hard",
+    "title_cn": "想法很简单\n定罪很难",
+    "date": "2026-09-09T08:15:28.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2097559315150426222",
     "type": "x",
     "name": "Thibault Sottiaux",
