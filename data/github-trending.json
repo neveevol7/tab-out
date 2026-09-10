@@ -34,7 +34,7 @@
       "stars": "2.8k",
       "growth": "🔺361",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "description_cn": "开源 3D 解剖学浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
+      "description_cn": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
     },
     {
       "rank": "5",
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-10T08:47:45.883114"
+  "updated_at": "2026-09-10T14:08:48.932476"
 }
