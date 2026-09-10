@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "16.7k",
-      "growth": "🔺1210",
+      "stars": "17.7k",
+      "growth": "🔺657",
       "description": "Free and open-source macOS menu bar toolkit.",
       "description_cn": "免费开源 macOS 菜单栏工具包。"
     },
     {
       "rank": "2",
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "stars": "3.8k",
+      "growth": "🔺530",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "description_cn": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。"
+    },
+    {
+      "rank": "3",
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "stars": "10.8k",
+      "growth": "🔺444",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "description_cn": "适用于 AI 代理的隐形无头浏览器 — 绕过 Cloudflare、机器人检测和反抓取。替代木偶师/剧作家。"
+    },
+    {
+      "rank": "4",
+      "name": "ashemag/human-atlas",
+      "url": "https://github.com/ashemag/human-atlas",
+      "stars": "2.8k",
+      "growth": "🔺361",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "description_cn": "开源 3D 解剖学浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。"
+    },
+    {
+      "rank": "5",
       "name": "lnkiai/m3e-canvas",
       "url": "https://github.com/lnkiai/m3e-canvas",
-      "stars": "4.6k",
-      "growth": "🔺1011",
+      "stars": "5.5k",
+      "growth": "🔺358",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "description_cn": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
-      "rank": "3",
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars": "8.4k",
-      "growth": "🔺937",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-    },
-    {
-      "rank": "4",
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "18.9k",
-      "growth": "🔺931",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "浏览器中的间谍卫星模拟器，只不过数据是真实的。在逼真的 3D 地球仪上实时呈现开源空间智能。"
-    },
-    {
-      "rank": "5",
-      "name": "magnitudedev/magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "stars": "4k",
-      "growth": "🔺900",
-      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "description_cn": "开源推理服务器，运行适合您的硬件的最佳本地模型，插入您已使用的代理中。适用于 Pi、OpenCode、Hermes、OpenClaw、Codex、Claude Code、Oh My Pi 和 Cline。"
-    },
-    {
       "rank": "6",
-      "name": "BraveOPotato/FckSignups",
-      "url": "https://github.com/BraveOPotato/FckSignups",
-      "stars": "3.7k",
-      "growth": "🔺885",
-      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "description_cn": "开源、浏览器内且无需注册的工具列表！"
-    },
-    {
-      "rank": "7",
-      "name": "OpenWhispr/openwhispr",
-      "url": "https://github.com/OpenWhispr/openwhispr",
-      "stars": "7.8k",
-      "growth": "🔺819",
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "description_cn": "具有本地（Nvidia Parakeet/Whisper）和云模型（BYOK）的语音到文本听写应用程序。隐私第一且可用的跨平台。"
-    },
-    {
-      "rank": "8",
-      "name": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "stars": "3.4k",
-      "growth": "🔺769",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "9",
       "name": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": "5.2k",
-      "growth": "🔺503",
+      "stars": "5.9k",
+      "growth": "🔺313",
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "description_cn": "在几分钟内建立您的自主对冲基金。 AutoHedge 利用群体智能和人工智能代理的力量来自动化市场分析、风险管理和交易执行。"
     },
     {
+      "rank": "7",
+      "name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "stars": "11.6k",
+      "growth": "🔺302",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "description_cn": "📱 使用 scrcpy 以图形方式显示和控制您的 Android 设备。"
+    },
+    {
+      "rank": "8",
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "stars": "18.7k",
+      "growth": "🔺270",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "description_cn": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+    },
+    {
+      "rank": "9",
+      "name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "stars": "10.4k",
+      "growth": "🔺248",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "description_cn": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+    },
+    {
       "rank": "10",
-      "name": "zgwl/chinese-buy-us-stock-guide",
-      "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-      "stars": "7k",
-      "growth": "🔺498",
-      "description": "美股指南",
-      "description_cn": "美股指南"
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "18.1k",
+      "growth": "🔺202",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Semrush 和 Ahrefs 的开源替代方案"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-09T22:21:26.766630"
+  "updated_at": "2026-09-10T03:49:23.467040"
 }
