@@ -7,7 +7,7 @@
       "stars": "19.3k",
       "growth": "🔺616",
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "《系统设计访谈 - 业内人士指南》一书的注释"
     },
     {
       "rank": "2",
@@ -16,7 +16,7 @@
       "stars": "18.7k",
       "growth": "🔺616",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变为有组织的、相互关联的知识库。法学硕士不是传统的 RAG（每次从头开始检索并回答），而是从您的来源逐步构建和维护持久的 wiki。"
     },
     {
       "rank": "3",
@@ -25,7 +25,7 @@
       "stars": "2.7k",
       "growth": "🔺512",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "本地优先的 AI 编码代理桌面：Electron + Rust 主机核心 + pi Agent Harness + 用户可安装的插件"
     },
     {
       "rank": "4",
@@ -52,7 +52,7 @@
       "stars": "9.2k",
       "growth": "🔺346",
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
     },
     {
       "rank": "7",
@@ -79,7 +79,7 @@
       "stars": "6.1k",
       "growth": "🔺269",
       "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。"
     },
     {
       "rank": "10",
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-12T03:49:18.998230"
+  "updated_at": "2026-09-12T08:29:32.385462"
 }
