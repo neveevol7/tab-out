@@ -7,7 +7,7 @@
       "stars": "19.3k",
       "growth": "🔺616",
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "《系统设计访谈 - 业内人士指南》一书的注释"
     },
     {
       "rank": "2",
@@ -52,7 +52,7 @@
       "stars": "9.2k",
       "growth": "🔺346",
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "description_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "description_cn": "从几乎任何网站下载视频。轻量级、自托管媒体下载器，具有干净的 Web UI。"
     },
     {
       "rank": "7",
@@ -273,5 +273,5 @@
       "description_cn": ""
     }
   ],
-  "updated_at": "2026-09-12T23:51:19.213470"
+  "updated_at": "2026-09-13T03:57:46.701516"
 }
