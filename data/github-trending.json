@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "stars": "4.4k",
-      "growth": "🔺1099",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": "12.9k",
+      "growth": "🔺961",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars": "4.6k",
-      "growth": "🔺1079",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
-    },
-    {
-      "rank": "3",
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": "8.2k",
-      "growth": "🔺1007",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
-    },
-    {
-      "rank": "4",
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars": "5.9k",
-      "growth": "🔺903",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
-      "rank": "5",
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "stars": "9.5k",
-      "growth": "🔺869",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "description_cn": "Removes 20+ patterns of AI slop from any piece of writing."
-    },
-    {
-      "rank": "6",
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": "2.4k",
-      "growth": "🔺813",
+      "stars": "3.2k",
+      "growth": "🔺779",
       "description": "Turn your coding agents into research agents",
       "description_cn": "Turn your coding agents into research agents"
     },
     {
-      "rank": "7",
-      "name": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "stars": "2.5k",
-      "growth": "🔺753",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "description_cn": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+      "rank": "3",
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars": "5.3k",
+      "growth": "🔺682",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
     {
-      "rank": "8",
+      "rank": "4",
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": "8.9k",
+      "growth": "🔺663",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "rank": "5",
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars": "6.5k",
+      "growth": "🔺637",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
+      "rank": "6",
       "name": "tonhowtf/omniget",
       "url": "https://github.com/tonhowtf/omniget",
-      "stars": "12.3k",
-      "growth": "🔺723",
+      "stars": "12.8k",
+      "growth": "🔺491",
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "description_cn": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
     },
     {
+      "rank": "7",
+      "name": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "stars": "4k",
+      "growth": "🔺469",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "description_cn": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
+    },
+    {
+      "rank": "8",
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "stars": "2.4k",
+      "growth": "🔺385",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "description_cn": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+    },
+    {
       "rank": "9",
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "stars": "3.6k",
-      "growth": "🔺539",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "description_cn": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+      "name": "Arindam200/awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "stars": "15.4k",
+      "growth": "🔺354",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "description_cn": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases"
     },
     {
       "rank": "10",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "19k",
-      "growth": "🔺447",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Free and open-source macOS menu bar toolkit."
+      "name": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "stars": "9.8k",
+      "growth": "🔺339",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "description_cn": "Removes 20+ patterns of AI slop from any piece of writing."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     }
   ],
-  "updated_at": "2026-09-16T00:02:47.317536"
+  "updated_at": "2026-09-16T07:25:18.399694"
 }
