@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": "12.9k",
-      "growth": "🔺961",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "2",
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": "3.2k",
-      "growth": "🔺779",
+      "stars": "4.2k",
+      "growth": "🔺1032",
       "description": "Turn your coding agents into research agents",
       "description_cn": "Turn your coding agents into research agents"
     },
     {
-      "rank": "3",
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars": "5.3k",
-      "growth": "🔺682",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
-    },
-    {
-      "rank": "4",
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": "8.9k",
-      "growth": "🔺663",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
-    },
-    {
-      "rank": "5",
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars": "6.5k",
-      "growth": "🔺637",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
-      "rank": "6",
+      "rank": "2",
       "name": "tonhowtf/omniget",
       "url": "https://github.com/tonhowtf/omniget",
-      "stars": "12.8k",
-      "growth": "🔺491",
+      "stars": "13.5k",
+      "growth": "🔺723",
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "description_cn": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
     },
     {
-      "rank": "7",
+      "rank": "3",
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars": "7.2k",
+      "growth": "🔺702",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
+      "rank": "4",
+      "name": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "stars": "1.8k",
+      "growth": "🔺478",
+      "description": "📺 Homebrew's official macOS GUI",
+      "description_cn": "📺 Homebrew's official macOS GUI"
+    },
+    {
+      "rank": "5",
       "name": "peetzweg/opendisplay",
       "url": "https://github.com/peetzweg/opendisplay",
-      "stars": "4k",
-      "growth": "🔺469",
+      "stars": "4.4k",
+      "growth": "🔺398",
       "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
       "description_cn": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
     },
     {
+      "rank": "6",
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": "13.3k",
+      "growth": "🔺391",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "7",
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": "9.3k",
+      "growth": "🔺384",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
       "rank": "8",
-      "name": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "stars": "2.4k",
-      "growth": "🔺385",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "description_cn": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "stars": "4.8k",
+      "growth": "🔺382",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "description_cn": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
     },
     {
       "rank": "9",
-      "name": "Arindam200/awesome-ai-apps",
-      "url": "https://github.com/Arindam200/awesome-ai-apps",
-      "stars": "15.4k",
-      "growth": "🔺354",
-      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-      "description_cn": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases"
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars": "5.7k",
+      "growth": "🔺380",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
     {
       "rank": "10",
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "stars": "9.8k",
-      "growth": "🔺339",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "description_cn": "Removes 20+ patterns of AI slop from any piece of writing."
+      "name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "stars": "1.5k",
+      "growth": "🔺355",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "description_cn": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     }
   ],
-  "updated_at": "2026-09-16T22:44:43.787005"
+  "updated_at": "2026-09-17T04:08:11.980229"
 }
