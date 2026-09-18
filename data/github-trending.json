@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": "10.2k",
+      "growth": "🔺3291",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": "2",
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": "4.2k",
-      "growth": "🔺1032",
+      "stars": "4.8k",
+      "growth": "🔺605",
       "description": "Turn your coding agents into research agents",
       "description_cn": "Turn your coding agents into research agents"
     },
     {
-      "rank": "2",
-      "name": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "stars": "13.5k",
-      "growth": "🔺723",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "description_cn": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
-    },
-    {
       "rank": "3",
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars": "7.2k",
-      "growth": "🔺702",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
-    },
-    {
-      "rank": "4",
-      "name": "Homebrew/BrewUI",
-      "url": "https://github.com/Homebrew/BrewUI",
-      "stars": "1.8k",
-      "growth": "🔺478",
-      "description": "📺 Homebrew's official macOS GUI",
-      "description_cn": "📺 Homebrew's official macOS GUI"
-    },
-    {
-      "rank": "5",
-      "name": "peetzweg/opendisplay",
-      "url": "https://github.com/peetzweg/opendisplay",
-      "stars": "4.4k",
-      "growth": "🔺398",
-      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
-      "description_cn": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
-    },
-    {
-      "rank": "6",
       "name": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
-      "stars": "13.3k",
-      "growth": "🔺391",
+      "stars": "13.7k",
+      "growth": "🔺450",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "7",
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "stars": "9.3k",
-      "growth": "🔺384",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+      "rank": "4",
+      "name": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "stars": "14.9k",
+      "growth": "🔺444",
+      "description": "A list of open source games.",
+      "description_cn": "A list of open source games."
     },
     {
-      "rank": "8",
+      "rank": "5",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "8.7k",
+      "growth": "🔺419",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+    },
+    {
+      "rank": "6",
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": "5.7k",
+      "growth": "🔺396",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "Autonomous research system for measurable, computer-executable research."
+    },
+    {
+      "rank": "7",
       "name": "XiaoDuoYa/codex-with-chatgpt",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "stars": "4.8k",
-      "growth": "🔺382",
+      "stars": "5.2k",
+      "growth": "🔺387",
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "description_cn": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
     },
     {
-      "rank": "9",
+      "rank": "8",
       "name": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars": "5.7k",
-      "growth": "🔺380",
+      "stars": "6k",
+      "growth": "🔺317",
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
     },
     {
+      "rank": "9",
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars": "7.5k",
+      "growth": "🔺266",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
       "rank": "10",
-      "name": "MG1937/ASC",
-      "url": "https://github.com/MG1937/ASC",
-      "stars": "1.5k",
-      "growth": "🔺355",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "description_cn": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
+      "name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "stars": "17.9k",
+      "growth": "🔺250",
+      "description": "The multiplayer personal assistant for work",
+      "description_cn": "The multiplayer personal assistant for work"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     }
   ],
-  "updated_at": "2026-09-17T23:59:35.159433"
+  "updated_at": "2026-09-18T04:31:29.086829"
 }
