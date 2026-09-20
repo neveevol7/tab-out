@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": "13.2k",
-      "growth": "🔺2973",
+      "stars": "15.9k",
+      "growth": "🔺2783",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
       "rank": "2",
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": "7.9k",
+      "growth": "🔺2558",
+      "description": "i. am. speed.",
+      "description_cn": "i. am. speed."
+    },
+    {
+      "rank": "3",
+      "name": "tamaratran/fast-jev-compaction",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "stars": "4.1k",
+      "growth": "🔺931",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
+    },
+    {
+      "rank": "4",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "10k",
-      "growth": "🔺1331",
+      "stars": "10.9k",
+      "growth": "🔺871",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
-      "rank": "3",
+      "rank": "5",
       "name": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
-      "stars": "5.2k",
-      "growth": "🔺1144",
+      "stars": "5.7k",
+      "growth": "🔺519",
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "description_cn": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
     {
-      "rank": "4",
+      "rank": "6",
+      "name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "stars": "4.3k",
+      "growth": "🔺372",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "description_cn": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
+    },
+    {
+      "rank": "7",
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": "6.2k",
+      "growth": "🔺309",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "Autonomous research system for measurable, computer-executable research."
+    },
+    {
+      "rank": "8",
       "name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
-      "stars": "4.9k",
-      "growth": "🔺899",
+      "stars": "5.2k",
+      "growth": "🔺309",
       "description": "Your own search engine",
       "description_cn": "Your own search engine"
     },
     {
-      "rank": "5",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "3.9k",
-      "growth": "🔺517",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-    },
-    {
-      "rank": "6",
-      "name": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "stars": "5.3k",
-      "growth": "🔺445",
-      "description": "Turn your coding agents into research agents",
-      "description_cn": "Turn your coding agents into research agents"
-    },
-    {
-      "rank": "7",
-      "name": "abue-ammar/tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "stars": "6.4k",
-      "growth": "🔺339",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "description_cn": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
-    },
-    {
-      "rank": "8",
-      "name": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "stars": "2.6k",
-      "growth": "🔺315",
-      "description": "Bonsai Demo",
-      "description_cn": "Bonsai Demo"
-    },
-    {
       "rank": "9",
-      "name": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "stars": "7.7k",
-      "growth": "🔺269",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars": "11.5k",
+      "growth": "🔺254",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "description_cn": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
     },
     {
       "rank": "10",
-      "name": "XiaoDuoYa/codex-with-chatgpt",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "stars": "5.4k",
-      "growth": "🔺269",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "description_cn": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": "4.1k",
+      "growth": "🔺240",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
     }
   ],
-  "updated_at": "2026-09-19T22:14:22.786548"
+  "updated_at": "2026-09-20T04:07:41.036423"
 }
