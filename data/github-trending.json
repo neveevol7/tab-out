@@ -47,15 +47,6 @@
     },
     {
       "rank": "6",
-      "name": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "stars": "4.3k",
-      "growth": "🔺372",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "description_cn": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
-    },
-    {
-      "rank": "7",
       "name": "sapientinc/PRAXIST",
       "url": "https://github.com/sapientinc/PRAXIST",
       "stars": "6.2k",
@@ -64,7 +55,7 @@
       "description_cn": "Autonomous research system for measurable, computer-executable research."
     },
     {
-      "rank": "8",
+      "rank": "7",
       "name": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "stars": "5.2k",
@@ -73,7 +64,7 @@
       "description_cn": "Your own search engine"
     },
     {
-      "rank": "9",
+      "rank": "8",
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "stars": "11.5k",
@@ -82,196 +73,205 @@
       "description_cn": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
     },
     {
-      "rank": "10",
+      "rank": "9",
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "stars": "4.1k",
       "growth": "🔺240",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+    },
+    {
+      "rank": "10",
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "19.5k",
+      "growth": "🔺231",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "description_cn": "Open source alternative to Semrush and Ahrefs"
     }
   ],
   "weekly": [
     {
       "rank": "1",
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "stars": "29.4k",
-      "growth": "🔺11455",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "description_cn": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": "37.4k",
+      "growth": "🔺14747",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_cn": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
     },
     {
       "rank": "2",
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": "38.8k",
-      "growth": "🔺7208",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "description_cn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-    },
-    {
-      "rank": "3",
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "stars": "23.9k",
-      "growth": "🔺5107",
+      "stars": "33.1k",
+      "growth": "🔺9191",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "description_cn": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
     },
     {
+      "rank": "3",
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": "15.9k",
+      "growth": "🔺9047",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
       "rank": "4",
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": "36.4k",
+      "growth": "🔺7922",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "description_cn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "rank": "5",
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "stars": "27.9k",
+      "growth": "🔺4752",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description_cn": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+    },
+    {
+      "rank": "6",
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "stars": "5.4k",
+      "growth": "🔺3769",
+      "description": "Turn your coding agents into research agents",
+      "description_cn": "Turn your coding agents into research agents"
+    },
+    {
+      "rank": "7",
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "stars": "7.8k",
+      "growth": "🔺2817",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "description_cn": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co"
+    },
+    {
+      "rank": "8",
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars": "6.3k",
+      "growth": "🔺2759",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "rank": "9",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "10.9k",
+      "growth": "🔺2621",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+    },
+    {
+      "rank": "10",
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": "7.9k",
+      "growth": "🔺2558",
+      "description": "i. am. speed.",
+      "description_cn": "i. am. speed."
+    },
+    {
+      "rank": "11",
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "stars": "9.8k",
+      "growth": "🔺2555",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "description_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "rank": "12",
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "stars": "13.9k",
+      "growth": "🔺2372",
+      "description": "Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, MCP server, 156 tools, course player. Free and open source for Windows, macOS and Linux. No terminal. Your files stay on your computer.",
+      "description_cn": "Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, MCP server, 156 tools, course player. Free and open source for Windows, macOS and Linux. No terminal. Your files stay on your computer."
+    },
+    {
+      "rank": "13",
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "stars": "14k",
+      "growth": "🔺2253",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "14",
+      "name": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "stars": "10.7k",
+      "growth": "🔺2049",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "description_cn": "Removes 20+ patterns of AI slop from any piece of writing."
+    },
+    {
+      "rank": "15",
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "stars": "36.1k",
-      "growth": "🔺4272",
+      "stars": "38k",
+      "growth": "🔺1826",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "description_cn": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
     },
     {
-      "rank": "5",
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "stars": "31.5k",
-      "growth": "🔺3337",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "description_cn": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。"
-    },
-    {
-      "rank": "6",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "18.5k",
-      "growth": "🔺3076",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Free and open-source macOS menu bar toolkit."
-    },
-    {
-      "rank": "7",
-      "name": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "stars": "6.3k",
-      "growth": "🔺2708",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "description_cn": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
-    },
-    {
-      "rank": "8",
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "stars": "38k",
-      "growth": "🔺2458",
-      "description": "the runtime your coding agents live on",
-      "description_cn": "the runtime your coding agents live on"
-    },
-    {
-      "rank": "9",
+      "rank": "16",
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": "25.9k",
-      "growth": "🔺2160",
+      "stars": "27.7k",
+      "growth": "🔺1791",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。"
     },
     {
-      "rank": "10",
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "stars": "9.3k",
-      "growth": "🔺1851",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-    },
-    {
-      "rank": "11",
-      "name": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "stars": "26.8k",
-      "growth": "🔺1777",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "description_cn": "Advanced UX and interoperability extension for Wand (WeMod) app"
-    },
-    {
-      "rank": "12",
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "stars": "23.9k",
-      "growth": "🔺1636",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "description_cn": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
-    },
-    {
-      "rank": "13",
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "stars": "30.2k",
-      "growth": "🔺1583",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "description_cn": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
-    },
-    {
-      "rank": "14",
-      "name": "emilkowalski/skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "stars": "37.3k",
-      "growth": "🔺1581",
-      "description": "Skills for Designers and Engineers.",
-      "description_cn": "Skills for Designers and Engineers."
-    },
-    {
-      "rank": "15",
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": "22.3k",
-      "growth": "🔺1567",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "description_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
-    },
-    {
-      "rank": "16",
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "stars": "27k",
-      "growth": "🔺1547",
-      "description": "Skills Catalog for Codex",
-      "description_cn": "Skills Catalog for Codex"
-    },
-    {
       "rank": "17",
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "stars": "19.4k",
-      "growth": "🔺1510",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "description_cn": "Notes of the book System Desgin Interview - An Insider's Guide"
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "stars": "5.7k",
+      "growth": "🔺1663",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "description_cn": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
     },
     {
       "rank": "18",
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "stars": "3.1k",
-      "growth": "🔺1436",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "description_cn": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "stars": "27.4k",
+      "growth": "🔺1647",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_cn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
       "rank": "19",
-      "name": "BraveOPotato/FckSignups",
-      "url": "https://github.com/BraveOPotato/FckSignups",
-      "stars": "4.2k",
-      "growth": "🔺1367",
-      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "description_cn": "A list of tools that are open-source, in-browser, and require no-signups!"
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "stars": "39.6k",
+      "growth": "🔺1596",
+      "description": "the runtime your coding agents live on",
+      "description_cn": "the runtime your coding agents live on"
     },
     {
       "rank": "20",
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "stars": "6k",
-      "growth": "🔺1363",
-      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "description_cn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "stars": "38.8k",
+      "growth": "🔺1589",
+      "description": "Skills for Designers and Engineers.",
+      "description_cn": "Skills for Designers and Engineers."
     }
   ],
-  "updated_at": "2026-09-20T22:16:39.475311"
+  "updated_at": "2026-09-21T04:05:01.997140"
 }
