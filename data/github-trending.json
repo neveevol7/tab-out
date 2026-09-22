@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": "15.3k",
+      "growth": "🔺7375",
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "Fastest and cheapest web agent"
+    },
+    {
+      "rank": "2",
+      "name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "stars": "9.4k",
+      "growth": "🔺5499",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "3",
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": "15.9k",
-      "growth": "🔺2783",
+      "stars": "18.9k",
+      "growth": "🔺2904",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "rank": "2",
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "stars": "7.9k",
-      "growth": "🔺2558",
-      "description": "i. am. speed.",
-      "description_cn": "i. am. speed."
+      "rank": "4",
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": "4.7k",
+      "growth": "🔺2144",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "description_cn": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing"
     },
     {
-      "rank": "3",
+      "rank": "5",
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "4.3k",
+      "growth": "🔺1951",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
+    },
+    {
+      "rank": "6",
       "name": "tamaratran/fast-jev-compaction",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "stars": "4.1k",
-      "growth": "🔺931",
+      "stars": "5.9k",
+      "growth": "🔺1838",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "description_cn": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
     },
     {
-      "rank": "4",
+      "rank": "7",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "10.9k",
-      "growth": "🔺871",
+      "stars": "12.6k",
+      "growth": "🔺1710",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
-      "rank": "5",
-      "name": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "stars": "5.7k",
-      "growth": "🔺519",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "description_cn": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent."
-    },
-    {
-      "rank": "6",
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "stars": "6.2k",
-      "growth": "🔺309",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "description_cn": "Autonomous research system for measurable, computer-executable research."
-    },
-    {
-      "rank": "7",
-      "name": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "stars": "5.2k",
-      "growth": "🔺309",
-      "description": "Your own search engine",
-      "description_cn": "Your own search engine"
-    },
-    {
       "rank": "8",
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "stars": "11.5k",
-      "growth": "🔺254",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "description_cn": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "stars": "17.5k",
+      "growth": "🔺1582",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "description_cn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
     },
     {
       "rank": "9",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "4.1k",
-      "growth": "🔺240",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "stars": "5.5k",
+      "growth": "🔺823",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
     },
     {
       "rank": "10",
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "stars": "19.5k",
-      "growth": "🔺231",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "description_cn": "Open source alternative to Semrush and Ahrefs"
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "stars": "10.7k",
+      "growth": "🔺809",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "description_cn": "A straightforward method for training your LLM, from downloading data to generating text."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Skills for Designers and Engineers."
     }
   ],
-  "updated_at": "2026-09-21T23:05:06.535743"
+  "updated_at": "2026-09-22T04:01:54.139291"
 }
