@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": "15.9k",
-      "growth": "🔺6556",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "2",
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "stars": "17.9k",
-      "growth": "🔺2598",
-      "description": "Fastest and cheapest web agent",
-      "description_cn": "Fastest and cheapest web agent"
-    },
-    {
-      "rank": "3",
-      "name": "mizorewww/laya-mlx",
-      "url": "https://github.com/mizorewww/laya-mlx",
-      "stars": "5.3k",
-      "growth": "🔺1584",
-      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "description_cn": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
-    },
-    {
-      "rank": "4",
       "name": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev",
-      "stars": "3.9k",
-      "growth": "🔺1522",
+      "stars": "5.8k",
+      "growth": "🔺1900",
       "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "description_cn": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own"
     },
     {
-      "rank": "5",
+      "rank": "2",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "13.8k",
-      "growth": "🔺1233",
+      "stars": "15.3k",
+      "growth": "🔺1539",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
+      "rank": "3",
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "stars": "5.2k",
+      "growth": "🔺1506",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+    },
+    {
+      "rank": "4",
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "stars": "8.8k",
+      "growth": "🔺1388",
+      "description": "Google's open agentic orchestration runtime",
+      "description_cn": "Google's open agentic orchestration runtime"
+    },
+    {
+      "rank": "5",
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": "19k",
+      "growth": "🔺1070",
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "Fastest and cheapest web agent"
+    },
+    {
       "rank": "6",
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "stars": "18.3k",
-      "growth": "🔺759",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "description_cn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "stars": "16.2k",
+      "growth": "🔺913",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "description_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
       "rank": "7",
-      "name": "zai-org/ZCode",
-      "url": "https://github.com/zai-org/ZCode",
-      "stars": "6.2k",
-      "growth": "🔺709",
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "description_cn": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "stars": "5.9k",
+      "growth": "🔺612",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
     },
     {
       "rank": "8",
-      "name": "TheoLeeCJ/SemIf",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "stars": "3.8k",
-      "growth": "🔺697",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "description_cn": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "stars": "3.4k",
+      "growth": "🔺528",
+      "description": "Agent Substrate: the core system",
+      "description_cn": "Agent Substrate: the core system"
     },
     {
       "rank": "9",
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars": "8.7k",
-      "growth": "🔺523",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "description_cn": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具"
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "stars": "2.6k",
+      "growth": "🔺461",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
     {
       "rank": "10",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "stars": "4.8k",
-      "growth": "🔺521",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "stars": "14.4k",
+      "growth": "🔺458",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "description_cn": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Skills for Designers and Engineers."
     }
   ],
-  "updated_at": "2026-09-23T22:49:07.484416"
+  "updated_at": "2026-09-24T03:53:05.814531"
 }
