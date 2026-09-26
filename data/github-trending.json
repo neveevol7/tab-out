@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "google/ax",
       "url": "https://github.com/google/ax",
-      "stars": "10.2k",
-      "growth": "🔺1310",
+      "stars": "11.4k",
+      "growth": "🔺1209",
       "description": "Google's open agentic orchestration runtime",
       "description_cn": "Google's open agentic orchestration runtime"
     },
@@ -13,82 +13,82 @@
       "rank": "2",
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "stars": "17.4k",
-      "growth": "🔺1195",
+      "stars": "18.3k",
+      "growth": "🔺903",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "description_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
       "rank": "3",
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "stars": "6.7k",
-      "growth": "🔺899",
-      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
-    },
-    {
-      "rank": "4",
       "name": "jev-chat/jev-chat-jarvis",
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "stars": "6k",
-      "growth": "🔺800",
+      "stars": "6.5k",
+      "growth": "🔺506",
       "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
       "description_cn": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
     },
     {
+      "rank": "4",
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "stars": "6.6k",
+      "growth": "🔺399",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+    },
+    {
       "rank": "5",
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "stars": "19.7k",
-      "growth": "🔺758",
-      "description": "Fastest and cheapest web agent",
-      "description_cn": "Fastest and cheapest web agent"
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "stars": "4.4k",
+      "growth": "🔺355",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "description_cn": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
     },
     {
       "rank": "6",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "16.1k",
-      "growth": "🔺733",
+      "stars": "16.4k",
+      "growth": "🔺318",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
       "rank": "7",
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": "7k",
+      "growth": "🔺271",
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
+    },
+    {
+      "rank": "8",
       "name": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
-      "stars": "3.1k",
-      "growth": "🔺478",
+      "stars": "3.3k",
+      "growth": "🔺252",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
     {
-      "rank": "8",
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "stars": "8.2k",
-      "growth": "🔺428",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "description_cn": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
-    },
-    {
       "rank": "9",
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "stars": "19.1k",
-      "growth": "🔺415",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "description_cn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+      "name": "julyx10/lap",
+      "url": "https://github.com/julyx10/lap",
+      "stars": "3.1k",
+      "growth": "🔺240",
+      "description": "An offline-first photo manager for large local libraries",
+      "description_cn": "An offline-first photo manager for large local libraries"
     },
     {
       "rank": "10",
-      "name": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "stars": "3.7k",
-      "growth": "🔺315",
-      "description": "Agent Substrate: the core system",
-      "description_cn": "Agent Substrate: the core system"
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "stars": "8.4k",
+      "growth": "🔺222",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "description_cn": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Skills for Designers and Engineers."
     }
   ],
-  "updated_at": "2026-09-26T00:25:58.009129"
+  "updated_at": "2026-09-26T07:16:35.612693"
 }

@@ -80,6 +80,238 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/petergyang/status/2103696644558704796",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I think Muse has an incredible UI and mascot but the underlying model it’s questionable how smart it is.\n\nMakes sense if it’s not that smart since this is meant to scale to a billion people",
+    "title_cn": "I think Muse has an incredible UI and mascot but the underlying model it’s questionable how smart it is.\n\nMakes sense if it’s not that smart since this is meant to scale to a billion people",
+    "date": "2026-09-26T04:02:19.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2103693608729932025",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Ok all memes aside I had Grok @bot and Muse track the same Japan flight itinerary and Muse suggested a price that was $1K+ more than Grok Bot. \n\nWhen I asked Muse why it said it searched Duffel instead of Google Flights...wtf is Duffel? https://t.co/l2vTOsPIRd",
+    "title_cn": "Ok all memes aside I had Grok @bot and Muse track the same Japan flight itinerary and Muse suggested a price that was $1K+ more than Grok Bot. \n\nWhen I asked Muse why it said it searched Duffel instead of Google Flights...wtf is Duffel? https://t.co/l2vTOsPIRd",
+    "date": "2026-09-26T03:50:15.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2103691327699550598",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Can’t wait to see what you build. https://t.co/IzsiejH1fa",
+    "title_cn": "Can’t wait to see what you build. https://t.co/IzsiejH1fa",
+    "date": "2026-09-26T03:41:11.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2103690110726558123",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Where's Jack Bauer and 24 https://t.co/FNcSb6sBAt",
+    "title_cn": "Where's Jack Bauer and 24 https://t.co/FNcSb6sBAt",
+    "date": "2026-09-26T03:36:21.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2103678798827020298",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "i asked opus 5.5 to explain why personal benchmarks are so important (this is one shot) https://t.co/GE9OFZ0CvQ",
+    "title_cn": "i asked opus 5.5 to explain why personal benchmarks are so important (this is one shot) https://t.co/GE9OFZ0CvQ",
+    "date": "2026-09-26T02:51:24.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2103654562523705675",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "keep thinking https://t.co/m9hPGboarc",
+    "title_cn": "keep thinking https://t.co/m9hPGboarc",
+    "date": "2026-09-26T01:15:06.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2103649988282905001",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Astra is very impressive https://t.co/7BMRh6zl1Y",
+    "title_cn": "Astra is very impressive https://t.co/7BMRh6zl1Y",
+    "date": "2026-09-26T00:56:55.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2103648679169257737",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel and the whole team works on it, it is limiting.\n\nI have a /goal with Astra that so far landed 575 PRs to move everything to to async workers. We ship these improvements as we make progress. Pretty insane how even huge refactors are no longer scary.",
+    "title_cn": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel and the whole team works on it, it is limiting.\n\nI have a /goal with Astra that so far landed 575 PRs to move everything to to async workers. We ship these improvements as we make progress. Pretty insane how even huge refactors are no longer scary.",
+    "date": "2026-09-26T00:51:43.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2103639287367696603",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "basically",
+    "title_cn": "basically",
+    "date": "2026-09-26T00:14:24.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2103637477760311522",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
+    "title_cn": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
+    "date": "2026-09-26T00:07:13.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2103632415185133992",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "We’ve been thinking a lot about what it means to build the self-driving company. A big part of that is putting the ability to understand a business in everyone's hands. \n\nAtta has built a beautiful approach to business analysis and data visualization, and they share our belief that useful intelligence should be accessible to everyone.\n\nWelcoming Omar, Amine, and the Atta team to Replit!",
+    "title_cn": "We’ve been thinking a lot about what it means to build the self-driving company. A big part of that is putting the ability to understand a business in everyone's hands. \n\nAtta has built a beautiful approach to business analysis and data visualization, and they share our belief that useful intelligence should be accessible to everyone.\n\nWelcoming Omar, Amine, and the Atta team to Replit!",
+    "date": "2026-09-25T23:47:06.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2103629073595728372",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. \n\nWe can test our deterministic processes through software, but most enterprises have no useful way of understanding how their non-deterministic processes are working today. Specifically the work that agents are doing for them.\n\nEvals are mission critical for enterprises adopting AI because you have no other way of knowing what’s working, what’s broken, what changed, what improved, what you can do more of, etc. if you don’t have a good sense of how agents work in your environment today. All changes, upgrades, and deployments are downstream from good evals.\n\nNot only are we going to get vastly more domain specific evals over time for the labs and across the industry, but every enterprise will also need a clear sense of how agents are performing in their environment as well. Huge opportunity.",
+    "title_cn": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. \n\nWe can test our deterministic processes through software, but most enterprises have no useful way of understanding how their non-deterministic processes are working today. Specifically the work that agents are doing for them.\n\nEvals are mission critical for enterprises adopting AI because you have no other way of knowing what’s working, what’s broken, what changed, what improved, what you can do more of, etc. if you don’t have a good sense of how agents work in your environment today. All changes, upgrades, and deployments are downstream from good evals.\n\nNot only are we going to get vastly more domain specific evals over time for the labs and across the industry, but every enterprise will also need a clear sense of how agents are performing in their environment as well. Huge opportunity.",
+    "date": "2026-09-25T23:33:49.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2103623390842294609",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "AGI https://t.co/MBqJzksRob",
+    "title_cn": "AGI https://t.co/MBqJzksRob",
+    "date": "2026-09-25T23:11:14.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2103622639386574979",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "o no :(",
+    "title_cn": "o no :(",
+    "date": "2026-09-25T23:08:15.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2103620061156290622",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "We are aware that codex is down and are working hard to bring back normal service.",
+    "title_cn": "We are aware that codex is down and are working hard to bring back normal service.",
+    "date": "2026-09-25T22:58:00.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2103615459426001163",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "day of the dead https://t.co/ivXMULng59",
+    "title_cn": "day of the dead https://t.co/ivXMULng59",
+    "date": "2026-09-25T22:39:43.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2103580284021354795",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Cool https://t.co/cPDSk0E6oZ 😂",
+    "title_cn": "Cool https://t.co/cPDSk0E6oZ 😂",
+    "date": "2026-09-25T20:19:56.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2103577116445175948",
+    "type": "x",
+    "name": "Thariq",
+    "title": "If you want to see interactive explainers of benchmarks and demos I built, you can read it on our new dev site here: https://t.co/oSTZrBggXM",
+    "title_cn": "If you want to see interactive explainers of benchmarks and demos I built, you can read it on our new dev site here: https://t.co/oSTZrBggXM",
+    "date": "2026-09-25T20:07:21.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2103577115010687067",
+    "type": "x",
+    "name": "Thariq",
+    "title": "I use effort low a lot more when I want to stay in the loop, and effort max is basically only if I want zero input or want to find security vulnerabilities. https://t.co/KdDBikNwCL",
+    "title_cn": "I use effort low a lot more when I want to stay in the loop, and effort max is basically only if I want zero input or want to find security vulnerabilities. https://t.co/KdDBikNwCL",
+    "date": "2026-09-25T20:07:21.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2103576349499855160",
+    "type": "x",
+    "name": "Thariq",
+    "title": "What is effort really? When do you change it it and why not just use max effort for everything?\n\nI dove deep into this problem, looking into evals and doing my own tests and I was quite surprised by the results. https://t.co/KO2D51j34H",
+    "title_cn": "What is effort really? When do you change it it and why not just use max effort for everything?\n\nI dove deep into this problem, looking into evals and doing my own tests and I was quite surprised by the results. https://t.co/KO2D51j34H",
+    "date": "2026-09-25T20:04:18.000Z"
+  },
+  {
+    "url": "https://x.com/sama/status/2103567198690349362",
+    "type": "x",
+    "name": "Sam Altman",
+    "title": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
+    "title_cn": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
+    "date": "2026-09-25T19:27:57.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2103564484602384855",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We're helping world-class organizations like @klaviyo build agentic deployment platforms.\n\n① Connect every agent (claude, codex, cursor…)\n② Configure SSO via their IDP (Okta, Entra)\n③ Now everyone can cook, securely®\n\nWhat happens to SaaS once every company sets this up? I get this question a lot 😁\n\nFirst, the data must come from somewhere. These apps only work if they can be infused with business data.\n\nThis is why we see the big enterprise SaaS players suddenly prioritize shipping CLIs and MCPs. Or dust off APIs they were neglecting for years.\n\nThe new 'procurement bar' will be how ergonomic your product is for *agents*, rather than humans. How easily they can navigate your ontology and work with your data.\n\nOnce that's in place, there's a long tail of SaaS applications that I suspect will never be bought again. They'll be generated. They'll be more secure, more performant, more modern, and tailored to each company's and employee's needs.",
+    "title_cn": "We're helping world-class organizations like @klaviyo build agentic deployment platforms.\n\n① Connect every agent (claude, codex, cursor…)\n② Configure SSO via their IDP (Okta, Entra)\n③ Now everyone can cook, securely®\n\nWhat happens to SaaS once every company sets this up? I get this question a lot 😁\n\nFirst, the data must come from somewhere. These apps only work if they can be infused with business data.\n\nThis is why we see the big enterprise SaaS players suddenly prioritize shipping CLIs and MCPs. Or dust off APIs they were neglecting for years.\n\nThe new 'procurement bar' will be how ergonomic your product is for *agents*, rather than humans. How easily they can navigate your ontology and work with your data.\n\nOnce that's in place, there's a long tail of SaaS applications that I suspect will never be bought again. They'll be generated. They'll be more secure, more performant, more modern, and tailored to each company's and employee's needs.",
+    "date": "2026-09-25T19:17:10.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2103550183506337835",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "Sooo. many. startups. \n\nBut all investors want to invest in the same 10-30.\n\nThis has always been true, but probably never to this extent.  \n\nHyper power law.",
+    "title_cn": "Sooo. many. startups. \n\nBut all investors want to invest in the same 10-30.\n\nThis has always been true, but probably never to this extent.  \n\nHyper power law.",
+    "date": "2026-09-25T18:20:20.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2103543983557517340",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The growth of https://t.co/5JpYvhlpkR has been mind-boggling. I watched it grow from idea, to first ship, to 𝚗𝚙𝚡 𝚜𝚔𝚒𝚕𝚕𝚜 being on every README of the internet.\n\nWe used to write code, now we write English. https://t.co/jrmPFjQKms",
+    "title_cn": "The growth of https://t.co/5JpYvhlpkR has been mind-boggling. I watched it grow from idea, to first ship, to 𝚗𝚙𝚡 𝚜𝚔𝚒𝚕𝚕𝚜 being on every README of the internet.\n\nWe used to write code, now we write English. https://t.co/jrmPFjQKms",
+    "date": "2026-09-25T17:55:42.000Z"
+  },
+  {
+    "url": "https://x.com/bcherny/status/2103538666597691552",
+    "type": "x",
+    "name": "Boris Cherny",
+    "title": "Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs.\n\nIt's not like a regular Slack bot. It is proactive, programmable, it has memory, it has access to your connectors. With Opus 5.5 and Fable 5.1, it has strong judgement.\n\nExample prompts I use:\n\n- \"@Claude react to threads in this channel with ✅ when resolved\"\n- \"@Claude from now on, attempt to repro every bug in this channel end to end, running the full app. once you reproduce the bug, put up a pr to fix it and tag the right team for code review\"\n- \"@Claude brainstorm ~100 hypotheses for what could explain this weird data, use a workflow to in/validate. spend 10m tokens or so digging very deep. draw a chart with the result.\"\n- \"@Claude make me an interactive game explaining how this part of the code works, then make a slide deck explaining it for others on the team\"\n\nhttps://t.co/gmsALM8Lvs",
+    "title_cn": "Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs.\n\nIt's not like a regular Slack bot. It is proactive, programmable, it has memory, it has access to your connectors. With Opus 5.5 and Fable 5.1, it has strong judgement.\n\nExample prompts I use:\n\n- \"@Claude react to threads in this channel with ✅ when resolved\"\n- \"@Claude from now on, attempt to repro every bug in this channel end to end, running the full app. once you reproduce the bug, put up a pr to fix it and tag the right team for code review\"\n- \"@Claude brainstorm ~100 hypotheses for what could explain this weird data, use a workflow to in/validate. spend 10m tokens or so digging very deep. draw a chart with the result.\"\n- \"@Claude make me an interactive game explaining how this part of the code works, then make a slide deck explaining it for others on the team\"\n\nhttps://t.co/gmsALM8Lvs",
+    "date": "2026-09-25T17:34:34.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2103515672777290083",
+    "type": "x",
+    "name": "Claude",
+    "title": "What are you going to explore with Opus 5.5 this weekend?",
+    "title_cn": "What are you going to explore with Opus 5.5 this weekend?",
+    "date": "2026-09-25T16:03:12.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2103515670428238179",
+    "type": "x",
+    "name": "Claude",
+    "title": "https://t.co/3kIQ5LKes3",
+    "title_cn": "https://t.co/3kIQ5LKes3",
+    "date": "2026-09-25T16:03:11.000Z"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2103515668171853944",
+    "type": "x",
+    "name": "Claude",
+    "title": "https://t.co/7zcjE09JYh",
+    "title_cn": "https://t.co/7zcjE09JYh",
+    "date": "2026-09-25T16:03:11.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2103470568104468517",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Legalize personalized education https://t.co/LHb0NwzZnZ",
+    "title_cn": "Legalize personalized education https://t.co/LHb0NwzZnZ",
+    "date": "2026-09-25T13:03:58.000Z"
+  },
+  {
     "url": "https://x.com/swyx/status/2103361254433993165",
     "type": "x",
     "name": "Swyx",
