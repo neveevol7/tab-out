@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "stars": "11.4k",
-      "growth": "🔺1209",
-      "description": "Google's open agentic orchestration runtime",
-      "description_cn": "Google's open agentic orchestration runtime"
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "stars": "7.4k",
+      "growth": "🔺823",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
     },
     {
       "rank": "2",
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "stars": "18.3k",
-      "growth": "🔺903",
+      "stars": "19.1k",
+      "growth": "🔺799",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "description_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
       "rank": "3",
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "stars": "6.5k",
-      "growth": "🔺506",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "description_cn": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "stars": "11.9k",
+      "growth": "🔺516",
+      "description": "Google's open agentic orchestration runtime",
+      "description_cn": "Google's open agentic orchestration runtime"
     },
     {
       "rank": "4",
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "stars": "6.6k",
-      "growth": "🔺399",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
-    },
-    {
-      "rank": "5",
       "name": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "stars": "4.4k",
-      "growth": "🔺355",
+      "stars": "4.7k",
+      "growth": "🔺302",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "description_cn": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
     },
     {
-      "rank": "6",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "16.4k",
-      "growth": "🔺318",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+      "rank": "5",
+      "name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "stars": "8k",
+      "growth": "🔺271",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "description_cn": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
     },
     {
-      "rank": "7",
+      "rank": "6",
       "name": "jaredpalmer/kev",
       "url": "https://github.com/jaredpalmer/kev",
-      "stars": "7k",
-      "growth": "🔺271",
+      "stars": "7.2k",
+      "growth": "🔺213",
       "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
       "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
     },
     {
+      "rank": "7",
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "stars": "12.3k",
+      "growth": "🔺186",
+      "description": "Connect your users to their apps",
+      "description_cn": "Connect your users to their apps"
+    },
+    {
       "rank": "8",
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "stars": "3.3k",
-      "growth": "🔺252",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "stars": "11.2k",
+      "growth": "🔺178",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "description_cn": "A straightforward method for training your LLM, from downloading data to generating text."
     },
     {
       "rank": "9",
-      "name": "julyx10/lap",
-      "url": "https://github.com/julyx10/lap",
-      "stars": "3.1k",
-      "growth": "🔺240",
-      "description": "An offline-first photo manager for large local libraries",
-      "description_cn": "An offline-first photo manager for large local libraries"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "stars": "4k",
+      "growth": "🔺170",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "description_cn": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
     },
     {
       "rank": "10",
-      "name": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "stars": "8.4k",
-      "growth": "🔺222",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "description_cn": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "5.7k",
+      "growth": "🔺169",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Skills for Designers and Engineers."
     }
   ],
-  "updated_at": "2026-09-27T00:20:51.932877"
+  "updated_at": "2026-09-27T07:48:23.547542"
 }
