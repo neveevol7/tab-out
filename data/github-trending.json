@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "stars": "8.2k",
-      "growth": "🔺928",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "stars": "3k",
+      "growth": "🔺553",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "description_cn": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
     },
     {
       "rank": "2",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "17.2k",
-      "growth": "🔺898",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "6.4k",
+      "growth": "🔺454",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
     },
     {
       "rank": "3",
       "name": "oblien/openship",
       "url": "https://github.com/oblien/openship",
-      "stars": "13.3k",
-      "growth": "🔺823",
+      "stars": "13.7k",
+      "growth": "🔺397",
       "description": "Self-hosted deployment platform",
       "description_cn": "Self-hosted deployment platform"
     },
     {
       "rank": "4",
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "stars": "8.2k",
-      "growth": "🔺811",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
-    },
-    {
-      "rank": "5",
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "stars": "12.4k",
-      "growth": "🔺532",
-      "description": "Google's open agentic orchestration runtime",
-      "description_cn": "Google's open agentic orchestration runtime"
-    },
-    {
-      "rank": "6",
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "stars": "12.7k",
-      "growth": "🔺441",
-      "description": "Connect your users to their apps",
-      "description_cn": "Connect your users to their apps"
-    },
-    {
-      "rank": "7",
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "stars": "7.6k",
-      "growth": "🔺438",
-      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
-    },
-    {
-      "rank": "8",
       "name": "miuuyy/codex-chatgpt-web",
       "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "stars": "12.5k",
-      "growth": "🔺434",
+      "stars": "12.8k",
+      "growth": "🔺355",
       "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "description_cn": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota."
     },
     {
-      "rank": "9",
+      "rank": "5",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "17.5k",
+      "growth": "🔺303",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+    },
+    {
+      "rank": "6",
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": "5.5k",
-      "growth": "🔺405",
+      "stars": "5.8k",
+      "growth": "🔺275",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": "10",
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "rank": "7",
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "stars": "11.6k",
-      "growth": "🔺386",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "description_cn": "A straightforward method for training your LLM, from downloading data to generating text."
+      "growth": "🔺260",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers",
+      "description_cn": "Empowering everyone to host fast and efficient Minecraft servers"
+    },
+    {
+      "rank": "8",
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": "7.9k",
+      "growth": "🔺242",
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
+    },
+    {
+      "rank": "9",
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "stars": "13k",
+      "growth": "🔺229",
+      "description": "Connect your users to their apps",
+      "description_cn": "Connect your users to their apps"
+    },
+    {
+      "rank": "10",
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "stars": "8.4k",
+      "growth": "🔺228",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
     }
   ],
-  "updated_at": "2026-09-29T22:01:48.853196"
+  "updated_at": "2026-09-30T04:45:16.273026"
 }
