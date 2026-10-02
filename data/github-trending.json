@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "stars": "3k",
-      "growth": "🔺553",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "description_cn": "Open Source Introductory Systems Programming Textbook for the University of Illinois"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars": "13.9k",
+      "growth": "🔺3426",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
       "rank": "2",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "stars": "6.4k",
-      "growth": "🔺454",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": "4.6k",
+      "growth": "🔺1562",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
       "rank": "3",
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "stars": "13.7k",
-      "growth": "🔺397",
-      "description": "Self-hosted deployment platform",
-      "description_cn": "Self-hosted deployment platform"
-    },
-    {
-      "rank": "4",
-      "name": "miuuyy/codex-chatgpt-web",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "stars": "12.8k",
-      "growth": "🔺355",
-      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
-      "description_cn": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota."
-    },
-    {
-      "rank": "5",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "17.5k",
-      "growth": "🔺303",
+      "stars": "18.4k",
+      "growth": "🔺942",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
+      "rank": "4",
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "stars": "10.6k",
+      "growth": "🔺600",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "description_cn": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+    },
+    {
+      "rank": "5",
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "stars": "6.1k",
+      "growth": "🔺592",
+      "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "description_cn": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU."
+    },
+    {
       "rank": "6",
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "stars": "14.3k",
+      "growth": "🔺543",
+      "description": "Self-hosted deployment platform",
+      "description_cn": "Self-hosted deployment platform"
+    },
+    {
+      "rank": "7",
       "name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": "5.8k",
-      "growth": "🔺275",
+      "stars": "6.2k",
+      "growth": "🔺452",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
-      "rank": "7",
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "stars": "11.6k",
-      "growth": "🔺260",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers",
-      "description_cn": "Empowering everyone to host fast and efficient Minecraft servers"
-    },
-    {
       "rank": "8",
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "stars": "7.9k",
-      "growth": "🔺242",
-      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
-    },
-    {
-      "rank": "9",
       "name": "corsairdev/corsair",
       "url": "https://github.com/corsairdev/corsair",
-      "stars": "13k",
-      "growth": "🔺229",
+      "stars": "13.4k",
+      "growth": "🔺410",
       "description": "Connect your users to their apps",
       "description_cn": "Connect your users to their apps"
     },
     {
+      "rank": "9",
+      "name": "longbridge/gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "stars": "15.5k",
+      "growth": "🔺391",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "description_cn": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
+    },
+    {
       "rank": "10",
-      "name": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "stars": "8.4k",
-      "growth": "🔺228",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+      "name": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "stars": "5.5k",
+      "growth": "🔺376",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "Autonomous research system for measurable, computer-executable research."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
     }
   ],
-  "updated_at": "2026-10-01T23:46:27.561124"
+  "updated_at": "2026-10-02T04:47:46.044701"
 }
