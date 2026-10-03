@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "stars": "3.4k",
+      "growth": "🔺543",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "description_cn": "yoink any video from your terminal. no shady ads."
+    },
+    {
+      "rank": "2",
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": "13.9k",
-      "growth": "🔺3426",
+      "stars": "14.4k",
+      "growth": "🔺469",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
-      "rank": "2",
-      "name": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "stars": "4.6k",
-      "growth": "🔺1562",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      "rank": "3",
+      "name": "Louis-CFM/coucou",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "stars": "2.9k",
+      "growth": "🔺455",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+      "description_cn": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more."
     },
     {
-      "rank": "3",
+      "rank": "4",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "18.4k",
-      "growth": "🔺942",
+      "stars": "18.9k",
+      "growth": "🔺430",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
-      "rank": "4",
-      "name": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "stars": "10.6k",
-      "growth": "🔺600",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "description_cn": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+      "rank": "5",
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": "5k",
+      "growth": "🔺347",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
-      "rank": "5",
+      "rank": "6",
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "stars": "16.7k",
+      "growth": "🔺337",
+      "description": "Useful tool to track location or mobile number",
+      "description_cn": "Useful tool to track location or mobile number"
+    },
+    {
+      "rank": "7",
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "7k",
+      "growth": "🔺256",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
+    },
+    {
+      "rank": "8",
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "stars": "10.9k",
+      "growth": "🔺218",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "description_cn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "rank": "9",
       "name": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "stars": "6.1k",
-      "growth": "🔺592",
+      "stars": "6.3k",
+      "growth": "🔺203",
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "description_cn": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU."
     },
     {
-      "rank": "6",
-      "name": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "stars": "14.3k",
-      "growth": "🔺543",
-      "description": "Self-hosted deployment platform",
-      "description_cn": "Self-hosted deployment platform"
-    },
-    {
-      "rank": "7",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "6.2k",
-      "growth": "🔺452",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-    },
-    {
-      "rank": "8",
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "stars": "13.4k",
-      "growth": "🔺410",
-      "description": "Connect your users to their apps",
-      "description_cn": "Connect your users to their apps"
-    },
-    {
-      "rank": "9",
+      "rank": "10",
       "name": "longbridge/gpui-kit",
       "url": "https://github.com/longbridge/gpui-kit",
-      "stars": "15.5k",
-      "growth": "🔺391",
+      "stars": "15.7k",
+      "growth": "🔺197",
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "description_cn": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
-    },
-    {
-      "rank": "10",
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "stars": "5.5k",
-      "growth": "🔺376",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "description_cn": "Autonomous research system for measurable, computer-executable research."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
     }
   ],
-  "updated_at": "2026-10-02T23:37:26.563007"
+  "updated_at": "2026-10-03T04:30:30.600576"
 }
