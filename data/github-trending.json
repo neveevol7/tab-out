@@ -96,182 +96,182 @@
       "rank": "1",
       "name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
-      "stars": "25.7k",
-      "growth": "🔺21780",
+      "stars": "30.4k",
+      "growth": "🔺5965",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     },
     {
       "rank": "2",
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "stars": "20.5k",
-      "growth": "🔺12580",
-      "description": "Fastest and cheapest web agent",
-      "description_cn": "Fastest and cheapest web agent"
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars": "14.6k",
+      "growth": "🔺4172",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
       "rank": "3",
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": "22k",
-      "growth": "🔺6018",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-    },
-    {
-      "rank": "4",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "16.3k",
-      "growth": "🔺5434",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
-    },
-    {
-      "rank": "5",
-      "name": "jaredpalmer/kev",
-      "url": "https://github.com/jaredpalmer/kev",
-      "stars": "7.2k",
-      "growth": "🔺4805",
-      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
-    },
-    {
-      "rank": "6",
-      "name": "google/ax",
-      "url": "https://github.com/google/ax",
-      "stars": "11.9k",
-      "growth": "🔺4423",
-      "description": "Google's open agentic orchestration runtime",
-      "description_cn": "Google's open agentic orchestration runtime"
-    },
-    {
-      "rank": "7",
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "stars": "31.9k",
-      "growth": "🔺4162",
-      "description": "Hindsight: Agent Memory That Learns",
-      "description_cn": "Hindsight: Agent Memory That Learns"
-    },
-    {
-      "rank": "8",
       "name": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "stars": "19.1k",
-      "growth": "🔺3810",
+      "stars": "22.3k",
+      "growth": "🔺4004",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "description_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
     },
     {
-      "rank": "9",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "stars": "5.7k",
-      "growth": "🔺3397",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
+      "rank": "4",
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "stars": "24.3k",
+      "growth": "🔺3630",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "description_cn": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
     },
     {
-      "rank": "10",
-      "name": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "stars": "19.3k",
-      "growth": "🔺3334",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "description_cn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+      "rank": "5",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "19k",
+      "growth": "🔺2635",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
-      "rank": "11",
-      "name": "jev-chat/jev-chat-jarvis",
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "stars": "6.7k",
-      "growth": "🔺2980",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "description_cn": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
-    },
-    {
-      "rank": "12",
-      "name": "tamaratran/fast-jev-compaction",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "stars": "7k",
-      "growth": "🔺2882",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "description_cn": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
-    },
-    {
-      "rank": "13",
-      "name": "mizorewww/laya-mlx",
-      "url": "https://github.com/mizorewww/laya-mlx",
-      "stars": "6.4k",
-      "growth": "🔺2706",
-      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-      "description_cn": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
-    },
-    {
-      "rank": "14",
+      "rank": "6",
       "name": "pacifio/atlas",
       "url": "https://github.com/pacifio/atlas",
-      "stars": "7.4k",
-      "growth": "🔺2661",
+      "stars": "8.9k",
+      "growth": "🔺2376",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "description_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
     },
     {
-      "rank": "15",
-      "name": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "stars": "4.9k",
+      "rank": "7",
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": "5.4k",
       "growth": "🔺2329",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "description_cn": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing"
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+    },
+    {
+      "rank": "8",
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "stars": "23.9k",
+      "growth": "🔺2326",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "rank": "9",
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "39.5k",
+      "growth": "🔺1974",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "description_cn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "rank": "10",
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "stars": "14.4k",
+      "growth": "🔺1956",
+      "description": "Self-hosted deployment platform",
+      "description_cn": "Self-hosted deployment platform"
+    },
+    {
+      "rank": "11",
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "23.2k",
+      "growth": "🔺1836",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "Free and open-source macOS menu bar toolkit."
+    },
+    {
+      "rank": "12",
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "7.3k",
+      "growth": "🔺1719",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
+    },
+    {
+      "rank": "13",
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "stars": "21.9k",
+      "growth": "🔺1703",
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "Fastest and cheapest web agent"
+    },
+    {
+      "rank": "14",
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "stars": "39.3k",
+      "growth": "🔺1640",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "description_cn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "rank": "15",
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "stars": "13k",
+      "growth": "🔺1629",
+      "description": "Google's open agentic orchestration runtime",
+      "description_cn": "Google's open agentic orchestration runtime"
     },
     {
       "rank": "16",
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": "6.6k",
+      "growth": "🔺1617",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+    },
+    {
+      "rank": "17",
       "name": "trycua/cua",
       "url": "https://github.com/trycua/cua",
-      "stars": "26.5k",
-      "growth": "🔺2248",
+      "stars": "27.9k",
+      "growth": "🔺1568",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "description_cn": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
     },
     {
-      "rank": "17",
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "stars": "27.3k",
-      "growth": "🔺2180",
-      "description": "Edit videos with coding agents",
-      "description_cn": "Edit videos with coding agents"
-    },
-    {
       "rank": "18",
-      "name": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "stars": "30.6k",
-      "growth": "🔺2118",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "description_cn": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki."
+      "name": "jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev",
+      "stars": "8.4k",
+      "growth": "🔺1396",
+      "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "description_cn": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
     },
     {
       "rank": "19",
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "stars": "37.8k",
-      "growth": "🔺2091",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "stars": "23k",
+      "growth": "🔺1388",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "description_cn": "Notes of the book System Desgin Interview - An Insider's Guide"
     },
     {
       "rank": "20",
-      "name": "TheoLeeCJ/SemIf",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "stars": "4.4k",
-      "growth": "🔺1958",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "description_cn": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe."
+      "name": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "stars": "8.6k",
+      "growth": "🔺1313",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
     }
   ],
-  "updated_at": "2026-10-04T21:02:23.803895"
+  "updated_at": "2026-10-05T00:33:18.375463"
 }
