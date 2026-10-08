@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "stars": "6.1k",
-      "growth": "🔺1601",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "description_cn": "Next generation e2e testing framework for web and mobile apps."
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "stars": "13.9k",
+      "growth": "🔺5147",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "description_cn": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "rank": "2",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "5.5k",
-      "growth": "🔺1369",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
-    },
-    {
-      "rank": "3",
       "name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
-      "stars": "6.1k",
-      "growth": "🔺1317",
+      "stars": "9.7k",
+      "growth": "🔺3638",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "description_cn": "Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
-      "rank": "4",
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "4.5k",
-      "growth": "🔺722",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
-    },
-    {
-      "rank": "5",
+      "rank": "3",
       "name": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor",
-      "stars": "8.9k",
-      "growth": "🔺694",
+      "stars": "11k",
+      "growth": "🔺2072",
       "description": "The Photoshop alternative for Mac",
       "description_cn": "The Photoshop alternative for Mac"
     },
     {
+      "rank": "4",
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "6.7k",
+      "growth": "🔺1235",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "rank": "5",
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "stars": "7.2k",
+      "growth": "🔺1171",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "description_cn": "Next generation e2e testing framework for web and mobile apps."
+    },
+    {
       "rank": "6",
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": "5.1k",
+      "growth": "🔺618",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+    },
+    {
+      "rank": "7",
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": "17.9k",
-      "growth": "🔺568",
+      "stars": "18.3k",
+      "growth": "🔺394",
       "description": "Give your agent CAD superpowers.",
       "description_cn": "Give your agent CAD superpowers."
     },
     {
-      "rank": "7",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "7.4k",
-      "growth": "🔺403",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-    },
-    {
       "rank": "8",
-      "name": "CopilotKit/OpenDots",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "stars": "3.9k",
-      "growth": "🔺290",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "description_cn": "Your always-on AI coworkers that move between text, calls, and Slack."
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "stars": "4.7k",
+      "growth": "🔺392",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
     {
       "rank": "9",
-      "name": "cloudflare/cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "stars": "11.2k",
-      "growth": "🔺245",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "description_cn": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems."
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "20k",
+      "growth": "🔺316",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
       "rank": "10",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "19.7k",
-      "growth": "🔺241",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": "7.7k",
+      "growth": "🔺310",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
     }
   ],
-  "updated_at": "2026-10-08T00:03:54.120171"
+  "updated_at": "2026-10-08T08:35:23.514588"
 }
