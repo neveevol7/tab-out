@@ -2,28 +2,28 @@
   "daily": [
     {
       "rank": "1",
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "stars": "13.9k",
-      "growth": "🔺5147",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "description_cn": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "stars": "14.7k",
+      "growth": "🔺4981",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "description_cn": "Tool for automatic PS5 executables porting to Linux and Windows"
     },
     {
       "rank": "2",
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "stars": "9.7k",
-      "growth": "🔺3638",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "description_cn": "Tool for automatic PS5 executables porting to Linux and Windows"
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": "11.9k",
+      "growth": "🔺2604",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "3",
       "name": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor",
-      "stars": "11k",
-      "growth": "🔺2072",
+      "stars": "13k",
+      "growth": "🔺1976",
       "description": "The Photoshop alternative for Mac",
       "description_cn": "The Photoshop alternative for Mac"
     },
@@ -31,8 +31,8 @@
       "rank": "4",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "6.7k",
-      "growth": "🔺1235",
+      "stars": "7.9k",
+      "growth": "🔺1175",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
@@ -40,8 +40,8 @@
       "rank": "5",
       "name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
-      "stars": "7.2k",
-      "growth": "🔺1171",
+      "stars": "8.1k",
+      "growth": "🔺883",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "description_cn": "Next generation e2e testing framework for web and mobile apps."
     },
@@ -49,46 +49,46 @@
       "rank": "6",
       "name": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "5.1k",
-      "growth": "🔺618",
+      "stars": "5.6k",
+      "growth": "🔺457",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
     },
     {
       "rank": "7",
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": "18.3k",
-      "growth": "🔺394",
-      "description": "Give your agent CAD superpowers.",
-      "description_cn": "Give your agent CAD superpowers."
+      "name": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": "6.7k",
+      "growth": "🔺323",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
     },
     {
       "rank": "8",
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "stars": "4.7k",
-      "growth": "🔺392",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+      "name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "stars": "4.5k",
+      "growth": "🔺320",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "description_cn": "Your always-on AI coworkers that move between text, calls, and Slack."
     },
     {
       "rank": "9",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "20k",
-      "growth": "🔺316",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": "8k",
+      "growth": "🔺294",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
     },
     {
       "rank": "10",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "7.7k",
-      "growth": "🔺310",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": "2.3k",
+      "growth": "🔺287",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
     }
   ],
-  "updated_at": "2026-10-08T23:05:42.526548"
+  "updated_at": "2026-10-09T05:18:25.501567"
 }
