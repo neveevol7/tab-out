@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "stars": "14.7k",
-      "growth": "🔺4981",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "description_cn": "Tool for automatic PS5 executables porting to Linux and Windows"
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "stars": "10.9k",
+      "growth": "🔺3374",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "description_cn": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
       "rank": "2",
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "stars": "11.9k",
-      "growth": "🔺2604",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "stars": "6.1k",
+      "growth": "🔺1191",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "description_cn": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing"
     },
     {
       "rank": "3",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
       "stars": "13k",
-      "growth": "🔺1976",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
+      "growth": "🔺1073",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "7.9k",
-      "growth": "🔺1175",
+      "stars": "8.5k",
+      "growth": "🔺665",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
       "rank": "5",
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "stars": "8.1k",
-      "growth": "🔺883",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "description_cn": "Next generation e2e testing framework for web and mobile apps."
+      "name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "stars": "2.8k",
+      "growth": "🔺433",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
     },
     {
       "rank": "6",
       "name": "rehan-remade/universal-modder",
       "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "5.6k",
-      "growth": "🔺457",
+      "stars": "6k",
+      "growth": "🔺413",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
     },
     {
       "rank": "7",
-      "name": "KKKKhazix/AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "stars": "6.7k",
-      "growth": "🔺323",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "description_cn": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "stars": "5.6k",
+      "growth": "🔺280",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "description_cn": "yoink any video from your terminal. no shady ads."
     },
     {
       "rank": "8",
-      "name": "CopilotKit/OpenDots",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "stars": "4.5k",
-      "growth": "🔺320",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "description_cn": "Your always-on AI coworkers that move between text, calls, and Slack."
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "stars": "17.8k",
+      "growth": "🔺274",
+      "description": "Useful tool to track location or mobile number",
+      "description_cn": "Useful tool to track location or mobile number"
     },
     {
       "rank": "9",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "8k",
-      "growth": "🔺294",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "stars": "8.4k",
+      "growth": "🔺272",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "description_cn": "Next generation e2e testing framework for web and mobile apps."
     },
     {
       "rank": "10",
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "stars": "2.3k",
-      "growth": "🔺287",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "description_cn": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": "18.7k",
+      "growth": "🔺266",
+      "description": "Give your agent CAD superpowers.",
+      "description_cn": "Give your agent CAD superpowers."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
     }
   ],
-  "updated_at": "2026-10-09T23:53:06.398601"
+  "updated_at": "2026-10-10T05:02:35.636278"
 }
