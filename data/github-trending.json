@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "stars": "13.9k",
-      "growth": "🔺2985",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "description_cn": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": "8.7k",
+      "growth": "🔺5568",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
     },
     {
       "rank": "2",
-      "name": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "stars": "6.9k",
-      "growth": "🔺811",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "description_cn": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing"
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": "5.8k",
+      "growth": "🔺2637",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "3",
-      "name": "mhtsec/ARTEX",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "stars": "2.9k",
-      "growth": "🔺761",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "description_cn": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
-    },
-    {
-      "rank": "4",
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "stars": "13.6k",
-      "growth": "🔺647",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "5",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "stars": "15.4k",
-      "growth": "🔺627",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
-    },
-    {
-      "rank": "6",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "9.1k",
-      "growth": "🔺606",
+      "stars": "10.3k",
+      "growth": "🔺1179",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
+      "rank": "4",
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "16.3k",
+      "growth": "🔺920",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
+    },
+    {
+      "rank": "5",
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "stars": "3.7k",
+      "growth": "🔺837",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "description_cn": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
+    },
+    {
+      "rank": "6",
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "stars": "9.5k",
+      "growth": "🔺808",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "description_cn": "Next generation e2e testing framework for web and mobile apps."
+    },
+    {
       "rank": "7",
-      "name": "alchaincyf/huashu-art-motion",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "stars": "3.2k",
-      "growth": "🔺347",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "description_cn": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+      "name": "zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "stars": "3.3k",
+      "growth": "🔺802",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "description_cn": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
     },
     {
       "rank": "8",
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "6.3k",
-      "growth": "🔺344",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": "14.4k",
+      "growth": "🔺760",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "stars": "17.9k",
-      "growth": "🔺307",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "description_cn": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction"
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "stars": "3.3k",
+      "growth": "🔺727",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
     },
     {
       "rank": "10",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "8.5k",
-      "growth": "🔺275",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": "7k",
+      "growth": "🔺693",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     }
   ],
-  "updated_at": "2026-10-12T22:48:06.417480"
+  "updated_at": "2026-10-13T06:06:13.372562"
 }
