@@ -273,5 +273,5 @@
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     }
   ],
-  "updated_at": "2026-10-13T15:42:23.528696"
+  "updated_at": "2026-10-13T21:03:13.920200"
 }
