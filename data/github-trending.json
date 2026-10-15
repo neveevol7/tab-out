@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "8k",
-      "growth": "🔺2198",
+      "stars": "9.8k",
+      "growth": "🔺1809",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
@@ -13,80 +13,80 @@
       "rank": "2",
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "stars": "10.8k",
-      "growth": "🔺2151",
+      "stars": "12.2k",
+      "growth": "🔺1399",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
     },
     {
       "rank": "3",
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "stars": "4.1k",
-      "growth": "🔺758",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": "3.5k",
+      "growth": "🔺1192",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
     },
     {
       "rank": "4",
-      "name": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "stars": "4.4k",
-      "growth": "🔺679",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "description_cn": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
-    },
-    {
-      "rank": "5",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "11k",
-      "growth": "🔺669",
+      "stars": "11.7k",
+      "growth": "🔺747",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
+      "rank": "5",
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "stars": "4.7k",
+      "growth": "🔺632",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+    },
+    {
       "rank": "6",
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "stars": "4.8k",
+      "growth": "🔺436",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "description_cn": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
+    },
+    {
+      "rank": "7",
       "name": "tester-army/e2e",
       "url": "https://github.com/tester-army/e2e",
-      "stars": "10k",
-      "growth": "🔺545",
+      "stars": "10.4k",
+      "growth": "🔺420",
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "description_cn": "Next generation e2e testing framework for web and mobile apps."
     },
     {
-      "rank": "7",
-      "name": "LosaLosSantos/aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "stars": "3.2k",
-      "growth": "🔺403",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "description_cn": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
-    },
-    {
       "rank": "8",
-      "name": "robbietilton/Compositor",
-      "url": "https://github.com/robbietilton/Compositor",
-      "stars": "16.7k",
-      "growth": "🔺352",
-      "description": "The Photoshop alternative for Mac",
-      "description_cn": "The Photoshop alternative for Mac"
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "stars": "14.3k",
+      "growth": "🔺334",
+      "description": "Connect your users to their apps",
+      "description_cn": "Connect your users to their apps"
     },
     {
       "rank": "9",
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": "19.9k",
-      "growth": "🔺346",
-      "description": "Give your agent CAD superpowers.",
-      "description_cn": "Give your agent CAD superpowers."
+      "name": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "stars": "2.6k",
+      "growth": "🔺328",
+      "description": "The Craft App Launcher",
+      "description_cn": "The Craft App Launcher"
     },
     {
       "rank": "10",
       "name": "storytold/deckcraft",
       "url": "https://github.com/storytold/deckcraft",
-      "stars": "2.9k",
-      "growth": "🔺337",
+      "stars": "3.2k",
+      "growth": "🔺300",
       "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
       "description_cn": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
     }
@@ -273,5 +273,5 @@
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     }
   ],
-  "updated_at": "2026-10-14T23:03:23.530784"
+  "updated_at": "2026-10-15T03:51:51.401206"
 }
