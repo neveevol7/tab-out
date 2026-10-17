@@ -4,58 +4,76 @@
       "rank": "1",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "12.5k",
-      "growth": "🔺2749",
+      "stars": "13.8k",
+      "growth": "🔺1290",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "2",
-      "name": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": "3k",
-      "growth": "🔺967",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-      "description_cn": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
-    },
-    {
-      "rank": "3",
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "stars": "13.1k",
-      "growth": "🔺852",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
-    },
-    {
-      "rank": "4",
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "stars": "14.9k",
-      "growth": "🔺600",
-      "description": "Connect your users to their apps",
-      "description_cn": "Connect your users to their apps"
-    },
-    {
-      "rank": "5",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "12.3k",
-      "growth": "🔺534",
+      "stars": "12.8k",
+      "growth": "🔺552",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
+      "rank": "3",
+      "name": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "stars": "3.9k",
+      "growth": "🔺544",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "description_cn": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
+    },
+    {
+      "rank": "4",
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": "13.6k",
+      "growth": "🔺526",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+    },
+    {
+      "rank": "5",
+      "name": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "stars": "3.5k",
+      "growth": "🔺476",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "description_cn": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+    },
+    {
       "rank": "6",
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "stars": "4.1k",
-      "growth": "🔺530",
-      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": "2.8k",
+      "growth": "🔺465",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "description_cn": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
     },
     {
       "rank": "7",
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": "8.1k",
+      "growth": "🔺442",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+    },
+    {
+      "rank": "8",
+      "name": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "stars": "2.7k",
+      "growth": "🔺415",
+      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "description_cn": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+    },
+    {
+      "rank": "9",
       "name": "storytold/cadcraft",
       "url": "https://github.com/storytold/cadcraft",
       "stars": "5.1k",
@@ -64,31 +82,13 @@
       "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
     },
     {
-      "rank": "8",
-      "name": "storytold/gridcraft",
-      "url": "https://github.com/storytold/gridcraft",
-      "stars": "5.1k",
-      "growth": "🔺323",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "description_cn": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
-    },
-    {
-      "rank": "9",
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "stars": "10.8k",
-      "growth": "🔺311",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "description_cn": "Next generation e2e testing framework for web and mobile apps."
-    },
-    {
       "rank": "10",
-      "name": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "stars": "9.6k",
-      "growth": "🔺306",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "description_cn": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "11.9k",
+      "growth": "🔺283",
+      "description": "Cursor plugin specification and official plugins",
+      "description_cn": "Cursor plugin specification and official plugins"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     }
   ],
-  "updated_at": "2026-10-16T22:40:17.804283"
+  "updated_at": "2026-10-17T03:37:30.430753"
 }
