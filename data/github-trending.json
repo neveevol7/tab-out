@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "13.8k",
-      "growth": "🔺1290",
+      "stars": "15k",
+      "growth": "🔺1156",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "2",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "12.8k",
-      "growth": "🔺552",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "stars": "5.6k",
+      "growth": "🔺460",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
     },
     {
       "rank": "3",
-      "name": "LosaLosSantos/aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "stars": "3.9k",
-      "growth": "🔺544",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "description_cn": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
+      "name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "stars": "5.3k",
+      "growth": "🔺444",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "stars": "13.6k",
-      "growth": "🔺526",
+      "stars": "14k",
+      "growth": "🔺388",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
     },
     {
       "rank": "5",
-      "name": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "stars": "3.5k",
-      "growth": "🔺476",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-      "description_cn": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "12.2k",
+      "growth": "🔺380",
+      "description": "Cursor plugin specification and official plugins",
+      "description_cn": "Cursor plugin specification and official plugins"
     },
     {
       "rank": "6",
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "stars": "2.8k",
-      "growth": "🔺465",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "description_cn": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "13.1k",
+      "growth": "🔺296",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
       "rank": "7",
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "8.1k",
-      "growth": "🔺442",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": "9.8k",
+      "growth": "🔺267",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "rank": "8",
-      "name": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "stars": "2.7k",
-      "growth": "🔺415",
-      "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "description_cn": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": "4.5k",
+      "growth": "🔺254",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
     },
     {
       "rank": "9",
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "stars": "5.1k",
-      "growth": "🔺371",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "stars": "15.2k",
+      "growth": "🔺239",
+      "description": "Connect your users to their apps",
+      "description_cn": "Connect your users to their apps"
     },
     {
       "rank": "10",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "11.9k",
-      "growth": "🔺283",
-      "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Cursor plugin specification and official plugins"
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "stars": "5.7k",
+      "growth": "🔺196",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
     }
   ],
-  "updated_at": "2026-10-17T23:51:25.772367"
+  "updated_at": "2026-10-18T03:44:12.306757"
 }
