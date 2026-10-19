@@ -94,184 +94,184 @@
   "weekly": [
     {
       "rank": "1",
-      "name": "feder-cr/dots",
-      "url": "https://github.com/feder-cr/dots",
-      "stars": "31.9k",
-      "growth": "🔺29362",
-      "description": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
-      "description_cn": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems."
-    },
-    {
-      "rank": "2",
-      "name": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "stars": "26k",
-      "growth": "🔺22512",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "description_cn": "Tool for automatic PS5 executables porting to Linux and Windows"
-    },
-    {
-      "rank": "3",
       "name": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
-      "stars": "13.9k",
-      "growth": "🔺6359",
+      "stars": "31.6k",
+      "growth": "🔺17726",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "description_cn": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
     },
     {
+      "rank": "2",
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": "15k",
+      "growth": "🔺11839",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+    },
+    {
+      "rank": "3",
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": "14k",
+      "growth": "🔺10884",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+    },
+    {
       "rank": "4",
-      "name": "tester-army/e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "stars": "8.7k",
-      "growth": "🔺5695",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "description_cn": "Next generation e2e testing framework for web and mobile apps."
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "stars": "30.9k",
+      "growth": "🔺5450",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_cn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
     },
     {
       "rank": "5",
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "stars": "30.5k",
+      "growth": "🔺4273",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+      "description_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "rank": "6",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "9.1k",
-      "growth": "🔺5050",
+      "stars": "13.1k",
+      "growth": "🔺3977",
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
-      "rank": "6",
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "stars": "13.6k",
-      "growth": "🔺4324",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
       "rank": "7",
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "stars": "6.3k",
-      "growth": "🔺3777",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "stars": "36.5k",
+      "growth": "🔺3681",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_cn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
     },
     {
       "rank": "8",
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars": "39.1k",
+      "growth": "🔺3384",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "description_cn": "AirLLM 2.8T LLM inference with single 4GB GPU"
+    },
+    {
+      "rank": "9",
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "stars": "27.5k",
-      "growth": "🔺3637",
+      "stars": "30.6k",
+      "growth": "🔺3049",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "description_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
     },
     {
-      "rank": "9",
-      "name": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "stars": "25.7k",
-      "growth": "🔺2714",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "description_cn": "Notes of the book System Desgin Interview - An Insider's Guide"
-    },
-    {
       "rank": "10",
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": "28.7k",
-      "growth": "🔺2680",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "description_cn": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      "name": "storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "stars": "5.6k",
+      "growth": "🔺2948",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
     },
     {
       "rank": "11",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "25.8k",
-      "growth": "🔺2631",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Free and open-source macOS menu bar toolkit."
+      "name": "storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "stars": "5.6k",
+      "growth": "🔺2719",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "description_cn": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
     },
     {
       "rank": "12",
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "stars": "32.9k",
-      "growth": "🔺2502",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "description_cn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "stars": "11.1k",
+      "growth": "🔺2398",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "description_cn": "Next generation e2e testing framework for web and mobile apps."
     },
     {
       "rank": "13",
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": "19k",
-      "growth": "🔺2348",
+      "stars": "21.2k",
+      "growth": "🔺2270",
       "description": "Give your agent CAD superpowers.",
       "description_cn": "Give your agent CAD superpowers."
     },
     {
       "rank": "14",
-      "name": "CopilotKit/OpenDots",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "stars": "4.8k",
-      "growth": "🔺2346",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "description_cn": "Your always-on AI coworkers that move between text, calls, and Slack."
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "stars": "8.2k",
+      "growth": "🔺2229",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
     },
     {
       "rank": "15",
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "stars": "26.8k",
-      "growth": "🔺2209",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": "4.5k",
+      "growth": "🔺2214",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
     },
     {
       "rank": "16",
-      "name": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "stars": "6.9k",
-      "growth": "🔺2015",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "description_cn": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing"
-    },
-    {
-      "rank": "17",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "8.5k",
-      "growth": "🔺1940",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
-    },
-    {
-      "rank": "18",
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "stars": "5.7k",
-      "growth": "🔺1893",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "description_cn": "yoink any video from your terminal. no shady ads."
-    },
-    {
-      "rank": "19",
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
-      "stars": "20.8k",
-      "growth": "🔺1769",
+      "stars": "23k",
+      "growth": "🔺2213",
       "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     },
     {
+      "rank": "17",
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "27.9k",
+      "growth": "🔺2072",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "Free and open-source macOS menu bar toolkit."
+    },
+    {
+      "rank": "18",
+      "name": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "stars": "17.3k",
+      "growth": "🔺1876",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "The Photoshop alternative for Mac"
+    },
+    {
+      "rank": "19",
+      "name": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "stars": "4k",
+      "growth": "🔺1858",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "description_cn": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
+    },
+    {
       "rank": "20",
-      "name": "NandhaKishorM/laya",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "stars": "32.1k",
-      "growth": "🔺1704",
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "description_cn": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request."
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "stars": "35.4k",
+      "growth": "🔺1703",
+      "description": "The open agent skills tool - npx skills",
+      "description_cn": "The open agent skills tool - npx skills"
     }
   ],
-  "updated_at": "2026-10-18T23:59:18.478316"
+  "updated_at": "2026-10-19T04:27:52.394612"
 }
