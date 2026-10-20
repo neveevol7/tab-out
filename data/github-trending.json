@@ -4,91 +4,91 @@
       "rank": "1",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "15k",
-      "growth": "🔺1156",
+      "stars": "16.8k",
+      "growth": "🔺1778",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "2",
-      "name": "storytold/cadcraft",
-      "url": "https://github.com/storytold/cadcraft",
-      "stars": "5.6k",
-      "growth": "🔺460",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "description_cn": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
-    },
-    {
-      "rank": "3",
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": "5.3k",
-      "growth": "🔺444",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "4",
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "stars": "14k",
-      "growth": "🔺388",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
-    },
-    {
-      "rank": "5",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "12.2k",
-      "growth": "🔺380",
-      "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Cursor plugin specification and official plugins"
-    },
-    {
-      "rank": "6",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "13.1k",
-      "growth": "🔺296",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
-    },
-    {
-      "rank": "7",
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "9.8k",
-      "growth": "🔺267",
+      "stars": "11.2k",
+      "growth": "🔺1340",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
+      "rank": "3",
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "13k",
+      "growth": "🔺766",
+      "description": "Cursor plugin specification and official plugins",
+      "description_cn": "Cursor plugin specification and official plugins"
+    },
+    {
+      "rank": "4",
+      "name": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "stars": "6k",
+      "growth": "🔺742",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "5",
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "13.8k",
+      "growth": "🔺731",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "rank": "6",
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": "3.4k",
+      "growth": "🔺728",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "description_cn": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+    },
+    {
+      "rank": "7",
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": "14.7k",
+      "growth": "🔺697",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+    },
+    {
       "rank": "8",
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": "10.3k",
+      "growth": "🔺501",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+    },
+    {
+      "rank": "9",
       "name": "ARahim3/DigUp",
       "url": "https://github.com/ARahim3/DigUp",
-      "stars": "4.5k",
-      "growth": "🔺254",
+      "stars": "5k",
+      "growth": "🔺456",
       "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
       "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
     },
     {
-      "rank": "9",
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "stars": "15.2k",
-      "growth": "🔺239",
-      "description": "Connect your users to their apps",
-      "description_cn": "Connect your users to their apps"
-    },
-    {
       "rank": "10",
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "stars": "5.7k",
-      "growth": "🔺196",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+      "name": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "stars": "16.6k",
+      "growth": "🔺438",
+      "description": "A list of open source games.",
+      "description_cn": "A list of open source games."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "The open agent skills tool - npx skills"
     }
   ],
-  "updated_at": "2026-10-19T23:26:50.581058"
+  "updated_at": "2026-10-20T04:05:55.411706"
 }
