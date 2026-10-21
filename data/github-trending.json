@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
+      "name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "stars": "10.9k",
+      "growth": "🔺5874",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "description_cn": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+    },
+    {
+      "rank": "2",
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": "3.1k",
+      "growth": "🔺740",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
+    },
+    {
+      "rank": "3",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "16.8k",
-      "growth": "🔺1778",
+      "stars": "17.5k",
+      "growth": "🔺723",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
-      "rank": "2",
+      "rank": "4",
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "11.2k",
-      "growth": "🔺1340",
+      "stars": "11.9k",
+      "growth": "🔺697",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
-      "rank": "3",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "13k",
-      "growth": "🔺766",
-      "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Cursor plugin specification and official plugins"
-    },
-    {
-      "rank": "4",
+      "rank": "5",
       "name": "withmarbleapp/os-taxonomy",
       "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": "6k",
-      "growth": "🔺742",
+      "stars": "6.6k",
+      "growth": "🔺551",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "5",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "13.8k",
-      "growth": "🔺731",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
-    },
-    {
       "rank": "6",
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": "3.4k",
-      "growth": "🔺728",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "description_cn": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "18.1k",
+      "growth": "🔺390",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_cn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
     },
     {
       "rank": "7",
       "name": "storytold/wordcraft",
       "url": "https://github.com/storytold/wordcraft",
-      "stars": "14.7k",
-      "growth": "🔺697",
+      "stars": "15k",
+      "growth": "🔺320",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
     },
     {
       "rank": "8",
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "stars": "10.3k",
-      "growth": "🔺501",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "description_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent."
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "14.1k",
+      "growth": "🔺284",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
     },
     {
       "rank": "9",
-      "name": "ARahim3/DigUp",
-      "url": "https://github.com/ARahim3/DigUp",
-      "stars": "5k",
-      "growth": "🔺456",
-      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": "4.1k",
+      "growth": "🔺214",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     },
     {
       "rank": "10",
-      "name": "bobeff/open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "stars": "16.6k",
-      "growth": "🔺438",
-      "description": "A list of open source games.",
-      "description_cn": "A list of open source games."
+      "name": "ARahim3/DigUp",
+      "url": "https://github.com/ARahim3/DigUp",
+      "stars": "5.2k",
+      "growth": "🔺212",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "The open agent skills tool - npx skills"
     }
   ],
-  "updated_at": "2026-10-21T00:26:27.891735"
+  "updated_at": "2026-10-21T07:17:07.242885"
 }
