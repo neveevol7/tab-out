@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "Gathin23/cleanyourtv",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "stars": "18.3k",
-      "growth": "🔺7346",
-      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "description_cn": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars": "18.6k",
+      "growth": "🔺1315",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
     },
     {
       "rank": "2",
-      "name": "deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "stars": "17.6k",
-      "growth": "🔺5663",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "description_cn": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": "3.8k",
+      "growth": "🔺770",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "rank": "3",
-      "name": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "stars": "3.7k",
-      "growth": "🔺984",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "stars": "3.9k",
+      "growth": "🔺602",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "description_cn": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
     },
     {
       "rank": "4",
       "name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "18.4k",
-      "growth": "🔺929",
+      "stars": "19.6k",
+      "growth": "🔺549",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "5",
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": "7k",
-      "growth": "🔺421",
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "stars": "8.3k",
+      "growth": "🔺449",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "rank": "6",
+      "name": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "stars": "4.8k",
+      "growth": "🔺426",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "6",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "18.5k",
-      "growth": "🔺380",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "description_cn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
-    },
-    {
       "rank": "7",
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "stars": "3.4k",
-      "growth": "🔺376",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "15.2k",
+      "growth": "🔺347",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
     },
     {
       "rank": "8",
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "12.2k",
-      "growth": "🔺360",
+      "stars": "13k",
+      "growth": "🔺262",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "rank": "9",
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "stars": "15.3k",
-      "growth": "🔺289",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "19k",
+      "growth": "🔺225",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_cn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
     },
     {
       "rank": "10",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "14.4k",
-      "growth": "🔺266",
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "description_cn": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+      "name": "storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "stars": "15.7k",
+      "growth": "🔺210",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "The open agent skills tool - npx skills"
     }
   ],
-  "updated_at": "2026-10-23T22:57:26.774301"
+  "updated_at": "2026-10-24T03:53:01.518411"
 }
