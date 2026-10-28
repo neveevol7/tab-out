@@ -4,8 +4,8 @@
       "rank": "1",
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "stars": "6k",
-      "growth": "🔺1671",
+      "stars": "6.7k",
+      "growth": "🔺679",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
@@ -13,26 +13,26 @@
       "rank": "2",
       "name": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "stars": "3.7k",
-      "growth": "🔺1184",
+      "stars": "4.2k",
+      "growth": "🔺491",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "description_cn": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally"
     },
     {
       "rank": "3",
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "stars": "4k",
-      "growth": "🔺825",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-      "description_cn": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": "16k",
+      "growth": "🔺464",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
       "name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "16.2k",
-      "growth": "🔺703",
+      "stars": "16.5k",
+      "growth": "🔺363",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
     },
@@ -40,55 +40,55 @@
       "rank": "5",
       "name": "JoasASantos/REA-Prompts",
       "url": "https://github.com/JoasASantos/REA-Prompts",
-      "stars": "2.7k",
-      "growth": "🔺605",
+      "stars": "3k",
+      "growth": "🔺293",
       "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
       "description_cn": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program"
     },
     {
       "rank": "6",
-      "name": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "stars": "4.8k",
-      "growth": "🔺601",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "description_cn": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "stars": "14k",
+      "growth": "🔺279",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
     },
     {
       "rank": "7",
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "stars": "9.4k",
-      "growth": "🔺583",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "description_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+      "name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "stars": "13.5k",
+      "growth": "🔺268",
+      "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_cn": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device."
     },
     {
       "rank": "8",
       "name": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "stars": "5.7k",
-      "growth": "🔺560",
+      "stars": "6k",
+      "growth": "🔺265",
       "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
       "description_cn": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game."
     },
     {
       "rank": "9",
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "stars": "19.7k",
-      "growth": "🔺533",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "description_cn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": "4.4k",
+      "growth": "🔺246",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
     },
     {
       "rank": "10",
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "13.7k",
-      "growth": "🔺511",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "stars": "4.3k",
+      "growth": "🔺243",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "description_cn": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
     }
   ],
-  "updated_at": "2026-10-27T21:57:07.977802"
+  "updated_at": "2026-10-28T01:08:05.986319"
 }
