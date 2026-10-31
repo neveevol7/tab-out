@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "stars": "4.6k",
-      "growth": "рҹ”ә909",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": "3.9k",
+      "growth": "🔺814",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
     },
     {
       "rank": "2",
-      "name": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "stars": "3.5k",
-      "growth": "рҹ”ә776",
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": "5.3k",
+      "growth": "🔺765",
       "description": "No description available.",
       "description_cn": ""
     },
     {
       "rank": "3",
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "stars": "17.1k",
-      "growth": "рҹ”ә543",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "stars": "5.9k",
+      "growth": "🔺729",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
     },
     {
       "rank": "4",
-      "name": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "stars": "4.7k",
-      "growth": "рҹ”ә457",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": "8.7k",
+      "growth": "🔺656",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "description_cn": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
     },
     {
       "rank": "5",
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "stars": "5.2k",
-      "growth": "рҹ”ә400",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "17.7k",
+      "growth": "🔺380",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
     },
     {
       "rank": "6",
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": "8k",
-      "growth": "рҹ”ә390",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "stars": "3.8k",
+      "growth": "🔺352",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "description_cn": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups."
     },
     {
       "rank": "7",
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "stars": "7.7k",
-      "growth": "рҹ”ә365",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": "5k",
+      "growth": "🔺335",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_cn": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
     },
     {
       "rank": "8",
-      "name": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "stars": "5.6k",
-      "growth": "рҹ”ә309",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": "8k",
+      "growth": "🔺311",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
       "rank": "9",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "17.3k",
-      "growth": "рҹ”ә290",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "stars": "5.5k",
+      "growth": "🔺306",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "description_cn": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     },
     {
       "rank": "10",
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "stars": "5.2k",
-      "growth": "рҹ”ә288",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "stars": "4.9k",
+      "growth": "🔺187",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
     }
   ],
-  "updated_at": "2026-10-30T23:30:50.573269"
+  "updated_at": "2026-10-31T04:44:51.809901"
 }
