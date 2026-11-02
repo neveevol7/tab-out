@@ -94,184 +94,184 @@
   "weekly": [
     {
       "rank": "1",
-      "name": "Gathin23/cleanyourtv",
-      "url": "https://github.com/Gathin23/cleanyourtv",
-      "stars": "31.2k",
-      "growth": "🔺26160",
-      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "description_cn": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "stars": "32.1k",
+      "growth": "🔺4392",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "description_cn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
     },
     {
       "rank": "2",
-      "name": "deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "stars": "21.8k",
-      "growth": "🔺9823",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "description_cn": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
-    },
-    {
-      "rank": "3",
-      "name": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "20.1k",
-      "growth": "🔺5097",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
-    },
-    {
-      "rank": "4",
-      "name": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "stars": "36.3k",
-      "growth": "🔺4638",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "description_cn": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-    },
-    {
-      "rank": "5",
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "stars": "13.2k",
-      "growth": "🔺3408",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "description_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-    },
-    {
-      "rank": "6",
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "stars": "19.4k",
-      "growth": "🔺2839",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
-    },
-    {
-      "rank": "7",
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "stars": "32.6k",
-      "growth": "🔺2587",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "description_cn": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
-    },
-    {
-      "rank": "8",
-      "name": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "stars": "5.2k",
-      "growth": "🔺2416",
-      "description": "No description available.",
-      "description_cn": ""
-    },
-    {
-      "rank": "9",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "15.5k",
-      "growth": "🔺2358",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
-    },
-    {
-      "rank": "10",
-      "name": "hypit-ai/hypit",
-      "url": "https://github.com/hypit-ai/hypit",
-      "stars": "25.3k",
-      "growth": "🔺2341",
-      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
-    },
-    {
-      "rank": "11",
       "name": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "stars": "4.3k",
-      "growth": "🔺2316",
+      "stars": "8k",
+      "growth": "🔺4247",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
-      "rank": "12",
-      "name": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "stars": "7.3k",
-      "growth": "🔺2026",
+      "rank": "3",
+      "name": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "stars": "24.5k",
+      "growth": "🔺3516",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "description_cn": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+    },
+    {
+      "rank": "4",
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": "23k",
+      "growth": "🔺3345",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+    },
+    {
+      "rank": "5",
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": "5.3k",
+      "growth": "🔺3164",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "13",
-      "name": "storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "stars": "15.9k",
-      "growth": "🔺1882",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "description_cn": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
-    },
-    {
-      "rank": "14",
+      "rank": "6",
       "name": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
-      "stars": "29.8k",
-      "growth": "🔺1863",
+      "stars": "32.6k",
+      "growth": "🔺2966",
       "description": "No description available.",
       "description_cn": ""
     },
     {
-      "rank": "15",
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "29.7k",
-      "growth": "🔺1843",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "description_cn": "Free and open-source macOS menu bar toolkit."
+      "rank": "7",
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "stars": "5.5k",
+      "growth": "🔺2703",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "description_cn": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
     },
     {
-      "rank": "16",
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stars": "32.9k",
-      "growth": "🔺1787",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。"
+      "rank": "8",
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "17.7k",
+      "growth": "🔺2471",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
     },
     {
-      "rank": "17",
+      "rank": "9",
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "stars": "23.5k",
+      "growth": "🔺2439",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "description_cn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    },
+    {
+      "rank": "10",
       "name": "HeyPuter/everything",
       "url": "https://github.com/HeyPuter/everything",
-      "stars": "3.8k",
-      "growth": "🔺1781",
+      "stars": "5.9k",
+      "growth": "🔺2199",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
     },
     {
+      "rank": "11",
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "stars": "20.8k",
+      "growth": "🔺2126",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_cn": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "rank": "12",
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "stars": "4.6k",
+      "growth": "🔺2027",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "description_cn": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally"
+    },
+    {
+      "rank": "13",
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "stars": "34k",
+      "growth": "🔺1896",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "description_cn": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "rank": "14",
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": "5k",
+      "growth": "🔺1851",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_cn": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+    },
+    {
+      "rank": "15",
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "stars": "37.8k",
+      "growth": "🔺1850",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "description_cn": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "rank": "16",
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "20.9k",
+      "growth": "🔺1843",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_cn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+    },
+    {
+      "rank": "17",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "26.8k",
+      "growth": "🔺1759",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+    },
+    {
       "rank": "18",
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "stars": "22.9k",
-      "growth": "🔺1684",
-      "description": "Give your agent CAD superpowers.",
-      "description_cn": "Give your agent CAD superpowers."
+      "name": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "stars": "6.6k",
+      "growth": "🔺1731",
+      "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+      "description_cn": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game."
     },
     {
       "rank": "19",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "13.9k",
-      "growth": "🔺1650",
-      "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Cursor plugin specification and official plugins"
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "stars": "29.9k",
+      "growth": "🔺1667",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "description_cn": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
     },
     {
       "rank": "20",
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "stars": "32.1k",
-      "growth": "🔺1635",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-      "description_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "stars": "31.2k",
+      "growth": "🔺1665",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "description_cn": "Free and open-source macOS menu bar toolkit."
     }
   ],
-  "updated_at": "2026-11-01T21:50:03.956094"
+  "updated_at": "2026-11-02T01:20:47.816538"
 }
