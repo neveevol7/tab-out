@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": "7.7k",
+      "growth": "🔺3836",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "Craft Anything: understand how any software works, and craft your own."
+    },
+    {
+      "rank": "2",
       "name": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "stars": "12.6k",
-      "growth": "🔺10535",
+      "stars": "16.4k",
+      "growth": "🔺3751",
       "description": "Towards a More Autonomous Agent System",
       "description_cn": "Towards a More Autonomous Agent System"
     },
     {
-      "rank": "2",
+      "rank": "3",
       "name": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "stars": "5.8k",
-      "growth": "🔺3350",
+      "stars": "7.3k",
+      "growth": "🔺1565",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
-      "rank": "3",
+      "rank": "4",
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "stars": "6k",
-      "growth": "🔺2609",
+      "stars": "7.3k",
+      "growth": "🔺1336",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
     },
     {
-      "rank": "4",
+      "rank": "5",
       "name": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "stars": "5.2k",
-      "growth": "🔺2527",
+      "stars": "6k",
+      "growth": "🔺812",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
     },
     {
-      "rank": "5",
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stars": "5.5k",
-      "growth": "🔺1553",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "description_cn": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+      "rank": "6",
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": "4.1k",
+      "growth": "🔺638",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
     },
     {
-      "rank": "6",
+      "rank": "7",
       "name": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": "3.9k",
-      "growth": "🔺1325",
+      "stars": "4.4k",
+      "growth": "🔺567",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "description_cn": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
     },
     {
-      "rank": "7",
-      "name": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": "9.9k",
-      "growth": "🔺1220",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "description_cn": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
-    },
-    {
       "rank": "8",
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "stars": "6.5k",
-      "growth": "🔺1198",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "stars": "2.9k",
+      "growth": "🔺491",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "VERY experimental Nintendo Switch 2 emulator"
     },
     {
       "rank": "9",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "18.8k",
-      "growth": "🔺1184",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": "9.8k",
+      "growth": "🔺453",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "description_cn": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
     },
     {
       "rank": "10",
-      "name": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills",
-      "stars": "10.3k",
-      "growth": "🔺1000",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "description_cn": "A collection of agent skills that help you build great interfaces."
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "stars": "10.4k",
+      "growth": "🔺450",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description_cn": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "Free and open-source macOS menu bar toolkit."
     }
   ],
-  "updated_at": "2026-11-04T00:28:15.969034"
+  "updated_at": "2026-11-04T08:47:20.109648"
 }
