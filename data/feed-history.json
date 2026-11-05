@@ -80,6 +80,246 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/garrytan/status/2118221083233206736",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "GStack’s /review skill is actually useful for preventing bugs still https://t.co/aROfFOWDwK",
+    "title_cn": "GStack’s /review skill is actually useful for preventing bugs still https://t.co/aROfFOWDwK",
+    "date": "2026-11-05T05:57:15.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2118208851506036989",
+    "type": "x",
+    "name": "Swyx",
+    "title": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models https://t.co/zvJFP9EIPL",
+    "title_cn": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models https://t.co/zvJFP9EIPL",
+    "date": "2026-11-05T05:08:39.000Z"
+  },
+  {
+    "url": "https://x.com/ryolu_/status/2118207967728451760",
+    "type": "x",
+    "name": "Ryo Lu",
+    "title": "gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want?\n\ni want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think, care, and make together.\n\nwill share more soon!",
+    "title_cn": "gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want?\n\ni want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think, care, and make together.\n\nwill share more soon!",
+    "date": "2026-11-05T05:05:08.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2118197393229545534",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Was super fun hosting this event with my friends from @OpenAI and @Amplitude_HQ https://t.co/VVwHHCVofW https://t.co/TPdxuCYJxz",
+    "title_cn": "Was super fun hosting this event with my friends from @OpenAI and @Amplitude_HQ https://t.co/VVwHHCVofW https://t.co/TPdxuCYJxz",
+    "date": "2026-11-05T04:23:07.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2118180254300688857",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions!\n\nReplit is powering SMFL’s core software products and has massively accelerated their development process: For example they recently in just one week, with one person, completed a project that previously required six people working for six months.\n\nNext we’re partnering to bring AI-powered software creation to Japanese enterprises, helping them overcome labor shortages, accelerate innovation, and unlock entirely new business opportunities.\n\nhttps://t.co/eTMLFDkIv1",
+    "title_cn": "Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions!\n\nReplit is powering SMFL’s core software products and has massively accelerated their development process: For example they recently in just one week, with one person, completed a project that previously required six people working for six months.\n\nNext we’re partnering to bring AI-powered software creation to Japanese enterprises, helping them overcome labor shortages, accelerate innovation, and unlock entirely new business opportunities.\n\nhttps://t.co/eTMLFDkIv1",
+    "date": "2026-11-05T03:15:01.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2118170810841965023",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "all of these new @openai hires obvoiusly because they read my codex piece https://t.co/UA75jNNUoJ",
+    "title_cn": "all of these new @openai hires obvoiusly because they read my codex piece https://t.co/UA75jNNUoJ",
+    "date": "2026-11-05T02:37:29.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2118169736563589350",
+    "type": "x",
+    "name": "Swyx",
+    "title": "announced on aie channel. so hyped\n\nhttps://t.co/eFuOmBuROE",
+    "title_cn": "announced on aie channel. so hyped\n\nhttps://t.co/eFuOmBuROE",
+    "date": "2026-11-05T02:33:13.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2118166970273292299",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "We will all be learning in coming weeks & months, that most human-made software:\n\n▫️ Was really slow\n▫️ Had many security vulnerabilities\n▫️ Was under-specified and incorrect\n\nAI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think about failure modes we couldn't wrap our heads around.\n\nIt will prove, formally verify, load test, harden. It will turn memory-unsafe foundations into robust, optimized ones. If you ask, it'll thoroughly document it, teach you about it, make diagrams, animations, and slide decks.\n\nIn many ways, we are witnessing the true birth of software engineering.",
+    "title_cn": "We will all be learning in coming weeks & months, that most human-made software:\n\n▫️ Was really slow\n▫️ Had many security vulnerabilities\n▫️ Was under-specified and incorrect\n\nAI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think about failure modes we couldn't wrap our heads around.\n\nIt will prove, formally verify, load test, harden. It will turn memory-unsafe foundations into robust, optimized ones. If you ask, it'll thoroughly document it, teach you about it, make diagrams, animations, and slide decks.\n\nIn many ways, we are witnessing the true birth of software engineering.",
+    "date": "2026-11-05T02:22:14.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2118154891176857608",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "We did it guys\n\nConnie Chan is a private citizen https://t.co/0CtlQS2XNU https://t.co/kLvPG0kTUh",
+    "title_cn": "We did it guys\n\nConnie Chan is a private citizen https://t.co/0CtlQS2XNU https://t.co/kLvPG0kTUh",
+    "date": "2026-11-05T01:34:14.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2118152585911869634",
+    "type": "x",
+    "name": "Swyx",
+    "title": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. https://t.co/i56rhUUFg0",
+    "title_cn": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. https://t.co/i56rhUUFg0",
+    "date": "2026-11-05T01:25:04.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2118152230260092940",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "In just 24 hours 🤯\n✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified\n✓ 𝟱𝟴𝟬 critical or high\n✓ 𝟭,𝟰𝟭𝟭 already patched by Agent\n\nVercel Security Reviews are 100% free until Nov 10 https://t.co/e4mHdykByr",
+    "title_cn": "In just 24 hours 🤯\n✓ 𝟲,𝟴𝟭𝟳 vulnerabilities identified\n✓ 𝟱𝟴𝟬 critical or high\n✓ 𝟭,𝟰𝟭𝟭 already patched by Agent\n\nVercel Security Reviews are 100% free until Nov 10 https://t.co/e4mHdykByr",
+    "date": "2026-11-05T01:23:39.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2118148902125998468",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "CatGPT https://t.co/2teaKfXFIr",
+    "title_cn": "CatGPT https://t.co/2teaKfXFIr",
+    "date": "2026-11-05T01:10:26.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2118146834325733453",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "Reach out to @clintgibler if you want to work on securing the world.",
+    "title_cn": "Reach out to @clintgibler if you want to work on securing the world.",
+    "date": "2026-11-05T01:02:13.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2118146794362405231",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+    "title_cn": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. https://t.co/Hj3w8j1Xf2",
+    "date": "2026-11-05T01:02:03.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2118143456799494541",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "This was really fun - thanks @PeterJ_Walker and guests for coming so spontaneously. \n\nAim to do this every week so if you know someone who wants to be interviewed, please DM me. \n\nLooking for speakers who a) can speak about an area casually but in depth for 45 mins and b) who are not a household name now but will most likely be one in 12 months. \n\nPhoto post event taken by @tedkornish",
+    "title_cn": "This was really fun - thanks @PeterJ_Walker and guests for coming so spontaneously. \n\nAim to do this every week so if you know someone who wants to be interviewed, please DM me. \n\nLooking for speakers who a) can speak about an area casually but in depth for 45 mins and b) who are not a household name now but will most likely be one in 12 months. \n\nPhoto post event taken by @tedkornish",
+    "date": "2026-11-05T00:48:47.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2118142497188610501",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "2028:\n\n* Ossoff wins dem primary over Talarico (whose profile considerably increases throughout 2027) and AOC\n\n* Rubio beats JD Vance (too tied to Trump) in the GOP primary\n\n* Ossoff wins the presidency\n\n(I'm a foreign-born VC, you can totally trust my U.S. political predictions) https://t.co/IshuqUdBBE",
+    "title_cn": "2028:\n\n* Ossoff wins dem primary over Talarico (whose profile considerably increases throughout 2027) and AOC\n\n* Rubio beats JD Vance (too tied to Trump) in the GOP primary\n\n* Ossoff wins the presidency\n\n(I'm a foreign-born VC, you can totally trust my U.S. political predictions) https://t.co/IshuqUdBBE",
+    "date": "2026-11-05T00:44:59.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2118138941765280149",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "omfg https://t.co/q9LDAvVXND",
+    "title_cn": "omfg https://t.co/q9LDAvVXND",
+    "date": "2026-11-05T00:30:51.000Z"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2118138764161913278",
+    "type": "x",
+    "name": "Thibault Sottiaux",
+    "title": "CatGPT",
+    "title_cn": "CatGPT",
+    "date": "2026-11-05T00:30:09.000Z"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2118137612577968402",
+    "type": "x",
+    "name": "Cat Wu",
+    "title": "Some news: I’m joining OpenAI to lead product management for Core Products!\n\nI have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission.\n\nI’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love.\n\nLots to learn, and lots to build. Please keep your feedback coming!",
+    "title_cn": "Some news: I’m joining OpenAI to lead product management for Core Products!\n\nI have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission.\n\nI’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love.\n\nLots to learn, and lots to build. Please keep your feedback coming!",
+    "date": "2026-11-05T00:25:34.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2118124292500287814",
+    "type": "x",
+    "name": "Thariq",
+    "title": "sorry I mean inshallah",
+    "title_cn": "sorry I mean inshallah",
+    "date": "2026-11-04T23:32:38.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2118124218839859700",
+    "type": "x",
+    "name": "Thariq",
+    "title": "manifesting\n\n⠀⠀⠀⠀    🕯️🕯️🕯️🕯️🕯️\n⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️\n 🕯️⠀⠀Apple lets apps⠀   🕯️\n🕯️⠀⠀⠀build Shortcuts      🕯️\n🕯️⠀⠀⠀⠀.   for you⠀⠀ ⠀    🕯️\n⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️\n⠀⠀⠀⠀    🕯️🕯️🕯️🕯️🕯️",
+    "title_cn": "manifesting\n\n⠀⠀⠀⠀    🕯️🕯️🕯️🕯️🕯️\n⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️\n 🕯️⠀⠀Apple lets apps⠀   🕯️\n🕯️⠀⠀⠀build Shortcuts      🕯️\n🕯️⠀⠀⠀⠀.   for you⠀⠀ ⠀    🕯️\n⠀⠀🕯️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕯️\n⠀⠀⠀⠀    🕯️🕯️🕯️🕯️🕯️",
+    "date": "2026-11-04T23:32:21.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2118120795780370768",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "What's the best group chat tool for engaging with a user community? Discord feels too overwhelming, WhatsApp isn't widely used in the US, iMessage is too personal, Slack feels too corporate",
+    "title_cn": "What's the best group chat tool for engaging with a user community? Discord feels too overwhelming, WhatsApp isn't widely used in the US, iMessage is too personal, Slack feels too corporate",
+    "date": "2026-11-04T23:18:45.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2118116514700386439",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase. The humans merely curate the automations. https://t.co/7A1dRKVtJk",
+    "title_cn": "Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase. The humans merely curate the automations. https://t.co/7A1dRKVtJk",
+    "date": "2026-11-04T23:01:44.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2118075898830463048",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise. https://t.co/0hDrXe2PIX",
+    "title_cn": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise. https://t.co/0hDrXe2PIX",
+    "date": "2026-11-04T20:20:20.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2118058438714650985",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. \n\nBuilders of tech in California had a good day yesterday: we want abundance and asset seizure is the one guaranteed way to kill the golden goose. \n\nHuge thanks to Sergey Brin here. https://t.co/HIznVbS14W",
+    "title_cn": "We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. \n\nBuilders of tech in California had a good day yesterday: we want abundance and asset seizure is the one guaranteed way to kill the golden goose. \n\nHuge thanks to Sergey Brin here. https://t.co/HIznVbS14W",
+    "date": "2026-11-04T19:10:58.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2118033608007139638",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "I don't use AI to call local businesses but I literally have no sympathy for using it to call Xfinity's shitty customer support.\n\nTheir phone system won't let you talk to a human when your address has an active outage...what?! https://t.co/znuMdrusP3 https://t.co/1kqwNCppk2",
+    "title_cn": "I don't use AI to call local businesses but I literally have no sympathy for using it to call Xfinity's shitty customer support.\n\nTheir phone system won't let you talk to a human when your address has an active outage...what?! https://t.co/znuMdrusP3 https://t.co/1kqwNCppk2",
+    "date": "2026-11-04T17:32:17.000Z"
+  },
+  {
+    "url": "https://x.com/mattturck/status/2118010883754299884",
+    "type": "x",
+    "name": "Matt Turck",
+    "title": "As a customer, what I want: one central brain (AI) that can interact with me whether I text it or speak to it, whether I want to buy something or need support, and can actually do something helpful for me (agentic action) - 24/7, always in a good mood, instantly available.\n\nThe combination between @dialpad and @ada_cx creates a major new entrant pursuing this big vision.\n\nAs an investor since the Series A, excited for @mimurchison and team to go after it.",
+    "title_cn": "As a customer, what I want: one central brain (AI) that can interact with me whether I text it or speak to it, whether I want to buy something or need support, and can actually do something helpful for me (agentic action) - 24/7, always in a good mood, instantly available.\n\nThe combination between @dialpad and @ada_cx creates a major new entrant pursuing this big vision.\n\nAs an investor since the Series A, excited for @mimurchison and team to go after it.",
+    "date": "2026-11-04T16:02:00.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2118002158201340288",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "Read the written post for all 5 steps: https://t.co/Y03RZBpCJ5",
+    "title_cn": "Read the written post for all 5 steps: https://t.co/Y03RZBpCJ5",
+    "date": "2026-11-04T15:27:19.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2117904733658845218",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Wow can’t believe Michigan is under Shawerma law now",
+    "title_cn": "Wow can’t believe Michigan is under Shawerma law now",
+    "date": "2026-11-04T09:00:11.000Z"
+  },
+  {
+    "url": "https://x.com/zarazhangrui/status/2117869262505427072",
+    "type": "x",
+    "name": "Zara Zhang",
+    "title": "One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers.\n\nIs it because only developers and designers need personal websites, or because only they know how to make one? https://t.co/mEG5Z28kyU",
+    "title_cn": "One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers.\n\nIs it because only developers and designers need personal websites, or because only they know how to make one? https://t.co/mEG5Z28kyU",
+    "date": "2026-11-04T06:39:14.000Z"
+  },
+  {
     "url": "https://x.com/petergyang/status/2117825980115067035",
     "type": "x",
     "name": "Peter Yang",
