@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "stars": "7.7k",
-      "growth": "🔺3836",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "description_cn": "Craft Anything: understand how any software works, and craft your own."
-    },
-    {
-      "rank": "2",
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "stars": "16.4k",
-      "growth": "🔺3751",
-      "description": "Towards a More Autonomous Agent System",
-      "description_cn": "Towards a More Autonomous Agent System"
-    },
-    {
-      "rank": "3",
       "name": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "stars": "7.3k",
-      "growth": "🔺1565",
+      "stars": "19.7k",
+      "growth": "🔺12326",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
-      "rank": "4",
+      "rank": "2",
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "stars": "7.3k",
-      "growth": "🔺1336",
+      "stars": "14.4k",
+      "growth": "🔺7111",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
     },
     {
+      "rank": "3",
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": "8.5k",
+      "growth": "🔺6306",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "VERY experimental Nintendo Switch 2 emulator"
+    },
+    {
+      "rank": "4",
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": "8.3k",
+      "growth": "🔺6025",
+      "description": "YellowFruit third-party client",
+      "description_cn": "YellowFruit third-party client"
+    },
+    {
       "rank": "5",
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "stars": "6k",
-      "growth": "🔺812",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
+      "name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "stars": "7.5k",
+      "growth": "🔺4538",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "description_cn": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
     },
     {
       "rank": "6",
       "name": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "stars": "4.1k",
-      "growth": "🔺638",
+      "stars": "6.9k",
+      "growth": "🔺2895",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "description_cn": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
     },
     {
       "rank": "7",
-      "name": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": "4.4k",
-      "growth": "🔺567",
-      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "description_cn": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
-    },
-    {
-      "rank": "8",
       "name": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
-      "stars": "2.9k",
-      "growth": "🔺491",
+      "stars": "5.8k",
+      "growth": "🔺2892",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "description_cn": "VERY experimental Nintendo Switch 2 emulator"
     },
     {
+      "rank": "8",
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": "6.7k",
+      "growth": "🔺2241",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
+    },
+    {
       "rank": "9",
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "stars": "9.8k",
-      "growth": "🔺453",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "description_cn": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": "8.2k",
+      "growth": "🔺2227",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
     },
     {
       "rank": "10",
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "stars": "10.4k",
-      "growth": "🔺450",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "description_cn": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": "4.5k",
+      "growth": "🔺2101",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "A collection of agent skills that help you build great interfaces."
     }
   ],
-  "updated_at": "2026-11-11T21:07:15.571417"
+  "updated_at": "2026-11-12T02:45:20.163469"
 }
