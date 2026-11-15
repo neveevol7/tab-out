@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "stars": "19.7k",
-      "growth": "🔺12326",
-      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "description_cn": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
-    },
-    {
-      "rank": "2",
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "stars": "14.4k",
-      "growth": "🔺7111",
+      "stars": "15.9k",
+      "growth": "🔺1509",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
     },
     {
+      "rank": "2",
+      "name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "stars": "7.5k",
+      "growth": "🔺1427",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "description_cn": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+    },
+    {
       "rank": "3",
-      "name": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "stars": "8.5k",
-      "growth": "🔺6306",
-      "description": "VERY experimental Nintendo Switch 2 emulator",
-      "description_cn": "VERY experimental Nintendo Switch 2 emulator"
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": "12.2k",
+      "growth": "🔺1216",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "description_cn": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
     },
     {
       "rank": "4",
-      "name": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "stars": "8.3k",
-      "growth": "🔺6025",
-      "description": "YellowFruit third-party client",
-      "description_cn": "YellowFruit third-party client"
+      "name": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "stars": "11.8k",
+      "growth": "🔺1160",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "description_cn": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
     },
     {
       "rank": "5",
-      "name": "NotRexed/Hookshot",
-      "url": "https://github.com/NotRexed/Hookshot",
-      "stars": "7.5k",
-      "growth": "🔺4538",
-      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "description_cn": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+      "name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "stars": "3.1k",
+      "growth": "🔺1058",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "stars": "6.9k",
-      "growth": "🔺2895",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "description_cn": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "stars": "9.8k",
+      "growth": "🔺985",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "description_cn": "like netcat, but over Tailscale's data plane, without Tailscale's control plane"
     },
     {
       "rank": "7",
-      "name": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "stars": "5.8k",
-      "growth": "🔺2892",
+      "name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "stars": "4.1k",
+      "growth": "🔺904",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "8",
+      "name": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": "5.3k",
+      "growth": "🔺802",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+    },
+    {
+      "rank": "9",
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": "9.2k",
+      "growth": "🔺681",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "description_cn": "VERY experimental Nintendo Switch 2 emulator"
     },
     {
-      "rank": "8",
-      "name": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "stars": "6.7k",
-      "growth": "🔺2241",
-      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "description_cn": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
-    },
-    {
-      "rank": "9",
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "stars": "8.2k",
-      "growth": "🔺2227",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
-    },
-    {
       "rank": "10",
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "stars": "4.5k",
-      "growth": "🔺2101",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "description_cn": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": "11.8k",
+      "growth": "🔺576",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "A collection of agent skills that help you build great interfaces."
     }
   ],
-  "updated_at": "2026-11-14T22:07:11.953264"
+  "updated_at": "2026-11-15T05:34:27.754453"
 }
