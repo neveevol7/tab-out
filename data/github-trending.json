@@ -94,184 +94,184 @@
   "weekly": [
     {
       "rank": "1",
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "stars": "16.4k",
-      "growth": "🔺14286",
-      "description": "Towards a More Autonomous Agent System",
-      "description_cn": "Towards a More Autonomous Agent System"
+      "name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "stars": "32.6k",
+      "growth": "🔺28744",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "Craft Anything: understand how any software works, and craft your own."
     },
     {
       "rank": "2",
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": "34.5k",
-      "growth": "🔺6071",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "description_cn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": "23.1k",
+      "growth": "🔺21020",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "Towards a More Autonomous Agent System"
     },
     {
       "rank": "3",
       "name": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "stars": "7.3k",
-      "growth": "🔺4915",
+      "stars": "22.7k",
+      "growth": "🔺20251",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "description_cn": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     },
     {
       "rank": "4",
-      "name": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "stars": "6.8k",
-      "growth": "🔺4603",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "stars": "28k",
+      "growth": "🔺14190",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "description_cn": "An open source design system that's fully customizable and agent ready"
     },
     {
       "rank": "5",
       "name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "stars": "7.3k",
-      "growth": "🔺3945",
+      "stars": "15.9k",
+      "growth": "🔺12565",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "description_cn": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
     },
     {
       "rank": "6",
-      "name": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "stars": "7.7k",
-      "growth": "🔺3836",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "description_cn": "Craft Anything: understand how any software works, and craft your own."
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "stars": "39.5k",
+      "growth": "🔺8510",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "description_cn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
     },
     {
       "rank": "7",
-      "name": "wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "stars": "24.4k",
-      "growth": "🔺3391",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+      "name": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "stars": "9.2k",
+      "growth": "🔺6987",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "VERY experimental Nintendo Switch 2 emulator"
     },
     {
       "rank": "8",
+      "name": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "stars": "8.8k",
+      "growth": "🔺6593",
+      "description": "YellowFruit third-party client",
+      "description_cn": "YellowFruit third-party client"
+    },
+    {
+      "rank": "9",
       "name": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "stars": "6k",
-      "growth": "🔺3339",
+      "stars": "8.6k",
+      "growth": "🔺5931",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
     },
     {
-      "rank": "9",
-      "name": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "stars": "9.3k",
-      "growth": "🔺3316",
-      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-      "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-    },
-    {
       "rank": "10",
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "stars": "19.1k",
-      "growth": "🔺2898",
-      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
+      "name": "wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": "27.3k",
+      "growth": "🔺5295",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
     },
     {
       "rank": "11",
-      "name": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "stars": "6.1k",
-      "growth": "🔺2874",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "description_cn": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+      "name": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "stars": "7.4k",
+      "growth": "🔺4925",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
     },
     {
       "rank": "12",
+      "name": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "stars": "7.2k",
+      "growth": "🔺4662",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
+    },
+    {
+      "rank": "13",
       "name": "CopilotKit/OpenBot",
       "url": "https://github.com/CopilotKit/OpenBot",
-      "stars": "10k",
-      "growth": "🔺2813",
+      "stars": "12.2k",
+      "growth": "🔺4638",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "description_cn": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
     },
     {
-      "rank": "13",
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stars": "5.8k",
-      "growth": "🔺2667",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "description_cn": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+      "rank": "14",
+      "name": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "stars": "11.8k",
+      "growth": "🔺4491",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "description_cn": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
     },
     {
-      "rank": "14",
+      "rank": "15",
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "stars": "21.4k",
+      "growth": "🔺4364",
+      "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "description_cn": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone."
+    },
+    {
+      "rank": "16",
+      "name": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "stars": "8k",
+      "growth": "🔺4311",
+      "description": "No description available.",
+      "description_cn": ""
+    },
+    {
+      "rank": "17",
       "name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
-      "stars": "32.7k",
-      "growth": "🔺2655",
+      "stars": "34.7k",
+      "growth": "🔺4291",
       "description": "Free and open-source macOS menu bar toolkit.",
       "description_cn": "Free and open-source macOS menu bar toolkit."
     },
     {
-      "rank": "15",
-      "name": "HeyPuter/everything",
-      "url": "https://github.com/HeyPuter/everything",
-      "stars": "6.8k",
-      "growth": "🔺2652",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "description_cn": "We're rebuilding and open-sourcing the world’s software from scratch."
-    },
-    {
-      "rank": "16",
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "stars": "6.4k",
-      "growth": "🔺2353",
-      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-      "description_cn": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
-    },
-    {
-      "rank": "17",
-      "name": "deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "stars": "25.2k",
-      "growth": "🔺2205",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "description_cn": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
-    },
-    {
       "rank": "18",
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "stars": "24.2k",
-      "growth": "🔺2185",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "description_cn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": "7k",
+      "growth": "🔺3854",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
     },
     {
       "rank": "19",
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "stars": "30.5k",
-      "growth": "🔺1922",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "description_cn": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": "8k",
+      "growth": "🔺3776",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_cn": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
     },
     {
       "rank": "20",
-      "name": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills",
-      "stars": "10.6k",
-      "growth": "🔺1920",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "description_cn": "A collection of agent skills that help you build great interfaces."
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": "29.8k",
+      "growth": "🔺3602",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_cn": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
     }
   ],
-  "updated_at": "2026-11-15T23:50:55.453667"
+  "updated_at": "2026-11-16T05:33:40.650527"
 }
