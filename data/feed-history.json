@@ -80,6 +80,238 @@
     "title_cn": "Claude Managed Agents 的内置内存"
   },
   {
+    "url": "https://x.com/garrytan/status/2122576951080792543",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust\n\nThis will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW",
+    "title_cn": "Fun project for GBrain coming in the next few weeks using Vorflux as my software factory: GBrain backend engine written in Rust\n\nThis will replace postgres+pgvector or pglite as the backing store for vector search, graph search, embeddings, RAG and HNSW",
+    "date": "2026-11-17T06:25:55.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2122566522094915765",
+    "type": "x",
+    "name": "Swyx",
+    "title": "together deleted megkernels\n\nhttps://t.co/3mcdXAmmdR",
+    "title_cn": "together deleted megkernels\n\nhttps://t.co/3mcdXAmmdR",
+    "date": "2026-11-17T05:44:28.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2122558387162652701",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "This is like AI slop it literally says nothing? Did Megaspeed violate laws or not? https://t.co/SnFyxhyIBw",
+    "title_cn": "This is like AI slop it literally says nothing? Did Megaspeed violate laws or not? https://t.co/SnFyxhyIBw",
+    "date": "2026-11-17T05:12:09.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2122543500814336281",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "2026 infra wars in a nutshell..\n\nVibe coding in Q1 \nHarnesses in Q2 \nSandboxes in Q3 \nAgentic CI in Q4\n\nMore providers than I can keep track of. \n\nAny guesses for what comes next?",
+    "title_cn": "2026 infra wars in a nutshell..\n\nVibe coding in Q1 \nHarnesses in Q2 \nSandboxes in Q3 \nAgentic CI in Q4\n\nMore providers than I can keep track of. \n\nAny guesses for what comes next?",
+    "date": "2026-11-17T04:13:00.000Z"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2122541401804054826",
+    "type": "x",
+    "name": "Dan Shipper",
+    "title": "musing:\n\nwhat if the best way to rank a feed in the AI age is proof of work. \n\nallow agents to report how many tokens they’ve used based on a piece of content, and use that to rank it on a feed that humans and agents read \n\nhttps://t.co/HoJvzKELBP https://t.co/ZJe1gZMFbM",
+    "title_cn": "musing:\n\nwhat if the best way to rank a feed in the AI age is proof of work. \n\nallow agents to report how many tokens they’ve used based on a piece of content, and use that to rank it on a feed that humans and agents read \n\nhttps://t.co/HoJvzKELBP https://t.co/ZJe1gZMFbM",
+    "date": "2026-11-17T04:04:39.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2122517681740124271",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box \n\nMemory works the way you want it to\n\nhttps://t.co/3z3j2G3Oyl https://t.co/myV5KlcvmK",
+    "title_cn": "If you want individual employee brains rolling up into team brains and then a top level company brain, GBrain's Hosted option supports it out of the box \n\nMemory works the way you want it to\n\nhttps://t.co/3z3j2G3Oyl https://t.co/myV5KlcvmK",
+    "date": "2026-11-17T02:30:24.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2122514247045496978",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Welcome! Welcome! https://t.co/vJHr1az0rL",
+    "title_cn": "Welcome! Welcome! https://t.co/vJHr1az0rL",
+    "date": "2026-11-17T02:16:45.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2122512082835067151",
+    "type": "x",
+    "name": "Swyx",
+    "title": "women are destroying the men, wtf is happening rn https://t.co/KckmQKykvy",
+    "title_cn": "women are destroying the men, wtf is happening rn https://t.co/KckmQKykvy",
+    "date": "2026-11-17T02:08:09.000Z"
+  },
+  {
+    "url": "https://x.com/levie/status/2122508098351038532",
+    "type": "x",
+    "name": "Aaron Levie",
+    "title": "The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of the curve of token use and adoption. \n\nThis summer and fall’s model releases have continued to push the state of the art forward at a rate that already felt hard to maintain. As a result, for most productive use-cases the models are only now starting to actually work, and the feeling is that things will only accelerate from here.\n\nCoding, in retrospect, was basically trash even 12 months ago. Now it’s finally starting to get good. And now that coding is actually working, you’re getting tool and computer use, which open up a wide variety of knowledge work domains that weren’t possible to throw agents at before.\n\nOnce you have agents that can code, use computers, leverage any tool out there, and understand a variety of domains, you can begin to throw them at a wide variety of knowledge work tasks that were hard to bring automation to across finance, life sciences, cyber, and more. So that brings agents to a broad set of work that we’re not really using them in yet at scale. \n\nThen comes the new form factors of agents. Agent swarms and background agents are going to eat up vastly more tokens than anything we can imagine. You’ll have agents running in most enterprises workflows processing data, validating work, doing research, providing decision support, and so on. And we’ll have swarms that fan out in parallel in areas like cyber, life sciences, coding, and more.\n\nSo basically tokens are only going up from here.",
+    "title_cn": "The chart of token spend per employee still has no ceiling in sight. And the closer you are to AI right now the deeper the sense is that we’re actually still in the early part of the curve of token use and adoption. \n\nThis summer and fall’s model releases have continued to push the state of the art forward at a rate that already felt hard to maintain. As a result, for most productive use-cases the models are only now starting to actually work, and the feeling is that things will only accelerate from here.\n\nCoding, in retrospect, was basically trash even 12 months ago. Now it’s finally starting to get good. And now that coding is actually working, you’re getting tool and computer use, which open up a wide variety of knowledge work domains that weren’t possible to throw agents at before.\n\nOnce you have agents that can code, use computers, leverage any tool out there, and understand a variety of domains, you can begin to throw them at a wide variety of knowledge work tasks that were hard to bring automation to across finance, life sciences, cyber, and more. So that brings agents to a broad set of work that we’re not really using them in yet at scale. \n\nThen comes the new form factors of agents. Agent swarms and background agents are going to eat up vastly more tokens than anything we can imagine. You’ll have agents running in most enterprises workflows processing data, validating work, doing research, providing decision support, and so on. And we’ll have swarms that fan out in parallel in areas like cyber, life sciences, coding, and more.\n\nSo basically tokens are only going up from here.",
+    "date": "2026-11-17T01:52:19.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2122490852497125485",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side. \n\nHugops to every single infra company 🙏 https://t.co/hkGgv2hmcZ",
+    "title_cn": "Like a phoenix, we’re going to see the entire internet burn down to emerge stronger on the other side. \n\nHugops to every single infra company 🙏 https://t.co/hkGgv2hmcZ",
+    "date": "2026-11-17T00:43:47.000Z"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2122487869780742304",
+    "type": "x",
+    "name": "Garry Tan",
+    "title": "True drone autonomy on top of almost any other flight platform is now here\n\nDegla is already working with mission critical government agencies for search &amp; rescue https://t.co/VFcnBzZGmZ",
+    "title_cn": "True drone autonomy on top of almost any other flight platform is now here\n\nDegla is already working with mission critical government agencies for search &amp; rescue https://t.co/VFcnBzZGmZ",
+    "date": "2026-11-17T00:31:56.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2122463916114813249",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "💪 https://t.co/OwGRhdeacL",
+    "title_cn": "💪 https://t.co/OwGRhdeacL",
+    "date": "2026-11-16T22:56:45.000Z"
+  },
+  {
+    "url": "https://x.com/steipete/status/2122463466304971068",
+    "type": "x",
+    "name": "Peter Steinberger",
+    "title": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW",
+    "title_cn": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW",
+    "date": "2026-11-16T22:54:58.000Z"
+  },
+  {
+    "url": "https://x.com/GoogleLabs/status/2122461899178820069",
+    "type": "x",
+    "name": "Google Labs",
+    "title": "We’re excited to welcome Howie to Google Labs! \n\nThe @Howie_ai team has spent years figuring out scheduling and calendar management.  We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝 https://t.co/8bzjebeGdD",
+    "title_cn": "We’re excited to welcome Howie to Google Labs! \n\nThe @Howie_ai team has spent years figuring out scheduling and calendar management.  We can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses 🤝 https://t.co/8bzjebeGdD",
+    "date": "2026-11-16T22:48:44.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2122458782294847807",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "Own your intelligence roadmap:\n① Use open SDKs &amp; harnesses\n② Own model choice with Gateways\n③ Own your traces and data, enforce ZDR\n④ Own your models with private inference https://t.co/4Y1dyKDxlm",
+    "title_cn": "Own your intelligence roadmap:\n① Use open SDKs &amp; harnesses\n② Own model choice with Gateways\n③ Own your traces and data, enforce ZDR\n④ Own your models with private inference https://t.co/4Y1dyKDxlm",
+    "date": "2026-11-16T22:36:21.000Z"
+  },
+  {
+    "url": "https://x.com/joshwoodward/status/2122453269842886788",
+    "type": "x",
+    "name": "Josh Woodward",
+    "title": "Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL",
+    "title_cn": "Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL",
+    "date": "2026-11-16T22:14:27.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2122438864791110126",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "look, a sane person https://t.co/PejOwWp8RZ",
+    "title_cn": "look, a sane person https://t.co/PejOwWp8RZ",
+    "date": "2026-11-16T21:17:13.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2122438328079524159",
+    "type": "x",
+    "name": "Thariq",
+    "title": "for example, this is me working with agents on a new character for my game https://t.co/jfWNcszyin",
+    "title_cn": "for example, this is me working with agents on a new character for my game https://t.co/jfWNcszyin",
+    "date": "2026-11-16T21:15:05.000Z"
+  },
+  {
+    "url": "https://x.com/trq212/status/2122438326431154210",
+    "type": "x",
+    "name": "Thariq",
+    "title": "software factories feel like a temporary problem. the models will learn to build them for you\n\nthe more interesting question to me is how to build a workspace where agents can collaborate with you",
+    "title_cn": "software factories feel like a temporary problem. the models will learn to build them for you\n\nthe more interesting question to me is how to build a workspace where agents can collaborate with you",
+    "date": "2026-11-16T21:15:04.000Z"
+  },
+  {
+    "url": "https://x.com/swyx/status/2122427240441131203",
+    "type": "x",
+    "name": "Swyx",
+    "title": "gmail has no gcal search despite cal is sent via gmail https://t.co/EzdQbPNP6s",
+    "title_cn": "gmail has no gcal search despite cal is sent via gmail https://t.co/EzdQbPNP6s",
+    "date": "2026-11-16T20:31:01.000Z"
+  },
+  {
+    "url": "https://x.com/amasad/status/2122422367557464548",
+    "type": "x",
+    "name": "Amjad Masad",
+    "title": "Deranged cult https://t.co/FmC9L8N1ZL",
+    "title_cn": "Deranged cult https://t.co/FmC9L8N1ZL",
+    "date": "2026-11-16T20:11:39.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2122415506451841215",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "The old way: users are human, you run user interviews, get inspired, mock up user journeys.\n\nThe new way: users are agents, you run evals, evals inform the software engineering loop.\n\nGood read on how we do evals at Vercel. https://t.co/zkre5Qbohe",
+    "title_cn": "The old way: users are human, you run user interviews, get inspired, mock up user journeys.\n\nThe new way: users are agents, you run evals, evals inform the software engineering loop.\n\nGood read on how we do evals at Vercel. https://t.co/zkre5Qbohe",
+    "date": "2026-11-16T19:44:23.000Z"
+  },
+  {
+    "url": "https://x.com/nikunj/status/2122412013251162592",
+    "type": "x",
+    "name": "Nikunj Kothari",
+    "title": "Make your own here: https://t.co/EADcTLXI4H",
+    "title_cn": "Make your own here: https://t.co/EADcTLXI4H",
+    "date": "2026-11-16T19:30:31.000Z"
+  },
+  {
+    "url": "https://x.com/rauchg/status/2122396034186014919",
+    "type": "x",
+    "name": "Guillermo Rauch",
+    "title": "A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. https://t.co/r2HlwWWvvl",
+    "title_cn": "A new era of software is upon us. Personalized, fully owned, open source. And higher quality than what it replaces. https://t.co/r2HlwWWvvl",
+    "date": "2026-11-16T18:27:01.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2122386960862056629",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "https://t.co/XnkC6s7c5A",
+    "title_cn": "https://t.co/XnkC6s7c5A",
+    "date": "2026-11-16T17:50:58.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2122386958101959118",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Two thoughts:\n1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech.\n2/ We can build semi-conductors in India. People said it wasn’t possible. We are proving them wrong.\n\nWe’re excited to lead @BharatSemi_'s $24M seed round with Redstart Ventures and IndusBridge. \n\nOnwards.",
+    "title_cn": "Two thoughts:\n1/ Embedding AI as close to the silicon as possible will be critical for a lot of hardtech.\n2/ We can build semi-conductors in India. People said it wasn’t possible. We are proving them wrong.\n\nWe’re excited to lead @BharatSemi_'s $24M seed round with Redstart Ventures and IndusBridge. \n\nOnwards.",
+    "date": "2026-11-16T17:50:57.000Z"
+  },
+  {
+    "url": "https://x.com/thenanyu/status/2122371754731708883",
+    "type": "x",
+    "name": "Nan Yu",
+    "title": "Be like jori https://t.co/gnjCetIAS6",
+    "title_cn": "Be like jori https://t.co/gnjCetIAS6",
+    "date": "2026-11-16T16:50:32.000Z"
+  },
+  {
+    "url": "https://x.com/adityaag/status/2122367547312119843",
+    "type": "x",
+    "name": "Aditya Agarwal",
+    "title": "Our goal when starting an interpretability work was to develop confidence in our methods to the point where we could apply it to leading frontier models.\n\nReally happy that day is here. This is super critical to get right. https://t.co/f2SCVVl9Ag",
+    "title_cn": "Our goal when starting an interpretability work was to develop confidence in our methods to the point where we could apply it to leading frontier models.\n\nReally happy that day is here. This is super critical to get right. https://t.co/f2SCVVl9Ag",
+    "date": "2026-11-16T16:33:49.000Z"
+  },
+  {
+    "url": "https://x.com/petergyang/status/2122347721298510021",
+    "type": "x",
+    "name": "Peter Yang",
+    "title": "My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop:\n\n1. Give Claude context upfront.\n\nShare screenshots, pages you like, and your past work. For an existing product, have Claude rebuild the real screens from code.\n\n2. Research familiar UX patterns.\n\nFor hard layout problems, ask Claude to research familiar products that solve something similar and note the layouts people already know how to use.\n\n3. Make Claude aware of its design biases.\n\n\"The model has no idea what its own biases are.\" In your design.md or another file, consider discouraging Claude's tells like serif text, off-white backgrounds, and card-edge bars.\n\n4. Start with wireframes.\n\nHave Claude create wireframes first and give it feedback to nail your core user flows before going deep on fonts and colors.\n\n5. Ask for multiple options, then remix them.\n\nAsk Claude for 5 options for key screens with different fonts, colors, and styles. Then pick the parts you like and ask it to remix and create 5 more options.\n\n📌 Watch the full episode now: https://t.co/HPX5HjXafX\n\nAlso available as a written post: https://t.co/jcofmkQc01",
+    "title_cn": "My top 5 takeaways from @nateparrott on how to get Claude to design without AI slop:\n\n1. Give Claude context upfront.\n\nShare screenshots, pages you like, and your past work. For an existing product, have Claude rebuild the real screens from code.\n\n2. Research familiar UX patterns.\n\nFor hard layout problems, ask Claude to research familiar products that solve something similar and note the layouts people already know how to use.\n\n3. Make Claude aware of its design biases.\n\n\"The model has no idea what its own biases are.\" In your design.md or another file, consider discouraging Claude's tells like serif text, off-white backgrounds, and card-edge bars.\n\n4. Start with wireframes.\n\nHave Claude create wireframes first and give it feedback to nail your core user flows before going deep on fonts and colors.\n\n5. Ask for multiple options, then remix them.\n\nAsk Claude for 5 options for key screens with different fonts, colors, and styles. Then pick the parts you like and ask it to remix and create 5 more options.\n\n📌 Watch the full episode now: https://t.co/HPX5HjXafX\n\nAlso available as a written post: https://t.co/jcofmkQc01",
+    "date": "2026-11-16T15:15:02.000Z"
+  },
+  {
     "url": "https://x.com/thsottiaux/status/2122206990101536852",
     "type": "x",
     "name": "Thibault Sottiaux",
