@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "stars": "7.3k",
-      "growth": "🔺2352",
-      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "description_cn": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": "12.4k",
+      "growth": "рҹ”ә1272",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "2",
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars": "14.3k",
-      "growth": "🔺1542",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "description_cn": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing."
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": "3.8k",
+      "growth": "рҹ”ә1031",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "3",
-      "name": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "stars": "19.7k",
-      "growth": "🔺1088",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "description_cn": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "stars": "16.1k",
+      "growth": "рҹ”ә835",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "4",
-      "name": "kunkundi/crossdesk",
-      "url": "https://github.com/kunkundi/crossdesk",
-      "stars": "6.6k",
-      "growth": "🔺809",
-      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
-      "description_cn": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。"
+      "name": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "stars": "9.2k",
+      "growth": "рҹ”ә644",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "5",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "18.7k",
-      "growth": "🔺692",
-      "description": "Cursor plugin specification and official plugins",
-      "description_cn": "Cursor plugin specification and official plugins"
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "stars": "3.9k",
+      "growth": "рҹ”ә553",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "6",
-      "name": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "stars": "11.3k",
-      "growth": "🔺684",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "description_cn": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+      "name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "stars": "18.3k",
+      "growth": "рҹ”ә548",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "7",
-      "name": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "stars": "11.6k",
-      "growth": "🔺655",
-      "description": "Plug-in media player",
-      "description_cn": "Plug-in media player"
+      "name": "kunkundi/crossdesk",
+      "url": "https://github.com/kunkundi/crossdesk",
+      "stars": "7.8k",
+      "growth": "рҹ”ә542",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "8",
-      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "stars": "2.8k",
-      "growth": "🔺445",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "description_cn": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+      "name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "stars": "8.3k",
+      "growth": "рҹ”ә484",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "9",
-      "name": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "stars": "9.8k",
-      "growth": "🔺326",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "description_cn": "An on-device AI agent for Android that operates apps and the web to get things done for you."
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": "9.5k",
+      "growth": "рҹ”ә388",
+      "description": "No description available.",
+      "description_cn": ""
     },
     {
       "rank": "10",
-      "name": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "stars": "8.9k",
-      "growth": "🔺264",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "description_cn": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "stars": "19.5k",
+      "growth": "рҹ”ә367",
+      "description": "No description available.",
+      "description_cn": ""
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
     }
   ],
-  "updated_at": "2026-11-25T23:01:28.128594"
+  "updated_at": "2026-11-26T07:31:35.753872"
 }
