@@ -2,93 +2,93 @@
   "daily": [
     {
       "rank": "1",
-      "name": "Marvisak/VIctory",
-      "url": "https://github.com/Marvisak/VIctory",
-      "stars": "12.4k",
-      "growth": "рҹ”ә1272",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "stars": "5.5k",
+      "growth": "🔺1679",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "description_cn": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
     },
     {
       "rank": "2",
-      "name": "4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "stars": "3.8k",
-      "growth": "рҹ”ә1031",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "stars": "13.2k",
+      "growth": "🔺759",
+      "description": "An attempt at running GTA VI on PC",
+      "description_cn": "An attempt at running GTA VI on PC"
     },
     {
       "rank": "3",
       "name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
-      "stars": "16.1k",
-      "growth": "рҹ”ә835",
-      "description": "No description available.",
-      "description_cn": ""
+      "stars": "16.8k",
+      "growth": "🔺756",
+      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "description_cn": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。"
     },
     {
       "rank": "4",
-      "name": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stars": "9.2k",
-      "growth": "рҹ”ә644",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "kunkundi/crossdesk",
+      "url": "https://github.com/kunkundi/crossdesk",
+      "stars": "8.4k",
+      "growth": "🔺632",
+      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+      "description_cn": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。"
     },
     {
       "rank": "5",
-      "name": "AFK-surf/xnulinux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "stars": "3.9k",
-      "growth": "рҹ”ә553",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "stars": "10.1k",
+      "growth": "🔺567",
+      "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
+      "description_cn": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell."
     },
     {
       "rank": "6",
-      "name": "openai/math",
-      "url": "https://github.com/openai/math",
-      "stars": "18.3k",
-      "growth": "рҹ”ә548",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "stars": "9.5k",
+      "growth": "🔺557",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_cn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
     },
     {
       "rank": "7",
-      "name": "kunkundi/crossdesk",
-      "url": "https://github.com/kunkundi/crossdesk",
-      "stars": "7.8k",
-      "growth": "рҹ”ә542",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "stars": "8.9k",
+      "growth": "🔺463",
+      "description": "Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.",
+      "description_cn": "Open source inference engine that spreads models across your GPU, RAM, and SSD so they run on everyday Macs and PCs. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU."
     },
     {
       "rank": "8",
-      "name": "xcl-dev/xcl",
-      "url": "https://github.com/xcl-dev/xcl",
-      "stars": "8.3k",
-      "growth": "рҹ”ә484",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "intel/intel-one-mono",
+      "url": "https://github.com/intel/intel-one-mono",
+      "stars": "10.7k",
+      "growth": "🔺427",
+      "description": "Intel One Mono font repository",
+      "description_cn": "Intel One Mono font repository"
     },
     {
       "rank": "9",
-      "name": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "stars": "9.5k",
-      "growth": "рҹ”ә388",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "stars": "4.2k",
+      "growth": "🔺342",
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "description_cn": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
     },
     {
       "rank": "10",
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "stars": "19.5k",
-      "growth": "рҹ”ә367",
-      "description": "No description available.",
-      "description_cn": ""
+      "name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "stars": "8.6k",
+      "growth": "🔺312",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "description_cn": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
     }
   ],
   "weekly": [
@@ -273,5 +273,5 @@
       "description_cn": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
     }
   ],
-  "updated_at": "2026-11-26T18:13:44.590492"
+  "updated_at": "2026-11-27T02:42:03.807321"
 }
